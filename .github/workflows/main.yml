@@ -27,6 +27,5 @@ jobs:
                     cd cparchives
                     git pull
                     npm install
-                    screen -S cparchives -X quit
-                    screen -dmS cparchives
-                    screen -S cparchives -X 'sudo npm run start'
+                    screen -XS cparchives quit
+                    screen -dmS cparchives sudo npm run start
