@@ -69,7 +69,14 @@ export default class WebServer {
     }
 
     start() {
-        this.server.listen(3000);
+        let port = 3000;
+        for (let i = 0; i < process.argv.length; i++) {
+            if (process.argv[i] == "--port" || process.argv[i] == "-p") {
+                port = process.argv[i + 1];
+                return;
+            }
+        }
+        this.server.listen(port);
 
         this.server.on("request", async (request, response) => {
             try {
