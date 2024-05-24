@@ -1,0 +1,943 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Igloo - Club Penguin Archives Wiki</title>
+<script type="67e11624dec86b7964c6f19b-text/javascript">(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )cparchiveswikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",
+""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"8c36c482dbc247622c287d51","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Igloo","wgTitle":"Igloo","wgCurRevisionId":49116,"wgRevisionId":49116,"wgArticleId":27558,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages Under Construction"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Igloo","wgRelevantArticleId":27558,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"all","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands",
+"fullVersionList","mobile","model","platform","platformVersion"],"wgIsMobile":false,"wgCentralAuthMobileDomain":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.CookieWarning.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.MobileDetect.nomobile":"ready","ext.DarkMode.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.checkUser.clientHints","ext.CookieWarning","ext.echo.centralauth","ext.eventLogging","ext.DarkMode","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.purge"];</script>
+<script type="67e11624dec86b7964c6f19b-text/javascript">(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.CookieWarning.styles%7Cext.DarkMode.styles%7Cext.MobileDetect.nomobile%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles&amp;only=styles&amp;skin=vector-2022">
+<script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022" type="67e11624dec86b7964c6f19b-text/javascript"></script>
+<meta name="ResourceLoaderDynamicStyles" content>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content=".">
+<meta name="twitter:site" content>
+<meta name="twitter:card" content="summary">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Igloo - Club Penguin Archives Wiki">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//static.miraheze.org">
+<link rel="apple-touch-icon" href="https://static.miraheze.org/cparchiveswiki/b/bc/Wiki.png">
+<link rel="icon" href="https://static.miraheze.org/cparchiveswiki/6/64/Favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Club Penguin Archives Wiki (en)">
+<link rel="EditURI" type="application/rsd+xml" href="https://cparchives.miraheze.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://cparchives.miraheze.org/wiki/Igloo">
+<link rel="alternate" type="application/atom+xml" title="Club Penguin Archives Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom">
+<link rel="dns-prefetch" href="https://meta.miraheze.org" />
+<meta property="og:title" content="Igloo">
+<meta property="og:site_name" content="Club Penguin Archives Wiki">
+<meta property="og:url" content="https://cparchives.miraheze.org/wiki/Igloo">
+<meta property="og:description" content=".">
+<meta property="og:image" content="https://static.miraheze.org/cparchiveswiki/b/bc/Wiki.png">
+<meta property="article:modified_time" content="2022-02-03T03:10:42Z">
+<meta property="article:published_time" content="2022-02-03T03:10:42Z">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","name":"Igloo - Club Penguin Archives Wiki","headline":"Igloo - Club Penguin Archives Wiki","mainEntityOfPage":"Igloo","identifier":"https:\/\/cparchives.miraheze.org\/wiki\/Igloo","url":"https:\/\/cparchives.miraheze.org\/wiki\/Igloo","description":".","dateModified":"2022-02-03T03:10:42Z","datePublished":"2022-02-03T03:10:42Z","image":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png"},"author":{"@type":"Organization","name":"Club Penguin Archives Wiki","url":"https:\/\/cparchives.miraheze.org","logo":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png","caption":"Club Penguin Archives Wiki"}},"publisher":{"@type":"Organization","name":"Club Penguin Archives Wiki","url":"https:\/\/cparchives.miraheze.org","logo":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png","caption":"Club Penguin Archives Wiki"}},"potentialAction":{"@type":"SearchAction","target":"https:\/\/cparchives.miraheze.org\/wiki\/Special:Search?search={search_term}","query-input":"required name=search_term"}}</script>
+<link rel="dns-prefetch" href="//login.miraheze.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Igloo rootpage-Igloo skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+<header class="vector-header mw-header">
+<div class="vector-header-start">
+<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right">
+<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox " aria-label="Main menu">
+<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+<span class="vector-dropdown-label-text">Main menu</span>
+</label>
+<div class="vector-dropdown-content">
+<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+<div class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned" data-feature-name="main-menu-pinned" data-pinnable-element-id="vector-main-menu" data-pinned-container-id="vector-main-menu-pinned-container" data-unpinned-container-id="vector-main-menu-unpinned-container">
+<div class="vector-pinnable-header-label">Main menu</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation">
+<div class="vector-menu-heading">
+Navigation
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x"><span>Random page</span></a></li><li id="n-help-mediawiki" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents"><span>Help about MediaWiki</span></a></li>
+</ul>
+</div>
+</div>
+<div id="p-Community" class="vector-menu mw-portlet mw-portlet-Community">
+<div class="vector-menu-heading">
+Community
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li id="n-portal" class="mw-list-item"><a href="/wiki/Club_Penguin_Archives_Wiki:Community_portal" title="About the project, what you can do, where to find things"><span>Community portal</span></a></li><li id="n-Request-upload-permissions" class="mw-list-item"><a href="/wiki/Club_Penguin_Archives:Request_uploader_permissions"><span>Request upload permissions</span></a></li><li id="n-Administrators" class="mw-list-item"><a href="/wiki/Club_Penguin_Archives:Administrators"><span>Administrators</span></a></li><li id="n-To-do-List" class="mw-list-item"><a href="/wiki/Club_Penguin_Archives:To-do_List"><span>To-do List</span></a></li><li id="n-IRC-Chat" class="mw-list-item"><a href="/wiki/Special:WebChat"><span>IRC Chat</span></a></li><li id="n-Network-Policy" class="mw-list-item"><a href="/wiki/Clubpenguinwiki:_Club_Penguin_Wiki:CPWN_Policy"><span>Network Policy</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<a href="/wiki/Main_Page" class="mw-logo">
+<img class="mw-logo-icon" src="https://static.miraheze.org/cparchiveswiki/b/bc/Wiki.png" alt aria-hidden="true" height="50" width="50">
+<span class="mw-logo-container">
+<strong class="mw-logo-wordmark">Club Penguin Archives Wiki</strong>
+</span>
+</a>
+</div>
+<div class="vector-header-end">
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id title="Search Club Penguin Archives Wiki [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+<span>Search</span>
+</a>
+<div class="vector-typeahead-search-container">
+<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+<div id="simpleSearch" class="cdx-search-input__input-wrapper" data-search-loc="header-moved">
+<div class="cdx-text-input cdx-text-input--has-start-icon">
+<input class="cdx-text-input__input" type="search" name="search" placeholder="Search Club Penguin Archives Wiki" aria-label="Search Club Penguin Archives Wiki" autocapitalize="sentences" title="Search Club Penguin Archives Wiki [f]" accesskey="f" id="searchInput">
+<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+</div>
+<input type="hidden" name="title" value="Special:Search">
+</div>
+<button class="cdx-button cdx-search-input__end-button">Search</button>
+</form>
+</div>
+</div>
+</div>
+<nav class="vector-user-links" aria-label="Personal tools" role="navigation">
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/wiki/Special:CreateAccount?returnto=Igloo" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/wiki/Special:UserLogin?returnto=Igloo" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span>Log in</span></a></li>
+</ul>
+</div>
+</div>
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out" title="More options">
+<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox " aria-label="Personal tools">
+<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+<span class="vector-dropdown-label-text">Personal tools</span>
+</label>
+<div class="vector-dropdown-content">
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal" title="User menu">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li id="pt-darkmode" class="ext-darkmode-link mw-list-item"><a href="#"><span class="vector-icon mw-ui-icon-bright mw-ui-icon-wikimedia-bright"></span> <span>Dark mode</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/wiki/Special:CreateAccount?returnto=Igloo" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/wiki/Special:UserLogin?returnto=Igloo" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+</ul>
+</div>
+</div>
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor">
+<div class="vector-menu-heading">
+Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</header>
+</div>
+<div class="mw-page-container">
+<div class="mw-page-container-inner">
+<div class="vector-sitenotice-container">
+<div id="siteNotice"></div>
+</div>
+<div class="vector-main-menu-container">
+<div id="mw-navigation">
+<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+</div>
+</nav>
+</div>
+</div>
+<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+<div id="vector-toc-pinned-container" class="vector-pinned-container">
+<div id="vector-toc" class="vector-toc vector-pinnable-element">
+<div class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned" data-feature-name="toc-pinned" data-pinnable-element-id="vector-toc">
+<h2 class="vector-pinnable-header-label">Contents</h2>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+<ul class="vector-toc-contents" id="mw-panel-toc-list">
+<li id="toc-mw-content-text" class="vector-toc-list-item vector-toc-level-1">
+<a href="#" class="vector-toc-link">
+<div class="vector-toc-text">Beginning</div>
+</a>
+</li>
+<li id="toc-Igloos" class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+<a class="vector-toc-link" href="#Igloos">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">1</span>Igloos</div>
+</a>
+<ul id="toc-Igloos-sublist" class="vector-toc-list">
+</ul>
+</li>
+<li id="toc-Locations" class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+<a class="vector-toc-link" href="#Locations">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">2</span>Locations</div>
+</a>
+<ul id="toc-Locations-sublist" class="vector-toc-list">
+</ul>
+</li>
+<li id="toc-JSON" class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+<a class="vector-toc-link" href="#JSON">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">3</span>JSON</div>
+</a>
+<ul id="toc-JSON-sublist" class="vector-toc-list">
+</ul>
+</li>
+<li id="toc-See_Also" class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+<a class="vector-toc-link" href="#See_Also">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">4</span>See Also</div>
+</a>
+<ul id="toc-See_Also-sublist" class="vector-toc-list">
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="mw-content-container">
+<main id="content" class="mw-body" role="main">
+<header class="mw-body-header vector-page-titlebar">
+<label id="vector-toc-collapsed-button" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only" for="vector-toc-collapsed-checkbox" role="button" aria-controls="vector-toc" tabindex="0" title="Table of Contents">
+<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+<span>Toggle the table of contents</span>
+</label>
+<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left">
+<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox " aria-label="Toggle the table of contents">
+<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+</label>
+<div class="vector-dropdown-content">
+<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+</div>
+</div>
+</div>
+</nav>
+<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Igloo</span></h1>
+</header>
+<div class="vector-page-toolbar">
+<div class="vector-page-toolbar-container">
+<div id="left-navigation">
+<nav aria-label="Namespaces">
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Igloo" title="View the content page [c]" accesskey="c"><span>Page</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Igloo?action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t"><span>Discussion</span></a></li>
+</ul>
+</div>
+</div>
+<div id="p-variants" class="vector-dropdown emptyPortlet">
+<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant">
+<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"><span class="vector-dropdown-label-text">English</span>
+</label>
+<div class="vector-dropdown-content">
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div id="right-navigation" class="vector-collapsible">
+<nav aria-label="Views">
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Igloo"><span>Read</span></a></li><li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="/wiki/Igloo?action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/wiki/Igloo?action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<nav class="vector-page-tools-landmark" aria-label="Page tools">
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown">
+<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox " aria-label="Tools">
+<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"><span class="vector-dropdown-label-text">Tools</span>
+</label>
+<div class="vector-dropdown-content">
+<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+<div class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned" data-feature-name="page-tools-pinned" data-pinnable-element-id="vector-page-tools" data-pinned-container-id="vector-page-tools-pinned-container" data-unpinned-container-id="vector-page-tools-unpinned-container">
+<div class="vector-pinnable-header-label">Tools</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions vector-has-collapsible-items" title="More options">
+<div class="vector-menu-heading">
+Actions
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Igloo"><span>Read</span></a></li><li id="ca-more-viewsource" class="vector-more-collapsible-item mw-list-item"><a href="/wiki/Igloo?action=edit"><span>View source</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/wiki/Igloo?action=history"><span>View history</span></a></li><li id="ca-purge" class="mw-list-item"><a href="#"><span>Purge</span></a></li>
+</ul>
+</div>
+</div>
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb">
+<div class="vector-menu-heading">
+General
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Igloo" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Igloo" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/wiki/Igloo?oldid=49116" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/wiki/Igloo?action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/wiki/Special:CiteThisPage?page=Igloo&amp;id=49116&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/wiki/Special:UrlShortener?url=https%3A%2F%2Fcparchives.miraheze.org%2Fwiki%2FIgloo"><span>Get shortened URL</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="vector-column-end">
+<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+</div>
+</nav>
+</div>
+<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+<div class="vector-body-before-content">
+<div class="mw-indicators">
+</div>
+<div id="siteSub" class="noprint">From Club Penguin Archives Wiki</div>
+</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><table class="metadata plainlinks ambox ambox-notice" style>
+<tbody><tr>
+<td class="mbox-image"><div style="width: 52px;">
+<span typeof="mw:File"><a href="/wiki/File:Construction_Sign.PNG" class="mw-file-description"><img src="//static.miraheze.org/cparchiveswiki/thumb/7/78/Construction_Sign.PNG/48px-Construction_Sign.PNG" decoding="async" width="48" height="48" class="mw-file-element" srcset="//static.miraheze.org/cparchiveswiki/thumb/7/78/Construction_Sign.PNG/72px-Construction_Sign.PNG 1.5x, //static.miraheze.org/cparchiveswiki/thumb/7/78/Construction_Sign.PNG/96px-Construction_Sign.PNG 2x" /></a></span></div></td>
+<td class="mbox-text" style> <b>Page/section under construction</b><br/>This page or section is currently under maintenance or construction by the administration. Please do not edit it until this template is removed, or you are given permission by an administrator. </td>
+</tr>
+</tbody></table>
+<dl><dd><i>Club Penguin Wiki articles: <a href="/wiki/Clubpenguinwiki:Igloo?action=edit&amp;redlink=1" class="new" title="Clubpenguinwiki:Igloo (page does not exist)">English</a> <b><big>·</big></b> <a href="/wiki/Ptwiki:Iglu?action=edit&amp;redlink=1" class="new" title="Ptwiki:Iglu (page does not exist)">Português</a></i></dd></dl>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Igloos">Igloos</span></h2>
+<table class="wikitable" border="1" style="margin: auto;">
+<tbody><tr>
+<th>ID</th>
+<th>Name</th>
+<th colspan="2">SWF
+</th></tr>
+<tr>
+<td>1</td>
+<td>Basic Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/9f/BuildingsIcons1.swf" class="internal" title="BuildingsIcons1.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/1f/IglooIgloos1.swf" class="internal" title="IglooIgloos1.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>2</td>
+<td>Candy Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/10/BuildingsIcons2.swf" class="internal" title="BuildingsIcons2.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/27/IglooIgloos2.swf" class="internal" title="IglooIgloos2.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>3</td>
+<td>Deluxe Blue Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/1b/BuildingsIcons3.swf" class="internal" title="BuildingsIcons3.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/9c/IglooIgloos3.swf" class="internal" title="IglooIgloos3.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>4</td>
+<td>Big Candy Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/b/b0/BuildingsIcons4.swf" class="internal" title="BuildingsIcons4.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/f5/IglooIgloos4.swf" class="internal" title="IglooIgloos4.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>5</td>
+<td>Secret Stone Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/f1/BuildingsIcons5.swf" class="internal" title="BuildingsIcons5.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/c1/IglooIgloos5.swf" class="internal" title="IglooIgloos5.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>6</td>
+<td>Snow Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/cb/BuildingsIcons6.swf" class="internal" title="BuildingsIcons6.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/8/8c/IglooIgloos6.swf" class="internal" title="IglooIgloos6.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>7</td>
+<td>Secret Deluxe Stone Igloo</td>
+<td><a href="/wiki/Special:Upload?wpDestFile=BuildingsIcons7.swf" class="new" title="BuildingsIcons7.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/e/e7/IglooIgloos7.swf" class="internal" title="IglooIgloos7.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>8</td>
+<td>Secret Deluxe Stone Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/ce/BuildingsIcons8.swf" class="internal" title="BuildingsIcons8.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/a/ad/IglooIgloos8.swf" class="internal" title="IglooIgloos8.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>9</td>
+<td>Deluxe Snow Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/c1/BuildingsIcons9.swf" class="internal" title="BuildingsIcons9.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/0/07/IglooIgloos9.swf" class="internal" title="IglooIgloos9.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>10</td>
+<td>Bamboo Hut</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/1e/BuildingsIcons10.swf" class="internal" title="BuildingsIcons10.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/7/72/IglooIgloos10.swf" class="internal" title="IglooIgloos10.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>11</td>
+<td>Log Cabin</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/13/BuildingsIcons11.swf" class="internal" title="BuildingsIcons11.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/0/01/IglooIgloos11.swf" class="internal" title="IglooIgloos11.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>12</td>
+<td>Gym</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/93/BuildingsIcons12.swf" class="internal" title="BuildingsIcons12.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/8/8d/IglooIgloos12.swf" class="internal" title="IglooIgloos12.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>13</td>
+<td>Split Level Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/b/b9/BuildingsIcons13.swf" class="internal" title="BuildingsIcons13.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/15/IglooIgloos13.swf" class="internal" title="IglooIgloos13.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>14</td>
+<td>Candy Split Level Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/23/BuildingsIcons14.swf" class="internal" title="BuildingsIcons14.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/4e/IglooIgloos14.swf" class="internal" title="IglooIgloos14.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>15</td>
+<td>Snow Globe</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/c9/BuildingsIcons15.swf" class="internal" title="BuildingsIcons15.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/4c/IglooIgloos15.swf" class="internal" title="IglooIgloos15.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>16</td>
+<td>Ice Castle</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/f1/BuildingsIcons16.swf" class="internal" title="BuildingsIcons16.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/e/e9/IglooIgloos16.swf" class="internal" title="IglooIgloos16.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>17</td>
+<td>Split Level Snow Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/6/6d/BuildingsIcons17.swf" class="internal" title="BuildingsIcons17.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/7/75/IglooIgloos17.swf" class="internal" title="IglooIgloos17.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>18</td>
+<td>Fish Bowl</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/0/0b/BuildingsIcons18.swf" class="internal" title="BuildingsIcons18.swf">Icon</a></td>
+<td><a href="/wiki/Special:Upload?wpDestFile=IglooIgloos18.swf" class="new" title="IglooIgloos18.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>19</td>
+<td>Tent</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/8/8b/BuildingsIcons19.swf" class="internal" title="BuildingsIcons19.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/3/3d/IglooIgloos19.swf" class="internal" title="IglooIgloos19.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>20</td>
+<td>Jack-O-Lantern</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/8/83/BuildingsIcons20.swf" class="internal" title="BuildingsIcons20.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/15/IglooIgloos20.swf" class="internal" title="IglooIgloos20.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>21</td>
+<td>Backyard Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/b/bd/BuildingsIcons21.swf" class="internal" title="BuildingsIcons21.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/5/53/IglooIgloos21.swf" class="internal" title="IglooIgloos21.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>22</td>
+<td>Pink Ice Palace</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/15/BuildingsIcons22.swf" class="internal" title="BuildingsIcons22.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/0/05/IglooIgloos22.swf" class="internal" title="IglooIgloos22.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>23</td>
+<td>Ship Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/91/BuildingsIcons23.swf" class="internal" title="BuildingsIcons23.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/f4/IglooIgloos23.swf" class="internal" title="IglooIgloos23.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>24</td>
+<td>Dojo Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/17/BuildingsIcons24.swf" class="internal" title="BuildingsIcons24.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/44/IglooIgloos24.swf" class="internal" title="IglooIgloos24.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>25</td>
+<td>Gingerbread House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/9e/BuildingsIcons25.swf" class="internal" title="BuildingsIcons25.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/b/b4/IglooIgloos25.swf" class="internal" title="IglooIgloos25.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>26</td>
+<td>Restaurant Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/b/b5/BuildingsIcons26.swf" class="internal" title="BuildingsIcons26.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/3/33/IglooIgloos26.swf" class="internal" title="IglooIgloos26.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>27</td>
+<td>Tree House Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/24/BuildingsIcons27.swf" class="internal" title="BuildingsIcons27.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/3/39/IglooIgloos27.swf" class="internal" title="IglooIgloos27.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>28</td>
+<td>Theatre Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/c1/BuildingsIcons28.swf" class="internal" title="BuildingsIcons28.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/e/ed/IglooIgloos28.swf" class="internal" title="IglooIgloos28.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>29</td>
+<td>Circus Tent</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/13/BuildingsIcons29.swf" class="internal" title="BuildingsIcons29.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/24/IglooIgloos29.swf" class="internal" title="IglooIgloos29.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>30</td>
+<td>Snowy Backyard Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/6/6c/BuildingsIcons30.swf" class="internal" title="BuildingsIcons30.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/6/60/IglooIgloos30.swf" class="internal" title="IglooIgloos30.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>31</td>
+<td>Cave Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/93/BuildingsIcons31.swf" class="internal" title="BuildingsIcons31.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/5/52/IglooIgloos31.swf" class="internal" title="IglooIgloos31.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>32</td>
+<td>Green Clover Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/0/02/BuildingsIcons32.swf" class="internal" title="BuildingsIcons32.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/8/8d/IglooIgloos32.swf" class="internal" title="IglooIgloos32.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>33</td>
+<td>Grey Ice Castle</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/3/3c/BuildingsIcons33.swf" class="internal" title="BuildingsIcons33.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/1a/IglooIgloos33.swf" class="internal" title="IglooIgloos33.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>35</td>
+<td>Cozy Cottage Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/6/6b/BuildingsIcons35.swf" class="internal" title="BuildingsIcons35.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/7/78/IglooIgloos35.swf" class="internal" title="IglooIgloos35.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>36</td>
+<td>Estate Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/9d/BuildingsIcons36.swf" class="internal" title="BuildingsIcons36.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/18/IglooIgloos36.swf" class="internal" title="IglooIgloos36.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>37</td>
+<td>In Half Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/18/BuildingsIcons37.swf" class="internal" title="BuildingsIcons37.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/26/IglooIgloos37.swf" class="internal" title="IglooIgloos37.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>38</td>
+<td>Shadowy Keep</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/a/a4/BuildingsIcons38.swf" class="internal" title="BuildingsIcons38.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/48/IglooIgloos38.swf" class="internal" title="IglooIgloos38.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>39</td>
+<td>Dragon's Lair</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/f8/BuildingsIcons39.swf" class="internal" title="BuildingsIcons39.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/d/d9/IglooIgloos39.swf" class="internal" title="IglooIgloos39.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>40</td>
+<td>Mermaid Cove</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/8/87/BuildingsIcons40.swf" class="internal" title="BuildingsIcons40.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/28/IglooIgloos40.swf" class="internal" title="IglooIgloos40.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>41</td>
+<td>Whale's Mouth</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/21/BuildingsIcons41.swf" class="internal" title="BuildingsIcons41.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/ca/IglooIgloos41.swf" class="internal" title="IglooIgloos41.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>42</td>
+<td>Trick-or-Treat Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/6/64/BuildingsIcons42.swf" class="internal" title="BuildingsIcons42.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/5/51/IglooIgloos42.swf" class="internal" title="IglooIgloos42.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>43</td>
+<td>Deluxe Gingerbread House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/f5/BuildingsIcons43.swf" class="internal" title="BuildingsIcons43.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/b/b0/IglooIgloos43.swf" class="internal" title="IglooIgloos43.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>49</td>
+<td>Shipwreck Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/e/ed/BuildingsIcons49.swf" class="internal" title="BuildingsIcons49.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/b/b0/IglooIgloos49.swf" class="internal" title="IglooIgloos49.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>50</td>
+<td>Wildlife Den</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/5/55/BuildingsIcons50.swf" class="internal" title="BuildingsIcons50.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/21/IglooIgloos50.swf" class="internal" title="IglooIgloos50.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>51</td>
+<td>Medieval Manor</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/f6/BuildingsIcons51.swf" class="internal" title="BuildingsIcons51.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/47/IglooIgloos51.swf" class="internal" title="IglooIgloos51.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>52</td>
+<td>Warehouse</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/20/BuildingsIcons52.swf" class="internal" title="BuildingsIcons52.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/a/a6/IglooIgloos52.swf" class="internal" title="IglooIgloos52.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>53</td>
+<td>Pineapple Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/4c/BuildingsIcons53.swf" class="internal" title="BuildingsIcons53.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/6/6c/IglooIgloos53.swf" class="internal" title="IglooIgloos53.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>54</td>
+<td>Creepy Cavern</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/f6/BuildingsIcons54.swf" class="internal" title="BuildingsIcons54.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/27/IglooIgloos54.swf" class="internal" title="IglooIgloos54.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>55</td>
+<td>Frost Bite Palace</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/1e/BuildingsIcons55.swf" class="internal" title="BuildingsIcons55.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/b/b7/IglooIgloos55.swf" class="internal" title="IglooIgloos55.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>56</td>
+<td>Fresh Baked Gingerbread House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/6/61/BuildingsIcons56.swf" class="internal" title="BuildingsIcons56.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/4d/IglooIgloos56.swf" class="internal" title="IglooIgloos56.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>57</td>
+<td>Penthouse</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/22/BuildingsIcons57.swf" class="internal" title="BuildingsIcons57.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/9e/IglooIgloos57.swf" class="internal" title="IglooIgloos57.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>58</td>
+<td>VIP Penthouse</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/7/77/BuildingsIcons58.swf" class="internal" title="BuildingsIcons58.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/0/09/IglooIgloos58.swf" class="internal" title="IglooIgloos58.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>60</td>
+<td>Puffle Tree Fort</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/4a/BuildingsIcons60.swf" class="internal" title="BuildingsIcons60.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/0/02/IglooIgloos60.swf" class="internal" title="IglooIgloos60.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>61</td>
+<td>Secret Base</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/10/BuildingsIcons61.swf" class="internal" title="BuildingsIcons61.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/8/86/IglooIgloos61.swf" class="internal" title="IglooIgloos61.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>62</td>
+<td>Imperial Base Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/3/35/BuildingsIcons62.swf" class="internal" title="BuildingsIcons62.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/41/IglooIgloos62.swf" class="internal" title="IglooIgloos62.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>63</td>
+<td>Beach Party Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/f6/BuildingsIcons63.swf" class="internal" title="BuildingsIcons63.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/49/IglooIgloos63.swf" class="internal" title="IglooIgloos63.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>64</td>
+<td>Gymnasium Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/9e/BuildingsIcons64.swf" class="internal" title="BuildingsIcons64.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/25/IglooIgloos64.swf" class="internal" title="IglooIgloos64.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>65</td>
+<td>Magical Hideout</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/d/d4/BuildingsIcons65.swf" class="internal" title="BuildingsIcons65.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/ca/IglooIgloos65.swf" class="internal" title="IglooIgloos65.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>66</td>
+<td>Eerie Castle</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/10/BuildingsIcons66.swf" class="internal" title="BuildingsIcons66.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/22/IglooIgloos66.swf" class="internal" title="IglooIgloos66.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>67</td>
+<td>Sweet Swirl Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/3/39/BuildingsIcons67.swf" class="internal" title="BuildingsIcons67.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/25/IglooIgloos67.swf" class="internal" title="IglooIgloos67.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>68</td>
+<td>Train Station Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/0/0f/BuildingsIcons68.swf" class="internal" title="BuildingsIcons68.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/b/b9/IglooIgloos68.swf" class="internal" title="IglooIgloos68.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>69</td>
+<td>Main Event Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/24/BuildingsIcons69.swf" class="internal" title="BuildingsIcons69.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/a/ae/IglooIgloos69.swf" class="internal" title="IglooIgloos69.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>70</td>
+<td>CP Airliner</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/7/78/BuildingsIcons70.swf" class="internal" title="BuildingsIcons70.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/8/81/IglooIgloos70.swf" class="internal" title="IglooIgloos70.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>71</td>
+<td>Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/92/BuildingsIcons71.swf" class="internal" title="BuildingsIcons71.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/d/d1/IglooIgloos71.swf" class="internal" title="IglooIgloos71.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>73</td>
+<td>Space Dome Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/23/BuildingsIcons73.swf" class="internal" title="BuildingsIcons73.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/9b/IglooIgloos73.swf" class="internal" title="IglooIgloos73.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>75</td>
+<td>Tour Bus Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/a/aa/BuildingsIcons75.swf" class="internal" title="BuildingsIcons75.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/ce/IglooIgloos75.swf" class="internal" title="IglooIgloos75.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>76</td>
+<td>Ice Palace Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/a/a2/BuildingsIcons76.swf" class="internal" title="BuildingsIcons76.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/d/d2/IglooIgloos76.swf" class="internal" title="IglooIgloos76.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>77</td>
+<td>Sharks Gym</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/49/BuildingsIcons77.swf" class="internal" title="BuildingsIcons77.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/d/db/IglooIgloos77.swf" class="internal" title="IglooIgloos77.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>78</td>
+<td>Schoolhouse Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/0/0c/BuildingsIcons78.swf" class="internal" title="BuildingsIcons78.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/7/74/IglooIgloos78.swf" class="internal" title="IglooIgloos78.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>79</td>
+<td>Ghostly Cavern Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/7/74/BuildingsIcons79.swf" class="internal" title="BuildingsIcons79.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/c6/IglooIgloos79.swf" class="internal" title="IglooIgloos79.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>82</td>
+<td>Ezra's Hideout</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/6/64/BuildingsIcons82.swf" class="internal" title="BuildingsIcons82.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/48/IglooIgloos82.swf" class="internal" title="IglooIgloos82.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>83</td>
+<td>Starship Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/6/6f/BuildingsIcons83.swf" class="internal" title="BuildingsIcons83.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/0/02/IglooIgloos83.swf" class="internal" title="IglooIgloos83.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>84</td>
+<td>Talent Show Stage</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/1c/BuildingsIcons84.swf" class="internal" title="BuildingsIcons84.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/c4/IglooIgloos84.swf" class="internal" title="IglooIgloos84.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>85</td>
+<td>Red Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/25/BuildingsIcons85.swf" class="internal" title="BuildingsIcons85.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/5/59/IglooIgloos85.swf" class="internal" title="IglooIgloos85.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>86</td>
+<td>Orange Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/5/5f/BuildingsIcons86.swf" class="internal" title="BuildingsIcons86.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/5/50/IglooIgloos86.swf" class="internal" title="IglooIgloos86.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>87</td>
+<td>Yellow Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/90/BuildingsIcons87.swf" class="internal" title="BuildingsIcons87.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/fc/IglooIgloos87.swf" class="internal" title="IglooIgloos87.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>88</td>
+<td>Green Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/1/14/BuildingsIcons88.swf" class="internal" title="BuildingsIcons88.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/4a/IglooIgloos88.swf" class="internal" title="IglooIgloos88.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>89</td>
+<td>Blue Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/9c/BuildingsIcons89.swf" class="internal" title="BuildingsIcons89.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/7/70/IglooIgloos89.swf" class="internal" title="IglooIgloos89.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>90</td>
+<td>Purple Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/c8/BuildingsIcons90.swf" class="internal" title="BuildingsIcons90.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/b/ba/IglooIgloos90.swf" class="internal" title="IglooIgloos90.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>91</td>
+<td>Black Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/4/45/BuildingsIcons91.swf" class="internal" title="BuildingsIcons91.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/5/5c/IglooIgloos91.swf" class="internal" title="IglooIgloos91.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>92</td>
+<td>White Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/d/d8/BuildingsIcons92.swf" class="internal" title="BuildingsIcons92.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/3/30/IglooIgloos92.swf" class="internal" title="IglooIgloos92.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>93</td>
+<td>Brown Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/6/63/BuildingsIcons93.swf" class="internal" title="BuildingsIcons93.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/c7/IglooIgloos93.swf" class="internal" title="IglooIgloos93.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>94</td>
+<td>Pink Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/b/bd/BuildingsIcons94.swf" class="internal" title="BuildingsIcons94.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/2/29/IglooIgloos94.swf" class="internal" title="IglooIgloos94.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>95</td>
+<td>Gold Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/e/e2/BuildingsIcons95.swf" class="internal" title="BuildingsIcons95.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/0/0f/IglooIgloos95.swf" class="internal" title="IglooIgloos95.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>96</td>
+<td>Rainbow Puffle Tree House</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/c/cc/BuildingsIcons96.swf" class="internal" title="BuildingsIcons96.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/7/73/IglooIgloos96.swf" class="internal" title="IglooIgloos96.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>97</td>
+<td>Spring Palace Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/fc/BuildingsIcons97.swf" class="internal" title="BuildingsIcons97.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/9/9b/IglooIgloos97.swf" class="internal" title="IglooIgloos97.swf">Igloo</a>
+</td></tr>
+<tr>
+<td>98</td>
+<td>Stage Igloo</td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/fa/BuildingsIcons98.swf" class="internal" title="BuildingsIcons98.swf">Icon</a></td>
+<td><a href="//static.miraheze.org/cparchiveswiki/f/f0/IglooIgloos98.swf" class="internal" title="IglooIgloos98.swf">Igloo</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Locations">Locations</span></h2>
+<ul><li>Default <span style="font-size: 92%;">(<a href="//static.miraheze.org/cparchiveswiki/0/0e/IglooLocations1.swf" class="internal" title="IglooLocations1.swf">sprites</a> | <a href="//static.miraheze.org/cparchiveswiki/4/4c/IglooLocationsIcons1.swf" class="internal" title="IglooLocationsIcons1.swf">icons</a> | <a href="//static.miraheze.org/cparchiveswiki/6/64/IglooBuildingsSprites45.swf" class="internal" title="IglooBuildingsSprites45.swf">igloo sprites</a>)</span></li>
+<li>Beach <span style="font-size: 92%;">(<a href="//static.miraheze.org/cparchiveswiki/b/b2/IglooLocations2.swf" class="internal" title="IglooLocations2.swf">sprites</a> | <a href="/wiki/Special:Upload?wpDestFile=IglooLocationsIcons2.swf" class="new" title="IglooLocationsIcons2.swf">icons</a> | <a href="//static.miraheze.org/cparchiveswiki/1/18/IglooBuildingsSprites46.swf" class="internal" title="IglooBuildingsSprites46.swf">igloo sprites</a>)</span></li>
+<li>Forest <span style="font-size: 92%;">(<a href="//static.miraheze.org/cparchiveswiki/a/ab/IglooLocations3.swf" class="internal" title="IglooLocations3.swf">sprites</a> | <a href="//static.miraheze.org/cparchiveswiki/5/5a/IglooLocationsIcons3.swf" class="internal" title="IglooLocationsIcons3.swf">icons</a> | <a href="//static.miraheze.org/cparchiveswiki/0/06/IglooBuildingsSprites47.swf" class="internal" title="IglooBuildingsSprites47.swf">igloo sprites</a>)</span></li>
+<li>Mountain <span style="font-size: 92%;">(<a href="//static.miraheze.org/cparchiveswiki/f/f6/IglooLocations4.swf" class="internal" title="IglooLocations4.swf">sprites</a> | <a href="//static.miraheze.org/cparchiveswiki/6/6d/IglooLocationsIcons4.swf" class="internal" title="IglooLocationsIcons4.swf">icons</a> | <a href="//static.miraheze.org/cparchiveswiki/a/aa/IglooBuildingsSprites48.swf" class="internal" title="IglooBuildingsSprites48.swf">igloo sprites</a>)</span></li>
+<li>Age Of Dinosaurs <span style="font-size: 92%;">(<a href="//static.miraheze.org/cparchiveswiki/0/05/IglooLocationsSprites5.swf" class="internal" title="IglooLocationsSprites5.swf">sprites</a> | <a href="//static.miraheze.org/cparchiveswiki/7/77/IglooLocationsIcons5.swf" class="internal" title="IglooLocationsIcons5.swf">icons</a> | <a href="//static.miraheze.org/cparchiveswiki/b/b9/IglooBuildingsSprites59.swf" class="internal" title="IglooBuildingsSprites59.swf">igloo sprites</a>)</span></li></ul>
+<h2><span class="mw-headline" id="JSON">JSON</span></h2>
+<h2><span class="mw-headline" id="See_Also">See Also</span></h2>
+<ul><li><a href="/wiki/Furniture" title="Furniture">Furniture</a></li>
+<li><a href="/wiki/Igloo_Flooring" title="Igloo Flooring">Igloo Flooring</a></li></ul>
+
+
+
+</div><noscript><img src="https://cparchives.miraheze.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet>Retrieved from "<a dir="ltr" href="https://cparchives.miraheze.org/wiki/Igloo?oldid=49116">https://cparchives.miraheze.org/wiki/Igloo?oldid=49116</a>"</div></div>
+<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:Pages_Under_Construction?action=edit&amp;redlink=1" class="new" title="Category:Pages Under Construction (page does not exist)">Pages Under Construction</a></li></ul></div></div>
+</div>
+</main>
+<div id="mw-data-after-content">
+<div class="mw-cookiewarning-container"><div class="mw-cookiewarning-text"><span>Cookies help us deliver our services. By using our services, you agree to our use of cookies.</span></div><form method="POST"><div class="oo-ui-layout oo-ui-horizontalLayout"><span class="oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget"><a role="button" tabindex="0" href="https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy#2._Cookies" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">More information</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget"><button type="submit" tabindex="0" name="disablecookiewarning" value="OK" class="oo-ui-inputWidget-input oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert"></span><span class="oo-ui-labelElement-label">OK</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert"></span></button></span></div></form></div>
+</div>
+</div>
+<div class="mw-footer-container">
+<footer id="footer" class="mw-footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 3 February 2022, at 03:10.</li>
+<li id="footer-info-copyright">Content is available under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) unless otherwise noted.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Club_Penguin_Archives_Wiki:About">About Club Penguin Archives Wiki</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/Club_Penguin_Archives_Wiki:General_disclaimer">Disclaimers</a></li>
+<li id="footer-places-termsofservice"><a href="https://meta.miraheze.org/wiki/Special:MyLanguage/Terms_of_Use">Terms of Use</a></li>
+<li id="footer-places-donate"><a href="https://meta.miraheze.org/wiki/Special:MyLanguage/Donate">Donate to Miraheze</a></li>
+<li id="footer-places-mobileview"><a href="https://cparchives.miraheze.org/wiki/Igloo?mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+<ul id="footer-icons" class="noprint">
+<li id="footer-poweredbyico"><a href="https://meta.miraheze.org/wiki/Special:MyLanguage/Miraheze"><img src="https://static.miraheze.org/commonswiki/f/ff/Powered_by_Miraheze.svg" alt="Hosted by Miraheze" width="88" height="31" loading="lazy"></a><a href="https://www.mediawiki.org/"><img src="/1.41/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/1.41/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /1.41/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+<li id="footer-copyrightico"><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://meta.miraheze.org/1.41/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)" width="88" height="31" loading="lazy"></a></li>
+</ul>
+</footer>
+</div>
+</div>
+</div>
+<div class="vector-settings" id="p-dock-bottom">
+<ul>
+<li>
+<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+<span>Toggle limited content width</span>
+</button>
+</li>
+</ul>
+</div>
+<script type="67e11624dec86b7964c6f19b-text/javascript">(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw181","wgBackendResponseTime":309,"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.523","ppvisitednodes":{"value":319,"limit":1000000},"postexpandincludesize":{"value":2236,"limit":2097152},"templateargumentsize":{"value":676,"limit":2097152},"expansiondepth":{"value":8,"limit":100},"expensivefunctioncount":{"value":0,"limit":99},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   12.617      1 -total"," 80.27%   10.127      1 Template:Construction"," 41.60%    5.248      1 Template:Ambox"," 21.73%    2.742      1 Template:Ambox/core"," 19.12%    2.412      1 Template:CPW","  8.00%    1.010      1 Template:·"]},"cachereport":{"origin":"mw152","timestamp":"20240517081901","ttl":604800,"transientcontent":false}}});});</script>
+<script type="67e11624dec86b7964c6f19b-text/javascript">
+	var _paq = window._paq = window._paq || [];
+	if ( 1 ) {
+		_paq.push(['disableCookies']);
+	}
+	if ( 0 ) {
+		_paq.push(['setRequestMethod', 'GET']);
+	}
+	_paq.push(['trackPageView']);
+	_paq.push(['enableLinkTracking']);
+	(function() {
+		var u = "https://analytics.wikitide.net/";
+		_paq.push(['setTrackerUrl', u+'matomo.php']);
+		_paq.push(['setDocumentTitle', "cparchiveswiki" + " - " + "Igloo"]);
+		_paq.push(['setSiteId', 1576]);
+		_paq.push(['setCustomVariable', 1, 'userType', "Anonymous", "visit"]);
+		if ( 1 ) {
+			_paq.push(['addTracker', u + 'matomo.php', 1]);
+		}
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+	})();
+	</script>
+<noscript><p><img src="https://analytics.wikitide.net/matomo.php?idsite=1576&amp;rec=1&amp;action_name=Igloo" style="border:0;" alt="" /></p></noscript>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="67e11624dec86b7964c6f19b-|49" defer></script></body>
+</html>

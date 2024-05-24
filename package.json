@@ -1,0 +1,16 @@
+{
+  "name": "cparchive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "jsdom": "^24.0.0"
+  }
+}

@@ -1,0 +1,1104 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-not-available" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <title>Club Penguin Archives Wiki</title>
+    <script type="9630b877f191a51041c9b6ea-text/javascript">
+      (function() {
+        var className = "client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-not-available";
+        var cookie = document.cookie.match(/(?:^|; )cparchiveswikimwclientpreferences=([^;]+)/);
+        if (cookie) {
+          cookie[1].split('%2C').forEach(function(pref) {
+            className = className.replace(new RegExp('(^| )' + pref.replace(/-clientpref-\w+$|[^\w-]+/g, '') + '-clientpref-\\w+( |$)'), '$1' + pref + '$2');
+          });
+        }
+        document.documentElement.className = className;
+      }());
+      RLCONF = {
+        "wgBreakFrames": false,
+        "wgSeparatorTransformTable": ["", ""],
+        "wgDigitTransformTable": ["", ""],
+        "wgDefaultDateFormat": "dmy",
+        "wgMonthNames": ["", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+        "wgRequestId": "a39789e560f03d327d5e61f3",
+        "wgCanonicalNamespace": "",
+        "wgCanonicalSpecialPageName": false,
+        "wgNamespaceNumber": 0,
+        "wgPageName": "Main_Page",
+        "wgTitle": "Main Page",
+        "wgCurRevisionId": 49099,
+        "wgRevisionId": 49099,
+        "wgArticleId": 1,
+        "wgIsArticle": true,
+        "wgIsRedirect": false,
+        "wgAction": "view",
+        "wgUserName": null,
+        "wgUserGroups": ["*"],
+        "wgCategories": ["Pages with broken file links"],
+        "wgPageViewLanguage": "en",
+        "wgPageContentLanguage": "en",
+        "wgPageContentModel": "wikitext",
+        "wgRelevantPageName": "Main_Page",
+        "wgRelevantArticleId": 1,
+        "wgIsProbablyEditable": false,
+        "wgRelevantPageIsProbablyEditable": false,
+        "wgRestrictionEdit": ["sysop"],
+        "wgRestrictionMove": ["sysop"],
+        "wgIsMainPage": true,
+        "wgNoticeProject": "all",
+        "wgMFDisplayWikibaseDescriptions": {
+          "search": false,
+          "nearby": false,
+          "watchlist": false,
+          "tagline": false
+        },
+        "wgCheckUserClientHintsHeadersJsApi": ["architecture", "bitness", "brands", "fullVersionList", "mobile", "model", "platform", "platformVersion"],
+        "wgIsMobile": false,
+        "wgCentralAuthMobileDomain": false
+      };
+      RLSTATE = {
+        "skins.vector.user.styles": "ready",
+        "ext.globalCssJs.user.styles": "ready",
+        "site.styles": "ready",
+        "user.styles": "ready",
+        "skins.vector.user": "ready",
+        "ext.globalCssJs.user": "ready",
+        "user": "ready",
+        "user.options": "loading",
+        "codex-search-styles": "ready",
+        "skins.vector.styles": "ready",
+        "skins.vector.icons": "ready",
+        "ext.CookieWarning.styles": "ready",
+        "oojs-ui-core.styles": "ready",
+        "oojs-ui.styles.indicators": "ready",
+        "mediawiki.widgets.styles": "ready",
+        "oojs-ui-core.icons": "ready",
+        "ext.MobileDetect.nomobile": "ready",
+        "ext.DarkMode.styles": "ready"
+      };
+      RLPAGEMODULES = ["site", "mediawiki.page.ready", "skins.vector.js", "ext.centralNotice.geoIP", "ext.centralNotice.startUp", "ext.checkUser.clientHints", "ext.CookieWarning", "ext.echo.centralauth", "ext.eventLogging", "ext.DarkMode", "ext.urlShortener.toolbar", "ext.centralauth.centralautologin", "ext.purge"];
+    </script>
+    <script type="9630b877f191a51041c9b6ea-text/javascript">
+      (RLQ = window.RLQ || []).push(function() {
+        mw.loader.impl(function() {
+          return ["user.options@12s5i", function($, jQuery, require, module) {
+            mw.user.tokens.set({
+              "patrolToken": "+\\",
+              "watchToken": "+\\",
+              "csrfToken": "+\\"
+            });
+          }];
+        });
+      });
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.CookieWarning.styles%7Cext.DarkMode.styles%7Cext.MobileDetect.nomobile%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles&amp;only=styles&amp;skin=vector-2022">
+    <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022" type="9630b877f191a51041c9b6ea-text/javascript"></script>
+    <meta name="ResourceLoaderDynamicStyles" content>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+    <meta name="generator" content="MediaWiki 1.41.0">
+    <meta name="referrer" content="origin">
+    <meta name="referrer" content="origin-when-cross-origin">
+    <meta name="robots" content="max-image-preview:standard">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="twitter:site" content>
+    <meta name="twitter:card" content="summary">
+    <meta name="viewport" content="width=1000">
+    <meta property="og:title" content="Club Penguin Archives Wiki">
+    <meta property="og:type" content="website">
+    <link rel="preconnect" href="//static.miraheze.org">
+    <link rel="apple-touch-icon" href="https://static.miraheze.org/cparchiveswiki/b/bc/Wiki.png">
+    <link rel="icon" href="https://static.miraheze.org/cparchiveswiki/6/64/Favicon.ico">
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Club Penguin Archives Wiki (en)">
+    <link rel="EditURI" type="application/rsd+xml" href="https://cparchives.miraheze.org/w/api.php?action=rsd">
+    <link rel="canonical" href="https://cparchives.miraheze.org/wiki/Main_Page">
+    <link rel="alternate" type="application/atom+xml" title="Club Penguin Archives Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom">
+    <link rel="dns-prefetch" href="https://meta.miraheze.org" />
+    <meta property="og:title" content="Main Page">
+    <meta property="og:site_name" content="Club Penguin Archives Wiki">
+    <meta property="og:url" content="https://cparchives.miraheze.org/wiki/Main_Page">
+    <meta property="og:image" content="https://static.miraheze.org/cparchiveswiki/b/bc/Wiki.png">
+    <meta property="article:modified_time" content="2021-06-26T00:11:46Z">
+    <meta property="article:published_time" content="2021-06-26T00:11:46Z">
+    <script type="application/ld+json">
+      {
+        "@context": "http:\/\/schema.org",
+        "@type": "Article",
+        "name": "Club Penguin Archives Wiki",
+        "headline": "Club Penguin Archives Wiki",
+        "mainEntityOfPage": "Main Page",
+        "identifier": "https:\/\/cparchives.miraheze.org\/wiki\/Main_Page",
+        "url": "https:\/\/cparchives.miraheze.org\/wiki\/Main_Page",
+        "dateModified": "2021-06-26T00:11:46Z",
+        "datePublished": "2021-06-26T00:11:46Z",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "Club Penguin Archives Wiki",
+          "url": "https:\/\/cparchives.miraheze.org",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png",
+            "caption": "Club Penguin Archives Wiki"
+          }
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Club Penguin Archives Wiki",
+          "url": "https:\/\/cparchives.miraheze.org",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png",
+            "caption": "Club Penguin Archives Wiki"
+          }
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https:\/\/cparchives.miraheze.org\/wiki\/Special:Search?search={search_term}",
+          "query-input": "required name=search_term"
+        }
+      }
+    </script>
+    <link rel="dns-prefetch" href="//login.miraheze.org">
+  </head>
+  <body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Main_Page rootpage-Main_Page skin-vector-2022 action-view">
+    <a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+    <p>
+      <a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+    </p>
+    <div class="vector-header-container">
+      <header class="vector-header mw-header">
+        <div class="vector-header-start">
+          <nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+            <div class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right" id="vector-main-menu-dropdown">
+              <p>
+                <input class="vector-dropdown-checkbox " type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" aria-label="Main menu">
+                <label class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" aria-hidden="true">
+                  <span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+                  <span class="vector-dropdown-label-text">Main menu</span>&nbsp; </label>
+              </p>
+              <div class="vector-dropdown-content">
+                <div class="vector-unpinned-container" id="vector-main-menu-unpinned-container">
+                  <div class="vector-main-menu vector-pinnable-element" id="vector-main-menu">
+                    <div class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned" data-feature-name="main-menu-pinned" data-pinnable-element-id="vector-main-menu" data-pinned-container-id="vector-main-menu-pinned-container" data-unpinned-container-id="vector-main-menu-unpinned-container">
+                      <div class="vector-pinnable-header-label">Main menu</div>
+                      <p>
+                        <button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+                        <button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+                      </p>
+                    </div>
+                    <div class="vector-menu mw-portlet mw-portlet-navigation" id="p-navigation">
+                      <div class="vector-menu-heading">Navigation</div>
+                      <div class="vector-menu-content">
+                        <ul class="vector-menu-content-list">
+                          <li class="mw-list-item" id="n-mainpage-description">
+                            <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                              <span>Main page</span>
+                            </a>
+                          </li>
+                          <li class="mw-list-item" id="n-recentchanges">
+                            <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                              <span>Recent changes</span>
+                            </a>
+                          </li>
+                          <li class="mw-list-item" id="n-randompage">
+                            <a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">
+                              <span>Random page</span>
+                            </a>
+                          </li>
+                          <li class="mw-list-item" id="n-help-mediawiki">
+                            <a target="_blank" rel="noopener noreferrer" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">
+                              <span>Help about MediaWiki</span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="vector-menu mw-portlet mw-portlet-Community" id="p-Community">
+                      <div class="vector-menu-heading">Community</div>
+                      <div class="vector-menu-content">
+                        <ul class="vector-menu-content-list">
+                          <li class="mw-list-item" id="n-portal">
+                            <a href="/wiki/Club_Penguin_Archives_Wiki:Community_portal" title="About the project, what you can do, where to find things">
+                              <span>Community portal</span>
+                            </a>
+                          </li>
+                          <li class="mw-list-item" id="n-Request-upload-permissions">
+                            <a href="/wiki/Club_Penguin_Archives:Request_uploader_permissions">
+                              <span>Request upload permissions</span>
+                            </a>
+                          </li>
+                          <li class="mw-list-item" id="n-Administrators">
+                            <a href="/wiki/Club_Penguin_Archives:Administrators">
+                              <span>Administrators</span>
+                            </a>
+                          </li>
+                          <li class="mw-list-item" id="n-To-do-List">
+                            <a href="/wiki/Club_Penguin_Archives:To-do_List">
+                              <span>To-do List</span>
+                            </a>
+                          </li>
+                          <li class="mw-list-item" id="n-IRC-Chat">
+                            <a href="/wiki/Special:WebChat">
+                              <span>IRC Chat</span>
+                            </a>
+                          </li>
+                          <li class="mw-list-item" id="n-Network-Policy">
+                            <a href="/wiki/Clubpenguinwiki:_Club_Penguin_Wiki:CPWN_Policy">
+                              <span>Network Policy</span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </nav>
+          <p>
+            <a class="mw-logo" href="/wiki/Main_Page">
+              <img class="mw-logo-icon" src="https://static.miraheze.org/cparchiveswiki/b/bc/Wiki.png" alt="" width="50" height="50" aria-hidden="true">
+              <span class="mw-logo-container">
+                <strong class="mw-logo-wordmark">Club Penguin Archives Wiki</strong>&nbsp; </span>
+            </a>
+          </p>
+        </div>
+        <div class="vector-header-end">
+          <div class="vector-search-box-vue vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+            <p>
+              <a class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" href="/wiki/Special:Search" id="" title="Search Club Penguin Archives Wiki [f]" accesskey="f">
+                <span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+                <span>Search</span>&nbsp; </a>
+            </p>
+            <div class="vector-typeahead-search-container">
+              <div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+                <form class="cdx-search-input cdx-search-input--has-end-button" action="/w/index.php" id="searchform">
+                  <div class="cdx-search-input__input-wrapper" id="simpleSearch" data-search-loc="header-moved">
+                    <div class="cdx-text-input cdx-text-input--has-start-icon">
+                      <input class="cdx-text-input__input" type="search" name="search" placeholder="Search Club Penguin Archives Wiki" aria-label="Search Club Penguin Archives Wiki" autocapitalize="sentences" title="Search Club Penguin Archives Wiki [f]" accesskey="f" id="searchInput">
+                      <span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+                    </div>
+                    <p>
+                      <input type="hidden" name="title" value="Special:Search">
+                    </p>
+                  </div>
+                  <p>
+                    <button class="cdx-button cdx-search-input__end-button">Search</button>
+                  </p>
+                </form>
+              </div>
+            </div>
+          </div>
+          <nav class="vector-user-links" aria-label="Personal tools" role="navigation">
+            <div class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow" id="p-vector-user-menu-overflow">
+              <div class="vector-menu-content">
+                <ul class="vector-menu-content-list">
+                  <li class="user-links-collapsible-item mw-list-item" id="pt-createaccount-2">
+                    <a href="/wiki/Special:CreateAccount?returnto=Main+Page" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                      <span>Create account</span>
+                    </a>
+                  </li>
+                  <li class="user-links-collapsible-item mw-list-item" id="pt-login-2">
+                    <a href="/wiki/Special:UserLogin?returnto=Main+Page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">
+                      <span>Log in</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out" id="vector-user-links-dropdown" title="More options">
+              <p>
+                <input class="vector-dropdown-checkbox " type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" aria-label="Personal tools">
+                <label class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" aria-hidden="true">
+                  <span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+                  <span class="vector-dropdown-label-text">Personal tools</span>&nbsp; </label>
+              </p>
+              <div class="vector-dropdown-content">
+                <div class="vector-menu mw-portlet mw-portlet-personal" id="p-personal" title="User menu">
+                  <div class="vector-menu-content">
+                    <ul class="vector-menu-content-list">
+                      <li class="ext-darkmode-link mw-list-item" id="pt-darkmode">
+                        <a href="#">
+                          <span class="vector-icon mw-ui-icon-bright mw-ui-icon-wikimedia-bright"></span>
+                          <span>Dark mode</span>
+                        </a>
+                      </li>
+                      <li class="user-links-collapsible-item mw-list-item" id="pt-createaccount">
+                        <a href="/wiki/Special:CreateAccount?returnto=Main+Page" title="You are encouraged to create an account and log in; however, it is not mandatory">
+                          <span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span>
+                          <span>Create account</span>
+                        </a>
+                      </li>
+                      <li class="user-links-collapsible-item mw-list-item" id="pt-login">
+                        <a href="/wiki/Special:UserLogin?returnto=Main+Page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">
+                          <span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span>
+                          <span>Log in</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor" id="p-user-menu-anon-editor">
+                  <div class="vector-menu-heading">Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing">
+                      <span>learn more</span>
+                    </a>
+                  </div>
+                  <div class="vector-menu-content">
+                    <ul class="vector-menu-content-list">
+                      <li class="mw-list-item" id="pt-anoncontribs">
+                        <a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">
+                          <span>Contributions</span>
+                        </a>
+                      </li>
+                      <li class="mw-list-item" id="pt-anontalk">
+                        <a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">
+                          <span>Talk</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+    </div>
+    <div class="mw-page-container">
+      <div class="mw-page-container-inner">
+        <div class="vector-main-menu-container">
+          <div id="mw-navigation">
+            <nav class="vector-main-menu-landmark" id="mw-panel" aria-label="Site" role="navigation">
+            </nav>
+          </div>
+        </div>
+        <div class="mw-content-container">
+          <main class="mw-body" id="content" role="main">
+            <div class="vector-page-toolbar">
+              <div class="vector-page-toolbar-container">
+                <div id="left-navigation">
+                  <nav aria-label="Namespaces">
+                    <div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages" id="p-associated-pages">
+                      <div class="vector-menu-content">
+                        <ul class="vector-menu-content-list">
+                          <li class="selected vector-tab-noicon mw-list-item" id="ca-nstab-main">
+                            <a href="/wiki/Main_Page" title="View the content page [c]" accesskey="c">
+                              <span>Main Page</span>
+                            </a>
+                          </li>
+                          <li class="new vector-tab-noicon mw-list-item" id="ca-talk">
+                            <a href="/wiki/Talk:Main_Page?action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">
+                              <span>Discussion</span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="vector-dropdown emptyPortlet" id="p-variants">
+                      <p>
+                        <input class="vector-dropdown-checkbox " type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" aria-label="Change language variant">
+                        <label class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" id="p-variants-label" for="p-variants-checkbox" aria-hidden="true">
+                          <span class="vector-dropdown-label-text">English</span>&nbsp; </label>
+                      </p>
+                      <div class="vector-dropdown-content">
+                        <div class="vector-menu mw-portlet mw-portlet-variants emptyPortlet" id="p-variants">
+                          <div class="vector-menu-content">&nbsp;</div>
+                        </div>
+                      </div>
+                    </div>
+                  </nav>
+                </div>
+                <div class="vector-collapsible" id="right-navigation">
+                  <nav aria-label="Views">
+                    <div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views" id="p-views">
+                      <div class="vector-menu-content">
+                        <ul class="vector-menu-content-list">
+                          <li class="selected vector-tab-noicon mw-list-item" id="ca-view">
+                            <a href="/wiki/Main_Page">
+                              <span>Read</span>
+                            </a>
+                          </li>
+                          <li class="vector-tab-noicon mw-list-item" id="ca-viewsource">
+                            <a href="/wiki/Main_Page?action=edit" title="This page is protected.
+You can view its source [e]" accesskey="e">
+                              <span>View source</span>
+                            </a>
+                          </li>
+                          <li class="vector-tab-noicon mw-list-item" id="ca-history">
+                            <a href="/wiki/Main_Page?action=history" title="Past revisions of this page [h]" accesskey="h">
+                              <span>View history</span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </nav>
+                  <nav class="vector-page-tools-landmark" aria-label="Page tools">
+                    <div class="vector-dropdown vector-page-tools-dropdown" id="vector-page-tools-dropdown">
+                      <p>
+                        <input class="vector-dropdown-checkbox " type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" aria-label="Tools">
+                        <label class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" aria-hidden="true">
+                          <span class="vector-dropdown-label-text">Tools</span>&nbsp; </label>
+                      </p>
+                      <div class="vector-dropdown-content">
+                        <div class="vector-unpinned-container" id="vector-page-tools-unpinned-container">
+                          <div class="vector-page-tools vector-pinnable-element" id="vector-page-tools">
+                            <div class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned" data-feature-name="page-tools-pinned" data-pinnable-element-id="vector-page-tools" data-pinned-container-id="vector-page-tools-pinned-container" data-unpinned-container-id="vector-page-tools-unpinned-container">
+                              <div class="vector-pinnable-header-label">Tools</div>
+                              <p>
+                                <button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+                                <button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+                              </p>
+                            </div>
+                            <div class="vector-menu mw-portlet mw-portlet-cactions vector-has-collapsible-items" id="p-cactions" title="More options">
+                              <div class="vector-menu-heading">Actions</div>
+                              <div class="vector-menu-content">
+                                <ul class="vector-menu-content-list">
+                                  <li class="selected vector-more-collapsible-item mw-list-item" id="ca-more-view">
+                                    <a href="/wiki/Main_Page">
+                                      <span>Read</span>
+                                    </a>
+                                  </li>
+                                  <li class="vector-more-collapsible-item mw-list-item" id="ca-more-viewsource">
+                                    <a href="/wiki/Main_Page?action=edit">
+                                      <span>View source</span>
+                                    </a>
+                                  </li>
+                                  <li class="vector-more-collapsible-item mw-list-item" id="ca-more-history">
+                                    <a href="/wiki/Main_Page?action=history">
+                                      <span>View history</span>
+                                    </a>
+                                  </li>
+                                  <li class="mw-list-item" id="ca-purge">
+                                    <a href="#">
+                                      <span>Purge</span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                            <div class="vector-menu mw-portlet mw-portlet-tb" id="p-tb">
+                              <div class="vector-menu-heading">General</div>
+                              <div class="vector-menu-content">
+                                <ul class="vector-menu-content-list">
+                                  <li class="mw-list-item" id="t-whatlinkshere">
+                                    <a href="/wiki/Special:WhatLinksHere/Main_Page" title="A list of all wiki pages that link here [j]" accesskey="j">
+                                      <span>What links here</span>
+                                    </a>
+                                  </li>
+                                  <li class="mw-list-item" id="t-recentchangeslinked">
+                                    <a href="/wiki/Special:RecentChangesLinked/Main_Page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                                      <span>Related changes</span>
+                                    </a>
+                                  </li>
+                                  <li class="mw-list-item" id="t-specialpages">
+                                    <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                                      <span>Special pages</span>
+                                    </a>
+                                  </li>
+                                  <li class="mw-list-item" id="t-print">
+                                    <a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">
+                                      <span>Printable version</span>
+                                    </a>
+                                  </li>
+                                  <li class="mw-list-item" id="t-permalink">
+                                    <a href="/wiki/Main_Page?oldid=49099" title="Permanent link to this revision of this page">
+                                      <span>Permanent link</span>
+                                    </a>
+                                  </li>
+                                  <li class="mw-list-item" id="t-info">
+                                    <a href="/wiki/Main_Page?action=info" title="More information about this page">
+                                      <span>Page information</span>
+                                    </a>
+                                  </li>
+                                  <li class="mw-list-item" id="t-cite">
+                                    <a href="/wiki/Special:CiteThisPage?page=Main_Page&amp;id=49099&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">
+                                      <span>Cite this page</span>
+                                    </a>
+                                  </li>
+                                  <li class="mw-list-item" id="t-urlshortener">
+                                    <a href="/wiki/Special:UrlShortener?url=https%3A%2F%2Fcparchives.miraheze.org%2Fwiki%2FMain_Page">
+                                      <span>Get shortened URL</span>
+                                    </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </nav>
+                </div>
+              </div>
+            </div>
+            <div class="vector-column-end">
+              <nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+                <div class="vector-pinned-container" id="vector-page-tools-pinned-container">&nbsp;</div>
+              </nav>
+            </div>
+            <div class="vector-body" id="bodyContent" aria-labelledby="firstHeading" data-mw-ve-target-container="">
+              <div class="vector-body-before-content">
+                <div class="noprint" id="siteSub">From Club Penguin Archives Wiki</div>
+              </div>
+              <div id="contentSub">
+                <div id="mw-content-subtitle">&nbsp;</div>
+              </div>
+              <div class="mw-body-content mw-content-ltr" id="mw-content-text" lang="en" dir="ltr">
+                <div class="mw-parser-output">
+                  <p>&nbsp;</p>
+                  <div class="mainpage-wrapper">
+                    <div class="mainpage-notice">
+                      <span style="font-family:trebuchet ms;">
+                        <strong>In the event the Club Penguin Wiki Network goes up, it can be found at </strong>
+                      </span>
+                      <a class="external text" rel="nofollow">
+                        <a target="_blank" rel="noopener noreferrer" href="https://archives.clubpenguinwiki.info">
+                          <span style="font-family:trebuchet ms;">
+                            <strong>archives.clubpenguinwiki.info</strong>
+                          </span>
+                        </a>
+                      </a>
+                    </div>
+                    <div class="mainpage-banner">
+                      <div class="mainpage-banner-logo">
+                        <figure class="mw-halign-center" typeof="mw:File">
+                          <p>
+                            <span style="font-family:trebuchet ms;">
+                              <span>
+                                <img class="mw-file-element" src="/Archive.png" srcset="//static.miraheze.org/cparchiveswiki/thumb/5/55/Archive.png/104px-Archive.png 1.5x, //static.miraheze.org/cparchiveswiki/thumb/5/55/Archive.png/138px-Archive.png 2x" sizes="100vw" width="69" height="70" decoding="async">
+                              </span>
+                            </span>
+                          </p>
+                          <figcaption>&nbsp;</figcaption>
+                        </figure>
+                      </div>
+                      <div class="mainpage-banner-title">
+                        <p class="mainpage-banner-title-welcome">
+                          <span style="font-family:trebuchet ms;">
+                            <strong>Welcome to Club Penguin Archives</strong>
+                          </span>
+                        </p>
+                        <p class="mainpage-banner-title-motto">
+                          <span style="font-family:trebuchet ms;">This is a mirror of the original site, which has been down for some time.</span>
+                        </p>
+                        <p class="mainpage-banner-title-articles">
+                          <span style="font-family:trebuchet ms;">Since December 12, 2010, we have archived 61,847 Club Penguin files.</span>
+                        </p>
+                      </div>
+                      <div class="mainpage-banner-links">
+                        <div class="mainpage-banner-links-link">
+                        </div>
+                        <div class="mainpage-banner-links-link">
+                        </div>
+                        <div class="mainpage-banner-links-link">
+                          <p>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="mainpage-right">
+                      <div class="mainpage-box">
+                        <div class="mainpage-box-heading">
+                          <span style="font-family:trebuchet ms;">
+                            <span typeof="mw:File" title="Welcome!">
+                              <img class="mw-file-element" src="/Wave.png" alt="Welcome!" srcset="//static.miraheze.org/cparchiveswiki/thumb/e/e9/Wave.png/35px-Wave.png 1.5x, //static.miraheze.org/cparchiveswiki/thumb/e/e9/Wave.png/46px-Wave.png 2x" sizes="100vw" width="23" height="22" decoding="async">
+                            </span> About Us </span>
+                        </div>
+                        <div class="mainpage-box-content">
+                          <a href="/wiki/Club_Penguin_Archives_Wiki:About" title="Club Penguin Archives Wiki:About">
+                            <span style="font-family:trebuchet ms;">
+                              <strong>Club Penguin Archives</strong>
+                            </span>
+                          </a>
+                          <span style="font-family:trebuchet ms;"> is a site dedicated to preserving <i>Club Penguin</i>'s history by archiving the files that made up the game since December 12, 2010. </span>
+                          <br>
+                          <br>
+                          <span style="font-family:trebuchet ms;">If you use files stored here for your Club Penguin cutouts, private servers, fan sites/blogs, or anything else, we'd really appreciate it if you could put a link to us on your site or post.</span>
+                        </div>
+                      </div>
+                      <div class="mainpage-box">
+                        <div class="mainpage-box-heading">
+                          <span style="font-family:trebuchet ms;">
+                            <span typeof="mw:File" title="Browse">
+                              <img class="mw-file-element" src="/Explore.png" alt="Browse" srcset="//static.miraheze.org/cparchiveswiki/thumb/0/09/Explore.png/35px-Explore.png 1.5x, //static.miraheze.org/cparchiveswiki/thumb/0/09/Explore.png/46px-Explore.png 2x" sizes="100vw" width="23" height="21" decoding="async">
+                            </span> Browse </span>
+                        </div>
+                        <div class="mainpage-box-content">
+                          <div class="mainpage-explore-links">
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Catalogs" title="Catalogs">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/PenguinStyle.png" width="60" height="60" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>&nbsp;</figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Catalogs" title="Catalogs">
+                                  <span style="font-family:trebuchet ms;">Catalogs</span>
+                                </a>
+                              </p>
+                            </div>
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Igloo" title="Igloos">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/Map-MyIgloo.png" alt="Igloos" width="60" height="58" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>
+                                  <span style="font-family:trebuchet ms;">Igloos</span>
+                                </figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Igloo" title="Igloo">
+                                  <span style="font-family:trebuchet ms;">Igloos</span>
+                                </a>
+                              </p>
+                            </div>
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Items" title="Items">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/Items.png" srcset="//static.miraheze.org/cparchiveswiki/thumb/f/fe/Items.png/69px-Items.png 1.5x, //static.miraheze.org/cparchiveswiki/thumb/f/fe/Items.png/92px-Items.png 2x" sizes="100vw" width="46" height="60" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>&nbsp;</figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Items" title="Items">
+                                  <span style="font-family:trebuchet ms;">Items</span>
+                                </a>
+                              </p>
+                            </div>
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Mini-Games" title="Mini-Games">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/JoystickEmote.PNG" srcset="//static.miraheze.org/cparchiveswiki/thumb/e/ee/JoystickEmote.PNG/81px-JoystickEmote.PNG 1.5x, //static.miraheze.org/cparchiveswiki/thumb/e/ee/JoystickEmote.PNG/108px-JoystickEmote.PNG 2x" sizes="100vw" width="54" height="60" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>&nbsp;</figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Mini-Games" title="Mini-Games">
+                                  <span style="font-family:trebuchet ms;">Mini-Games</span>
+                                </a>
+                              </p>
+                            </div>
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Rooms" title="Map">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/Map.PNG" alt="Map" srcset="//static.miraheze.org/cparchiveswiki/thumb/3/30/Sitenotice.png/90px-Sitenotice.png 1.5x, //static.miraheze.org/cparchiveswiki/thumb/3/30/Sitenotice.png/120px-Sitenotice.png 2x" sizes="100vw" width="51" height="60" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>
+                                  <span style="font-family:trebuchet ms;">Newspapers</span>
+                                </figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Rooms" title="Rooms">
+                                  <span style="font-family:trebuchet ms;">Rooms</span>
+                                </a>
+                              </p>
+                            </div>
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Club_Penguin_Times" title="Newspapers">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/Sitenotice.png" alt="Newspapers" srcset="//static.miraheze.org/cparchiveswiki/thumb/3/30/Sitenotice.png/90px-Sitenotice.png 1.5x, //static.miraheze.org/cparchiveswiki/thumb/3/30/Sitenotice.png/120px-Sitenotice.png 2x" sizes="100vw" width="60" height="52" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>
+                                  <span style="font-family:trebuchet ms;">Newspapers</span>
+                                </figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Club_Penguin_Times" title="Club Penguin Times">
+                                  <span style="font-family:trebuchet ms;">Newspapers</span>
+                                </a>
+                              </p>
+                            </div>
+                          </div>
+                          <div class="mainpage-explore-links">
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Parties_%26_Events" title="Parties &amp; Events">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/Parties.png" srcset="//static.miraheze.org/cparchiveswiki/thumb/e/e7/Parties.png/69px-Parties.png 1.5x, //static.miraheze.org/cparchiveswiki/thumb/e/e7/Parties.png/92px-Parties.png 2x" sizes="100vw" width="46" height="60" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>&nbsp;</figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Parties_%26_Events" title="Parties &amp; Events">
+                                  <span style="font-family:trebuchet ms;">Parties &amp; Events</span>
+                                </a>
+                              </p>
+                            </div>
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Postcards" title="Postcards">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/MailIcon.PNG" srcset="/MailIcon.PNG/90px-MailIcon.PNG 1.5x, //static.miraheze.org/cparchiveswiki/thumb/4/47/MailIcon.PNG/120px-MailIcon.PNG 2x" sizes="100vw" width="60" height="47" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>&nbsp;</figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Postcards" title="Postcards">
+                                  <span style="font-family:trebuchet ms;">Postcards</span>
+                                </a>
+                              </p>
+                            </div>
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Music" title="Music">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/SpeakerPin.PNG" srcset="//static.miraheze.org/cparchiveswiki/thumb/b/bd/SpeakerPin.PNG/65px-SpeakerPin.PNG 1.5x, //static.miraheze.org/cparchiveswiki/thumb/b/bd/SpeakerPin.PNG/87px-SpeakerPin.PNG 2x" sizes="100vw" width="44" height="60" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>&nbsp;</figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Music" title="Music">
+                                  <span style="font-family:trebuchet ms;">Music</span>
+                                </a>
+                              </p>
+                            </div>
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Stamps" title="Stamps">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/Stamp.png" srcset="//static.miraheze.org/cparchiveswiki/thumb/9/98/Stamp.png/90px-Stamp.png 1.5x, //static.miraheze.org/cparchiveswiki/thumb/9/98/Stamp.png/120px-Stamp.png 2x" sizes="100vw" width="60" height="46" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>&nbsp;</figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Stamps" title="Stamps">
+                                  <span style="font-family:trebuchet ms;">Stamps</span>
+                                </a>
+                              </p>
+                            </div>
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Website" title="Website">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/Map-Lighthouse.png" srcset="//static.miraheze.org/cparchiveswiki/thumb/c/c0/Map-Lighthouse.png/44px-Map-Lighthouse.png 1.5x, //static.miraheze.org/cparchiveswiki/thumb/c/c0/Map-Lighthouse.png/58px-Map-Lighthouse.png 2x" sizes="100vw" width="29" height="60" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>&nbsp;</figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Website" title="Website">
+                                  <span style="font-family:trebuchet ms;">Website</span>
+                                </a>
+                              </p>
+                            </div>
+                            <div class="mainpage-explore-links-link">
+                              <figure class="mw-halign-center" typeof="mw:File">
+                                <p>
+                                  <a href="/wiki/Other" title="Other">
+                                    <span style="font-family:trebuchet ms;">
+                                      <img class="mw-file-element" src="/Other.png" srcset="//static.miraheze.org/cparchiveswiki/thumb/b/b7/Other.png/90px-Other.png 1.5x, //static.miraheze.org/cparchiveswiki/thumb/b/b7/Other.png/120px-Other.png 2x" sizes="100vw" width="60" height="60" decoding="async">
+                                    </span>
+                                  </a>
+                                </p>
+                                <figcaption>&nbsp;</figcaption>
+                              </figure>
+                              <p>
+                                <a href="/wiki/Other" title="Other">
+                                  <span style="font-family:trebuchet ms;">Other</span>
+                                </a>
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="mainpage-left">
+                      <div class="mainpage-box">
+                        <div class="mainpage-box-heading">
+                          <a class="new" href="/wiki/Special:Upload?wpDestFile=Emoticons-QuestionMark.PNG" title="File:Emoticons-QuestionMark.PNG">
+                            <span style="font-family:trebuchet ms;">
+                              <span class="mw-file-element mw-broken-media" typeof="mw:Error mw:File" data-width="23" data-height="23">FAQ</span>
+                            </span>
+                          </a>
+                          <span style="font-family:trebuchet ms;"> Frequently Asked Questions</span>
+                        </div>
+                        <div class="mainpage-box-content">
+                          <figure class="table" style="width:100%; margin-block:auto; margin-inline:auto;">
+                            <table style="clear:both;margin:3px 0px;" border="0">
+                              <tbody>
+                                <tr>
+                                  <td style="background-color:transparent;">
+                                    <div style="background-color:transparent;border:0px solid #AAA;height:400px;overflow:auto;padding-left:0.5em;width:100%;">
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>1. Why is the original site down?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            <span style="font-family:trebuchet ms;">The Club Penguin Wiki Network servers are known to be unstable and frequently go down for unknown reasons. Our attempts at contacting any of the Network's tech staff have been unsuccessful and thus the only option we're left with is to wait until the site comes back up again.</span>
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>2. Is there a compressed .ZIP download (or equivalent) of every Club Penguin file on this site?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            <span style="font-family:trebuchet ms;">Yep! </span>
+                                            <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/12OJCc-pHT-CZB4wInO1gN9df8oVjKr8G?usp=drive_link">
+                                              <span style="font-family:trebuchet ms;">Here's the link</span>
+                                            </a>
+                                            <span style="font-family:trebuchet ms;">. Whilst it's very much unsorted, if you want to keep a local copy, feel free.</span>
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>3. A file is missing from a page! Can you please upload it?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            <span style="font-family:trebuchet ms;">That is a lot easier said than done. While it is true some files are not linked to on any page, most files, if missing, were never uploaded and are likely lost to time. You can check the </span>
+                                            <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1MquUSAlLQctOsMzg8C58kgD2V1ZkNHrL?usp=drive_link">
+                                              <span style="font-family:trebuchet ms;">original Club Penguin media files</span>
+                                            </a>
+                                            <span style="font-family:trebuchet ms;"> if you want though</span>
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>4. Is there a Club Penguin Archives Discord?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            <span style="font-family:trebuchet ms;">Whilst there's no official Discord server, </span>
+                                            <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/ser2KbyCwU">
+                                              <span style="font-family:trebuchet ms;">this server</span>
+                                            </a>
+                                            <span style="font-family:trebuchet ms;">, coincidentally also called ‘Club Penguin Archives’, is a great place to talk with community members.</span>
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>5. Does Club Penguin Archives host custom files from Club Penguin Private Servers (CPPS)?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            <span style="font-family:trebuchet ms;">Club Penguin Archives is only intended to host files from the official Club Penguin game. It's possible that every so often a fan-made file is passed off as an official one, though ideally this should not happen. There is also not any consideration for this becoming a possibility in the future.</span>
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>6. Can I help contribute to Club Penguin Archives?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            <span style="font-family:trebuchet ms;">This mirror is pretty complete, and no longer hosted on MediaWiki. Please contact sky.is.winning on Discord if you have a find you'd like uploaded!</span>
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                    </div>
+                                  </td>
+                                  <td style="width:8px;">&nbsp;</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="mainpage-footer">
+                      <div class="mainpage-box">
+                        <div class="mainpage-box-heading">
+                          <span style="font-family:trebuchet ms;">
+                            <span typeof="mw:File" title="Club Penguin Wiki Network">
+                              <img class="mw-file-element" src="//static.miraheze.org/cparchiveswiki/4/41/Interface-BuddyList.svg" alt="Club Penguin Wiki Network" width="20" height="20" decoding="async">
+                            </span> Club Penguin Wiki Network </span>
+                        </div>
+                        <div class="mainpage-box-content">
+                          <figure class="table">
+                            <table style="border:0px solid blue;float:center;font-variant:small-caps;" cellspacing="2" cellpadding="2" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td>
+                                    <figure class="mw-halign-center" typeof="mw:File">
+                                      <p>
+                                        <a target="_blank" rel="noopener noreferrer" href="https://meta.miraheze.org/wiki/cpw:" title="mh:cpw:">
+                                          <span style="font-family:trebuchet ms;">
+                                            <img class="mw-file-element" src="/CPWLogo.png" srcset="//static.miraheze.org/cparchiveswiki/4/4e/CPWLogo.png 1.5x" sizes="100vw" width="100" height="96" decoding="async">
+                                          </span>
+                                        </a>
+                                      </p>
+                                      <figcaption>&nbsp;</figcaption>
+                                    </figure>
+                                  </td>
+                                  <td>
+                                    <figure class="mw-halign-center" typeof="mw:File">
+                                      <p>
+                                        <a target="_blank" rel="noopener noreferrer" href="https://meta.miraheze.org/wiki/cpwpt:" title="mh:cpwpt:">
+                                          <span style="font-family:trebuchet ms;">
+                                            <img class="mw-file-element" src="/CPWPTLogo.png" srcset="//static.miraheze.org/cparchiveswiki/5/56/CPWPTLogo.png 1.5x" sizes="100vw" width="100" height="96" decoding="async">
+                                          </span>
+                                        </a>
+                                      </p>
+                                      <figcaption>&nbsp;</figcaption>
+                                    </figure>
+                                  </td>
+                                  <td>
+                                    <figure class="mw-halign-center" typeof="mw:File">
+                                      <p>
+                                        <a target="_blank" rel="noopener noreferrer" href="https://cpfanon.miraheze.org/wiki/" title="mh:cpfanon:">
+                                          <span style="font-family:trebuchet ms;">
+                                            <img class="mw-file-element" src="/CPFWLogo.png" srcset="//static.miraheze.org/cparchiveswiki/c/c5/CPFWLogo.png 1.5x" sizes="100vw" width="100" height="96" decoding="async">
+                                          </span>
+                                        </a>
+                                      </p>
+                                      <figcaption>&nbsp;</figcaption>
+                                    </figure>
+                                  </td>
+                                  <td>
+                                    <figure class="mw-halign-center" typeof="mw:File">
+                                      <p>
+                                        <a target="_blank" rel="noopener noreferrer" href="https://cpshops.miraheze.org/wiki/" title="mh:cpshops:">
+                                          <span style="font-family:trebuchet ms;">
+                                            <img class="mw-file-element" src="/CPSWLogo.png" srcset="//static.miraheze.org/cparchiveswiki/thumb/2/22/CPSWLogo.png/150px-CPSWLogo.png 1.5x, //static.miraheze.org/cparchiveswiki/2/22/CPSWLogo.png 2x" sizes="100vw" width="100" height="95" decoding="async">
+                                          </span>
+                                        </a>
+                                      </p>
+                                      <figcaption>&nbsp;</figcaption>
+                                    </figure>
+                                  </td>
+                                  <td>
+                                    <figure class="mw-halign-center" typeof="mw:File">
+                                      <p>
+                                        <a href="/wiki/Protocol:Main_Page" title="Protocol:Main Page">
+                                          <span style="font-family:trebuchet ms;">
+                                            <img class="mw-file-element" src="/CPPLogo.png" srcset="//static.miraheze.org/cparchiveswiki/9/98/CPPLogo.png 1.5x" sizes="100vw" width="100" height="100" decoding="async">
+                                          </span>
+                                        </a>
+                                      </p>
+                                      <figcaption>&nbsp;</figcaption>
+                                    </figure>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td>
+                                    <center>
+                                      <p>
+                                        <a class="extiw" target="_blank" rel="noopener noreferrer" href="https://meta.miraheze.org/wiki/cpw:" title="mh:cpw:">
+                                          <span style="font-family:trebuchet ms;">Club Penguin Wiki</span>
+                                        </a>
+                                      </p>
+                                    </center>
+                                  </td>
+                                  <td>
+                                    <center>
+                                      <p>
+                                        <a class="extiw" target="_blank" rel="noopener noreferrer" href="https://meta.miraheze.org/wiki/cpwpt:" title="mh:cpwpt:">
+                                          <span style="font-family:trebuchet ms;">Club Penguin Wiki Português</span>
+                                        </a>
+                                      </p>
+                                    </center>
+                                  </td>
+                                  <td>
+                                    <center>
+                                      <p>
+                                        <a class="extiw" target="_blank" rel="noopener noreferrer" href="https://cpfanon.miraheze.org/wiki/" title="mh:cpfanon:">
+                                          <span style="font-family:trebuchet ms;">Club Penguin Fanon Wiki</span>
+                                        </a>
+                                      </p>
+                                    </center>
+                                  </td>
+                                  <td>
+                                    <center>
+                                      <p>
+                                        <a class="extiw" target="_blank" rel="noopener noreferrer" href="https://cpshops.miraheze.org/wiki/" title="mh:cpshops:">
+                                          <span style="font-family:trebuchet ms;">
+                                            <span class="plainlinks">Club Penguin Shops</span>
+                                          </span>
+                                        </a>
+                                      </p>
+                                    </center>
+                                  </td>
+                                  <td>
+                                    <center>
+                                      <p>
+                                        <a class="new" href="/wiki/Protocol:Main_Page?action=edit&amp;redlink=1" title="Protocol:Main Page (page does not exist)">
+                                          <span style="font-family:trebuchet ms;">
+                                            <span class="plainlinks">Club Penguin Protocol</span>
+                                          </span>
+                                        </a>
+                                      </p>
+                                    </center>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <noscript>
+                  <img style="border-style:none;position:absolute;" src="https://cparchives.miraheze.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1">
+                </noscript>
+              </div>
+            </div>
+          </main>
+        </div>
+      </div>
+    </div>
+    <p></p>
+  </body>
+</html>
+</html>
