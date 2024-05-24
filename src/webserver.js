@@ -69,7 +69,7 @@ export default class WebServer {
     }
 
     start() {
-        let port = process.argv[2] || 3000;
+        let port = process.argv[2] || 80;
         this.server.listen(port);
 
         console.log("Server running on port " + port);
