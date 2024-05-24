@@ -4,16 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js -p 80",
-    "stop": "pm2 stop index",
-    "dev": "node index.js 3000"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "type": "module",
   "dependencies": {
     "crypto-js": "^4.2.0",
-    "jsdom": "^24.0.0",
-    "pm2": "^5.4.0"
+    "jsdom": "^24.0.0"
   }
 }

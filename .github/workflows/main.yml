@@ -25,8 +25,9 @@ jobs:
                   port: 22
                   script: |
                     cd cparchives
-                    sudo su
                     git pull
                     npm install
-                    npm run stop
-                    npm run start
+                    screen -S cparchives -X quit
+                    screen -dmS cparchives
+                    screen -S cparchives -X 'sudo npm run start'
+                    npm run start -p 80
