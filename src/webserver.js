@@ -142,6 +142,8 @@ export default class WebServer {
                         "Content-Type": contentType,
                         "Location": gdriveUrl
                     });
+                    response.end();
+                    return;
                 } else {
                     filePath = "./archives.clubpenguinwiki.info" + request.url;
                 }
