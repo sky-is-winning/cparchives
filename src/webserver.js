@@ -65,6 +65,7 @@ export default class WebServer {
         filteredText = filteredText.replaceAll("https://cparchives.miraheze.org/", "/");
         filteredText = filteredText.replaceAll("/static/images/archives/b/bc/Wiki.png", "/Wiki.png");
         filteredText = filteredText.replaceAll("<dl><dd><i>Club Penguin Wiki articles:  <b><big>·</big></b> </i></dd></dl>", "");
+        filteredText = filteredText.replaceAll("http://media1.clubpenguin.com", "/media1");
         return filteredText
     }
 
@@ -118,7 +119,6 @@ export default class WebServer {
                 var contentType = mime.lookup(request.url) || "text/html";
                 if (request.url.startsWith("/static/")) {
                     let gdriveUrl = this.getFileURLFromGDrive(request.url);
-                    let responseHtml = `<meta http-equiv="refresh" content="0; url=${gdriveUrl}">`;
                     let contentType = mime.lookup(filePath);
                     this.cache[request.url] = {
                         status: 302,
@@ -130,6 +130,17 @@ export default class WebServer {
                     });
                     response.end();
                     return;
+                } else if (request.url.startsWith("/media1/")) {
+                    let gdriveUrl = this.getFileURLFromGDrive(request.url, "media1.clubpenguin.com");
+                    let contentType = mime.lookup(filePath);
+                    this.cache[request.url] = {
+                        status: 302,
+                        location: gdriveUrl,
+                    };
+                    response.writeHead(302, {
+                        "Content-Type": contentType,
+                        "Location": gdriveUrl
+                    });
                 } else {
                     filePath = "./archives.clubpenguinwiki.info" + request.url;
                 }
@@ -171,9 +182,9 @@ export default class WebServer {
                     if (error) {
                         if (error.code == "ENOENT") {
                             fs.readFile(
-                                "./html/404.html",
+                                "./archives.clubpenguinwiki.info/404.html",
                                 function (error, content) {
-                                    response.writeHead(200, {
+                                    response.writeHead(404, {
                                         "Content-Type": contentType,
                                     });
                                     response.end(content, "utf-8");
@@ -213,9 +224,9 @@ export default class WebServer {
         });
     }
 
-    getFileURLFromGDrive(filePath) {
+    getFileURLFromGDrive(filePath, orignalDomain = "archives.clubpenguinwiki.info") {
         let fileArr = filePath.split("/");
-        let jsonObject = this.fileStructure["archives.clubpenguinwiki.info"];
+        let jsonObject = this.fileStructure[orignalDomain];
         for (let i = 0; i < fileArr.length; i++) {
             if (fileArr[i] == ""){
                 continue;
