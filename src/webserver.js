@@ -78,9 +78,9 @@ export default class WebServer {
             },
             {
                 pattern: "/static/images/archives/6/64/Favicon.ico",
-                replacement: "/"
+                replacement: "/favicon.ico"
             },
-            { pattern: /<dl\b[^>]*>.*?<\/dl>/gs, replacement: "" },
+            // { pattern: /<dl\b[^>]*>.*?<\/dl>/gs, replacement: "" },
             {
                 pattern: "http://media1.clubpenguin.com",
                 replacement: "/media1"
