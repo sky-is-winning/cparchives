@@ -47,6 +47,11 @@
             </url>
         
             <url>
+                <loc>https://archives.skyiswinni.ng/favicon.ico</loc>
+                <lastmod>2024-05-27T13:22:24.066Z</lastmod>
+            </url>
+        
+            <url>
                 <loc>https://archives.skyiswinni.ng/IRC.png</loc>
                 <lastmod>2024-05-27T12:29:34.027Z</lastmod>
             </url>
@@ -113,7 +118,7 @@
         
             <url>
                 <loc>https://archives.skyiswinni.ng/sitemap.xml</loc>
-                <lastmod>2024-05-27T13:15:39.606Z</lastmod>
+                <lastmod>2024-05-27T13:29:12.432Z</lastmod>
             </url>
         
             <url>
@@ -4132,4 +4137,3 @@
             </url>
         
     </urlset>
-</xml>

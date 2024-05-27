@@ -43,8 +43,7 @@ async function createSitemap(dir, baseURL) {
         `
             )
             .join("")}
-    </urlset>
-</xml>`;
+    </urlset>`;
 
         await fs.writeFile("archives.clubpenguinwiki.info/sitemap.xml", sitemapXML);
         console.log("Sitemap created successfully!");
