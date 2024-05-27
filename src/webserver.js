@@ -131,7 +131,8 @@ export default class WebServer {
                     response.end();
                     return;
                 } else if (request.url.startsWith("/media1/")) {
-                    let gdriveUrl = this.getFileURLFromGDrive(request.url, "media1.clubpenguin.com");
+                    let url = request.url.split("/media1")[1]
+                    let gdriveUrl = this.getFileURLFromGDrive(url, "media1.clubpenguin.com");
                     let contentType = mime.lookup(filePath);
                     this.cache[request.url] = {
                         status: 302,
