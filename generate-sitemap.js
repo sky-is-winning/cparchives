@@ -1,5 +1,5 @@
-import fs from 'fs/promises';
-import path from 'path';
+import fs from "fs/promises";
+import path from "path";
 
 async function getFiles(dir) {
     let results = [];
@@ -21,30 +21,36 @@ async function getFiles(dir) {
 async function createSitemap(dir, baseURL) {
     try {
         const files = await getFiles(dir);
-        const sitemap = await Promise.all(files.map(async (file) => {
-            const stats = await fs.stat(file);
-            return {
-                loc: new URL(path.relative(dir, file).replace(/\\/g, '/'), baseURL).href,
-                lastmod: stats.mtime.toISOString(),
-            };
-        }));
+        const sitemap = await Promise.all(
+            files.map(async (file) => {
+                const stats = await fs.stat(file);
+                return {
+                    loc: new URL(path.relative(dir, file).replace(/\\/g, "/"), baseURL).href,
+                    lastmod: stats.mtime.toISOString()
+                };
+            })
+        );
 
         const sitemapXML = `<?xml version="1.0" encoding="UTF-8"?>
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-        ${sitemap.map(entry => `
+        ${sitemap
+            .map(
+                (entry) => `
             <url>
                 <loc>${entry.loc}</loc>
                 <lastmod>${entry.lastmod}</lastmod>
             </url>
-        `).join('')}
+        `
+            )
+            .join("")}
     </urlset>
 </xml>`;
 
-        await fs.writeFile('archives.clubpenguinwiki.info/sitemap.xml', sitemapXML);
-        console.log('Sitemap created successfully!');
+        await fs.writeFile("archives.clubpenguinwiki.info/sitemap.xml", sitemapXML);
+        console.log("Sitemap created successfully!");
     } catch (err) {
-        console.error('Error creating sitemap:', err);
+        console.error("Error creating sitemap:", err);
     }
 }
 
-createSitemap('archives.clubpenguinwiki.info', 'https://archives.skyiswinni.ng/');
+createSitemap("archives.clubpenguinwiki.info", "https://archives.skyiswinni.ng/");
