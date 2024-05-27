@@ -64,7 +64,7 @@ export default class WebServer {
         filteredText = filteredText.replaceAll("//static.miraheze.org/cparchiveswiki/", "/static/images/archives/");
         filteredText = filteredText.replaceAll("https://cparchives.miraheze.org/", "/");
         filteredText = filteredText.replaceAll("/static/images/archives/b/bc/Wiki.png", "/Wiki.png");
-        filteredText = filteredText.replaceAll(new RegExp("<dl\b[^>]*>(.*?)<\/dl>"), "");
+        filteredText = filteredText.replaceAll(/<dl\b[^>]*>.*?<\/dl>/gs, "");
         filteredText = filteredText.replaceAll("http://media1.clubpenguin.com", "/media1");
         return filteredText
     }
