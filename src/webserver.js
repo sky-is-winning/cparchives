@@ -176,6 +176,9 @@ export default class WebServer {
                         return;
                     } else {
                         filePath = request.url;
+                        if (request.url.includes(".")){
+                            filePath = "./archives.clubpenguinwiki.info" + request.url
+                        }
                     }
 
                     if (filePath.includes("/thumb")) {
