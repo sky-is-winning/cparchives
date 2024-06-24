@@ -49,29 +49,29 @@
 |-
 |[[Media:RoomsVillage-HalloweenParty2007.swf|Halloween Party]]||2007
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/Christmas_Files/Ski-Village.swf Christmas Party]||2007
+|[/swf.cpcheats.info/rooms/unknown_year/Christmas_Files/Ski-Village.swf Christmas Party]||2007
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/Water_Party_08/SkiVillage.swf Submarine Party]||2008
+|[/swf.cpcheats.info/rooms/2008/Water_Party_08/SkiVillage.swf Submarine Party]||2008
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/st._patricks_day_08/0314village43.swf St. Patrick's Day Party]||2008
+|[/swf.cpcheats.info/rooms/2008/st._patricks_day_08/0314village43.swf St. Patrick's Day Party]||2008
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/april_fools_08/0328village43.swf April Fools' Party]||2008
+|[/swf.cpcheats.info/rooms/2008/april_fools_08/0328village43.swf April Fools' Party]||2008
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/party_after_rebuild/0425village50.swf Rockhopper's Arrival Party]||2008
+|[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/party_after_rebuild/0425village50.swf Rockhopper's Arrival Party]||2008
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/medieval_party/0516village50.swf Medieval Party]||2008
+|[/swf.cpcheats.info/rooms/unknown_year/medieval_party/0516village50.swf Medieval Party]||2008
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/senseis_scavenger_hunt_september_2009/village.swf Fire Scavenger Hunt]||2009
+|[/swf.cpcheats.info/rooms/2009/senseis_scavenger_hunt_september_2009/village.swf Fire Scavenger Hunt]||2009
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/halloween_october_2009/village.swf Halloween Party]||2009
+|[/swf.cpcheats.info/rooms/2009/halloween_october_2009/village.swf Halloween Party]||2009
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/village.swf Holiday Party]||2009
+|[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/village.swf Holiday Party]||2009
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/puffle_party_febuary/village.swf Puffle Party]||2010
+|[/swf.cpcheats.info/rooms/2010/puffle_party_febuary/village.swf Puffle Party]||2010
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/mountain_expedition_august/before_party/village.swf Mountain Expedition (Construction)]||2010
+|[/swf.cpcheats.info/rooms/2010/mountain_expedition_august/before_party/village.swf Mountain Expedition (Construction)]||2010
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/halloween_october/village.swf Halloween Party]||2010
+|[/swf.cpcheats.info/rooms/2010/halloween_october/village.swf Halloween Party]||2010
 |-
 |[[Media:StormVillage.swf|The Great Storm (Before Rain)]]||2010
 |-
@@ -132,19 +132,19 @@
 !Event
 !Year
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/medieval_party_2009/village.swf Medieval Party]||2009
+|[/swf.cpcheats.info/rooms/2009/medieval_party_2009/village.swf Medieval Party]||2009
 |-
 |[[Media:FestivalOfFlightVillage.swf|Festival of Flight]]||2009
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/the_fair_september_2009/village.swf The Fair]||2009
+|[/swf.cpcheats.info/rooms/2009/the_fair_september_2009/village.swf The Fair]||2009
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/the_maze_game_party_november_2009/village.swf Winter Party]||2009
+|[/swf.cpcheats.info/rooms/2009/the_maze_game_party_november_2009/village.swf Winter Party]||2009
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/village.swf April Fools' Party]||2010
+|[/swf.cpcheats.info/rooms/2010/april_fools_party_april/village.swf April Fools' Party]||2010
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/medieval_party_may/village.swf Medieval Party]||2010
+|[/swf.cpcheats.info/rooms/2010/medieval_party_may/village.swf Medieval Party]||2010
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/epf_popcorn/village.swf Popcorn Explosion (May 19-24)]||2010
+|[/swf.cpcheats.info/rooms/2010/epf_popcorn/village.swf Popcorn Explosion (May 19-24)]||2010
 |-
 |[[Media:MedievalParty2011Village.swf|Medieval Party]]||2011
 |-
@@ -160,19 +160,19 @@
 |-
 |[[Media:WinterFiesta2009Village.swf|Winter Fiesta]]||2009
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/st_patricks_party_2009/village.swf St. Patrick's Day Party]||2009
+|[/swf.cpcheats.info/rooms/2009/st_patricks_party_2009/village.swf St. Patrick's Day Party]||2009
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/village.swf Music Jam]||2009
+|[/swf.cpcheats.info/rooms/2009/music_jam_july_2009/village.swf Music Jam]||2009
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/village.swf Island Adventure Party]||2010
+|[/swf.cpcheats.info/rooms/2010/island_adventure_party/village.swf Island Adventure Party]||2010
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/epf_popcorn/cleanup/village.swf Popcorn Explosion (May 24-27)]||2010
+|[/swf.cpcheats.info/rooms/2010/epf_popcorn/cleanup/village.swf Popcorn Explosion (May 24-27)]||2010
 |-
 |[[Media:RoomsVillage-MusicJam2010.swf|Music Jam]]||2010
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/mountain_expedition_august/village.swf Mountain Expedition]||2010
+|[/swf.cpcheats.info/rooms/2010/mountain_expedition_august/village.swf Mountain Expedition]||2010
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/the_fair_september/village.swf The Fair]||2010
+|[/swf.cpcheats.info/rooms/2010/the_fair_september/village.swf The Fair]||2010
 |-
 |[[Media:TheGreatSnowRaceVillage.swf|The Great Snow Race]]||2011
 |-

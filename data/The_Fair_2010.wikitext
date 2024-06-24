@@ -57,8 +57,8 @@
 *[[Media:Music222.swf|Games]]
 
 ==Tickets==
-*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/the_fair_september/tickets.swf Ticket Info]
-*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/the_fair_september/ticket_icon.swf Ticket Icon]
+*[/swf.cpcheats.info/rooms/2010/the_fair_september/tickets.swf Ticket Info]
+*[/swf.cpcheats.info/rooms/2010/the_fair_september/ticket_icon.swf Ticket Icon]
 
 ==Login Screens==
 *[[Media:LoginFairParty2010.swf|Login Screen #1]]

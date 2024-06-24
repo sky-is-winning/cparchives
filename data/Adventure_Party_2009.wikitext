@@ -10,9 +10,9 @@
 {|class="wikitable" border="1"
 !Room!!Music
 |-
-|[[Media:RoomsBeach-AdventureParty2009Const.swf|Beach]] ([http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/beach.swf With the Migrator])||N/A
+|[[Media:RoomsBeach-AdventureParty2009Const.swf|Beach]] ([/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/beach.swf With the Migrator])||N/A
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/shipnest.swf Crow's Nest]||N/A
+|[/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/shipnest.swf Crow's Nest]||N/A
 |-
 |[[Media:RoomsCove-AdventureParty2009Const.swf|Cove]]||N/A
 |-
@@ -20,11 +20,11 @@
 |-
 |[[Media:RoomsForest-AdventureParty2009Const.swf|Forest]]||N/A
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/ship.swf Pirate Ship]||N/A
+|[/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/ship.swf Pirate Ship]||N/A
 |-
 |[[Media:RoomsPlaza-AdventureParty2009Const.swf|Plaza]]||N/A
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/ship.swf Ship's Hold]||N/A
+|[/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/ship.swf Ship's Hold]||N/A
 |-
 |[[Media:RoomsForts-AdventureParty2009Const.swf|Snow Forts]]||N/A
 |-
@@ -80,8 +80,8 @@
 </center>
 
 ==Telescope==
-*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/telescope/comingfaraway.swf Far away]
-*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/telescope/comingclose.swf Close]
+*[/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/telescope/comingfaraway.swf Far away]
+*[/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/telescope/comingclose.swf Close]
 
 {{Parties}}
 

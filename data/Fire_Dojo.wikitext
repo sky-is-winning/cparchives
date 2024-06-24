@@ -25,7 +25,7 @@
 !Music
 !Year
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/dojofire.swf Holiday Party 2009]||||2009
+|[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/dojofire.swf Holiday Party 2009]||||2009
 |-
 |[[Media:HalloweenParty2010DojoFire.swf|Halloween Party 2010]]||||2010
 |-
@@ -33,7 +33,7 @@
 |-
 |[[Media:HalloweenParty2011Dojofire.swf|Halloween Party 2011]]||||2011
 |-
-|[http://archives.clubpenguinwiki.info/static/images/archives/e/e8/HolidayParty2011DojoFire.swf Holiday Party 2011]||||2011
+|[/static/images/archives/e/e8/HolidayParty2011DojoFire.swf Holiday Party 2011]||||2011
 |}
 
 

@@ -7,11 +7,11 @@
 {|class="wikitable" border="1"
 !January!!February!!March!!April!!May!!June!!July!!August!!September!!October!!November!!December
 |-
-|colspan=8 {{n/a}}||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/catalogues/old_2007-2008/sport_0709.swf 2007]||{{n/a}}||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/catalogues/old_2007-2008/sport_0711.swf 2007]||{{n/a}}
+|colspan=8 {{n/a}}||[/swf.cpcheats.info/catalogues/old_2007-2008/sport_0709.swf 2007]||{{n/a}}||[/swf.cpcheats.info/catalogues/old_2007-2008/sport_0711.swf 2007]||{{n/a}}
 |-
 |{{n/a}}||[[Media:Sport 0802.swf|2008]]||{{n/a}}||style="background: #ececec; color: grey;" class="table-na"|2008||{{n/a}}||[[Media:SASJun2008.swf|2008]]||{{n/a}}||[[Media:SportAug08.swf|2008]]||colspan=2 {{n/a}}||[[Media:SASNov2008.swf|2008]]||{{n/a}}
 |-
-|[[Media:SASJan2009.swf|2009]]||{{n/a}}||[[Media:SASMar2009.swf|2009]]||{{n/a}}||style="background: #ececec; color: grey;" class="table-na"|2009||colspan=2 {{n/a}}||[[Media:SportAug09.swf|2009]]||colspan=2 {{n/a}}||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/catalogues/old_2009/sport.swf 2009]||{{n/a}}
+|[[Media:SASJan2009.swf|2009]]||{{n/a}}||[[Media:SASMar2009.swf|2009]]||{{n/a}}||style="background: #ececec; color: grey;" class="table-na"|2009||colspan=2 {{n/a}}||[[Media:SportAug09.swf|2009]]||colspan=2 {{n/a}}||[/swf.cpcheats.info/catalogues/old_2009/sport.swf 2009]||{{n/a}}
 |-
 |{{n/a}}||style="background: #ececec; color: grey;" class="table-na"|2010||colspan=2 {{n/a}}||[[Media:May10Sport.swf|2010]]||colspan=3 {{n/a}}||[[Media:September10Sport.swf|2010]]||colspan=2 {{n/a}}||[[Media:December10Sport.swf|2010]]
 |-

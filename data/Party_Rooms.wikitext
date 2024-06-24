@@ -26,7 +26,7 @@
 |-
 |[[Puffle Party 2009|Puffle Party]]||[[Puffle Feeding Area]]||[[Media:Music261.swf|261]]
 |-
-|[[St. Patrick's Day Party 2009|St. Patrick's Day Party]]||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/stpatricksparty2009/party.swf Leprechaun House]||[[Media:Music208.swf|208]]
+|[[St. Patrick's Day Party 2009|St. Patrick's Day Party]]||[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/party.swf Leprechaun House]||[[Media:Music208.swf|208]]
 |-
 |[[Penguin Play Awards 2009|Penguin Play Awards]]||[[Media:RoomsParty-PenguinPlayAwards2009.swf|Backstage]]||[[Media:Music40.swf|40]]
 |-
@@ -76,7 +76,7 @@
 |-
 |[[Penguin Play Awards 2010|Penguin Play Awards]]||[[Back Stage]]||[[Media:Music40.swf|40]]
 |-
-|[[April Fools' Party 2010|April Fools' Party]]||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/party.swf A Silly Place]||[[Media:Music261.swf|261]]
+|[[April Fools' Party 2010|April Fools' Party]]||[/swf.cpcheats.info/rooms/2010/april_fools_party_april/party.swf A Silly Place]||[[Media:Music261.swf|261]]
 |-
 |rowspan="3"|[[Medieval Party 2010|Medieval Party]]||[[Treetop Fort]]||
 |-
@@ -84,7 +84,7 @@
 |-
 |[[Ye Knight's Quest 2]]||
 |-
-|rowspan="2"|[[Island Adventure Party 2010|Island Adventure Party]]||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/party.swf Tree Forts]||[[Media:Music267.swf|267]]
+|rowspan="2"|[[Island Adventure Party 2010|Island Adventure Party]]||[/swf.cpcheats.info/rooms/2010/island_adventure_party/party.swf Tree Forts]||[[Media:Music267.swf|267]]
 |-
 |[[Ship Battle|Ships]]||[[Media:Music289.swf|289]]
 |-

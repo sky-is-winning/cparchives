@@ -1,13 +1,13 @@
 
 
 ==Rooms==
-*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/penguin_play_awards_march/dock.swf Dock]
-*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/penguin_play_awards_march/mtn.swf Mountain]
+*[/swf.cpcheats.info/rooms/2010/penguin_play_awards_march/dock.swf Dock]
+*[/swf.cpcheats.info/rooms/2010/penguin_play_awards_march/mtn.swf Mountain]
 *[[media:RoomsParty-PenguinPlayAwards2010.swf|Back Stage]]
-*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/penguin_play_awards_march/pizza.swf Pizza Parlor]
-*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/penguin_play_awards_march/plaza.swf Plaza]
+*[/swf.cpcheats.info/rooms/2010/penguin_play_awards_march/pizza.swf Pizza Parlor]
+*[/swf.cpcheats.info/rooms/2010/penguin_play_awards_march/plaza.swf Plaza]
 *[[media:RoomsStage-PenguinPlayAwards2010.swf|Stage]]
-*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/penguin_play_awards_march/town.swf Town]
+*[/swf.cpcheats.info/rooms/2010/penguin_play_awards_march/town.swf Town]
 
 ==Music==
 *[[Media:Music40.swf|Stage and Backstage]]

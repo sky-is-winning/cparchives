@@ -1,12 +1,12 @@
 
 ==Current==
-*[http://media1.clubpenguin.com/play/v2/games/fire/fire.swf Card-Jitsu Fire]
+*[/media1/play/v2/games/fire/fire.swf Card-Jitsu Fire]
 
 ===Assets===
-*[http://media1.clubpenguin.com/play/v2/games/fire/assets/avatar.swf Avatar]
+*[/media1/play/v2/games/fire/assets/avatar.swf Avatar]
 
 ===English===
-*[http://media1.clubpenguin.com/play/v2/games/fire/lang/en/locale.swf English Locale]
+*[/media1/play/v2/games/fire/lang/en/locale.swf English Locale]
 
 ==Archived==
 ===Instructions===

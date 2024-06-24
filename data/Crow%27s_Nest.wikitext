@@ -21,13 +21,13 @@
 {|class="wikitable" border="1"
 !SWF!!Years!!Music
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/coins_for_change/shipnest.swf Christmas Party 2008]||2008||{{N/a}}
+|[/swf.cpcheats.info/rooms/2009/christmas_december_2009/coins_for_change/shipnest.swf Christmas Party 2008]||2008||{{N/a}}
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/shipnest.swf Crow's Nest With Trees]||2009||{{N/a}}
+|[/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/shipnest.swf Crow's Nest With Trees]||2009||{{N/a}}
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/the_fair_september_2009/shipnest.swf Crow's Nest]||2009||{{N/a}}
+|[/swf.cpcheats.info/rooms/2009/the_fair_september_2009/shipnest.swf Crow's Nest]||2009||{{N/a}}
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/shipnest.swf Holiday Party 2009]||2009||{{N/a}}
+|[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/shipnest.swf Holiday Party 2009]||2009||{{N/a}}
 |}
 </center>
 

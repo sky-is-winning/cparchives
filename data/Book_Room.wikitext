@@ -34,11 +34,11 @@
 |-
 |[[Media:RoomsBook-4thAnniversary.swf|4th Anniversary Party]]||||2009
 |-
-|<span class = "plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/book.swf Holiday Party]</span>||||2009
+|<span class = "plainlinks">[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/book.swf Holiday Party]</span>||||2009
 |-
-|<span class = "plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/book.swf Earth Day]</span>||||2010
+|<span class = "plainlinks">[/swf.cpcheats.info/rooms/2010/earth_day_april/book.swf Earth Day]</span>||||2010
 |-
-|<span class = "plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/medieval_party_may/book.swf Medieval Party]</span>||||2010
+|<span class = "plainlinks">[/swf.cpcheats.info/rooms/2010/medieval_party_may/book.swf Medieval Party]</span>||||2010
 |-
 |[[Media:5thAnniversaryPartyBook.swf|5th Anniversary Party]]||||2010
 |-
@@ -92,7 +92,7 @@
 {|class="wikitable" style="margin: 1em auto;"
 !Event!!Music!!Year
 |-
-|<span class = "plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/halloween_october_2009/book.swf Halloween Party]</span>||||2009
+|<span class = "plainlinks">[/swf.cpcheats.info/rooms/2009/halloween_october_2009/book.swf Halloween Party]</span>||||2009
 |-
 |[[Media:HalloweenParty2011Book.swf|Halloween Party]]||||2011
 |-

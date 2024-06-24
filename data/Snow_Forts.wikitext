@@ -61,25 +61,25 @@
 |-
 |[[Media:2009pufflepartysnowforts.swf|Puffle Party 2009]]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/stpatricksparty2009/forts.swf St. Patrick's Day Party 2009]
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/forts.swf St. Patrick's Day Party 2009]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/medieval_party_2009/forts.swf Medieval Party 2009]
+|[/swf.cpcheats.info/rooms/2009/medieval_party_2009/forts.swf Medieval Party 2009]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/adventure_party_june_2009/rooms_before_party/forts.swf Adventure Party 2009 (Construction)]
+|[/swf.cpcheats.info/rooms/2009/adventure_party_june_2009/rooms_before_party/forts.swf Adventure Party 2009 (Construction)]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/adventure_party_june_2009/forts.swf Adventure Party 2009]
+|[/swf.cpcheats.info/rooms/2009/adventure_party_june_2009/forts.swf Adventure Party 2009]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/construction/forts.swf Music Jam 2009 (Construction)]
+|[/swf.cpcheats.info/rooms/2009/music_jam_july_2009/construction/forts.swf Music Jam 2009 (Construction)]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/forts.swf Music Jam 2009]
+|[/swf.cpcheats.info/rooms/2009/music_jam_july_2009/forts.swf Music Jam 2009]
 |-
 |[[Media:FestivalOfFlightForts.swf|Festival of Flight]]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/the_fair_september_2009/forts.swf The Fair 2009]
+|[/swf.cpcheats.info/rooms/2009/the_fair_september_2009/forts.swf The Fair 2009]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/halloween_october_2009/forts.swf Halloween Party 2009]
+|[/swf.cpcheats.info/rooms/2009/halloween_october_2009/forts.swf Halloween Party 2009]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/forts.swf Holiday Party 2009]
+|[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/forts.swf Holiday Party 2009]
 |}
 </center>
 
@@ -88,15 +88,15 @@
 {|class="wikitable" border="1"
 !Event
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/puffle_party_febuary/forts.swf Puffle Party 2010]
+|[/swf.cpcheats.info/rooms/2010/puffle_party_febuary/forts.swf Puffle Party 2010]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/forts.swf April Fools Party 2010]
+|[/swf.cpcheats.info/rooms/2010/april_fools_party_april/forts.swf April Fools Party 2010]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/medieval_party_may/before_party/forts.swf Medieval Party 2010 (Construction)]
+|[/swf.cpcheats.info/rooms/2010/medieval_party_may/before_party/forts.swf Medieval Party 2010 (Construction)]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/medieval_party_may/forts.swf Medieval Party 2010]
+|[/swf.cpcheats.info/rooms/2010/medieval_party_may/forts.swf Medieval Party 2010]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/forts.swf Island Adventure Party 2010]
+|[/swf.cpcheats.info/rooms/2010/island_adventure_party/forts.swf Island Adventure Party 2010]
 |-
 |[[Media:RoomsForts-MusicJam2010.swf|Music Jam 2010]]
 |-

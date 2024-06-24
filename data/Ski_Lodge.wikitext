@@ -35,19 +35,19 @@
 !Event
 !Year
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/Christmas_Files/Ski-Lodge.swf Christmas Party]||2007
+|[/swf.cpcheats.info/rooms/unknown_year/Christmas_Files/Ski-Lodge.swf Christmas Party]||2007
 |-
 |[[Media:ArtworkRooms0328Lodge46.swf|April Fools' Party]]||2008
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/medieval_party/0516lodge50.swf Medieval Party]||2008
+|[/swf.cpcheats.info/rooms/unknown_year/medieval_party/0516lodge50.swf Medieval Party]||2008
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/halloween_october_2009/lodge.swf Halloween Party]||2009
+|[/swf.cpcheats.info/rooms/2009/halloween_october_2009/lodge.swf Halloween Party]||2009
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/lodge.swf Christmas Party]||2009
+|[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/lodge.swf Christmas Party]||2009
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/lodge.swf April Fools' Party]||2010
+|[/swf.cpcheats.info/rooms/2010/april_fools_party_april/lodge.swf April Fools' Party]||2010
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/medieval_party_may/lodge.swf Medieval Party]||2010
+|[/swf.cpcheats.info/rooms/2010/medieval_party_may/lodge.swf Medieval Party]||2010
 |-
 |[[Media:HalloweenParty2010Lodge.swf|Halloween Party]]||2010
 |-

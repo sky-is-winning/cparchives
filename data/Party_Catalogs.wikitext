@@ -1,11 +1,11 @@
 ==Current==
 These are the Latest versions of each language party catalog.
 
-*<span class="plainlinks">[http://media1.clubpenguin.com/play/v2/content/local/en/catalogues/party.swf English]</span>
-*<span class="plainlinks">[http://media1.clubpenguin.com/play/v2/content/local/pt/catalogues/party.swf Português]</span>
-*<span class="plainlinks">[http://media1.clubpenguin.com/play/v2/content/local/es/catalogues/party.swf Español]</span>
-*<span class="plainlinks">[http://media1.clubpenguin.com/play/v2/content/local/fr/catalogues/party.swf Français]</span>
-*<span class="plainlinks">[http://media1.clubpenguin.com/play/v2/content/local/de/catalogues/party.swf Deutsch]</span>
+*<span class="plainlinks">[/media1/play/v2/content/local/en/catalogues/party.swf English]</span>
+*<span class="plainlinks">[/media1/play/v2/content/local/pt/catalogues/party.swf Português]</span>
+*<span class="plainlinks">[/media1/play/v2/content/local/es/catalogues/party.swf Español]</span>
+*<span class="plainlinks">[/media1/play/v2/content/local/fr/catalogues/party.swf Français]</span>
+*<span class="plainlinks">[/media1/play/v2/content/local/de/catalogues/party.swf Deutsch]</span>
 
 
 ==Party Catalogs==
@@ -32,7 +32,7 @@ If there is a spot on the chart that has text that '''isn't''' a link, than that
 |-
 |2009||Box Catalog||Loja de Caixas||Catalogue de Boites||'''N/A'''||'''N/A'''
 |-
-|2009||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/medieval_party_2009/party_catalogue.swf Medieval Catalog]||Catálogo Medieval||Catalogue de Boites||'''N/A'''||'''N/A'''
+|2009||[/swf.cpcheats.info/rooms/2009/medieval_party_2009/party_catalogue.swf Medieval Catalog]||Catálogo Medieval||Catalogue de Boites||'''N/A'''||'''N/A'''
 |-
 |2009||Music Catalog||Catálogo Pinguim Afinado||Catalogue de Boites||'''N/A'''||'''N/A'''
 |-

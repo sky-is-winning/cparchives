@@ -17,7 +17,7 @@
 !Event
 !Year(s)
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/shipquarters.swf Holiday Party]||2009
+|[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/shipquarters.swf Holiday Party]||2009
 |-
 |[[Media:HolidayParty2010ShipQuarters.swf|Holiday Party]]||2010
 |-

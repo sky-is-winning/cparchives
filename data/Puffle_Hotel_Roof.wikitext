@@ -7,7 +7,7 @@ __TOC__
 {|class="wikitable" border="1"
 !Current
 |-
-|<span class="plainlinks">[http://media1.clubpenguin.com/play/v2/content/global/rooms/hotelroof.swf Room]</span>
+|<span class="plainlinks">[/media1/play/v2/content/global/rooms/hotelroof.swf Room]</span>
 |}
 </center>
 

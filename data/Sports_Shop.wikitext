@@ -27,9 +27,9 @@
 !Year
 !Music
 |-
-|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/halloween_october_2009/sport.swf Halloween Party]</span>||2009||{{n/a}}
+|<span class="plainlinks">[/swf.cpcheats.info/rooms/2009/halloween_october_2009/sport.swf Halloween Party]</span>||2009||{{n/a}}
 |-
-|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/senseis_scavenger_hunt_september_2009/sport.swf Fire Scavenger Hunt]</span>||2009||{{n/a}}
+|<span class="plainlinks">[/swf.cpcheats.info/rooms/2009/senseis_scavenger_hunt_september_2009/sport.swf Fire Scavenger Hunt]</span>||2009||{{n/a}}
 |-
 |[[Media:RoomsSport-PopcornExplosion.swf|Popcorn Explosion (May 18 - 24)]]||2010||{{n/a}}
 |}

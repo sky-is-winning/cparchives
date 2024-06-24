@@ -174,6 +174,20 @@ export default class WebServer {
                         });
                         response.end();
                         return;
+                    } else if (request.url.startsWith("/swf.cpcheats.info/")) {
+                        let url = request.url.split("/swf.cpcheats.info/")[1];
+                        let gdriveUrl = this.getFileURLFromGDrive(url, "swf.cpcheats.info");
+                        let contentType = mime.lookup(filePath);
+                        this.cache[request.url] = {
+                            status: 302,
+                            location: gdriveUrl
+                        };
+                        response.writeHead(302, {
+                            "Content-Type": contentType,
+                            Location: gdriveUrl
+                        });
+                        response.end();
+                        return;
                     } else {
                         filePath = request.url;
                         if (request.url.includes(".")){

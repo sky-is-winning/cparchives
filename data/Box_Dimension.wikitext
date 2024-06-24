@@ -25,7 +25,7 @@
 {|class="wikitable"
 !Party
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/normal_rooms/all_no_partys/boxdimension.swf After the Adventure Party 2009]
+|[/swf.cpcheats.info/rooms/normal_rooms/all_no_partys/boxdimension.swf After the Adventure Party 2009]
 |-
 |[[Media:PuffleParty2011ConstBoxDimension.swf|Puffle Party 2011 Construction]]
 |-

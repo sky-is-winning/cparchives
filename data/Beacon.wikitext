@@ -31,23 +31,23 @@
 !Music
 !Year
 |-
-|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/FallFairFiles/Beacon.swf Fall Fair]</span>||||2007
+|<span class="plainlinks">[/swf.cpcheats.info/rooms/unknown_year/FallFairFiles/Beacon.swf Fall Fair]</span>||||2007
 |-
-|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/Christmas_Files/Beacon.swf Christmas Party]</span>||||2007
+|<span class="plainlinks">[/swf.cpcheats.info/rooms/unknown_year/Christmas_Files/Beacon.swf Christmas Party]</span>||||2007
 |-
-|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/Water_Party_08/Beacon.swf Submarine Party]</span>||||2008
+|<span class="plainlinks">[/swf.cpcheats.info/rooms/2008/Water_Party_08/Beacon.swf Submarine Party]</span>||||2008
 |-
-|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/april_fools_08/0328beacon42.swf April Fools' Party]</span>||||2008
+|<span class="plainlinks">[/swf.cpcheats.info/rooms/2008/april_fools_08/0328beacon42.swf April Fools' Party]</span>||||2008
 |-
-|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/medieval_party/0516beacon50.swf Medieval Party]</span>||||2008
+|<span class="plainlinks">[/swf.cpcheats.info/rooms/unknown_year/medieval_party/0516beacon50.swf Medieval Party]</span>||||2008
 |-
 |[[Media:RoomsBeacon-ChristmasParty2008.swf|Christmas Party]]||[[Media:Music254.swf|254]]||2008
 |-
-|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220beacon.swf Puffle Party]</span>||||2009
+|<span class="plainlinks">[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220beacon.swf Puffle Party]</span>||||2009
 |-
-|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/penguin_awards_2009/beacon.swf Snow Sculpture Showcase]</span>||||2009
+|<span class="plainlinks">[/swf.cpcheats.info/rooms/2009/penguin_awards_2009/beacon.swf Snow Sculpture Showcase]</span>||||2009
 |-
-|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/medieval_party_2009/beacon.swf Medieval Party]</span>||||2009
+|<span class="plainlinks">[/swf.cpcheats.info/rooms/2009/medieval_party_2009/beacon.swf Medieval Party]</span>||||2009
 |-
 |[[Media:FestivalOfFlightConstBeacon.swf|Festival of Flight (construction)]]||{{n/a}}||2009
 |-

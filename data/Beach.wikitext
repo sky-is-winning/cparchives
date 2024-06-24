@@ -30,45 +30,45 @@ __TOC__
 |-
 |rowspan="2" align="center"|'''January'''||colspan="2" rowspan="14" {{n/a}}||rowspan="2" {{n/a|Winter Fiesta}}||rowspan="2" {{n/a|???}}||[[Media:Beach44.swf|Winter Fiesta]]||[[Media:Music206.swf|206]]||rowspan="2"|[[Media:WinterFiesta2009Beach.swf|Winter Fiesta]]||rowspan="2"|[[Media:Music229.swf|229]]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/beach45afterrockycrash.swf Save the Migrator 1]||{{n/a|???}}
+|[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/beach45afterrockycrash.swf Save the Migrator 1]||{{n/a|???}}
 |-
 |rowspan="5" align="center"|'''February'''||rowspan="5" {{n/a|Festival of Snow}}||rowspan="5" {{n/a|???}}||[[Media:RoomsBeach-SubMarine.swf|Sub-Marine Party]]||{{n/a|???}}||rowspan="5" colspan="2" {{n/a}}
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0403beach45.swf Save the Migrator 2]||{{n/a|???}}
+|[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0403beach45.swf Save the Migrator 2]||{{n/a|???}}
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0403beach45.swf Save the Migrator 3]||{{n/a|???}}
+|[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0403beach45.swf Save the Migrator 3]||{{n/a|???}}
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0223beach45.swf Save the Migrator 4]||{{n/a|???}}
+|[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0223beach45.swf Save the Migrator 4]||{{n/a|???}}
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0229beach45.swf Save the Migrator 5]||{{n/a|???}}
+|[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0229beach45.swf Save the Migrator 5]||{{n/a|???}}
 |-
-|rowspan="4" align="center"|'''March'''||rowspan="4" {{n/a|April Fools' Party}}||rowspan="4" {{n/a|???}}||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0307beach45.swf Save the Migrator 6]||{{n/a|???}}||rowspan="4" colspan="2" {{n/a}}
+|rowspan="4" align="center"|'''March'''||rowspan="4" {{n/a|April Fools' Party}}||rowspan="4" {{n/a|???}}||[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0307beach45.swf Save the Migrator 6]||{{n/a|???}}||rowspan="4" colspan="2" {{n/a}}
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0320beach45.swf Save the Migrator 7]||{{n/a|???}}
+|[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0320beach45.swf Save the Migrator 7]||{{n/a|???}}
 |-
 |[http://swf.cpcheats.info/rooms/2008/april_fools_08/0328beach46.swf April Fools' Party]||{{n/a|???}}
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0327beach45.swf Save the Migrator 9]||{{n/a|???}}
+|[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/0327beach45.swf Save the Migrator 9]||{{n/a|???}}
 |-
-|rowspan="2" align="center"|'''April'''||rowspan="2" colspan="2" {{n/a}}||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/party_after_rebuild/0425beach50.swf Rockhopper's Arrival Party]||{{n/a|???}}||rowspan="2"|[[Media:RoomsBeach-AprilFoolsParty2009.swf|April Fools' Party]]||rowspan="2"|[[Media:Music232.swf|232]]
+|rowspan="2" align="center"|'''April'''||rowspan="2" colspan="2" {{n/a}}||[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/party_after_rebuild/0425beach50.swf Rockhopper's Arrival Party]||{{n/a|???}}||rowspan="2"|[[Media:RoomsBeach-AprilFoolsParty2009.swf|April Fools' Party]]||rowspan="2"|[[Media:Music232.swf|232]]
 |-
-|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/penguin_awards_2009/beach.swf Snow Sculpture Showcase]
+|[/swf.cpcheats.info/rooms/2009/penguin_awards_2009/beach.swf Snow Sculpture Showcase]
 |-
 |align="center"|'''May'''||{{n/a|Pirate Party}}||{{n/a|???}}||[[Media:Rooms0516Beach50.swf|Medieval Party]]||[[Media:Music235.swf|235]]||colspan="2" {{n/a}}
 |-
 |align="center"|'''June'''||[[Media:ArtworkRooms0615Beach10.swf|Summer Party (1)]]<br>[[Media:ArtworkRooms0615Beach11.swf|Summer Party (2)]]||[[Media:Music204.swf|204]]||{{n/a|Summer Kickoff Party}}||{{n/a|???}}||[[Media:WPBeach.swf|Water Party]]||[[Media:Music218.swf|218]]||[[Media:RoomsBeach-AdventureParty2009Const.swf|Adventure Party]] <small>([[Media:RoomsBeach-AdventureParty2009Const.swf|pre]])</small>||[[Media:Music267.swf|267]]
 |-
-|align="center"|'''July'''||colspan="2" {{n/a}}||{{n/a|Water Party}}||{{n/a|???}}||[[Media:MJ2008Beach.swf|Music Jam]]||[[Media:Music242.swf|242]]||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/beach.swf Music Jam]<small>([http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/construction/beach.swf pre])</small>||[[Media:Music243.swf|243]]
+|align="center"|'''July'''||colspan="2" {{n/a}}||{{n/a|Water Party}}||{{n/a|???}}||[[Media:MJ2008Beach.swf|Music Jam]]||[[Media:Music242.swf|242]]||[/swf.cpcheats.info/rooms/2009/music_jam_july_2009/beach.swf Music Jam]<small>([/swf.cpcheats.info/rooms/2009/music_jam_july_2009/construction/beach.swf pre])</small>||[[Media:Music243.swf|243]]
 |-
 |align="center"|'''August'''||[[Media:ArtworkRoomsBeach13.swf|Sports Party]]||{{n/a|???}}||{{n/a|Camp Penguin}}||{{n/a|???}}||[[Media:PGBeach.swf|Penguin Games]]||[[Media:Music213.swf|213]]||[[Media:FestivalOfFlightBeach.swf|Festival of Flight]] <small>([[Media:FestivalOfFlightConstBeach.swf|pre]])</small>||[[Media:Music277.swf|277]]
 |-
-|align="center"|'''September'''||{{n/a|Lighthouse Party}}||{{n/a|???}}||[[Media:RoomsBeach-FallFair2007.swf|Fall Fair]]||[[Media:Music221.swf|221]]||[[Media:FFBeach.swf|Fall Fair]]||[[Media:Music221.swf|221]]||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/the_fair_september_2009/beach.swf The Fair]||[[Media:Music221.swf|221]]
+|align="center"|'''September'''||{{n/a|Lighthouse Party}}||{{n/a|???}}||[[Media:RoomsBeach-FallFair2007.swf|Fall Fair]]||[[Media:Music221.swf|221]]||[[Media:FFBeach.swf|Fall Fair]]||[[Media:Music221.swf|221]]||[/swf.cpcheats.info/rooms/2009/the_fair_september_2009/beach.swf The Fair]||[[Media:Music221.swf|221]]
 |-
 |align="center"|'''October'''||{{n/a|Halloween Party}}||{{n/a|???}}||[[Media:RoomsBeach-HalloweenParty2007.swf|Halloween Party]]||[[Media:Music223.swf|223]]||[[Media:HPBeach.swf|Halloween Party]]||[[Media:Music251.swf|251]]||[[Media:HalloweenParty2009RoomsBeach.swf|Halloween Party]]||[[Media:Music251.swf|251]]
 |-
 |align="center"|'''November'''||colspan="2" {{n/a}}||colspan="2" {{n/a}}||colspan="2" {{n/a}}||colspan="2" {{n/a}}
 |-
-|align="center"|'''December'''||{{n/a|Christmas Party}}||{{n/a|???}}||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/Christmas_Files/Beach.swf Christmas Party]||[[Media:Music200.swf|200]]||[[Media:RoomsBeach-ChristmasParty2008.swf|Christmas Party]]||[[Media:Music254.swf|254]]||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/beach.swf Holiday Party] <small>([[Media:RoomsBeach-HolidayParty2009Pre.swf|pre]])</small>||[[Media:Music254.swf|254]]
+|align="center"|'''December'''||{{n/a|Christmas Party}}||{{n/a|???}}||[/swf.cpcheats.info/rooms/unknown_year/Christmas_Files/Beach.swf Christmas Party]||[[Media:Music200.swf|200]]||[[Media:RoomsBeach-ChristmasParty2008.swf|Christmas Party]]||[[Media:Music254.swf|254]]||[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/beach.swf Holiday Party] <small>([[Media:RoomsBeach-HolidayParty2009Pre.swf|pre]])</small>||[[Media:Music254.swf|254]]
 |}
 
 ===2010-2017===

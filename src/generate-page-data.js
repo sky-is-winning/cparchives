@@ -1,4 +1,5 @@
 import { promises as fs } from "fs";
+import CryptoJS from "crypto-js";
 
 export default class GeneratePageData {
     constructor(webserver) {
@@ -184,6 +185,11 @@ export default class GeneratePageData {
         return pageContainer
     }
 
+    getFileURI(file) {;
+        let md5hash = CryptoJS.MD5(file).toString();
+        return `/static/images/archives/${md5hash[0]}/${md5hash[0]}${md5hash[1]}/${file}`;
+    }
+
     getContentFromWikiText(wt) {
         let content = "";
         for (let line of wt.split("\n")) {
@@ -197,19 +203,22 @@ export default class GeneratePageData {
                 let localLinkRegex = /\[\[(.*?)\]\]/g;
                 line = line.replace(localLinkRegex, (match, p1) => {
                     if (p1.includes("|")) {
-                        const [url, text] = p1.split("|");
-                        const urlText = url.replace(/ /g, '_'); // Replace spaces with underscores for the URL
+                        let [url, text] = p1.split("|");
+                        let urlText = url.replace(/ /g, '_'); // Replace spaces with underscores for the URL
+                        if (urlText.startsWith("File:") || urlText.startsWith("Media:")) {
+                            return `<a href="${this.getFileURI(urlText.split(':')[1])}" title="${url}">${text}</a>`;
+                        }
                         return `<a href="/wiki/${urlText}" title="${url}">${text}</a>`;
                     }
-                    const urlText = p1.replace(/ /g, '_'); // Replace spaces with underscores for the URL
+                    let urlText = p1.replace(/ /g, '_'); // Replace spaces with underscores for the URL
                     return `<a href="/wiki/${urlText}" title="${p1}">${p1}</a>`;
                 });
 
                 let externalLinkRegex = /\[(.*?)\]/g;
                 line = line.replace(externalLinkRegex, (match, p1) => {
                     if (p1.includes(" ")) {
-                        const url = p1.split(" ")[0];
-                        const text = p1.split(" ").slice(1).join(" ");
+                        let url = p1.split(" ")[0];
+                        let text = p1.split(" ").slice(1).join(" ");
                         return `<a href="${url}">${text}</a>`;
                     }
                     return `<a href="${p1}">${p1}</a>`;

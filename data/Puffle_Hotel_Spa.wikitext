@@ -5,7 +5,7 @@
 {|class="wikitable" border="1"
 !Current
 |-
-|[http://media1.clubpenguin.com/play/v2/content/global/rooms/hotelspa.swf Puffle Hotel Spa]
+|[/media1/play/v2/content/global/rooms/hotelspa.swf Puffle Hotel Spa]
 |}
 </center>
 ==Normal==

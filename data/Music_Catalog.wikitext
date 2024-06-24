@@ -1,12 +1,12 @@
 ''Note: Any sections on these charts that are blank words (without links), then that means we don't have those SWFs. If you have one of those "missing" SWFs, please upload it and add it in the correct location.''
 
 ==Current==
-*[http://media1.clubpenguin.com/play/v2/content/local/en/catalogues/light.swf The current Music Catalog (in the Lighthouse)- English]
-*[http://media1.clubpenguin.com/play/v2/content/local/pt/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Português]
-*[http://media1.clubpenguin.com/play/v2/content/local/fr/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Français]
-*[http://media1.clubpenguin.com/play/v2/content/local/es/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Español]
-*[http://media1.clubpenguin.com/play/v2/content/local/de/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Deutsch]
-*[http://media1.clubpenguin.com/play/v2/content/local/ru/catalogues/light.swf The current Music Catalog (in the Lighthouse)- русский]
+*[/media1/play/v2/content/local/en/catalogues/light.swf The current Music Catalog (in the Lighthouse)- English]
+*[/media1/play/v2/content/local/pt/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Português]
+*[/media1/play/v2/content/local/fr/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Français]
+*[/media1/play/v2/content/local/es/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Español]
+*[/media1/play/v2/content/local/de/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Deutsch]
+*[/media1/play/v2/content/local/ru/catalogues/light.swf The current Music Catalog (in the Lighthouse)- русский]
 
 ==English: Music Catalog==
 
