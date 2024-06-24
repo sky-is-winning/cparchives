@@ -1,4 +1,4 @@
-:''Club Penguin Wiki article: [[clubpenguinwiki:Astro Barrier|Astro Barrier]]''
+
 
 <center>
 {|class="wikitable" border="1"

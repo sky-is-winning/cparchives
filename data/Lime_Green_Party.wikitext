@@ -1,5 +1,5 @@
 {{NoSWFs}}
-{{CPW|Lime Green Party|Lime Green Party}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

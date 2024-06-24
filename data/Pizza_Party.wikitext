@@ -1,4 +1,4 @@
-{{CPW|Pizza Party|Pizza Parlor Opening Party}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

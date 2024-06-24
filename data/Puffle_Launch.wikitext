@@ -1,4 +1,4 @@
-:''Club Penguin Wiki article: [[clubpenguinwiki:Puffle Launch|Puffle Launch]]''
+
 
 <center>
 {|class="wikitable" border="1"

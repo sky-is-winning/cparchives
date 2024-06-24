@@ -1,4 +1,4 @@
-{{CPW|Black Puffle|Puffle Preto}}
+
 <center>
 {|class="wikitable" border="1"
 !SWF

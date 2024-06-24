@@ -7,12 +7,49 @@ export default class GeneratePageData {
     }
 
     async generatePageData(page) {
+        if (page.startsWith("/wiki/")) {
+            page = page.replace("/wiki/", "/");
+        }
+
         if (this.cache.has(page)) {
             console.log("Cache hit for", page);
             return this.cache.get(page);
         }
 
         let pageName = page.split("/").pop();
+        const replacers = [
+            [":", "%3A"],
+            ["?", "%3F"],
+            ["#", "%23"],
+            ["[", "%5B"],
+            ["]", "%5D"],
+            ["@", "%40"],
+            ["!", "%21"],
+            ["$", "%24"],
+            ["&", "%26"],
+            ["'", "%27"],
+            ["(", "%28"],
+            [")", "%29"],
+            ["*", "%2A"],
+            ["+", "%2B"],
+            [",", "%2C"],
+            [";", "%3B"],
+            ["=", "%3D"],
+            [" ", "%20"],
+            [".", "%2E"],
+            ["<", "%3C"],
+            [">", "%3E"],
+            ["^", "%5E"],
+            ["`", "%60"],
+            ["{", "%7B"],
+            ["|", "%7C"],
+            ["}", "%7D"],
+            ["~", "%7E"]
+        ];
+        for (const replacer of replacers) {
+            pageName = pageName.replaceAll(replacer[1], replacer[0]);
+        }
+        pageName = pageName.replaceAll("_", " ");
 
         let headData = await this.getHeadData(page, pageName);
         let body = await this.getBody(page, pageName);
@@ -157,10 +194,25 @@ export default class GeneratePageData {
                     line = `<li>${line.replace("*", "").trim()}</li>`;
                 }
 
-                let linkRegex = /\[\[(.*?)\]\]/g;
-                line = line.replace(linkRegex, (match, p1) => {
+                let localLinkRegex = /\[\[(.*?)\]\]/g;
+                line = line.replace(localLinkRegex, (match, p1) => {
+                    if (p1.includes("|")) {
+                        const [url, text] = p1.split("|");
+                        const urlText = url.replace(/ /g, '_'); // Replace spaces with underscores for the URL
+                        return `<a href="/wiki/${urlText}" title="${url}">${text}</a>`;
+                    }
                     const urlText = p1.replace(/ /g, '_'); // Replace spaces with underscores for the URL
                     return `<a href="/wiki/${urlText}" title="${p1}">${p1}</a>`;
+                });
+
+                let externalLinkRegex = /\[(.*?)\]/g;
+                line = line.replace(externalLinkRegex, (match, p1) => {
+                    if (p1.includes(" ")) {
+                        const url = p1.split(" ")[0];
+                        const text = p1.split(" ").slice(1).join(" ");
+                        return `<a href="${url}">${text}</a>`;
+                    }
+                    return `<a href="${p1}">${p1}</a>`;
                 });
 
                 line = line.replace(/'''(.*?)'''/g, "<strong>$1</strong>");

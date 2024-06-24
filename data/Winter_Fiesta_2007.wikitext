@@ -1,5 +1,5 @@
 {{NeedSWFs}}
-{{CPW|Winter Fiesta 2007|Fiesta Mexicana 2007}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

@@ -1,4 +1,4 @@
-{{CPW|Sports Party|Festa do Esporte}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

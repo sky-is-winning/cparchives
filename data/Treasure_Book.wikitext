@@ -1,6 +1,6 @@
 ==English: Treasure Book==
 
-:''Club Penguin Wiki article: [[clubpenguinwiki:Treasure Book|Treasure Book]]''
+
 
 <center>
 {|class="wikitable" border="1"

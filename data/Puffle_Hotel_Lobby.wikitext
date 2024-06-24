@@ -1,4 +1,4 @@
-{{CPW|Puffle Hotel Lobby|Saguão do Hotel}}
+
 <center>
 {|class="wikitable" border="1"
 !Current

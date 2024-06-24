@@ -1,5 +1,5 @@
 {{NoSWFs}}
-{{CPW|Halloween Party 2006|Festa de Halloween 2006}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

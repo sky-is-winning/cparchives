@@ -1,5 +1,5 @@
 {{needSWFs}}
-{{CPW|Rainbow Puffle Party|Festa dos Puffles Multicores}}
+
 ==Rooms==
 :''Please note that only some room files were added/changed; the files that were not changed are not listed here.''
 ===Town===

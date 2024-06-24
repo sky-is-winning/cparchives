@@ -1,7 +1,7 @@
 {{NeedSWFs}}
 __TOC__
 
-{{CPW|Beach|Praia}}
+
 
 ==Normal==
 

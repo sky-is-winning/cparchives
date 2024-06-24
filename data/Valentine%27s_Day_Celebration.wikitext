@@ -1,4 +1,4 @@
-{{CPW|Valentine's Day Celebration|Valentine's Day Celebration}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

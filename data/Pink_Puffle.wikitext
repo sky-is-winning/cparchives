@@ -1,4 +1,4 @@
-{{CPW|Pink Puffle|Puffle Rosa}}
+
 <center>
 {|class="wikitable" border="1"
 !Movie ID

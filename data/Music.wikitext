@@ -1,5 +1,5 @@
 {{Construction}}
-:''Club Penguin Wiki articles: [[clubpenguinwiki:Music|Music]], [[clubpenguinwiki:Party Music|Party Music]] & [[clubpenguinwiki:List of Club Penguin Music|List of Club Penguin Music]]
+
 
 {|class="wikitable" style="margin: 1em auto; font-size:9pt;" 
 !colspan="2" style="center"|Legend

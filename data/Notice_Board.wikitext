@@ -1,5 +1,5 @@
 {{NeedSWFs}}
-{{CPW|Notice Board}}
+
 
 <center>
 {|class="wikitable"

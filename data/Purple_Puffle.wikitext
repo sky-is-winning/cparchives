@@ -1,4 +1,4 @@
-{{CPW|Purple Puffle|Puffle Roxo}}
+
 <center>
 {|class="wikitable" border="1"
 !ID

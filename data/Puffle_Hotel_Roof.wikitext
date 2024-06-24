@@ -1,7 +1,7 @@
 {{NeedSWFs}}
 __TOC__
 
-{{CPW|Puffle Hotel Roof|Cobertura do Hotel}}
+
 
 <center>
 {|class="wikitable" border="1"

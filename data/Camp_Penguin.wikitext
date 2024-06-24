@@ -1,5 +1,5 @@
 {{NeedSWFs}}
-{{CPW|Camp Penguin|Camp Penguin}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

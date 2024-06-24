@@ -1,4 +1,4 @@
-{{CPW|Cave Maze|Labirinto da Caverna}}
+
 ==Rooms==
 ===Event===
 <center>

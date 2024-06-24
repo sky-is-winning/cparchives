@@ -1,5 +1,5 @@
 {{NoSWFs}}
-{{CPW|Cave Opening Party|Cave Opening Party}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

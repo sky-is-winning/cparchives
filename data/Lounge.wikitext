@@ -1,4 +1,4 @@
-{{CPW|Lounge|Area VIP}}
+
 
 ==Normal==
 {|class="wikitable" style="margin: 1em auto;"

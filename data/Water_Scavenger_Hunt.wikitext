@@ -1,4 +1,4 @@
-{{CPW|Water Scavenger Hunt|Caçada da Água}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

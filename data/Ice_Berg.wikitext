@@ -1,4 +1,4 @@
-{{CPW|Iceberg|Icebergue}}
+
 
 ==Regular==
 {|class="wikitable" style="margin: 1em auto;"

@@ -1,7 +1,7 @@
-{{CPW|Ski Village}}
+
 
 ==Normal==
-:''Club Penguin Wiki article: [[clubpenguinwiki:Ski Village|Ski Village]]''
+
 
 <center>
 {|class="wikitable" border="1"
@@ -116,7 +116,6 @@
 </center>
 
 ===Português (Portuguese): Estação de Esqui===
-:''Club Penguin Wiki Português article: <span class="plainlinks">[http://pt.clubpenguinwiki.info/wiki/Estação_de_Esqui Estação de Esqui]</span>''
 
 <center>
 {|class="wikitable" border="1"

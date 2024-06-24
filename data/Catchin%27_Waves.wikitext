@@ -1,4 +1,4 @@
-:''Club Penguin Wiki article: [[clubpenguinwiki:Catchin' Waves|Catchin' Waves]]''
+
 
 <center>
 {|class="wikitable" border="1"

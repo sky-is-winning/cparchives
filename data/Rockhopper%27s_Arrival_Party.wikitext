@@ -1,5 +1,5 @@
 {{NeedSWFs|Music for Coffee Shop, Night Club, Ship & Ship Hold}}
-{{CPW|Rockhopper's Arrival Party|Rockhopper's Arrival Party 2008}}
+
 
 ==Rooms & Music==
 {|class="wikitable" border="1" style="margin: auto;"

@@ -22,7 +22,6 @@
 |}
 
 ==English: Book Room==
-: ''Club Penguin Wiki article: [[clubpenguinwiki:Book Room|Book Room]]''
 
 {|class="wikitable" style="margin: 1em auto;"
 !Event!!Music!!Year
@@ -61,7 +60,6 @@
 |}
 
 ==Português (Portuguese): Redação/Sala de Leitura==
-: ''Club Penguin Wiki Português article: <span class="plainlinks">[http://pt.clubpenguinwiki.info/wiki/Redação Redação]</span>''
 
 {{OnlyPT}}
 

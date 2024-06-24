@@ -1,5 +1,5 @@
 {{NeedSWFs}}
-{{CPW|Lighthouse Party|Lighthouse Party}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

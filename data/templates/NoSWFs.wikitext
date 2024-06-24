@@ -1,0 +1,14 @@
+{{Ambox|type=content|image=[[File:Wiki.png|55px|link=]]|text='''We haven't archived {{BASEPAGENAME}}!'''<br/>We either don't have the files for it, or we have yet to add them here! If you happen to have any files we might need, then please add them to this page.<br>{{#if: {{{1|}}} | (''{{{1|Info}}}'') | }}}}
+<includeonly>[[Category:Pages that are missing SWF files|{{PAGENAME}}]]</includeonly><noinclude>
+__TOC__
+==Parameters==
+<pre>
+{{NoSWFs}}
+</pre>
+
+===Explanation===
+This [[:Category:Templates|template]] was designed to serve the purpose of an article message box that alerts readers to the absence of all relevant files from a page.
+
+<code>{{NoSWFs</code> - Opening of template.<br>
+<code>}}</code> - Closing of template.
+[[Category:Templates]]</noinclude>

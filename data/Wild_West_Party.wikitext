@@ -1,4 +1,4 @@
-{{CPW|Wild West Party|Festa do Faroeste}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

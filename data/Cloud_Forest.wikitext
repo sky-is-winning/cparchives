@@ -1,7 +1,7 @@
 {{NeedSWFs}}
 __TOC__
 
-{{CPW|Cloud Forest|Floresta de Nuvens}}
+
 
 ==Normal==
 <center>

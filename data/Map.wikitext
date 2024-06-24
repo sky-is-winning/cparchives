@@ -1,6 +1,6 @@
 {{NeedSWFs}}
 
-{{CPW|Map|Mapa}}
+
 
 ==Club Penguin maps==
 *[[Media:ArtworkMapsIsland3.swf|2006]]

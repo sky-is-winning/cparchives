@@ -2,7 +2,7 @@
 
 ==English: Game Upgrades==
 
-:''Club Penguin Wiki article: [[clubpenguinwiki:Game Upgrades|Game Upgrades]]''
+
 
 <center>
 {|class="wikitable" border="1"

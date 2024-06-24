@@ -1,4 +1,4 @@
-{{CPW|Beta Test Party|Festa Beta}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

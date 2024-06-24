@@ -1,6 +1,6 @@
 {{NeedSWFs|Cloud Forest, Dojo, Dojo Courtyard}}
 
-{{CPW|Operation: Puffle|Operação: Puffle}}
+
 
 ==Rooms==
 ===Construction===

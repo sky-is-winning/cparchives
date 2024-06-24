@@ -1,4 +1,4 @@
-:''Club Penguin Wiki article: [[clubpenguinwiki:Pizzatron 3000|Pizzatron 3000]]''
+
 
 <center>
 {|class="wikitable" border="1"

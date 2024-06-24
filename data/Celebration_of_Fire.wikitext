@@ -1,7 +1,7 @@
 {{NeedSWFs}}
 __TOC__
 
-{{CPW|Celebration of Fire|Celebração do Fogo}}
+
 
 ==Rooms==
 ===Construction===

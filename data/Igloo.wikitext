@@ -1,5 +1,5 @@
 {{Construction}}
-{{CPW|Igloo|Iglu}}
+
 
 ==Igloos==
 {|class="wikitable" border="1" style="margin: auto;"

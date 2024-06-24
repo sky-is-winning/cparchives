@@ -1,4 +1,4 @@
-{{CPW|The F.I.S.H.|F.I.S.H.}}
+
 
 {|class="wikitable plainlinks" style="margin: auto;"
 !SWF

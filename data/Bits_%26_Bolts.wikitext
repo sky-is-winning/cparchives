@@ -1,4 +1,4 @@
-:''Club Penguin Wiki article: [[clubpenguinwiki:Bits & Bolts|Bits & Bolts]]''
+
 
 ==SWFs==
 {|class="wikitable" style="margin: 1em auto;"

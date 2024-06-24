@@ -1,4 +1,3 @@
-:''English Club Penguin Wiki articles: [[clubpenguinwiki:Blue Puffle|Blue Puffle]], [[clubpenguinwiki:Blue Triceratops|Blue Triceratops]], [[clubpenguinwiki:Blue Border Collie|Blue Border Collie]], [[clubpenguinwiki:Blue Raccoon Puffle|Blue Raccoon Puffle]] and [[clubpenguinwiki:Blue Deer Puffle|Blue Deer Puffle]]''
 
 ==Basic==
 {|class="wikitable" style="margin: auto;"

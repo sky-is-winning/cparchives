@@ -1,4 +1,4 @@
-{{CPW|Beacon|Posto de Observação}}
+
 
 ==Normal==
 <!--Please don't remove those files, because they are not the same! Since we are an archive, we should even keep files like that-->

@@ -10,7 +10,7 @@
 
 ==English: Music Catalog==
 
-:''Club Penguin Wiki article: [[clubpenguinwiki:Music Catalog|Music Catalog]]''
+
 
 <center>
 {|class="wikitable" border="1"

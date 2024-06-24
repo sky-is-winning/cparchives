@@ -1,4 +1,4 @@
-{{CPW|Green Puffle|Puffle Verde}}
+
 <center>
 {|class="wikitable" border="1"
 !ID

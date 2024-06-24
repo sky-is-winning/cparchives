@@ -1,5 +1,5 @@
 {{NeedSWFs}}
-{{CPW|HQ|QG da ASP}}
+
 ==Normal==
 {|class="wikitable" style="margin: 1em auto;"
 !SWF!!Years!!Music

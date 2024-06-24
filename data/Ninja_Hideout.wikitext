@@ -1,6 +1,6 @@
 {{NeedSWFs}}
 
-{{CPW|Ninja Hideout|Esconderijo Ninja}}
+
 
 ==Normal==
 {|class="wikitable" border="1" style="margin: 1em auto;"

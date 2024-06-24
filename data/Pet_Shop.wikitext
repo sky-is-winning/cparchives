@@ -1,4 +1,4 @@
-{{CPW|Pet Shop}}
+
 {{NeedSWFs}}
 
 ==Normal==

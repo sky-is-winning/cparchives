@@ -2,7 +2,7 @@
 
 
 ==English: Penguin Style==
-:''Club Penguin Wiki article: [[clubpenguinwiki:Penguin Style|Penguin Style]]''
+
 
 <center>
 {|class="wikitable" border="1"
@@ -37,7 +37,6 @@
 </center>
 
 ==Português (Portuguese): Estilo Pinguim==
-:''Artigo em português da Club Penguin Wiki: <span class="plainlinks">[http://pt.clubpenguinwiki.info/wiki/Estilo_Pinguim Estilo Pinguim]</span>''
 
 <center>
 {|class="wikitable" border="1"

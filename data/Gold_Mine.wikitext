@@ -1,5 +1,5 @@
 {{NeedSWFs}}
-{{CPW|Gold Mine|Mina de Ouro}}
+
 
 ==Normal==
 <center>

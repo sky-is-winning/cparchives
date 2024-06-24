@@ -1,4 +1,4 @@
-:''Club Penguin Wiki article: [[clubpenguinwiki:Jet Pack Adventure|Jet Pack Adventure]]''
+
 
 <center>
 {|class="wikitable" border="1"

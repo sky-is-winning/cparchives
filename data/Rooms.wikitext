@@ -1,4 +1,4 @@
-{{CPW|List of rooms|Lista de Salas}}
+
 
 ==Normal Rooms==
 *[[Beach]]

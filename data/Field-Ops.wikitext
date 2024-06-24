@@ -1,5 +1,5 @@
 {{NeedSWFs}}
-{{CPW|Field-Op}}
+
 
 <center>
 
@@ -13,7 +13,6 @@
 </center>
 
 ==Português (Portuguese): Operações==
-Artigo em português da Club Penguin Wiki: <span class="plainlinks">[http://pt.clubpenguinwiki.info/wiki/Operações Lista_de_Operações]</span>''
 
 <center>
 {|class="wikitable" border="1"

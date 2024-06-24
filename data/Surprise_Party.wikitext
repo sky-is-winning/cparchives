@@ -1,4 +1,4 @@
-{{CPW|Surprise Party|Surprise Party}}
+
 
 ==Rooms==
 {|class="wikitable" border="1" style="margin: auto;"

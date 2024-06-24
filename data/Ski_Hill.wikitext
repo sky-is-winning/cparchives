@@ -1,4 +1,4 @@
-{{CPW|Ski Hill}}
+
 
 ==Normal==
 {|class="wikitable" style="margin: 1em auto;"

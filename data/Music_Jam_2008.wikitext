@@ -1,4 +1,4 @@
-{{CPW|Music Jam 2008|Music Jam 2008}}
+
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"

@@ -1,6 +1,6 @@
 ==English: Furniture & Igloo Catalog==
 
-:''Club Penguin Wiki article: [[clubpenguinwiki:Furniture & Igloo Catalog|Furniture & Igloo Catalog]]''
+
 
 ===Better Igloos (September 2005 - December 2011)===
 <center>
@@ -50,7 +50,6 @@
 </center>
 
 ==Português (Portuguese): Iglu & Cia==
-:''Artigo em português da Club Penguin Wiki: <span class="plainlinks">[http://pt.clubpenguinwiki.info/wiki/Iglu_&_Cia Iglu & Cia]</span>''
 
 <center>
 {|class="wikitable" border="1"

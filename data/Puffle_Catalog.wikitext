@@ -3,7 +3,7 @@ If there are words in the "date" sections that '''aren't''' links, then that mea
 
 ==English: Puffle Catalog==
 
-:''Club Penguin Wiki article: [[clubpenguinwiki:Puffle Catalog|Puffle Catalog]]''
+
 
 <center>
 {|class="wikitable" border="1"
@@ -45,7 +45,6 @@ If there are words in the "date" sections that '''aren't''' links, then that mea
 </center>
 
 ==Português (Portuguese)==
-:''Artigo em português da Club Penguin Wiki: <span class="plainlinks">[http://pt.clubpenguinwiki.info/wiki/Cat%C3%A1logo_do_Puffle Catálogo do Puffle]</span>''
 {{OnlyPT}}
 
 <center>

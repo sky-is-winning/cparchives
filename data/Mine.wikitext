@@ -1,5 +1,5 @@
 {{NeedSWFs}}
-{{CPW|Mine}}
+
 
 ==Normal==
 <center>
