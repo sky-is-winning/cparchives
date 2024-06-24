@@ -1,0 +1,82 @@
+{{NeedSWFs}}
+{{CPW|Rockhopper's Rare Items|Itens Super-Raros do Rockhopper}}
+
+
+'''Rockhopper's Rare Items''' was a seasonal catalog that was only available when Rockhopper visited the island. 
+
+
+<center>
+{|class="wikitable" border="1"
+!Year!!English!!<span style="border-bottom: 1px dotted #333333;" title="Itens Super-Raros do Rockhopper">Português</span>!!<span style="border-bottom: 1px dotted #333333;" title="Les Objets Rares de Rockhopper">Français</span>!!<span style="border-bottom: 1px dotted #333333;" title="Los extraños objetos de Rockhopper">Español</span>!!<span style="border-bottom: 1px dotted #333333;" title="Rockhoppers seltene Sachen">Deutsch</span>!!<span style="border-bottom: 1px dotted #333333;" title="Редкие предметы Рокхоппера">русский</span>
+|-
+|rowspan=2|2006||[[Media:pirate_0610.swf|October]]||rowspan=13 {{n/a}}||rowspan=15 {{n/a}}||rowspan=17 {{n/a}}||rowspan=26 {{n/a}}||rowspan=31 {{n/a}}
+|-
+|[[Media:pirate_0612.swf|December]]
+|-
+|rowspan=8|2007||[[Media:pirate_0702.swf|February]]
+|-
+|[[Media:pirate_0703.swf|March]]
+|-
+|[[Media:pirate_0704.swf|April]]
+|-
+|[[Media:pirate_0706.swf|June]]
+|-
+|style="background: #ececec; color: grey;" class="table-na"|July
+|-
+|[[Media:RHCatalog8.swf|August]]
+|-
+|[[Media:RHCatalog9.swf|September]]
+|-
+|[[Media:pirate_0711.swf|November]]
+|-
+|rowspan=5|2008||[[Media:Apr2008Pirate.swf|April]]
+|-
+|[[Media:RHRIJun2008.swf|June]]
+|-
+|[[Media:RockhopperRareItemsAug2008.swf|August]]
+|-
+|[[Media:RHRIOct2008.swf|October]]||style="background: #ececec; color: grey;" class="table-na"|Outubro
+|-
+|style="background: #ececec; color: grey;" class="table-na"|December||style="background: #ececec; color: grey;" class="table-na"|Dezembro
+|-
+|rowspan=4|2009||[[Media:RHRIFeb2009.swf|February]]||style="background: #ececec; color: grey;" class="table-na"|Fevereiro||style="background: #ececec; color: grey;" class="table-na"|Février
+|-
+|style="background: #ececec; color: grey;" class="table-na"|May||style="background: #ececec; color: grey;" class="table-na"|Maio||style="background: #ececec; color: grey;" class="table-na"|Mai
+|-
+|style="background: #ececec; color: grey;" class="table-na"|September||style="background: #ececec; color: grey;" class="table-na"|Setembro||style="background: #ececec; color: grey;" class="table-na"|Septembre||style="background: #ececec; color: grey;" class="table-na"|Septiembre
+|-
+|[[Media:December2009Pirate.swf|December]]||style="background: #ececec; color: grey;" class="table-na"|Dezembro||style="background: #ececec; color: grey;" class="table-na"|Décembre||style="background: #ececec; color: grey;" class="table-na"|Diciembre
+|-
+|rowspan=4|2010||[[Media:March2010Pirate.swf|March]]||style="background: #ececec; color: grey;" class="table-na"|Março||style="background: #ececec; color: grey;" class="table-na"|Mars||style="background: #ececec; color: grey;" class="table-na"|Marzo
+|-
+|style="background: #ececec; color: grey;" class="table-na"|June||style="background: #ececec; color: grey;" class="table-na"|Junho||style="background: #ececec; color: grey;" class="table-na"|Juin||style="background: #ececec; color: grey;" class="table-na"|Junio
+|-
+|[[Media:2010septemberpiratecatalog.swf‎|September]]||style="background: #ececec; color: grey;" class="table-na"|Setembro||style="background: #ececec; color: grey;" class="table-na"|Septembre||style="background: #ececec; color: grey;" class="table-na"|Septiembre
+|-
+|[[Media:Dec2010Pirate.swf|December]]||style="background: #ececec; color: grey;" class="table-na"|Dezembro||style="background: #ececec; color: grey;" class="table-na"|Décembre||style="background: #ececec; color: grey;" class="table-na"|Diciembre
+|-
+|rowspan=4|2011||[[Media:Apr2011Pirate.swf|April]]||[[Media:PTCataloguesPirate-April2011.swf|Abril]]||style="background: #ececec; color: grey;" class="table-na"|Avril||style="background: #ececec; color: grey;" class="table-na"|Abril
+|-
+|[[Media:Jul2011Pirate.swf|July]]||[[Media:PTCataloguesPirate-July2011.swf|Julho]]||style="background: #ececec; color: grey;" class="table-na"|Juillet||style="background: #ececec; color: grey;" class="table-na"|Julio
+|-
+|[[Media:Sep2011Pirate.swf|September]]||style="background: #ececec; color: grey;" class="table-na"|Setembro||style="background: #ececec; color: grey;" class="table-na"|Septembre||style="background: #ececec; color: grey;" class="table-na"|Septiembre
+|-
+|[[Media:Dec2011Pirate.swf|December]]||[[Media:RockhopperRIDec2011PT.swf|Dezembro]]||style="background: #ececec; color: grey;" class="table-na"|Décembre||[[Media:RockhopperRIDec2011ES.swf|Diciembre]]||[[Media:RockhopperRIDec2011DE.swf|Dezember]]
+|-
+|rowspan=2|2012||[[Media:Sep2012Pirate.swf|August]]||[[Media:PTAug2012Pirate.swf|Agosto]]||[[Media:FRAug2012Pirate.swf|Août]]||[[Media:ESAug2012Pirate.swf|Agosto]]||[[Media:DEAug2012Pirate.swf|August]]
+|-
+|[[Media:ENCataloguesPirate-Dec2012.swf|December]]||[[Media:PTCataloguesPirate-Dec2012.swf|Dezembro]]||[[Media:FRCataloguesPirate-Dec2012.swf|Décembre]]||[[Media:ESCataloguesPirate-Dec2012.swf|Diciembre]]||[[Media:DECataloguesPirate-Dec2012.swf|Dezember]]
+|-
+|rowspan=2|2013||[[Media:September2013Pirate.swf|September]]||style="background: #ececec; color: grey;" class="table-na"|Setembro||style="background: #ececec; color: grey;" class="table-na"|Septembre||[[Media:RockhopperRISep2013ES.swf|Septiembre]]||style="background: #ececec; color: grey;" class="table-na"|September
+|-
+|[[Media:ENRockhopperRareItemsDec2013.swf|December]]||[[Media:PTCataloguesPirate-Dec2013.swf|Dezembro]]||style="background: #ececec; color: grey;" class="table-na"|Décembre||style="background: #ececec; color: grey;" class="table-na"|Diciembre||style="background: #ececec; color: grey;" class="table-na"|Dezember
+|-
+|2014||[[Media:ENRockhopperRareItemsApril2014.swf|April]]||[[Media:PTCataloguesPirate-April2014.swf|Abril]]||[[Media:FRCataloguesPirate-Apr2014.swf|Avril]]||[[Media:ESCataloguesPirate-Abr2014.swf|Abril]]||[[Media:DECataloguesPirate-Apr2014.swf|April]]||[[Media:RUApr2014Pirate.swf|Апрель]]
+|-
+|2015||rowspan=2|[[Media:ENRockhopperRareItemsDec2015.swf|December]]||rowspan=2|[[Media:PTRockhopperRareItemsDec2015.swf|Dezembro]]||rowspan=2|[[Media:FRRockhopperRareItemsDec2015.swf|Décembre]]||rowspan=2|[[Media:ESRockhopperRareItemsDec2015.swf|Diciembre]]||rowspan=2 {{n/a}}||rowspan=2 {{n/a}}
+|-
+|2016
+|}
+</center>
+
+[[Category:Catalogs]]

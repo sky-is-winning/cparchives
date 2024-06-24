@@ -1,0 +1,105 @@
+{{NeedSWFs}}
+{{CPW|The Stage|Palco}}
+
+==Plays==
+<center>
+{|class="wikitable" border="1"
+!colspan="2"| SWF !! Time !! Play !! Music
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-Christmas2007.swf|Stage]]||December 14, 2007||The Twelfth Fish||[[Media:Music31.swf|31]]
+|-
+|align="center" colspan="2"|[[Media:SpaceAdventure1Stage.swf|Stage]]||March 14, 2008||Space Adventure||[[Media:Music30.swf|30]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-June2008.swf|Stage]]||June 13, 2008||The Penguins that Time Forgot||[[Media:Music35.swf|35]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-February2008.swf|Stage]]||February 8, 2008||Team Blue's Rally Debut||[[Media:Music33.swf|33]]
+|-
+|align="center" colspan="2"|[[media:RoomsStage-June2009.swf|Stage]]||June 12, 2009||Fairy Fables||[[Media:Music39.swf|39]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-September2009.swf|Stage]]||September 14, 2009||The Penguins that Time Forgot||[[Media:Music35.swf|35]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-October2009.swf|Stage]]||October 9, 2009||Squidzoid vs Shadow Guy and Gamma Gal||[[Media:Music32.swf|32]]
+|-
+|[[Media:RoomsStage-December2009.swf|Stage]]||[[Media:RoomsParty1-December2009.swf|Party 1]]||November 13, 2009||Norman Swarm Has Been Transformed||[[Media:Music42.swf|42]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-May2010.swf|Stage]]||May 2010||Quest For The Golden Puffle||[[Media:Music34.swf|34]]
+|-
+|align="center" colspan="2"|[[Media:HalloweenParty2010Stage.swf|Stage]]||October 8, 2010||Secrets of the Bamboo Forest||[[Media:Music43.swf|43]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-November2010.swf|Stage]]||November 18, 2010||Space Adventure Planet Y||[[Media:Music38.swf|38]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-December2010.swf|Stage]]||December 28, 2010||Ruby and the Ruby||[[Media:Music37.swf|37]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-Early2011.swf|Stage]]||January 27, 2011||The Penguins that Time Forgot||[[Media:Music35.swf|35]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-February2011.swf|Stage]]||February 25, 2011||The Haunting of the Viking Opera||[[Media:Music41.swf|41]]
+|-
+|align="center" colspan="2"|[[Media:2011Mar17Stage.swf|Stage]]||March 17, 2011||Squidzoid vs. Shadow Guy and Gamma Gal||[[Media:Music32.swf|32]]
+|-
+|[[Media:2011Apr14Stage.swf|Stage]]||[[media:RoomsParty1-Apr2011-NormanSwarmHasBeenTransformed.swf|Party1]]||April 14, 2011||Norman Swarm Has Been Transformed||[[Media:Music42.swf|42]]
+|-
+|align="center" colspan="2"|[[Media:2011May19Stage.swf|Stage]]||May 19, 2011||Underwater Adventure||[[Media:Music230.swf|230]]
+|-
+|align="center" colspan="2"|[[Media:2011Jun9Stage.swf|Stage]]||June 9, 2011||Secrets of the Bamboo Forest||[[Media:Music43.swf|43]]
+|-
+|align="center" colspan="2"|[[Media:Stage2011Aug17.swf|Stage]]||August 17, 2011||Team Blue vs. Team Red||[[Media:Music36.swf|36]]
+|-
+|align="center" colspan="2"|[[media:Stage14Sept2011.swf|Stage]]||September 14, 2011||Fairy Fables||[[Media:Music39.swf|39]]
+|-
+|align="center" colspan="2"|[[Media:Stage2011Oct19.swf|Stage]]||October 19, 2011||Night of the Living Sled: Live||[[Media:Music253.swf|253]]
+|-
+|align="center" colspan="2"|[[Media:11242011Stage.swf|Stage]]||November 23, 2011||Battle of the Ancient Shadows||[[Media:Music314.swf|314]]
+|-
+|align="center" colspan="2"|[[Media:12142011Stage.swf|Stage]]||December 14, 2011||A Humbug Holiday||[[Media:Music255.swf|255]]
+|-
+|align="center" colspan="2"|[[Media:12112012Stage.swf|Stage]]||January 11, 2012||The Twelfth Fish||[[Media:Music31.swf|31]]
+|-
+|align="center" colspan="2"|[[Media:02082012Stage.swf|Stage]]||February 8, 2012||The Vikings That Time Forgot||[[Media:Music41.swf|41]]
+|-
+|align="center" colspan="2"|[[Media:04252012Stage.swf|Stage]]||April 25, 2012||Ruby and the Ruby||[[Media:Music37.swf|37]]
+|-
+|align="center" colspan="2"|[[Media:09062012Stage.swf|Stage]]||September 6, 2012||Space Adventure Planet Y||[[Media:Music38.swf|38]]
+|-
+|align="center" colspan="2"|[[Media:BlackoutStage.swf|Stage]]||November 15, 2012||My Awesome Life - The Herbert Story||[[Media:Music41.swf|41]]
+|-
+|align="center" colspan="2"|[[Media:ENRoomsStage-Dec2012.swf|Stage]]||December 14, 2012||A Humbug Holiday||[[Media:Music255.swf|255]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-Jan2013.swf|Stage]]||January 3, 2013||The Penguins that Time Forgot||[[Media:Music35.swf|35]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-March2013.swf|Stage]]||February 27, 2013||Quest for the Golden Puffle||[[Media:Music34.swf|34]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-June2013.swf|Stage]]||June 5, 2013||Underwater Adventure||[[Media:Music230.swf|230]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-July2013.swf|Stage]]||July 11, 2013||The Haunting of the Viking Opera||[[Media:Music41.swf|41]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-OperationPuffleConstruction.swf|Stage]]||November 13, 2013||Quest for the Golden Puffle||[[Media:Music34.swf|34]]
+|-
+|align="center" colspan="2"|[[Media:RoomsStage-HalloweenParty2014.swf|Stage]]||October 22, 2014||Night of the Living Sled: Live||[[Media:Music253.swf|253]]
+|-
+|align="center" colspan="2"|[[media:RoomsStage-May2015.swf|Stage]]||May 6, 2015||Squidzoid vs. Shadow Guy and Gamma Gal||[[Media:Music41.swf|41]]
+|}
+</center>
+
+==Parties & Events==
+<center>
+{|class="wikitable" border="1"
+! SWF !! Party !! Year !! Music
+|-
+|[[Media:StPatricksDayParty2009-Stage.swf|Stage]]||Penguin Play Awards Construction||2009||{{n/a}}
+|-
+|[[Media:RoomsStage-PenguinPlayAwards2009.swf|Stage]]||Penguin Play Awards||2009||[[Media:Music40.swf|40]]
+|-
+|[[Media:RoomsStage-PenguinPlayAwards2010.swf|Stage]]||Penguin Play Awards||2010||[[Media:Music40.swf|40]]
+|-
+|[[Media:RoomsStage-Marvel2013.swf|Stage]]||Marvel Superhero Takeover||2013||[[Media:Music391.swf|391]]
+|-
+|[[Media:RoomsStage-PuffleParty2014.swf|Stage]]||Puffle Party||2014||[[Media:Music663.swf|663]]
+|-
+|[[media:RoomsStage-School%26SkateParty.swf|Stage]]||School & Skate Party||2014||[[Media:Music749.swf|749]]
+|-
+|[[Media:RoomsStage-PenguinCup.swf|Stage]]||Penguin Cup||2014||[[Media:Music714.swf|714]]
+|-
+|[[Media:RoomsStage-MerryWalrusParty2014.swf|Stage]]||Merry Walrus Party||2014||[[Media:Music819.swf|819]]
+|}
+</center>
+{{Places}}

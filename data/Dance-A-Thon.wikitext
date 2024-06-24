@@ -1,0 +1,20 @@
+{{CPW|Dance-A-Thon|Festa da Dança}}
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Music
+|-
+|[[Media:RoomsBoiler-DanceAThon.swf|Boiler Room]]||{{n/a|?}}
+|-
+|[[Media:RoomsLounge-DanceAThon.swf|Dance Lounge]]||[[Media:Music258.swf|258]]
+|-
+|[[Media:RoomsDance-DanceAThon.swf|Night Club]]||[[Media:Music258.swf|258]]
+|-
+|[[Media:RoomsParty-DanceAThon.swf|Night Club Rooftop]]||[[Media:Music257.swf|257]]
+|-
+|[[Media:RoomsTown-DanceAThon.swf|Town]]||{{n/a}}
+|}
+
+
+{{Parties}}
+[[Category:Parties of 2009]]

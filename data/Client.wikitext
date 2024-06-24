@@ -1,0 +1,52 @@
+{{NeedSWFs}}
+==Unknown==
+:''These files come from unknown dates, if you know them, please categorize them.''
+*[[Media:ClientLoad.swf|Load]]
+*[[Media:ClientClub penguin.swf|Club penguin]]
+*[[Media:ClientShell.swf|Shell]]
+*[[Media:PlayV2ClientLogin.swf|Login]]
+*[[Media:PlayV2ClientPhone.swf|Phone (1)]]
+*[[Media:ClientPhone.swf|Phone (2)]]
+*[[Media:ClientPhone_2.swf|Phone (3)]]
+*[[Media:BetaGameCpcClientPhone.swf|Phone (Card-Jitsu Snow beta)]]
+*[[Media:CilentNotifications.swf|Notifications]]
+*[[Media:ClientDojo_sensei.swf|Sensei (Ninja Hideout)]]
+*[[Media:ClientCourtyard_sensei.swf|Sensei (Dojo Exterior)]]
+*[[Media:PlayV2ClientIgloo.swf|Igloo]]
+*[[Media:Editaccountmenu.swf|Edit Account Menu]]
+==2005==
+[https://download941.mediafire.com/zh7fql7jq4qgWKaRxzdZtZrxBAcPBPC4yaKnVDoQS6uDZMOgLKGbgVRcMbV6PkJwDv7ZHMC0w0su_g2lFUr2HaJ55PRZ8w/vojdw68mr27h1dg/create.swf create.swf]
+==2014==
+===April===
+*[[Media:ClientTricks hud assets-04102014.swf|Tricks Hud Assets (April 4, 2014)]]
+===July===
+*[[Media:ClientSentry-07312014.swf|Sentry (July 31, 2014)]]
+
+==2015==
+===January===
+*[[Media:ClientAirtower-01202015.swf|Airtower (January 20, 2015)]]
+===April===
+*[[Media:ClientPuffle tricks hud-04072015.swf|Puffle Tricks Hud (April 7, 2015)]]
+*[[Media:ClientMusic-04072015.swf|Music (April 7, 2015)]]
+===May===
+*[[Media:ClientGridview-05202015.swf|Gridview (May 20, 2015)]]
+*[[Media:ClientPhrase autocomplete-05202015.swf|Phrase autocomplete (May 20, 2015)]]
+*[[Media:ClientWorld-05202015.swf|World (May 20, 2015)]]
+*[[Media:ClientClub penguin-05202015.swf|Club Penguin (May 20, 2015)]]
+*[[Media:ClientNotifications-05202015.swf|Notifications (May 20, 2015)]]
+*[[Media:ClientMail-05202015.swf|Mail (May 20, 2015)]]
+*[[Media:ClientStampbook-05202015.swf|Stampbook (May 20, 2015)]]
+*[[Media:ClientStamps-05202015.swf|Stamps (May 20, 2015)]]
+*[[Media:ClientLogin-05202015.swf|Login (May 20, 2015)]]
+*[[Media:ClientBanning-05202015.swf|Banning (May 20, 2015)]]
+*[[Media:ClientBook-05202015.swf|Book (May 20, 2015)]]
+*[[Media:ClientRooms common-05202015.swf|Rooms common (May 20, 2015)]]
+===June===
+*[[Media:ClientPhone-06102015.swf|Phone (June 10, 2015)]]
+*[[Media:ClientIntro to cp-06102015.swf|Intro to CP (June 10, 2015)]]
+*[[Media:ClientShell-06102015.swf|Shell (June 10, 2015)]]
+*[[Media:ClientIntro to cp quest map-06102015.swf|Intro to CP - Quest Map (June 10, 2015)]]
+*[[Media:ClientEngine-06102015.swf|Engine (June 10, 2015)]]
+*[[Media:ClientParty-06112015.swf|Party (June 11, 2015)]]
+==See also==
+*[[Interface]]

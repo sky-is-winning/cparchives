@@ -1,0 +1,39 @@
+==Available Books==
+{|class="wikitable"
+!Book!!English!!Português!!Français!!Español!!Deustch!!Русский
+|-
+|Tour Book||[[Media:ENTourBook.swf|English]]||[[Media:PTTourBook.swf|Português]]||[[Media:FRTourBook.swf|Français]]||[[Media:ESTourBook.swf|Español]]||[[Media:DETourBook.swf|Deustch]]||[[Media:RUBooksGive tour.swf|Русский]]
+|-
+|Rockhopper and the Stowaway||[[Media:ENBooksStowaway.swf|English]]||[[Media:PTBooksStowaway.swf|Português]]||[[Media:FRBooksStowaway.swf|Français]]||[[Media:ESBooksStowaway.swf|Español]]||[[Media:DEBooksStowaway.swf|Deutsch]]||[[Media:RUBooksStowaway.swf|Русский]]
+|-
+|Franky's First Show||[[Media:ENBooksFranky.swf|English]]||[[Media:PTBooksFranky.swf|Português]]||[[Media:FRBooksFranky.swf|Français]]||[[Media:ESBooksFranky.swf|Español]]||[[Media:DEBooksFranky.swf|Deutsch]]||[[Media:RUBooksFranky.swf|Русский]]
+|-
+|The Spice of Life||[[Media:ENBooksSpice.swf|English]]||[[Media:PTBooksSpice.swf|Português]]||[[Media:FRBooksSpice.swf|Français]]||[[Media:ESBooksSpice.swf|Español]]||[[Media:DEBooksSpice.swf|Deutsch]]||[[Media:RUBooksSpice.swf|Русский]]
+|-
+|Truth or Dare||[[Media:ENBooksDare.swf|English]]||[[Media:PTBooksDare.swf|Português]]||[[Media:FRBooksDare.swf|Français]]||[[Media:ESBooksDare.swf|Español]]||[[Media:DEBooksDare.swf|Deutsch]]||[[Media:RUBooksDare.swf|Русский]]
+|-
+|Penguin Tales: Spring '07||[[Media:ENBooksTales07.swf|English]]||[[Media:PTBooksTales07.swf|Português]]||[[Media:FRBooksTales07.swf|Français]]||[[Media:ESBooksTales07.swf|Español]]||[[Media:DEBooksTales07.swf|Deutsch]]||[[Media:RUBooksTales07.swf|Русский]]
+|-
+|Penguin Tales: Spring '08||[[Media:ENBooksTales08.swf|English]]||[[Media:PTBooksTales08.swf|Português]]||[[Media:FRBooksTales08.swf|Français]]||[[Media:ESBooksTales08.swf|Español]]||[[Media:DEBooksTales08.swf|Deutsch]]||[[Media:RUBooksTales08.swf|Русский]]
+|-
+|Penguin Tales '09||[[Media:ENBooksTales09.swf|English]]||[[Media:PTBooksTales09.swf|Português]]||[[Media:FRBooksTales09.swf|Français]]||[[Media:ESBooksTales09.swf|Español]]||[[Media:DEBooksTales09.swf|Deutsch]]||[[Media:RUBooksTales09.swf|Русский]]
+|-
+|The Journal of Captain Rockhopper||[[Media:ENBooksJournal.swf|English]] ([[Media:Journal11.swf|former]])||[[Media:PTBooksJournal.swf|Português]]||[[Media:FRBooksJournal.swf|Français]]||[[Media:ESBooksJournal.swf|Español]]||[[Media:DEBooksJournal.swf|Deutsch]]||[[Media:RUBooksJournal.swf|Русский]]
+|}
+
+==Exclusive Books==
+*[[Media:Apenguinchristmascarol.swf|A Penguin Christmas Carol]]
+*[[Media:Pufflepaladventuresmusicmakesmagic.swf|Puffle Pal Adventures: Music Makes Magic]]
+*[[Media:Christmasonrockhopperisland.swf|Christmas on Rockhopper Island]]
+*[[Media:ENBooksFairyFables.swf|Fairy Fables]]
+
+==Paint by Letters==
+*[[Media:2013-ENGamesBook1MyPuffle.swf|My Puffle]]
+*[[Media:ENGamesBook2BurntOutBulbs.swf|Burnt Out Bulbs]]
+*[[Media:ENGamesBook3LimeGreenDojoClean.swf|Lime Green Dojo Clean]]
+
+==Yearbooks==
+*[[Yearbook]]s
+
+==See also==
+*[[Library]]

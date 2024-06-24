@@ -1,0 +1,183 @@
+{{CPW|Holiday Party 2016|Festa de Fim de Ano 2016}}
+
+==Rooms==
+<center>
+{|class="wikitable" style="display: inline-table;"
+!Room!!Music
+|-
+|[[Media:RoomsLounge-HolidayParty2015.swf|Arcade]]||[[Media:Music1075.swf|1075]]
+|-
+|[[Media:RoomsBeach-HolidayParty2016.swf|Beach]]||[[Media:Music1068 2.swf|1068]]
+|-
+|[[Media:RoomsBeacon-HolidayParty2015.swf|Beacon]]||[[Media:Music583.swf|583]]
+|-
+|[[Media:RoomsBoiler-HolidayParty2016.swf|Boiler Room]]||[[Media:Music667.swf|667]]
+|-
+|[[Media:RoomsShop-HolidayParty2015.swf|Clothes Shop]]||[[Media:Music1086.swf|1086]]
+|-
+|[[Media:RoomsCloudforest-HolidayParty2015.swf|Cloud Forest]]||[[Media:Music363.swf|363]]
+|-
+|[[Media:RoomsCoffee-HolidayParty2016.swf|Coffee Shop]]||[[Media:Music1070.swf|1070]]
+|-
+|[[Media:RoomsCove-HolidayParty2015.swf|Cove]]||[[Media:Music1071.swf|1071]]
+|-
+|[[Media:RoomsShipquarters-HolidayParty2016.swf|Captain's Quarters]]||[[Media:Music1083.swf|1083]]
+|-
+|[[Media:RoomsShipnest-HolidayParty2015.swf|Crow's Nest]]||[[Media:Music1082.swf|1082]]
+|-
+|[[Media:RoomsDock-HolidayParty2016.swf|Dock]]||[[Media:Music1152.swf|1152]]
+|}
+{|class="wikitable" style="display: inline-table;"
+!Room!!Music
+|-
+|[[Media:RoomsDojo-HolidayParty2015.swf|Dojo]]||[[Media:Music403.swf|403]]
+|-
+|[[Media:RoomsDojoext-HolidayParty2016.swf|Dojo Courtyard]]||[[Media:Music404.swf|404]]
+|-
+|[[Media:Hallo15 agentlobbymulti.swf|Everyday Phoning Facility]]||[[Media:Music922.swf|922]]
+|-
+|[[Media:RoomsDojofire-HolidayParty2015.swf|Fire Dojo]]||[[Media:Music405.swf|405]]
+|-
+|[[Media:RoomsForest-HolidayParty2016.swf|Forest]]||[[Media:Music1088.swf|1088]]
+|-
+|[[Media:RoomsLake-HolidayParty2016.swf|Hidden Lake]]||[[Media:Music666.swf|666]]
+|-
+|[[Media:RoomsRink-HolidayParty2016.swf|Ice Rink]]||[[Media:Music592.swf|592]]
+|-
+|[[Media:RoomsBerg-HolidayParty2016.swf|Iceberg]]||[[Media:Music1069.swf|1069]]
+|-
+|[[Media:RoomsLight-HolidayParty2016.swf|Lighthouse]]||[[Media:Music1154.swf|1154]]
+|-
+|[[Media:RoomsAttic-HolidayParty2015.swf|Lodge Attic]]||[[Media:Music884.swf|884]]
+|-
+|[[Media:RoomsMall-HolidayParty2016.swf|Mall]]||[[Media:Music1076.swf|1076]]
+|}
+{|class="wikitable" style="display: inline-table;"
+!Room!!Music
+|-
+|[[Media:RoomsShip-HolidayParty2016.swf|Migrator]]||[[Media:Music1082.swf|1082]]
+|-
+|[[Media:RoomsMine-HolidayParty2016.swf|Mine]]||[[Media:Music675.swf|675]]
+|-
+|[[Media:RoomsShack-HolidayParty2016.swf|Mine Shack]]||[[Media:Music1090.swf|1090]]
+|-
+|[[Media:RoomsDance-HolidayParty2015.swf|Night Club]]||[[Media:Music1087.swf|1087]]
+|-
+|[[Media:RoomsPet-HolidayParty2015.swf|Pet Shop]]||[[Media:Music659.swf|659]]
+|-
+|[[Media:RoomsPizza-HolidayParty2015.swf|Pizza Parlor]]||[[Media:Music1081.swf|1081]]
+|-
+|[[Media:RoomsPlaza-HolidayParty2016.swf|Plaza]]||[[Media:Music1089 2.swf|1089]]
+|-
+|[[Media:RoomsHotelroof-HolidayParty2015.swf|Puffle Hotel Roof]]||[[Media:Music360.swf|360]]
+|-
+|[[Media:RoomsHotelspa-HolidayParty2015.swf|Puffle Hotel Spa]]||[[Media:Music361.swf|361]]
+|-
+|[[Media:RoomsPark-HolidayParty2015.swf|Puffle Park]]||[[Media:Music658.swf|658]]
+|-
+|[[Media:RoomsPufflewild-HolidayParty2015.swf|Puffle Wild]]||[[Media:Music897.swf|897]]
+|}
+{|class="wikitable" style="display: inline-table;"
+!Room!!Music
+|-
+|[[Media:RoomsParty13-HolidayParty2015.swf|Santa's Sled]]||[[Media:Music1091.swf|1091]]
+|-
+|[[Media:RoomsSchool-HolidayParty2015.swf|School]]||[[Media:Music1085.swf|1085]]
+|-
+|[[Media:RoomsShiphold-HolidayParty2016.swf|Ship Hold]]||[[Media:Music1083.swf|1083]]
+|-
+|[[Media:RoomsSkatepark-HolidayParty2016.swf|Skatepark]]||[[Media:Music754.swf|754]]
+|-
+|[[Media:RoomsMtn-HolidayParty2015.swf|Ski Hill]]||[[Media:Music1077.swf|1077]]
+|-
+|[[Media:RoomsLodge-HolidayParty2016.swf|Ski Lodge]]||[[Media:Music1074.swf|1074]]
+|-
+|[[Media:RoomsVillage-HolidayParty2016.swf|Ski Village]]||[[Media:Music1077.swf|1077]]
+|-
+|[[Media:RoomsDojosnow-HolidayParty2015.swf|Snow Dojo]]||[[Media:Music407.swf|407]]
+|-
+|[[Media:RoomsForts-HolidayParty2016.swf|Snow Forts]]||[[Media:Music1073.swf|1073]]
+|-
+|[[Media:RoomsTown-HolidayParty2016.swf|Town]]||[[Media:Music1084.swf|1084]]
+|-
+|[[Media:RoomsCave-HolidayParty2016.swf|Underground Pool]]||[[Media:Music1153.swf|1153]]
+|}
+</center>
+
+==Avatar==
+===Sprites===
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:PlayV2ContentGlobalPenguinPenguin frostbite.swf|Penguin Frostbite]]
+|}
+</center>
+
+===Effects===
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:RoomsEffectsAvatar-HolidayParty2015.swf|Rooms]]
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:Close ups161130 character dialogue login-HolidayParty2016.swf|Character dialogue login]]
+|-
+|[[Media:Close ups161226 character dialogue congrats final-HolidayParty2016.swf|Character dialogue congrats final]]
+|-
+|[[Media:Close upsItem calendar web-HolidayParty2016.swf|Item calendar web]]
+|-
+|[[Media:Close upsQuest interface-HolidayParty2016.swf|Quest interface]]
+|-
+|[[Media:Close ups161130 transform info-HolidayParty2016.swf|Transform info]]
+|}
+{|class="wikitable"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)
+|-
+|[[Media:ENClose upsCfc interface-HolidayParty2016.swf|CFC interface]]||[[Media:PTClose upsCfc interface-HolidayParty2016.swf|CFC interface]]||[[Media:FRClose upsCfc interface-HolidayParty2016.swf|CFC interface]]||[[Media:ESClose upsCfc interface-HolidayParty2016.swf|CFC interface]]
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable"
+!colspan="6"|SWF
+|-
+|[[Media:ContentFeatures-HolidayParty2016.swf|Features]]||[[Media:ContentInterface-HolidayParty2016.swf|Interface]]||[[Media:ContentLogo-HolidayParty2016.swf|Logo]]||[[Media:ContentParty-HolidayParty2016.swf|Party]]||[[Media:ContentParty icon-HolidayParty2016.swf|Party icon]]||[[Media:ContentPrompts-HolidayParty2016.swf|Prompts]]
+|}
+</center>
+
+==Membership==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:MembershipParty1-HolidayParty2016.swf|Member item]]
+|-
+|[[Media:MembershipParty2-HolidayParty2016.swf|Puffle adoption]]
+|-
+|[[Media:MembershipParty3-HolidayParty2016.swf|Transformation]]
+|}
+</center>
+
+==Other==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:Telescope-HolidayParty2015.swf|Beacon Telescope]]
+|-
+|[[Media:Binoculars-HolidayParty2015.swf|Cove Binoculars]]
+|}
+</center>
+
+{{Parties}}
+
+[[Category:Parties of 2016]]

@@ -1,0 +1,64 @@
+{{CPW|Zootopia Party|Festa Zootopia}}
+
+==Rooms==
+===May 19===
+<center>
+{|class="wikitable"
+!Room!!Music
+|-
+|[[Media:RoomsPlaza-ZootopiaParty.swf|Plaza]]||[[Media:Music1121.swf|1121]]
+|-
+|[[Media:RoomsForts-ZootopiaParty.swf|Snow Forts]]||[[Media:Music1119.swf|1119]]
+|-
+|[[Media:RoomsTown-ZootopiaParty.swf|Town]]||[[Media:Music1123.swf|1123]]
+|-
+|[[Media:RoomsParty1-ZootopiaParty.swf|ZPD Headquarters]]||[[Media:Music1120.swf|1120]]
+|}
+</center>
+===June 8===
+<center>
+{|class="wikitable"
+!Room!!Music
+|-
+|[[Media:RoomsCoffee-ZootopiaParty.swf|Coffee Shop]]||[[Media:Music1117.swf|1117]]
+|-
+|[[Media:RoomsDock-ZootopiaParty.swf|Dock]]||[[Media:Music1116.swf|1116]]
+|-
+|[[Media:RoomsForest-ZootopiaParty.swf|Forest]]||[[Media:Music1118.swf|1118]]
+|-
+|[[Media:RoomsRink-ZootopiaParty.swf|Stadium]]||[[Media:Music1122.swf|1122]]
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable" style="text-align: center;"
+!colspan="4"|SWF
+|-
+|[[Media:Close ups160518 character dialogue login-ZootopiaParty.swf|May 18 login]]||[[Media:Close ups160525 character dialogue login-ZootopiaParty.swf|May 25 login]]||[[Media:Close ups160608 character dialogue login-ZootopiaParty.swf|June 8 login]]||[[Media:Close ups160629 character dialogue login-ZootopiaParty.swf|June 29 login]]
+|-
+|colspan="4"|[[Media:Close upsQuest interface-ZootopiaParty.swf|Quest interface]]
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable"
+!colspan="5"|SWF
+|-
+|[[Media:ContentFeatures-ZootopiaParty.swf|Features]]||[[Media:ContentInterface-ZootopiaParty.swf|Interface]]||[[Media:ContentLogo-ZootopiaParty.swf|Logo]]||[[Media:ContentParty icon-ZootopiaParty.swf|Party icon]]||[[Media:ContentPrompts-ZootopiaParty.swf|Prompts]]
+|}
+</center>
+
+==Membership==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:MembershipParty1-ZootopiaParty.swf|Member item]]
+|}
+</center>
+
+{{Parties}}
+
+[[Category:Parties of 2016]]

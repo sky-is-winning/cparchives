@@ -1,0 +1,36 @@
+{{CPW|Penguin Play Awards 2009}}
+
+==Rooms==
+===Construction===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:StPatricksDayParty2009-Plaza.swf|Plaza]]||
+|-
+|[[Media:StPatricksDayParty2009-Stage.swf|Stage]]||N/A
+|}
+</center>
+
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsParty-PenguinPlayAwards2009.swf|Backstage]]||[[Media:Music40.swf|40]]
+|-
+|[[Media:RoomsPlaza-PenguinPlayAwards2009.swf|Plaza]]||[[Media:Music40.swf|40]]
+|-
+|[[Media:RoomsStage-PenguinPlayAwards2009.swf|Stage]]||[[Media:Music40.swf|40]]
+|}
+</center>
+
+==Shorts==
+*[[Media:ContentShortsfairyFables.swf|Fairy Fables]]
+*[[Media:ContentShortsgoldenPuffle.swf|The Quest for The Golden Puffle]]
+*[[Media:ContentShortspenguinsTime.swf|The Penguins That Time Forgot]]
+*[[Media:ContentShortsRuby.swf|Ruby and The Ruby]]
+*[[Media:ContentShortssquidzoid.swf|Squidzoid vs. Shadow Guy and Gamma Gal]]
+{{Parties}}
+
+[[Category:Parties of 2009]]

@@ -1,0 +1,83 @@
+{{CPW|DJ3K|DJ3K}}
+
+==Main==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:GamesMixmasterChooseSong.swf|ChooseSong (1)]]
+|-
+|[[Media:GamesMixmasterChooseSong 2.swf|ChooseSong (2)]]
+|}
+</center>
+
+==Records==
+<center>
+{|class="wikitable" border="1"
+!Record!!SWF
+|-
+|Classic||[[Media:GamesMixmasterMixMaster.swf|MixMaster]]
+|-
+|Festival||[[Media:GamesMixmasterMixMaster Brazil1.swf|Brazil1]]
+|-
+|Jungle||[[Media:GamesMixmasterMixMaster Drum n Bass1.swf|Drum n Bass1]]
+|-
+|Funky||[[Media:GamesMixmasterMixMaster Funk1.swf|Funk1]]
+|-
+| rowspan="2"|Desi-bel||[[Media:GamesMixmasterMixMaster SouthAsian1.swf|SouthAsian1 (1)]]
+|-
+|[[Media:GamesMixmasterMixMaster SouthAsian1 2.swf|SouthAsian1 (2)]]
+|-
+| rowspan="2"|House Blend||[[Media:GamesMixmasterMixMaster OldSchool1.swf|OldSchool1 (1)]]
+|-
+|[[Media:GamesMixmasterMixMaster OldSchool1 2.swf|OldSchool1 (2)]]
+|-
+| rowspan="2"|Reggaetron||[[Media:GamesMixmasterMixMaster Reggae1.swf|Reggae1 (1)]]
+|-
+|[[Media:GamesMixmasterMixMaster Reggae1 2.swf|Reggae1 (2)]]
+|-
+|Monster Muzzak||[[Media:GamesMixmasterMixMaster Halloween.swf|Halloween]]
+|}
+</center>
+
+==Playback==
+<center>
+{|class="wikitable" border="1"
+!Record!!SWF
+|-
+|Classic||[[Media:GamesMixmasterPlayback.swf|N/A]]
+|-
+|Festival||[[Media:GamesMixmasterPlayback Brazil.swf|Brazil]]
+|-
+|Jungle||[[Media:GamesMixmasterPlayback Drum.swf|Drum]]
+|-
+|Funky||[[Media:GamesMixmasterPlayback Funk.swf|Funk]]
+|-
+|Desi-bell||[[Media:GamesMixmasterPlayback South.swf|South]]
+|-
+|House Blend||[[Media:GamesMixmasterPlayback Oldschool.swf|Oldschool]]
+|-
+|Reggaetron||[[Media:GamesMixmasterPlayback Reggae.swf|Reggae]]
+|-
+|Monster Muzzak||[[Media:GamesMixmasterPlayback Halloween.swf|Halloween]]
+|}
+</center>
+
+==Localizations==
+<center>
+{|class="wikitable" border="1"
+!Language!!SWF
+|-
+|English||[[Media:GamesMixmasterLangENLocale.swf|Locale]]
+|-
+|Português||[[Media:GamesMixmasterLangPTLocale.swf|Locale]]
+|-
+|Français||[[Media:GamesMixmasterLangFRLocale.swf|Locale]]
+|-
+|Español||[[Media:GamesMixmasterLangESLocale.swf|Locale]]
+|-
+|Deutsch||[[Media:GamesMixmasterLangDELocale.swf|Locale]]
+|-
+|Русский||[[Media:GamesMixmasterLangRULocale.swf|Locale]]
+|}
+</center>

@@ -1,0 +1,74 @@
+{{CPW|Christmas Party 2008|Festa de Natal 2008}}
+
+==Rooms==
+<center>
+{|class="wikitable"
+!Room!!Music
+|-
+|[[Media:RoomsBeach-ChristmasParty2008.swf|Beach]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsBeacon-ChristmasParty2008.swf|Beacon]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsBoiler-ChristmasParty2008.swf|Boiler Room]]||[[Media:Music256.swf|256]]
+|-
+|[[Media:RoomsBook-ChristmasParty2008.swf|Book Room]]||[[Media:Music255.swf|255]]
+|-
+|[[Media:RoomsShipquarters-ChristmasParty2008.swf|Captain's Quarters]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsCave-ChristmasParty2008.swf|Cave]]||[[Media:Music256.swf|256]]
+|-
+|[[Media:RoomsCoffee-ChristmasParty2008.swf|Coffee Shop]]||[[Media:Music255.swf|255]]
+|-
+|[[Media:RoomsAgentcom-ChristmasParty2008.swf|Command Room]]||[[Media:Music7.swf|7]]
+|-
+|[[Media:RoomsCove-ChristmasParty2008.swf|Cove]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsShipnest-ChristmasParty2008.swf|Crow's Nest]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsLounge-ChristmasParty2008.swf|Dance Lounge]]||[[Media:Music226.swf|226]]
+|-
+|[[Media:RoomsDock-ChristmasParty2008.swf|Dock]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsDojo-ChristmasParty2008.swf|Dojo]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsDojoext-ChristmasParty2008.swf|Dojo Courtyard]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsForest-ChristmasParty2008.swf|Forest]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsAgent-ChristmasParty2008.swf|HQ]]||[[Media:Music7.swf|7]]
+|-
+|[[Media:RoomsRink-ChristmasParty2008.swf|Ice Rink]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsBerg-ChristmasParty2008.swf|Iceberg]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsMine-ChristmasParty2008.swf|Mine]]||[[Media:Music256.swf|256]]
+|-
+|[[Media:RoomsShack-ChristmasParty2008.swf|Mine Shack]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsDance-ChristmasParty2008.swf|Night Club]]||[[Media:Music226.swf|226]]
+|-
+|[[Media:RoomsDojohide-ChristmasParty2008.swf|Ninja Hideout]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsShip-ChristmasParty2008.swf|Pirate Ship]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsPizza-ChristmasParty2008.swf|Pizza Parlor]]||[[Media:Music255.swf|255]]
+|-
+|[[Media:RoomsPlaza-ChristmasParty2008.swf|Plaza]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsShiphold-ChristmasParty2008.swf|Ship Hold]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsMtn-ChristmasParty2008.swf|Ski Hill]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsLodge-ChristmasParty2008.swf|Ski Lodge]]||[[Media:Music255.swf|255]]
+|-
+|[[Media:RoomsVillage-ChristmasParty2008.swf|Ski Village]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsForts-ChristmasParty2008.swf|Snow Forts]]||[[Media:Music254.swf|254]]
+|-
+|[[Media:RoomsTown-ChristmasParty2008.swf|Town]]||[[Media:Music254.swf|254]]
+|}
+</center>
+
+{{Parties}}
+
+[[Category:Parties of 2008]]

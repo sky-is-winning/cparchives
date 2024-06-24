@@ -1,0 +1,6 @@
+{{Disambiguation}}
+Are you looking for?
+*[[Game Configs]]
+*[[Global JSONs]]
+*[[Cross-domain JSONs]]
+*[[Mobile JSONs]]

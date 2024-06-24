@@ -1,0 +1,29 @@
+{{CPW|Christmas Party 2005}}
+
+==Rooms==
+
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:CP05Coffee.swf|Coffee Shop]]||[[Media:Music200.swf|200]]
+|-
+|[[Media:CP05Shop.swf|Gift Shop]]||[[Media:Music200.swf|200]]
+|-
+|[[Media:CP05Rink.swf|Ice Rink [1]]]||[[Media:Music200.swf|200]]
+|-
+|[[Media:CP05Rink-2.swf|Ice Rink [2]]]||[[Media:Music200.swf|200]]
+|-
+|[[Media:CP05Dance.swf|Night Club]]||[[Media:Music200.swf|200]]
+|-
+|[[Media:CP05Lodge.swf|Ski Lodge]]||[[Media:Music200.swf|200]]
+|-
+|[[Media:CP05Village.swf|Ski Village]]||[[Media:Music200.swf|200]]
+|-
+|[[Media:CP05Town.swf|Town]]||[[Media:Music200.swf|200]]
+|}
+
+</center>
+{{Parties}}
+
+[[Category:Parties of 2005]]

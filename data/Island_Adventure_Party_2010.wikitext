@@ -1,0 +1,39 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Island Adventure Party 2010|Island Adventure Party 2010]]''
+
+===Rooms===
+====Construction====
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/before/beach.swf Beach]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/before/cove.swf Cove]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/before/plaza.swf Plaza]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/before/town.swf Town]
+
+====Party====
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/town.swf Town]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/dance.swf Night Club]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/forts.swf Snow Forts]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/plaza.swf Plaza]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/forest.swf Forest]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/lake.swf Hidden Lake]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/cove.swf Cove]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/dock.swf Dock]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/beach.swf Beach (Without Rockhopper's Ship)]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/village.swf Ski Village]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/berg.swf Iceberg]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/party.swf Tree Forts]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/party2.swf Ships]
+
+==Music==
+*[[Media:Music291.swf|Main Theme]]
+*[[Media:Music290.swf|Forest]]
+*[[Media:Music41.swf|Beach and Dock]]
+*[[Media:Music268.swf|Town]]
+*[[Media:Music269.swf|Night Club]]
+*[[Media:Music267.swf|Tree Forts]]
+*[[Media:Music289.swf|Ships Battle]]
+
+==Login Screens==
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/before/island_adventure.swf Login Screen #1]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/island_adventure_2.swf Login Screen #2]
+{{Parties}}
+
+[[Category:Parties of 2010]]

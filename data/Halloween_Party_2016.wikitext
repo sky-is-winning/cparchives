@@ -1,0 +1,172 @@
+{{CPW|Halloween Party 2016|Festa de Halloween 2016}}
+
+==Rooms==
+<center>
+{|class="wikitable" style="display: inline-table;"
+!Room!!Music
+|-
+|[[Media:RoomsLounge-HalloweenParty2016.swf|Arcade]]||[[Media:Music1055.swf|1055]]
+|-
+|[[Media:RoomsBeach-HalloweenParty2016.swf|Beach]]||[[Media:Music1054.swf|1054]]
+|-
+|[[Media:RoomsBeacon-HalloweenParty2016.swf|Beacon]]||[[Media:Music1053.swf|1053]]
+|-
+|[[Media:RoomsShop-HalloweenParty2016.swf|Clothes Shop]]||[[Media:Music345.swf|345]]
+|-
+|[[Media:Hallo15 cloudforest.swf|Cloud Forest]]||[[Media:Music1044.swf|1044]]
+|-
+|[[Media:RoomsCove-HalloweenParty2016.swf|Cove]]||[[Media:Music1035.swf|1035]]
+|-
+|[[Media:RoomsDock-HalloweenParty2016.swf|Dock]]||[[Media:Music1037.swf|1037]]
+|-
+|[[Media:Hallo15 dojo.swf|Dojo]]||[[Media:Music403.swf|403]]
+|-
+|[[Media:RoomsDojoext-HalloweenParty2016.swf|Dojo Courtyard]]||[[Media:Music1045.swf|1045]]
+|-
+|[[Media:Hallo15 agentlobbymulti.swf|Everyday Phoning Facility]]||[[Media:Music922.swf|922]]
+|-
+|[[Media:Hallo15 dojofire.swf|Fire Dojo]]||[[Media:Music405.swf|405]]
+|-
+|[[Media:RoomsForest-HalloweenParty2016.swf|Forest]]||[[Media:Music1038.swf|1038]]
+|}
+{|class="wikitable" style="display: inline-table;"
+!Room!!Music
+|-
+|[[Media:RoomsRink-HalloweenParty2016.swf|Ice Rink]]||[[Media:Music1067.swf|1067]]
+|-
+|[[Media:RoomsBerg-HalloweenParty2016.swf|Iceberg]]||[[Media:Music1043.swf|1043]]
+|-
+|[[Media:Hallo15 light.swf|Lighthouse]]||[[Media:Music588.swf|588]]
+|-
+|[[Media:Hallo15 attic.swf|Lodge Attic]]||[[Media:Music884.swf|884]]
+|-
+|[[Media:RoomsShack-HalloweenParty2016.swf|Mine Shack]]||[[Media:Music1041.swf|1041]]
+|-
+|[[Media:Hallo15 dance.swf|Night Club]]||[[Media:Music1036.swf|1036]]
+|-
+|[[Media:Hallo15 pet.swf|Pet Shop]]||[[Media:Music659.swf|659]]
+|-
+|[[Media:Hallo15 pizza.swf|Pizza Parlor]]||[[Media:Music1033.swf|1033]]
+|-
+|[[Media:RoomsPlaza-HalloweenParty2016.swf|Plaza]]||[[Media:Music1035.swf|1035]]
+|-
+|[[Media:RoomsMall-HalloweenParty2016.swf|Puffle Berry Mall]]||[[Media:Music1032.swf|1032]]
+|-
+|[[Media:Hallo15 hotellobby.swf|Puffle Hotel Lobby]]||[[Media:Music1048.swf|1048]]
+|-
+|[[Media:Hallo15 hotelroof.swf|Puffle Hotel Roof]]||[[Media:Music1049.swf|1049]]
+|}
+{|class="wikitable" style="display: inline-table;"
+!Room!!Music
+|-
+|[[Media:RoomsHotelspa-HalloweenParty2016.swf|Puffle Hotel Spa]]||[[Media:Music1050.swf|1050]]
+|-
+|[[Media:Hallo15 park.swf|Puffle Park]]||[[Media:Music1051.swf|1051]]
+|-
+|[[Media:Hallo15 pufflewild.swf|Puffle Wild]]||[[Media:Music1057.swf|1057]]
+|-
+|[[Media:RoomsSchool-HalloweenParty2016.swf|School]]||[[Media:Music1040.swf|1040]]
+|-
+|[[Media:RoomsSkatepark-HalloweenParty2016.swf|Skatepark]]||[[Media:Music1034.swf|1034]]
+|-
+|[[Media:Hallo15 mtn.swf|Ski Hill]]||[[Media:Music1042.swf|1042]]
+|-
+|[[Media:RoomsLodge-HalloweenParty2016.swf|Ski Lodge]]||[[Media:Music1056.swf|1056]]
+|-
+|[[Media:RoomsVillage-HalloweenParty2016.swf|Ski Village]]||[[Media:Music1042.swf|1042]]
+|-
+|[[Media:Hallo15 dojosnow.swf|Snow Dojo]]||[[Media:Music407.swf|407]]
+|-
+|[[Media:RoomsForts-HalloweenParty2016.swf|Snow Forts]]||[[Media:Music1039.swf|1039]]
+|-
+|[[Media:RoomsTown-HalloweenParty2016.swf|Town]]||[[Media:Music1035.swf|1035]]
+|-
+|[[Media:RoomsCave-HalloweenParty2016.swf|Underground Pool]]||[[Media:Music532.swf|532]]
+|}
+</center>
+
+==Avatar==
+<center>
+{|class="wikitable" style="text-align: center;"
+!Transformation!!Colors
+|-
+|Ghost
+|[[Media:PenguinGhost0.swf|Blue]]
+|-
+|Vampire
+|[[Media:AvatarSpritesVampireA-HalloweenParty2013.swf|Purple]] {{·}} [[Media:AvatarSpritesVampireB-HalloweenParty2013.swf|Green]] {{·}} [[Media:AvatarSpritesVampireC-HalloweenParty2013.swf|Orange]]
+|-
+|Werewolf
+|[[Media:AvatarSpritesWerewolfA-HalloweenParty2013.swf|Blue]] {{·}} [[Media:AvatarSpritesWerewolfB-HalloweenParty2013.swf|Brown]] {{·}} [[Media:AvatarSpritesWerewolfC-HalloweenParty2013.swf|Black]]
+|-
+|Zombie
+|[[Media:AvatarSpritesZombieA-HalloweenParty2013.swf|Green]] {{·}} [[Media:AvatarSpritesZombieB-HalloweenParty2013.swf|Purple]] {{·}} [[Media:AvatarSpritesZombieC-HalloweenParty2013.swf|Blue]]
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable" style="text-align: center;"
+!colspan="7"|SWF
+|-
+|colspan="7"|[[Media:Close ups160928 character dialogue login-HalloweenParty2016.swf|Login]]
+|-
+|[[Media:Close ups160928 character dialogue task0 start-HalloweenParty2016.swf|Task 0 start]]||[[Media:Close ups160928 character dialogue task1 start-HalloweenParty2016.swf|Task 1 start]]||[[Media:Close ups160928 character dialogue task2 start-HalloweenParty2016.swf|Task 2 start]]||[[Media:Close ups160928 character dialogue task3 start-HalloweenParty2016.swf|Task 3 start]]||[[Media:Close ups160928 character dialogue task4 start-HalloweenParty2016.swf|Task 4 start]]||[[Media:Close ups160928 character dialogue task5 start-HalloweenParty2016.swf|Task 5 start]]||[[Media:Close ups160928 character dialogue task6 start-HalloweenParty2016.swf|Task 6 start]]
+|-
+|[[Media:Close ups160928 character dialogue task0 congrats-HalloweenParty2016.swf|Task 0 congrats]]||[[Media:Close ups160928 character dialogue task1 congrats-HalloweenParty2016.swf|Task 1 congrats]]||[[Media:Close ups160928 character dialogue task2 congrats-HalloweenParty2016.swf|Task 2 congrats]]||[[Media:Close ups160928 character dialogue task3 congrats-HalloweenParty2016.swf|Task 3 congrats]]||[[Media:Close ups160928 character dialogue task4 congrats-HalloweenParty2016.swf|Task 4 congrats]]||[[Media:Close ups160928 character dialogue task5 congrats-HalloweenParty2016.swf|Task 5 congrats]]||[[Media:Close ups160928 character dialogue task6 congrats-HalloweenParty2016.swf|Task 6 congrats]]
+|-
+|[[Media:Close ups160928 character dialogue task7 start-HalloweenParty2016.swf|Task 7 start]]||[[Media:Close ups160928 character dialogue task8 start-HalloweenParty2016.swf|Task 8 start]]||[[Media:Close ups160928 character dialogue task9 start-HalloweenParty2016.swf|Task 9 start]]||[[Media:Close ups160928 character dialogue task11 start-HalloweenParty2016.swf|Task 11 start]]||[[Media:Close ups160928 character dialogue task12 start-HalloweenParty2016.swf|Task 12 start]]||[[Media:Close ups160928 character dialogue task13 start-HalloweenParty2016.swf|Task 13 start]]||[[Media:Close ups160928 character dialogue task14 start-HalloweenParty2016.swf|Task 14 start]]
+|-
+|[[Media:Close ups160928 character dialogue task7 congrats-HalloweenParty2016.swf|Task 7 congrats]]||[[Media:Close ups160928 character dialogue task8 congrats-HalloweenParty2016.swf|Task 8 congrats]]||[[Media:Close ups160928 character dialogue task9 congrats-HalloweenParty2016.swf|Task 9 congrats]]||[[Media:Close ups160928 character dialogue task11 congrats-HalloweenParty2016.swf|Task 11 congrats]]||[[Media:Close ups160928 character dialogue task12 congrats-HalloweenParty2016.swf|Task 12 congrats]]||[[Media:Close ups160928 character dialogue task13 congrats-HalloweenParty2016.swf|Task 13 congrats]]||[[Media:Close ups160928 character dialogue task14 congrats-HalloweenParty2016.swf|Task 14 congrats]]
+|-
+|colspan="7"|[[Media:Close ups161019 character dialogue final anniversary.swf-HalloweenParty2016.swf|Anniversary]]
+|-
+|colspan="7"|[[Media:Close upsQuest interface-HalloweenParty2016.swf|Quest interface]]
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable"
+!colspan="6"|SWF
+|-
+|[[Media:ContentFeatures-HalloweenParty2016.swf|Features]]||[[Media:ContentInterface-HalloweenParty2016.swf|Interface]]||[[Media:ContentLogo-HalloweenParty2016.swf|Logo]]||[[Media:ContentParty-HalloweenParty2016.swf|Party]]||[[Media:ContentParty icon-HalloweenParty2016.swf|Party icon]]||[[Media:ContentPrompts-HalloweenParty2016.swf|Prompts]]
+|}
+</center>
+
+==Night of the Living Sled==
+<center>
+{|class="wikitable"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)
+|-
+|[[Media:RoomsNOTLS-ALL-EN-HalloweenParty2014.swf|Night of the Living Sled]]||[[Media:RoomsNOTLS-ALL-PT-HalloweenParty2014.swf|Night of the Living Sled]]||[[Media:RoomsNOTLS-ALL-FR-HalloweenParty2014.swf|Night of the Living Sled]]||[[Media:RoomsNOTLS-ALL-ES-HalloweenParty2014.swf|Night of the Living Sled]]
+|}
+</center>
+
+==Membership==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:MembershipParty1-HalloweenParty2016.swf|Member item]]
+|-
+|[[Media:MembershipParty2-HalloweenParty2016.swf|Puffle adoption]]
+|-
+|[[Media:MembershipParty3-HalloweenParty2016.swf|Transformation]]
+|}
+</center>
+
+==Other==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:Telescope-HalloweenParty2016.swf|Beacon Telescope]]
+|-
+|[[Media:Binoculars-HalloweenParty2016.swf|Cove Binoculars]]
+|}
+</center>
+
+{{Parties}}
+
+[[Category:Parties of 2016]]

@@ -1,0 +1,62 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Puffle Party 2011|Puffle Party 2011]]''
+==Rooms==
+===Construction===
+*[[Media:PuffleParty2011ConstBeacon.swf|Beacon]]
+*[[Media:PuffleParty2011ConstBoxDimension.swf|Box Dimension]]
+*[[Media:PuffleParty2010ConstCave.swf|Cave]]
+*[[Media:PuffleParty2011ConstLounge.swf|Dance Lounge]]
+*[[Media:PuffleParty2011ConstForest.swf|Forest]]
+*[[Media:PuffleParty2011ConstBerg.swf|Iceberg]]
+*[[Media:PuffleParty2011ConstLight.swf|Lighthouse]]
+*[[Media:PuffleParty2011ConstMine.swf|Mine]]
+*[[Media:PuffleParty2011ConstDance.swf|Night Club]]
+
+===Party===
+*[[Media:PuffleParty2011Beach.swf|Beach]]
+*[[Media:PuffleParty2011Beacon.swf|Beacon]]
+*[[Media:PuffleParty2011BoxDimension.swf|Box Dimension]]
+*[[Media:PuffleParty2011Cave.swf|Cave]]
+*[[Media:PuffleParty2011Cove.swf|Cove]]
+*[[Media:PuffleParty2011Lounge.swf|Dance Lounge]]
+*[[Media:PuffleParty2011Dock.swf|Dock]]
+*[[Media:PuffleParty2011Forest.swf|Forest]]
+*[[Media:PuffleParty2011Berg.swf|Iceberg]]
+*[[Media:PuffleParty2011Light.swf|Lighthouse]]
+*[[Media:PuffleParty2011Mine.swf|Mine]]
+*[[Media:PuffleParty2011Dance.swf|Night Club]]
+*[[Media:PuffleParty2011Party3.swf|Night Club Rooftop]]
+*[[Media:PuffleParty2011Pet.swf|Pet Shop]]
+*[[Media:PuffleParty2011Plaza(1).swf|Plaza (1)]]
+*[[Media:PuffleParty2011Plaza(2).swf|Plaza (2)]]
+*[[Media:PuffleParty2011Party1.swf|Puffle Feeding Area]]
+*[[Media:PuffleParty2011Party2.swf|Puffle Show]]
+*[[Media:PuffleParty2011Village.swf|Ski Village]]
+*[[Media:PuffleParty2011Forts.swf|Snow Forts]]
+*[[Media:RoomsTown-PuffleParty2011.swf|Town]]
+
+==Music==
+*[[Media:Music261.swf|Main Music]]
+*[[Media:Music260.swf|Night Club and Dance Lounge]]
+*[[Media:Music290.swf|Cove]]
+*[[Media:Music31.swf|Lighthouse]]
+*[[Media:Music256.swf|Mine]]
+*[[Media:Music213.swf|Iceberg]]
+*[[Media:Music282.swf|Puffle Show]]
+*[[Media:Music272.swf|Night Club Rooftop]]
+*[[Media:Music249.swf|Night Club Rooftop]]
+*[[Media:Music275.swf|Night Club Rooftop]]
+*[[Media:Music258.swf|Night Club Rooftop]]
+
+==Poster==
+*[[Media:PuffleParty2011Poster.swf|Poster]]
+
+==Membership notices==
+*[[Media:PuffleParty2011MembershipParty2.swf|Membership Party 2]]
+*[[Media:PuffleParty2011MembershipParty3.swf|Membership Party 3]]
+
+==Login screens==
+*[[Media:LoginPuffleParty2011(1).swf|Puffle Party 2011 (1)]]
+*[[Media:LoginPuffleParty2011(2).swf|Puffle Party 2011 (2)]]
+{{Parties}}
+
+[[Category:Parties of 2011]]

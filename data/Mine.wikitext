@@ -1,0 +1,53 @@
+{{NeedSWFs}}
+{{CPW|Mine}}
+
+==Normal==
+<center>
+{|class="wikitable"
+!SWF!!Year(s)
+|-
+|[[Media:ArtworkRoomsMine13.swf|mine13]]||2006
+|-
+|[[Media:RoomsMine 1.swf|mine]]||2006-2010
+|-
+|[[Media:RoomsMine 2.swf|mine]]||2010-2013
+|-
+|[[Media:RoomsMine 3.swf|mine]]||2013-2015
+|-
+|[[Media:RoomsMine-May2015.swf|mine]]||May 2015
+|-
+|[[Media:RoomsMine-June2015.swf|mine]]||June 2015
+|-
+|[[Media:RoomsMine-2015.swf|mine]]||2015-2017
+|}
+</center>
+
+==Parties and Events==
+<center>
+{|class="wikitable plainlinks"
+!Event
+!Year
+|-
+|[[Media:ArtworkRoomsMine12.swf|Cave Opening Party]]||2006
+|-
+|[[Media:RoomsMine-FallFair2007.swf|Fall Fair]]||2007
+|-
+|[[Media:Rooms0516Mine50.swf|Medieval Party]]||2008 and 2009
+|-
+|[[Media:RoomsMine-AdventureParty2009.swf|Adventure Party]]||2009
+|-
+|[[Media:RoomsMine-Rockslide1.swf|Rockslide (1)]]||2010
+|-
+|[[Media:RoomsMine-Rockslide2.swf|Rockslide (2)]]||2010
+|-
+|[[Media:RoomsMine-CaveExpedition.swf|Cave Expedition]]||2010
+|-
+|[[Media:RoomsMine-PostCaveExpedition.swf|Post-Cave Expedition]]||2010
+|-
+|[[Media:RoomsMine-March2010 1.swf|March 2010, <small>before the Underground rooms were opened</small>]]||2010
+|-
+|[[Media:RoomsMine-Nov292012.swf|While the First Aid pin was available]]||2012
+|}
+</center>
+
+{{Places}}

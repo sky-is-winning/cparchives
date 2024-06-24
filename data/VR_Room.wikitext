@@ -1,0 +1,11 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:VR Room|VR Room]]''
+
+<center>
+{|class="wikitable" border="1"
+!Event
+!Music
+!Year
+|-
+|[[Media:RoomsAgentvr.swf|VR Room]]||[[Media:Music23.swf|23]]||June 10, 2010 - November 15, 2012
+|}
+</center>

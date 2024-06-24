@@ -1,0 +1,5 @@
+{{Newspaper2
+|issue=500
+|date=May 21, 2015
+|backstory=Shadow Guy and Gamma Gal Pt. 1
+}}

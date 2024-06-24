@@ -1,0 +1,40 @@
+{{NeedSWFs}}
+__TOC__
+
+{{CPW|Celebration of Fire|Celebração do Fogo}}
+
+==Rooms==
+===Construction===
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[[Media:RoomsDojoext-FireCelebratePre.swf|Dojo Courtyard]]||{{n/a}}
+|-
+|[[Media:RoomsDojohide-FireCelebratePre.swf|Ninja Hideout (1)]]||rowspan="2"|[[Media:Music21.swf|21]]
+|-
+|[[Media:RoomsDojohide-FireCelebratePre2.swf|Ninja Hideout (2)]]
+|-
+|[[Media:RoomsDojofire-FireCelebratePre.swf|Fire Dojo (1)]]||rowspan="2"|[[Media:Music22.swf|22]]
+|-
+|[[Media:RoomsDojofire-FireCelebratePre2.swf|Fire Dojo (2)]]
+|}
+
+===Party===
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[[Media:RoomsDojoext-FireCelebrate.swf|Dojo Courtyard]]||{{n/a}}
+|-
+|[[Media:RoomsDojohide-FireCelebrate.swf|Ninja Hideout]]||[[Media:Music21.swf|21]]
+|-
+|[[Media:RoomsDojofire-FireCelebrate.swf|Fire Dojo]]||[[Media:Music22.swf|22]]
+|}
+
+==Login Screen==
+{|class="wikitable" style="margin: 1em auto;"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)
+|-
+|[[Media:ENLoginBackgroundsCard jitsu fire-FireCelebrate.swf|Login Screen #1]]||{{n/a|Login Screen #1}}||{{n/a|Login Screen #1}}||{{n/a|Login Screen #1}}
+|}
+
+{{Events}}

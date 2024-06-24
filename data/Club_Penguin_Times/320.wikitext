@@ -1,0 +1,12 @@
+Below are SWF files from issue #320 (December 8, 2011) of the Club Penguin Times:
+*[[Media:News320HeaderFront.swf|Header (front)]]
+*[[Media:News320FeatureStory.swf|Feature Story]]
+*[[Media:News320SupportStory.swf|Support Story]]
+*[[Media:News320UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News320NewsFlash.swf|News Flash]]
+*[[Media:News320AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News320HeaderBack.swf|Header (back)]]
+*[[Media:News320AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News320JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News320SecretOverlay.swf|Secret Overlay]]
+*[[Media:News320FeatureMore.swf|Feature More]]

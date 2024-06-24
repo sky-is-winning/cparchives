@@ -1,0 +1,14 @@
+{{NeedSWFs}}
+{{CPW|Lighthouse Party|Lighthouse Party}}
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[[Media:beacon30.swf|Beacon]]||[[Media:Music212.swf|212]]
+|-
+|[[Media:lighthouse30.swf|Lighthouse]]||[[Media:Music212.swf|212]]
+|}
+
+{{Parties}}
+[[Category:Parties of 2006]]

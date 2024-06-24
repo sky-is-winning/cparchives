@@ -1,0 +1,11 @@
+==Current==
+{| class="wikitable sortable plainlinks"
+! File Name
+! JSON
+! JSONP
+|-
+| game_strings || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/game_strings.json en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/game_strings.json pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/game_strings.json fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/game_strings.json es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/game_strings.json de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/game_strings.json ru] || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/game_strings.jsonp en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/game_strings.jsonp pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/game_strings.jsonp fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/game_strings.jsonp es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/game_strings.jsonp de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/game_strings.jsonp ru]
+|}
+==2015==
+{{2015GameConfigs|pre2={{:Game Strings/Apr23}}
+|title=game_strings}}

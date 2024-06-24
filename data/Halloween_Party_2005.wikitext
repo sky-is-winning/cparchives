@@ -1,0 +1,23 @@
+{{CPW|Halloween Party 2005}}
+==Rooms==
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:Book2 03 halloween.swf|Book Room]]||{{n/a}}
+|-
+|[[Media:Dance1b halloween.swf|Dance Club]]||{{n/a}}
+|-
+|[[Media:Lounge1 halloween.swf|Dance Lounge]]||{{n/a}}
+|-
+|[[Media:Dojo halloween.swf|Dojo]]||{{n/a}}
+|-
+|[[Media:Icerink halloween.swf|Ice Rink]]||{{n/a}}
+|-
+|[[Media:Town halloween.swf|Town]]||{{n/a}}
+|}
+
+</center>
+{{Parties}}
+
+[[Category:Parties of 2005]]

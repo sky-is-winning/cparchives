@@ -1,0 +1,154 @@
+:''English Club Penguin Wiki articles: [[clubpenguinwiki:Blue Puffle|Blue Puffle]], [[clubpenguinwiki:Blue Triceratops|Blue Triceratops]], [[clubpenguinwiki:Blue Border Collie|Blue Border Collie]], [[clubpenguinwiki:Blue Raccoon Puffle|Blue Raccoon Puffle]] and [[clubpenguinwiki:Blue Deer Puffle|Blue Deer Puffle]]''
+
+==Basic==
+{|class="wikitable" style="margin: auto;"
+!Type!!Puffle
+|-
+|Icon||[[Media:PuffleIconsBlue.swf|Blue Puffle]]
+|-
+|Sprites||[[Media:PuffleSpritesBlue.swf|Blue Puffle]]
+|-
+|Item Sprites||[[Media:ClothingSprites750.swf|Blue Puffle]]
+|-
+| rowspan="5"|Igloo Sprites||[[Media:PuffleSpritesIglooPuffle blue igloo.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesIglooPuffle blue1003 igloo.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesIglooPuffle blue1006 igloo.swf|Blue Border Collie]]
+|-
+|[[Media:PuffleSpritesIglooPuffle blue1011 igloo.swf|Blue Raccoon]]
+|-
+|[[Media:PuffleSpritesIglooPuffle blue1016 igloo.swf|Blue Deer]]
+|-
+| rowspan="5"|Walking Sprites||[[Media:PuffleSpritesWalkPuffle blue walk.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesWalkPuffle blue1003 walk.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesWalkPuffle blue1006 walk.swf|Blue Border Collie]]
+|-
+|[[Media:PuffleSpritesWalkPuffle blue1011 walk.swf|Blue Raccoon]]
+|-
+|[[Media:PuffleSpritesWalkPuffle blue1016 walk.swf|Blue Deer]]
+|-
+| rowspan="5"|Digging Animation||[[Media:PuffleSpritesDigPuffle blue dig.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesDigPuffle blue1003 dig.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesDigPuffle blue1006 dig.swf|Blue Border Collie]]
+|-
+|[[Media:PuffleSpritesDigPuffle blue1011 dig.swf|Blue Raccoon]]
+|-
+|[[Media:PuffleSpritesDigPuffle blue1016 dig.swf|Blue Deer]]
+|-
+| rowspan="6"|Player Card||[[Media:ClothingPaper750.swf|Blue Puffle]]
+|-
+|[[Media:PufflePaperPuffle blue1003 paper.swf|Blue Triceratops]]
+|-
+|[[Media:PufflePaperPuffle blue1006 paper.swf|Blue Border Collie (1)]]
+|-
+|[[Media:PufflePaperPuffle blue1006 paper 2.swf|Blue Border Collie (2)]]
+|-
+|[[Media:PufflePaperPuffle blue1011 paper.swf|Blue Raccoon]]
+|-
+|[[Media:PufflePaperPuffle blue1016 paper.swf|Blue Deer]]
+|}
+
+==Tricks==
+{|class="wikitable" style="margin: auto;"
+!Trick!!colspan="2"|Puffle
+|-
+| rowspan="5"|Nuzzle||[[Media:PuffleSpritesTricksPuffle blue nuzzle.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1003 nuzzle.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1006 nuzzle.swf|Blue Border Collie]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1011 nuzzle.swf|Blue Raccoon]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1016 nuzzle.swf|Blue Deer]]
+|-
+| rowspan="5"|Speak||[[Media:PuffleSpritesTricksPuffle blue speak.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1003 speak.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1006 speak.swf|Blue Border Collie]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1011 speak.swf|Blue Raccoon]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1016 speak.swf|Blue Deer]]
+|-
+| rowspan="5"|Jump Forward||[[Media:PuffleSpritesTricksPuffle blue jumpForward.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1003 jumpForward.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1006 jumpForward.swf|Blue Border Collie]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1011 jumpForward.swf|Blue Raccoon]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1016 jumpForward.swf|Blue Deer]]
+|-
+| rowspan="5"|Stand on Head||[[Media:PuffleSpritesTricksPuffle blue standOnHead.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1003 standOnHead.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1006 standOnHead.swf|Blue Border Collie]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1011 standOnHead.swf|Blue Raccoon]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1016 standOnHead.swf|Blue Deer]]
+|-
+| rowspan="5"|Roll||[[Media:PuffleSpritesTricksPuffle blue roll.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1003 roll.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1006 roll.swf|Blue Border Collie]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1011 roll.swf|Blue Raccoon]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1016 roll.swf|Blue Deer]]
+|-
+| rowspan="5"|Jump Spin||[[Media:PuffleSpritesTricksPuffle blue jumpSpin.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1003 jumpSpin.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1006 jumpSpin.swf|Blue Border Collie]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1011 jumpSpin.swf|Blue Raccoon]]
+|-
+|[[Media:PuffleSpritesTricksPuffle blue1016 jumpSpin.swf|Blue Deer]]
+|}
+
+==Other Actions==
+{|class="wikitable" style="margin: auto;"
+!Action!!Puffle
+|-
+| rowspan="3"|Splash||[[Media:PuffleSpritesAnimationSplashPuffle blue splash.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesAnimationSplashPuffle blue1003 splash.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesAnimationSplashPuffle blue1006 splash.swf|Blue Border Collie]]
+|-
+| rowspan="3"|Celebrate||[[Media:PuffleSpritesAnimationCelebratePuffle blue 100 percent.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesAnimationCelebratePuffle blue1003 100 percent.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesAnimationCelebratePuffle blue1006 100 percent.swf|Blue Border Collie]]
+|-
+| rowspan="3"|Tire Swing||[[Media:PuffleSpritesPuffleparkTireswingPuffle blue TireSwing.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesPuffleparkTireswingPuffle blue1003 TireSwing.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesPuffleparkTireswingPuffle blue1006 TireSwing.swf|Blue Border Collie]]
+|-
+| rowspan="3"|Hydrant||[[Media:PuffleSpritesPuffleparkHydrantPuffle blue Hydrant.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesPuffleparkHydrantPuffle blue1003 Hydrant.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesPuffleparkHydrantPuffle blue1006 Hydrant.swf|Blue Border Collie]]
+|-
+| rowspan="3"|Scratch Post||[[Media:PuffleSpritesPuffleparkScratchpostPuffle blue scratchpost.swf|Blue Puffle]]
+|-
+|[[Media:PuffleSpritesPuffleparkScratchpostPuffle blue1003 scratchpost.swf|Blue Triceratops]]
+|-
+|[[Media:PuffleSpritesPuffleparkScratchpostPuffle blue1006 scratchpost.swf|Blue Border Collie]]
+|}

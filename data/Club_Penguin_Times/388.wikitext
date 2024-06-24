@@ -1,0 +1,27 @@
+Below are SWF files from issue #388 (March 28, 2013) of the Club Penguin Times:
+
+<center>
+{|class="wikitable" border="1"
+!Header (front)
+!Feature Story
+!Support Story
+!Upcoming Events
+!News Flash
+!Ask PH (front)
+!Header (back)
+!Ask PH (back)
+!Jokes and Riddles
+!Secrets
+!Feature More
+|-
+|[[Media:News388HeaderFront.swf|English]]||[[Media:News388FeatureStory.swf|English]]||[[Media:News388SupportStory.swf|English]]||[[Media:News388UpcomingEvents.swf|English]]||[[Media:News388NewsFlash.swf|English]]||[[Media:News388AskAuntArcticFront.swf|English]]||[[Media:News388HeaderBack.swf|English]]||[[Media:News388AskAuntArcticBack.swf|English]]||[[Media:News388JokesAndRiddles.swf|English]]||[[Media:News388Secrets.swf|English]]||[[Media:News388FeatureMore.swf|English]]
+|-
+|[[Media:PTNews388HeaderFront.swf|Português]]||[[Media:PTNews388FeatureStory.swf|Português]]||[[Media:PTNews388SupportStory.swf|Português]]||[[Media:PTNews388UpcomingEvents.swf|Português]]||[[Media:PTNews388NewsFlash.swf|Português]]||[[Media:PTNews388AskAuntArcticFront.swf|Português]]||[[Media:PTNews388HeaderBack.swf|Português]]||[[Media:PTNews388AskAuntArcticBack.swf|Português]]||[[Media:PTNews388JokesAndRiddles.swf|Português]]||[[Media:PTNews388Secrets.swf|Português]]||[[Media:PTNews388FeatureMore.swf|Português]]
+|-
+|[[Media:FRNews388HeaderFront.swf|Français]]||[[Media:FRNews388FeatureStory.swf|Français]]||[[Media:FRNews388SupportStory.swf|Français]]||[[Media:FRNews388UpcomingEvents.swf|Français]]||[[Media:FRNews388NewsFlash.swf|Français]]||[[Media:FRNews388AskAuntArcticFront.swf|Français]]||[[Media:FRNews388HeaderBack.swf|Français]]||[[Media:FRNews388AskAuntArcticBack.swf|Français]]||[[Media:FRNews388JokesAndRiddles.swf|Français]]||[[Media:FRNews388Secrets.swf|Français]]||[[Media:FRNews388FeatureMore.swf|Français]]
+|-
+|[[Media:ESNews388HeaderFront.swf|Español]]||[[Media:ESNews388FeatureStory.swf|Español]]||[[Media:ESNews388SupportStory.swf|Español]]||[[Media:ESNews388UpcomingEvents.swf|Español]]||[[Media:ESNews388NewsFlash.swf|Español]]||[[Media:ESNews388AskAuntArcticFront.swf|Español]]||[[Media:ESNews388HeaderBack.swf|Español]]||[[Media:ESNews388AskAuntArcticBack.swf|Español]]||[[Media:ESNews388JokesAndRiddles.swf|Español]]||[[Media:ESNews388Secrets.swf|Español]]||[[Media:ESNews388FeatureMore.swf|Español]]
+|-
+|[[Media:DENews388HeaderFront.swf|Deutsch]]||[[Media:DENews388FeatureStory.swf|Deutsch]]||[[Media:DENews388SupportStory.swf|Deutsch]]||[[Media:DENews388UpcomingEvents.swf|Deutsch]]||[[Media:DENews388NewsFlash.swf|Deutsch]]||[[Media:DENews388AskAuntArcticFront.swf|Deutsch]]||[[Media:DENews388HeaderBack.swf|Deutsch]]||[[Media:DENews388AskAuntArcticBack.swf|Deutsch]]||[[Media:DENews388JokesAndRiddles.swf|Deutsch]]||[[Media:DENews388Secrets.swf|Deutsch]]||[[Media:DENews388FeatureMore.swf|Deutsch]]
+|}
+</center>

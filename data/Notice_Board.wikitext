@@ -1,0 +1,32 @@
+{{NeedSWFs}}
+{{CPW|Notice Board}}
+
+<center>
+{|class="wikitable"
+!Date!!English!!Portuguese!!French!!Spanish!!German!!Russian
+|-
+|April 2008||{{n/a|English}}||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}
+|-
+|October 2008||{{n/a|English}}||{{n/a|Portuguese}}||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}
+|-
+|December 2008||{{n/a|English}}||{{n/a|Portuguese}}||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}
+|-
+|February 2009||{{n/a|English}}||{{n/a|Portuguese}}||{{n/a|French}}||{{n/a}}||{{n/a}}||{{n/a}}
+|-
+|December 2010||[[Media:CorkboardDec2010.swf|English]]||{{n/a|Portuguese}}||{{n/a|French}}||{{n/a|Spanish}}||{{n/a}}||{{n/a}}
+|-
+|April 2011||[[Media:CorkboardApr2011.swf|English]]||{{n/a|Portuguese}}||{{n/a|French}}||{{n/a|Spanish}}||{{n/a}}||{{n/a}}
+|-
+|July 2011||[[Media:CorkboardJul2011.swf|English]]||{{n/a|Portuguese}}||{{n/a|French}}||{{n/a|Spanish}}||{{n/a}}||{{n/a}}
+|-
+|September 2011||[[Media:CorkboardSep2011.swf|English]]||{{n/a|Portuguese}}||{{n/a|French}}||{{n/a|Spanish}}||{{n/a}}||{{n/a}}
+|-
+|December 2011||[[Media:CorkboardDec2011.swf|English]]||[[Media:CorkboardDec2011PT.swf|Portuguese]]||{{n/a|French}}||[[Media:CorkboardDec2011ES.swf|Spanish]]||[[Media:CorkboardDec2011DE.swf|German]]||{{n/a}}
+|-
+|December 2012||[[Media:ENCloseUpsCorkboardDec2012.swf|English]]||[[Media:PTCloseUpsCorkboardDec2012.swf|Portuguese]]||[[Media:FRCloseUpsCorkboardDec2012.swf|French]]||[[Media:ESCloseUpsCorkboardDec2012.swf|Spanish]]||[[Media:DECloseUpsCorkboardDec2012.swf|German]]||{{n/a}}
+|-
+|September 2013||[[Media:ENCloseUpsCorkboardSept2013.swf|English]]||[[Media:PTCloseUpsCorkboardSept2013.swf|Portuguese]]||[[Media:FRCloseUpsCorkboardSept2013.swf|French]]||[[Media:ESCloseUpsCorkboardSept2013.swf|Spanish]]||[[Media:DECloseUpsCorkboardSept2013.swf|German]]||{{n/a}}
+|-
+|April 2014||[[Media:CorkboardApr2014EN.swf|English]]||[[Media:CorkboardApr2014PT.swf|Portuguese]]||[[Media:CorkboardApr2014FR.swf|French]]||[[Media:CorkboardApr2014ES.swf|Spanish]]||[[Media:CorkboardApr2014DE.swf|German]]||[[Media:CorkboardApr2014RU.swf|Russian]]
+|}
+</center>

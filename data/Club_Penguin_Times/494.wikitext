@@ -1,0 +1,6 @@
+{{Newspaper2
+|issue=494
+|date=April 9, 2015
+|ask=Rookie
+|backstory=Ask Rookie (continued)
+}}

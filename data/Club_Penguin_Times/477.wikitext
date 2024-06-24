@@ -1,0 +1,5 @@
+{{Newspaper2
+|issue=477
+|date=December 11, 2014
+|backstory=Comic
+}}

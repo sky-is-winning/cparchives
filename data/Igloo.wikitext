@@ -1,0 +1,194 @@
+{{Construction}}
+{{CPW|Igloo|Iglu}}
+
+==Igloos==
+{|class="wikitable" border="1" style="margin: auto;"
+!ID!!Name!!colspan="2"|SWF
+|-
+|1||Basic Igloo||[[Media:BuildingsIcons1.swf|Icon]]||[[Media:IglooIgloos1.swf|Igloo]]
+|-
+|2||Candy Igloo||[[Media:BuildingsIcons2.swf|Icon]]||[[Media:IglooIgloos2.swf|Igloo]]
+|-
+|3||Deluxe Blue Igloo||[[Media:BuildingsIcons3.swf|Icon]]||[[Media:IglooIgloos3.swf|Igloo]]
+|-
+|4||Big Candy Igloo||[[Media:BuildingsIcons4.swf|Icon]]||[[Media:IglooIgloos4.swf|Igloo]]
+|-
+|5||Secret Stone Igloo||[[Media:BuildingsIcons5.swf|Icon]]||[[Media:IglooIgloos5.swf|Igloo]]
+|-
+|6||Snow Igloo||[[Media:BuildingsIcons6.swf|Icon]]||[[Media:IglooIgloos6.swf|Igloo]]
+|-
+|7||Secret Deluxe Stone Igloo||[[Media:BuildingsIcons7.swf|Icon]]||[[Media:IglooIgloos7.swf|Igloo]]
+|-
+|8||Secret Deluxe Stone Igloo||[[Media:BuildingsIcons8.swf|Icon]]||[[Media:IglooIgloos8.swf|Igloo]]
+|-
+|9||Deluxe Snow Igloo||[[Media:BuildingsIcons9.swf|Icon]]||[[Media:IglooIgloos9.swf|Igloo]]
+|-
+|10||Bamboo Hut||[[Media:BuildingsIcons10.swf|Icon]]||[[Media:IglooIgloos10.swf|Igloo]]
+|-
+|11||Log Cabin||[[Media:BuildingsIcons11.swf|Icon]]||[[Media:IglooIgloos11.swf|Igloo]]
+|-
+|12||Gym||[[Media:BuildingsIcons12.swf|Icon]]||[[Media:IglooIgloos12.swf|Igloo]]
+|-
+|13||Split Level Igloo||[[Media:BuildingsIcons13.swf|Icon]]||[[Media:IglooIgloos13.swf|Igloo]]
+|-
+|14||Candy Split Level Igloo||[[Media:BuildingsIcons14.swf|Icon]]||[[Media:IglooIgloos14.swf|Igloo]]
+|-
+|15||Snow Globe||[[Media:BuildingsIcons15.swf|Icon]]||[[Media:IglooIgloos15.swf|Igloo]]
+|-
+|16||Ice Castle||[[Media:BuildingsIcons16.swf|Icon]]||[[Media:IglooIgloos16.swf|Igloo]]
+|-
+|17||Split Level Snow Igloo||[[Media:BuildingsIcons17.swf|Icon]]||[[Media:IglooIgloos17.swf|Igloo]]
+|-
+|18||Fish Bowl||[[Media:BuildingsIcons18.swf|Icon]]||[[Media:IglooIgloos18.swf|Igloo]]
+|-
+|19||Tent||[[Media:BuildingsIcons19.swf|Icon]]||[[Media:IglooIgloos19.swf|Igloo]]
+|-
+|20||Jack-O-Lantern||[[Media:BuildingsIcons20.swf|Icon]]||[[Media:IglooIgloos20.swf|Igloo]]
+|-
+|21||Backyard Igloo||[[Media:BuildingsIcons21.swf|Icon]]||[[Media:IglooIgloos21.swf|Igloo]]
+|-
+|22||Pink Ice Palace||[[Media:BuildingsIcons22.swf|Icon]]||[[Media:IglooIgloos22.swf|Igloo]]
+|-
+|23||Ship Igloo||[[Media:BuildingsIcons23.swf|Icon]]||[[Media:IglooIgloos23.swf|Igloo]]
+|-
+|24||Dojo Igloo||[[Media:BuildingsIcons24.swf|Icon]]||[[Media:IglooIgloos24.swf|Igloo]]
+|-
+|25||Gingerbread House||[[Media:BuildingsIcons25.swf|Icon]]||[[Media:IglooIgloos25.swf|Igloo]]
+|-
+|26||Restaurant Igloo||[[Media:BuildingsIcons26.swf|Icon]]||[[Media:IglooIgloos26.swf|Igloo]]
+|-
+|27||Tree House Igloo||[[Media:BuildingsIcons27.swf|Icon]]||[[Media:IglooIgloos27.swf|Igloo]]
+|-
+|28||Theatre Igloo||[[Media:BuildingsIcons28.swf|Icon]]||[[Media:IglooIgloos28.swf|Igloo]]
+|-
+|29||Circus Tent||[[Media:BuildingsIcons29.swf|Icon]]||[[Media:IglooIgloos29.swf|Igloo]]
+|-
+|30||Snowy Backyard Igloo||[[Media:BuildingsIcons30.swf|Icon]]||[[Media:IglooIgloos30.swf|Igloo]]
+|-
+|31||Cave Igloo||[[Media:BuildingsIcons31.swf|Icon]]||[[Media:IglooIgloos31.swf|Igloo]]
+|-
+|32||Green Clover Igloo||[[Media:BuildingsIcons32.swf|Icon]]||[[Media:IglooIgloos32.swf|Igloo]]
+|-
+|33||Grey Ice Castle||[[Media:BuildingsIcons33.swf|Icon]]||[[Media:IglooIgloos33.swf|Igloo]]
+|-
+|35||Cozy Cottage Igloo||[[Media:BuildingsIcons35.swf|Icon]]||[[Media:IglooIgloos35.swf|Igloo]]
+|-
+|36||Estate Igloo||[[Media:BuildingsIcons36.swf|Icon]]||[[Media:IglooIgloos36.swf|Igloo]]
+|-
+|37||In Half Igloo||[[Media:BuildingsIcons37.swf|Icon]]||[[Media:IglooIgloos37.swf|Igloo]]
+|-
+|38||Shadowy Keep||[[Media:BuildingsIcons38.swf|Icon]]||[[Media:IglooIgloos38.swf|Igloo]]
+|-
+|39||Dragon's Lair||[[Media:BuildingsIcons39.swf|Icon]]||[[Media:IglooIgloos39.swf|Igloo]]
+|-
+|40||Mermaid Cove||[[Media:BuildingsIcons40.swf|Icon]]||[[Media:IglooIgloos40.swf|Igloo]]
+|-
+|41||Whale's Mouth||[[Media:BuildingsIcons41.swf|Icon]]||[[Media:IglooIgloos41.swf|Igloo]]
+|-
+|42||Trick-or-Treat Igloo||[[Media:BuildingsIcons42.swf|Icon]]||[[Media:IglooIgloos42.swf|Igloo]]
+|-
+|43||Deluxe Gingerbread House||[[Media:BuildingsIcons43.swf|Icon]]||[[Media:IglooIgloos43.swf|Igloo]]
+|-
+|49||Shipwreck Igloo||[[Media:BuildingsIcons49.swf|Icon]]||[[Media:IglooIgloos49.swf|Igloo]]
+|-
+|50||Wildlife Den||[[Media:BuildingsIcons50.swf|Icon]]||[[Media:IglooIgloos50.swf|Igloo]]
+|-
+|51||Medieval Manor||[[Media:BuildingsIcons51.swf|Icon]]||[[Media:IglooIgloos51.swf|Igloo]]
+|-
+|52||Warehouse||[[Media:BuildingsIcons52.swf|Icon]]||[[Media:IglooIgloos52.swf|Igloo]]
+|-
+|53||Pineapple Igloo||[[Media:BuildingsIcons53.swf|Icon]]||[[Media:IglooIgloos53.swf|Igloo]]
+|-
+|54||Creepy Cavern||[[Media:BuildingsIcons54.swf|Icon]]||[[Media:IglooIgloos54.swf|Igloo]]
+|-
+|55||Frost Bite Palace||[[Media:BuildingsIcons55.swf|Icon]]||[[Media:IglooIgloos55.swf|Igloo]]
+|-
+|56||Fresh Baked Gingerbread House||[[Media:BuildingsIcons56.swf|Icon]]||[[Media:IglooIgloos56.swf|Igloo]]
+|-
+|57||Penthouse||[[Media:BuildingsIcons57.swf|Icon]]||[[Media:IglooIgloos57.swf|Igloo]]
+|-
+|58||VIP Penthouse||[[Media:BuildingsIcons58.swf|Icon]]||[[Media:IglooIgloos58.swf|Igloo]]
+|-
+|60||Puffle Tree Fort||[[Media:BuildingsIcons60.swf|Icon]]||[[Media:IglooIgloos60.swf|Igloo]]
+|-
+|61||Secret Base||[[Media:BuildingsIcons61.swf|Icon]]||[[Media:IglooIgloos61.swf|Igloo]]
+|-
+|62||Imperial Base Igloo||[[Media:BuildingsIcons62.swf|Icon]]||[[Media:IglooIgloos62.swf|Igloo]]
+|-
+|63||Beach Party Igloo||[[Media:BuildingsIcons63.swf|Icon]]||[[Media:IglooIgloos63.swf|Igloo]]
+|-
+|64||Gymnasium Igloo||[[Media:BuildingsIcons64.swf|Icon]]||[[Media:IglooIgloos64.swf|Igloo]]
+|-
+|65||Magical Hideout||[[Media:BuildingsIcons65.swf|Icon]]||[[Media:IglooIgloos65.swf|Igloo]]
+|-
+|66||Eerie Castle||[[Media:BuildingsIcons66.swf|Icon]]||[[Media:IglooIgloos66.swf|Igloo]]
+|-
+|67||Sweet Swirl Igloo||[[Media:BuildingsIcons67.swf|Icon]]||[[Media:IglooIgloos67.swf|Igloo]]
+|-
+|68||Train Station Igloo||[[Media:BuildingsIcons68.swf|Icon]]||[[Media:IglooIgloos68.swf|Igloo]]
+|-
+|69||Main Event Igloo||[[Media:BuildingsIcons69.swf|Icon]]||[[Media:IglooIgloos69.swf|Igloo]]
+|-
+|70||CP Airliner||[[Media:BuildingsIcons70.swf|Icon]]||[[Media:IglooIgloos70.swf|Igloo]]
+|-
+|71||Puffle Tree House||[[Media:BuildingsIcons71.swf|Icon]]||[[Media:IglooIgloos71.swf|Igloo]]
+|-
+|73||Space Dome Igloo||[[Media:BuildingsIcons73.swf|Icon]]||[[Media:IglooIgloos73.swf|Igloo]]
+|-
+|75||Tour Bus Igloo||[[Media:BuildingsIcons75.swf|Icon]]||[[Media:IglooIgloos75.swf|Igloo]]
+|-
+|76||Ice Palace Igloo||[[Media:BuildingsIcons76.swf|Icon]]||[[Media:IglooIgloos76.swf|Igloo]]
+|-
+|77||Sharks Gym||[[Media:BuildingsIcons77.swf|Icon]]||[[Media:IglooIgloos77.swf|Igloo]]
+|-
+|78||Schoolhouse Igloo||[[Media:BuildingsIcons78.swf|Icon]]||[[Media:IglooIgloos78.swf|Igloo]]
+|-
+|79||Ghostly Cavern Igloo||[[Media:BuildingsIcons79.swf|Icon]]||[[Media:IglooIgloos79.swf|Igloo]]
+|-
+|82||Ezra's Hideout||[[Media:BuildingsIcons82.swf|Icon]]||[[Media:IglooIgloos82.swf|Igloo]]
+|-
+|83||Starship Igloo||[[Media:BuildingsIcons83.swf|Icon]]||[[Media:IglooIgloos83.swf|Igloo]]
+|-
+|84||Talent Show Stage||[[Media:BuildingsIcons84.swf|Icon]]||[[Media:IglooIgloos84.swf|Igloo]]
+|-
+|85||Red Puffle Tree House||[[Media:BuildingsIcons85.swf|Icon]]||[[Media:IglooIgloos85.swf|Igloo]]
+|-
+|86||Orange Puffle Tree House||[[Media:BuildingsIcons86.swf|Icon]]||[[Media:IglooIgloos86.swf|Igloo]]
+|-
+|87||Yellow Puffle Tree House||[[Media:BuildingsIcons87.swf|Icon]]||[[Media:IglooIgloos87.swf|Igloo]]
+|-
+|88||Green Puffle Tree House||[[Media:BuildingsIcons88.swf|Icon]]||[[Media:IglooIgloos88.swf|Igloo]]
+|-
+|89||Blue Puffle Tree House||[[Media:BuildingsIcons89.swf|Icon]]||[[Media:IglooIgloos89.swf|Igloo]]
+|-
+|90||Purple Puffle Tree House||[[Media:BuildingsIcons90.swf|Icon]]||[[Media:IglooIgloos90.swf|Igloo]]
+|-
+|91||Black Puffle Tree House||[[Media:BuildingsIcons91.swf|Icon]]||[[Media:IglooIgloos91.swf|Igloo]]
+|-
+|92||White Puffle Tree House||[[Media:BuildingsIcons92.swf|Icon]]||[[Media:IglooIgloos92.swf|Igloo]]
+|-
+|93||Brown Puffle Tree House||[[Media:BuildingsIcons93.swf|Icon]]||[[Media:IglooIgloos93.swf|Igloo]]
+|-
+|94||Pink Puffle Tree House||[[Media:BuildingsIcons94.swf|Icon]]||[[Media:IglooIgloos94.swf|Igloo]]
+|-
+|95||Gold Puffle Tree House||[[Media:BuildingsIcons95.swf|Icon]]||[[Media:IglooIgloos95.swf|Igloo]]
+|-
+|96||Rainbow Puffle Tree House||[[Media:BuildingsIcons96.swf|Icon]]||[[Media:IglooIgloos96.swf|Igloo]]
+|-
+|97||Spring Palace Igloo||[[Media:BuildingsIcons97.swf|Icon]]||[[Media:IglooIgloos97.swf|Igloo]]
+|-
+|98||Stage Igloo||[[Media:BuildingsIcons98.swf|Icon]]||[[Media:IglooIgloos98.swf|Igloo]]
+|}
+
+==Locations==
+*Default <span style="font-size: 92%;">([[Media:IglooLocations1.swf|sprites]] | [[Media:IglooLocationsIcons1.swf|icons]] | [[Media:IglooBuildingsSprites45.swf|igloo sprites]])</span>
+*Beach <span style="font-size: 92%;">([[Media:IglooLocations2.swf|sprites]] | [[Media:IglooLocationsIcons2.swf|icons]] | [[Media:IglooBuildingsSprites46.swf|igloo sprites]])</span>
+*Forest <span style="font-size: 92%;">([[Media:IglooLocations3.swf|sprites]] | [[Media:IglooLocationsIcons3.swf|icons]] | [[Media:IglooBuildingsSprites47.swf|igloo sprites]])</span>
+*Mountain <span style="font-size: 92%;">([[Media:IglooLocations4.swf|sprites]] | [[Media:IglooLocationsIcons4.swf|icons]] | [[Media:IglooBuildingsSprites48.swf|igloo sprites]])</span>
+*Age Of Dinosaurs <span style="font-size: 92%;">([[Media:IglooLocationsSprites5.swf|sprites]] | [[Media:IglooLocationsIcons5.swf|icons]] | [[Media:IglooBuildingsSprites59.swf|igloo sprites]])</span>
+
+==JSON==
+
+==See Also==
+*[[Furniture]]
+*[[Igloo Flooring]]

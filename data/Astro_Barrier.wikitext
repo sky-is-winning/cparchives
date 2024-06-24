@@ -1,0 +1,15 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Astro Barrier|Astro Barrier]]''
+
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|bootstrap||[[Media:GamesAstroBarrierBootstrap.swf|All]]
+|-
+|locale||[[Media:GamesAstroEnLocale.swf|English]]<br>[[Media:GamesAstroPtLocale.swf|Portuguese]]<br>[[Media:GamesAstroFrLocale.swf|French]]<br>[[Media:GamesAstroEsLocale.swf|Spanish]]<br>[[Media:GamesAstroDeLocale.swf|German]]<br>[[Media:GamesAstroBarrierLangRULocale.swf|Russian]]
+|-
+|Main||[[Media:GamesAstroBarrierMain.swf|All]]<br>
+[[Media:AstroBarrier2006.swf|Astro Barrier (2006)]]
+|}
+</center>

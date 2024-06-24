@@ -1,0 +1,21 @@
+{{CPW|Puffle Park|Parque dos Puffles}}
+
+==Normal==
+<center>
+{|class="wikitable" border="1"
+!SWF!!Year!!Music
+|-
+|[[Media:RoomsPark.swf|Park]]||2014||[[Media:Music658.swf|658]]
+|}
+</center>
+
+==Events==
+<center>
+{|class="wikitable" border="1"
+!SWF!!Year!!Music
+|-
+|[[Media:Hallo15_park.swf|Halloween Party]]||2015||[[Media:Music1051.swf|1051]]
+|}
+</center>
+
+{{Places}}

@@ -1,0 +1,12 @@
+{|class="wikitable" style="margin: 1em auto; font-size:9pt;" 
+!colspan="2" style="center"|Legend
+|-
+|'''*'''||File was localized into separate languages yet was completely identical.
+|}
+
+==Files==
+{| class="wikitable" style="margin: auto;"
+!Filename!!Date!!JSON!!JSONP
+|-
+|rowspan=2|penguin_action_frames||May 2015||[[Media:GameConfigsPT2015May06penguin_action_frames.json|Global]]'''*'''||[[Media:GameConfigsEN2015May06penguin_action_frames.jsonp|Global]]'''*'''
+|}

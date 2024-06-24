@@ -1,0 +1,13 @@
+Below are SWF files from issue #356 (August 16, 2012) of the Club Penguin Times:
+
+*[[Media:News356HeaderFront.swf|Header (front)]]
+*[[Media:News356FeatureStory.swf|Feature Story]]
+*[[Media:News356SupportStory.swf|Support Story]]
+*[[Media:News356UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News356NewsFlash.swf|News Flash]]
+*[[Media:News356AskAuntArcticFront.swf|Ask Captain Rockhopper (front)]]
+*[[Media:News356HeaderBack.swf|Header (back)]]
+*[[Media:News356AskAuntArcticBack.swf|Ask Captain Rockhopper (back)]]
+*[[Media:News356JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News356SecretOverlay.swf|Secret Overlay]]
+*[[Media:News356FeatureMore.swf|Feature More]]

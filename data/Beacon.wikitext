@@ -1,0 +1,88 @@
+{{CPW|Beacon|Posto de Observação}}
+
+==Normal==
+<!--Please don't remove those files, because they are not the same! Since we are an archive, we should even keep files like that-->
+<center>
+{|class="wikitable" border="1"
+!SWF!!Year(s)!!Music
+|-
+|[[Media:ArtworkRoomsBeacon41.swf|beacon41]]||2007-2008||{{n/a}}
+|-
+|[[Media:PreAugust2011Beacon.swf|beacon]]||2008-2011||{{n/a}}
+|-
+|[[Media:08052011Beacon.swf|beacon]]||2011||[[Media:Music583.swf|583]]
+|-
+|[[Media:RoomsBeacon3.swf|beach]]||2011-2013||[[Media:Music583.swf|583]]
+|-
+|[[Media:RoomsBeacon4.swf|beacon]]||2013-2014||[[Media:Music583.swf|583]]
+|-
+|[[Media:RoomsBeacon5.swf|beacon]]||2014-2015||[[Media:Music583.swf|583]]
+|-
+|[[Media:RoomsBeacon2.swf|beacon]]||2015-May 2015||[[Media:Music583.swf|583]]
+|-
+|[[Media:RoomsBeacon-May2015.swf|beacon]]||May 2015-March 2017||[[Media:Music583.swf|583]]
+|}
+</center>
+
+==Parties and Events==
+<center>
+{|class="wikitable" border="1"
+!Event
+!Music
+!Year
+|-
+|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/FallFairFiles/Beacon.swf Fall Fair]</span>||||2007
+|-
+|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/Christmas_Files/Beacon.swf Christmas Party]</span>||||2007
+|-
+|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/Water_Party_08/Beacon.swf Submarine Party]</span>||||2008
+|-
+|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/april_fools_08/0328beacon42.swf April Fools' Party]</span>||||2008
+|-
+|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/medieval_party/0516beacon50.swf Medieval Party]</span>||||2008
+|-
+|[[Media:RoomsBeacon-ChristmasParty2008.swf|Christmas Party]]||[[Media:Music254.swf|254]]||2008
+|-
+|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220beacon.swf Puffle Party]</span>||||2009
+|-
+|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/penguin_awards_2009/beacon.swf Snow Sculpture Showcase]</span>||||2009
+|-
+|<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/medieval_party_2009/beacon.swf Medieval Party]</span>||||2009
+|-
+|[[Media:FestivalOfFlightConstBeacon.swf|Festival of Flight (construction)]]||{{n/a}}||2009
+|-
+|[[Media:StormBeacon.swf|The Great Storm of 2010 (before rain)]]||{{n/a}}||2010
+|-
+|[[Media:RainBeacon.swf|The Great Storm of 2010]]||{{n/a}}||2010
+|-
+|[[Media:PuffleParty2011Beacon.swf|Puffle Party]]||{{n/a}}||2011
+|-
+|[[Media:AprilFools'Party2011Beacon.swf|April Fools' Party]]||{{n/a}}||2011
+|-
+|[[Media:MedievalParty2011Beacon.swf|Medieval Party]]||{{n/a}}||2011
+|-
+|[[Media:TheFair2011Beacon.swf|The Fair]]||{{n/a}}||2011
+|-
+|[[Media:HalloweenParty2011Beacon.swf|Halloween Party]]||{{n/a}}||2011
+|-
+|[[Media:UnderwaterExpeditionBeacon.swf|Underwater Expedition]]||{{n/a}}||2012
+|-
+|[[Media:PuffleParty2012Beacon.swf|Puffle Party]]||{{n/a}}||2012
+|-
+|[[Media:RoomsBeacon-HalloweenParty2013.swf|Halloween Party]]||{{n/a}}||2013
+|-
+|[[Media:OperationPuffleRoomsBeacon.swf|Operation: Puffle]]||{{n/a}}||2013
+|-
+|[[Media:RoomsBeacon-HolidayParty2013.swf|Holiday Party]]||{{N/a}}||2013
+|-
+|[[Media:OperationPuffleRoomsBeacon.swf|Operation: Puffle]]||{{n/a}}||2014
+|-
+|[[Media:TheFair2014Beacon.swf|The Fair]]||{{N/a}}||2014
+|-
+|[[Media:RoomsBeacon-HalloweenParty2014.swf|Halloween Party]]||{{n/a}}||2014
+|-
+|[[Media:RoomsBeacon-TheFair2015.swf|The Fair]]||{{n/a}}||2015
+|}
+</center>
+
+{{Places}}

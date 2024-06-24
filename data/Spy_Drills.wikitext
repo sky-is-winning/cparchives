@@ -1,0 +1,140 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Spy Drills|Spy Drills]]''
+
+==Main==
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|locale||[[Media:GamesSpyDrillsLangENLocale.swf|English]]<br>[[Media:GamesSpyDrillsLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpyDrillsLangFRLocale.swf|French]]<br>[[Media:GamesSpyDrillsLangESLocale.swf|Spanish]]<br>[[Media:GamesSpyDrillsLangDELocale.swf|German]]<br>[[Media:GamesSpyDrillsLangRULocale.swf|Russian]]
+|-
+|Main||[[Media:GamesSpyDrillsMain.swf|All]]
+|-
+|music||[[Media:Music397.swf|All]]
+|}
+</center>
+
+==Games==
+===Chip Maze===
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|chip maze||[[Media:GamesSpyDrillsChipMaze.swf|All]]
+|-
+|chip maze locale||[[Media:GamesSpyDrillsChipMazeLangENLocale.swf|English]]<br>[[Media:GamesSpyDrillsChipMazeLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpyDrillsChipMazeLangFRLocale.swf|French]]<br>[[Media:GamesSpyDrillsChipMazeLangESLocale.swf|Spanish]]<br>[[Media:GamesSpyDrillsChipMazeLangDELocale.swf|German]]<br>[[Media:GamesSpyDrillsChipMazeLangRULocale.swf|Russian]]
+|}
+</center>
+
+===Circuit Match===
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|circuit match||[[Media:GamesSpyDrillsCircuitMatch.swf|All]]
+|-
+|circuit match game||[[Media:GamesSpyDrillsCircuitMatchGame.swf|All]]
+|-
+|circuit match locale||[[Media:GamesSpyDrillsCircuitMatchLangENLocale.swf|English]]<br>[[Media:GamesSpyDrillsCircuitMatchLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpyDrillsCircuitMatchLangFRLocale.swf|French]]<br>[[Media:GamesSpyDrillsCircuitMatchLangESLocale.swf|Spanish]]<br>[[Media:GamesSpyDrillsCircuitMatchLangDELocale.swf|German]]<br>[[Media:GamesSpyDrillsCircuitMatchLangRULocale.swf|Russian]]
+|}
+</center>
+
+===Code Break===
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|code break||[[Media:GamesSpyDrillsCodeBreak.swf|All]]
+|-
+|code break locale||[[Media:GamesSpyDrillsCodeBreakLangENLocale.swf|English]]<br>[[Media:GamesSpyDrillsCodeBreakLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpyDrillsCodeBreakLangFRLocale.swf|French]]<br>[[Media:GamesSpyDrillsCodeBreakLangESLocale.swf|Spanish]]<br>[[Media:GamesSpyDrillsCodeBreakLangDELocale.swf|German]]<br>[[Media:GamesSpyDrillsCodeBreakLangRULocale.swf|Russian]]
+|}
+</center>
+
+===Code Decrypt===
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|code decrypt||[[Media:GamesSpyDrillsPasscodeDecrypt.swf|All]]
+|-
+|code decrypt locale||[[Media:GamesSpyDrillsPasscodeDecryptLangENLocale.swf|English]]<br>[[Media:GamesSpyDrillsPasscodeDecryptLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpyDrillsPasscodeDecryptLangFRLocale.swf|French]]<br>[[Media:GamesSpyDrillsPasscodeDecryptLangESLocale.swf|Spanish]]<br>[[Media:GamesSpyDrillsPasscodeDecryptLangDELocale.swf|German]]<br>[[Media:GamesSpyDrillsPasscodeDecryptLangRULocale.swf|Russian]]
+|}
+</center>
+
+===Firewall===
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|firewall||[[Media:GamesSpyDrillsFirewall.swf|All]]
+|-
+|firewall game||[[Media:GamesSpyDrillsFirewallGame.swf|All]]
+|-
+|firewall locale||[[Media:GamesSpyDrillsFirewallLangENLocale.swf|English]]<br>[[Media:GamesSpyDrillsFirewallLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpyDrillsFirewallLangFRLocale.swf|French]]<br>[[Media:GamesSpyDrillsFirewallLangESLocale.swf|Spanish]]<br>[[Media:GamesSpyDrillsFirewallLangDELocale.swf|German]]<br>[[Media:GamesSpyDrillsFirewallLangRULocale.swf|Russian]]
+|}
+</center>
+
+===Grid Command===
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|grid command||[[Media:GamesSpyDrillsGridCommand.swf|All]]
+|-
+|grid command locale||[[Media:GamesSpyDrillsGridCommandLangENLocale.swf|English]]<br>[[Media:GamesSpyDrillsGridCommandLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpyDrillsGridCommandLangFRLocale.swf|French]]<br>[[Media:GamesSpyDrillsGridCommandLangESLocale.swf|Spanish]]<br>[[Media:GamesSpyDrillsGridCommandLangDELocale.swf|German]]<br>[[Media:GamesSpyDrillsGridCommandLangRULocale.swf|Russian]]
+|}
+</center>
+
+===Radar Strike===
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|radar strike||[[Media:GamesSpyDrillsRadarStrike.swf|All]]
+|-
+|radar strike locale||[[Media:GamesSpyDrillsRadarStrikeLangENLocale.swf|English]]<br>[[Media:GamesSpyDrillsRadarStrikeLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpyDrillsRadarStrikeLangFRLocale.swf|French]]<br>[[Media:GamesSpyDrillsRadarStrikeLangESLocale.swf|Spanish]]<br>[[Media:GamesSpyDrillsRadarStrikeLangDELocale.swf|German]]<br>[[Media:GamesSpyDrillsRadarStrikeLangRULocale.swf|Russian]]
+|}
+</center>
+
+===Rhythm Lock===
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|rhythm lock||[[Media:GamesSpyDrillsRhythmHack.swf|All]]
+|-
+|rhythm lock locale||[[Media:GamesSpyDrillsRhythmHackLangENLocale.swf|English]]<br>[[Media:GamesSpyDrillsRhythmHackLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpyDrillsRhythmHackLangFRLocale.swf|French]]<br>[[Media:GamesSpyDrillsRhythmHackLangESLocale.swf|Spanish]]<br>[[Media:GamesSpyDrillsRhythmHackLangDELocale.swf|German]]<br>[[Media:GamesSpyDrillsRhythmHackLangRULocale.swf|Russian]]
+|}
+</center>
+
+===The Navigator===
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|the navigator||[[Media:GamesSpyDrillsCommandLine.swf|All]]
+|-
+|the navigator locale||[[Media:GamesSpyDrillsCommandLineLangENLocale.swf|English]]<br>[[Media:GamesSpyDrillsCommandLineLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpyDrillsCommandLineLangFRLocale.swf|French]]<br>[[Media:GamesSpyDrillsCommandLineLangESLocale.swf|Spanish]]<br>[[Media:GamesSpyDrillsCommandLineLangDELocale.swf|German]]<br>[[Media:GamesSpyDrillsCommandLineLangRULocale.swf|Russian]]
+|}
+</center>
+
+===Tumblers===
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|tumblers||[[Media:GamesSpyDrillsTumblers.swf|All]]
+|-
+|tumblers locale||[[Media:GamesSpyDrillsTumblersLangENLocale.swf|English]]<br>[[Media:GamesSpyDrillsTumblersLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpyDrillsTumblersLangFRLocale.swf|French]]<br>[[Media:GamesSpyDrillsTumblersLangESLocale.swf|Spanish]]<br>[[Media:GamesSpyDrillsTumblersLangDELocale.swf|German]]<br>[[Media:GamesSpyDrillsTumblersLangRULocale.swf|Russian]]
+|}
+</center>

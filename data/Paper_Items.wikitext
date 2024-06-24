@@ -1,0 +1,20 @@
+==Current==
+{| class="wikitable sortable plainlinks"
+! File Name
+! JSON
+! JSONP
+|-
+| paper_items || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/paper_items.json en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/paper_items.json pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/paper_items.json fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/paper_items.json es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/paper_items.json de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/paper_items.json ru] || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/paper_items.jsonp en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/paper_items.jsonp pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/paper_items.jsonp fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/paper_items.jsonp es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/paper_items.jsonp de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/paper_items.jsonp ru]
+|}
+==2014==
+{| class="wikitable sortable plainlinks"
+! File Name
+! Date
+! JSON
+! JSONP
+|-
+| paper_items || June 06, 2014||[[Media:GameConfigsEN2014Jun06paper_items.json|English]]||{{n/a}}
+|}
+
+==2015==
+{{2015GameConfigs|title=paper_items}}

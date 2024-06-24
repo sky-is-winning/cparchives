@@ -1,0 +1,51 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Marvel Super Hero Takeover 2012|Marvel Super Hero Takeover 2012]]''
+
+==Rooms==
+===Construction===
+*[[Media:MarvelSuperheroTakeoverConsDock.swf|Dock]]
+
+===Party===
+*[[Media:MarvelSuperheroTakeoverBeach.swf|Beach]]
+*[[Media:MarvelSuperheroTakeoverBook.swf|Book Room]]
+*[[Media:MarvelSuperheroTakeoverCoffee.swf|Coffee Shop]]
+*[[Media:MarvelSuperheroTakeoverDock.swf|Dock]]
+*[[Media:MarvelSuperheroTakeoverParty1.swf|Downtown]]
+*[[Media:MarvelSuperheroTakeoverForest.swf|Forest]]
+*[[Media:MarvelSuperheroTakeoverShop.swf|Gift Shop]]
+*[[Media:MarvelSuperheroTakeoverParty3.swf|Hero HQ]]
+*[[Media:MarvelSuperheroTakeoverBerg.swf|Iceberg]]
+*[[Media:MarvelSuperheroTakeoverShack.swf|Mine Shack]]
+*[[Media:MarvelSuperheroTakeoverPizza.swf|Pizza Parlor]]
+*[[Media:MarvelSuperheroTakeoverPlaza.swf|Plaza]]
+*[[Media:MarvelSuperheroTakeoverVillag.swf|Ski Village]]
+*[[Media:MarvelSuperheroTakeoverForts.swf|Snow Forts]]
+*[[Media:MarvelSuperheroTakeoverStage.swf|Stage]]
+*[[Media:RoomsTown-Marvel2012.swf|Town]]
+*[[Media:MarvelSuperheroTakeoverParty2.swf|Villain Lair]]
+
+==Music==
+*[[Media:Music325.swf|Main theme]]
+*[[Media:Music326.swf|Downtown]]
+*[[Media:Music330.swf|Villain Lair]]
+
+==Poster==
+*[[Media:MarvelSuperheroTakeoverPoster.swf|Heroes and Villains Poster]]
+
+==Notes==
+*[[Media:MarvelSuperheroTakeoverParty_map_note.swf|Map Note]]
+*[[Media:MarvelSuperheroTakeoverCloseupsLogin.swf|Login Poster]]
+
+==Membership Notes==
+*[[Media:MarvelSuperheroTakeoverMember1.swf|Membership Note]]
+
+==Others==
+*[[Media:MarvelSuperHeroPartyGameIcon.swf|Role Selection icon]]
+
+==Catalogs==
+*[[Media:MarvelSuperheroTakeoverCatalogParty2.swf|Items For Everyone Catalog (English)]]
+*[[Media:MarvelSuperheroTakeoverCatalogParty.swf|Marvel Catalog (English)]]
+*[[Media:MarvelCatalog-pt.swf|Marvel Catalog (Portuguese)]]
+*[[Media:CommunityFlashWidget-Marvel2012.swf|Community Widget (English)]]
+{{Parties}}
+
+[[Category:Parties of 2012]]

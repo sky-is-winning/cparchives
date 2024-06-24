@@ -1,0 +1,141 @@
+{{CPW|Muppets World Tour|Turnê Mundial dos Muppets}}
+
+==Rooms==
+
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:MuppetsWorldTourParty1.swf|Airport]]|||[[Media:Music638.swf|638]]
+|-
+|[[Media:MuppetsWorldTourBeach.swf|Beach]]||[[Media:Music628.swf|628]]
+|-
+|[[Media:MuppetsWorldTourShop.swf|Clothes Shop]]||[[Media:Music635.swf|635]]
+|-
+|[[Media:MuppetsWorldTourCove.swf|Cove]]||[[Media:Music627.swf|627]]
+|-
+|[[Media:MuppetsWorldTourDock.swf|Dock]]||[[Media:Music631.swf|631]]
+|-
+|[[Media:MuppetsWorldTourForest.swf|Forest]]||[[Media:Music629.swf|629]]
+|-
+|[[Media:MuppetsWorldTourPlaza.swf|Plaza]]||[[Media:Music637.swf|637]]
+|-
+|[[Media:MuppetsWorldTourVillage.swf|Ski Village]]||[[Media:Music632.swf|632]]
+|-
+|[[Media:MuppetsWorldTourForts.swf|Snow Forts]]||[[Media:Music640.swf|640]]
+|-
+|[[Media:MuppetsWorldTourStadium.swf|Stadium]]||[[Media:Music630.swf|630]]
+|-
+|[[Media:MuppetsWorldTourStage.swf|Stage]]||[[Media:Music639.swf|639]]
+|-
+|[[Media:RoomsTown-MuppetsWorldTour.swf|Town]]||[[Media:Music636.swf|636]]
+|}
+</center>
+===Music Changes===
+''Note: Some rooms had different music despite not being decorated for the party.''
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|Coffee Shop||[[Media:Music633.swf|633]]
+|-
+|Dance Club||[[Media:Music634.swf|634]]
+|}
+</center>
+
+==Actions==
+<center>
+{|class="wikitable" border="1"
+!Action
+|-
+|[[Media:MuppetsActionsFozzie.swf|Fozzie]]
+|-
+|[[Media:MuppetsActionsMissPiggy.swf|Miss Piggy]]
+|-
+|[[Media:MuppetsActionsGonzo.swf|Gonzo]]
+|-
+|[[Media:MuppetsActionsSwedishChef.swf|Swedish Chef]]
+|-
+|[[Media:MuppetsActionsWalter.swf|Walter]]
+|-
+|[[Media:MuppetsActionsBunsenBeaker.swf|Bunsen & Beaker]]
+|-
+|[[Media:MuppetsActionsAnimal.swf|Animal]]
+|-
+|[[Media:MuppetsActionsPepe.swf|Pepe]]
+|}
+</center>
+
+==Avatar Sprites==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:KermitMascotSprites.swf|Kermit]]
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+!Русский (Russian)
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsCharacter dialogue constantine museum-MuppetsWorldTour.swf|Character dialogue constantine museum]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsCharacter dialogue instruction-MuppetsWorldTour.swf|Character dialogue instruction]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsCharacter dialogue kermit finale-MuppetsWorldTour.swf|Character dialogue kermit finale]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsCharacter dialogue login-MuppetsWorldTour.swf|Character dialogue login]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsCharacter dialogue rewards-MuppetsWorldTour.swf|Character dialogue rewards]]
+|-
+|[[Media:MuppetsMostWantedConstantinePosterEN.swf|Constantine Wanted Poster]]||[[Media:MuppetsMostWantedConstantinePosterPT.swf|Constantine Wanted Poster]]||[[Media:MuppetsMostWantedConstantinePosterFR.swf|Constantine Wanted Poster]]||[[Media:MuppetsMostWantedConstantinePosterES.swf|Constantine Wanted Poster]]||[[Media:MuppetsMostWantedConstantinePosterDE.swf|Constantine Wanted Poster]]||[[Media:MuppetsMostWantedConstantinePosterRU.swf|Constantine Wanted Poster]]
+|-
+|[[Media:MuppetsMostWantedMapNoteEN.swf|Map Note]]||[[Media:MuppetsMostWantedMapNotePT.swf|Map Note]]||[[Media:MuppetsMostWantedMapNoteFR.swf|Map Note]]||[[Media:MuppetsMostWantedMapNoteES.swf|Map Note]]||[[Media:MuppetsMostWantedMapNoteDE.swf|Map Note]]||[[Media:MuppetsMostWantedMapNoteRU.swf|Map Note]]
+|-
+|[[Media:MuppetsMostWantedQuestInterfaceEN.swf|Quest Interface]]||[[Media:MuppetsMostWantedQuestInterfacePT.swf|Quest Interface]]||[[Media:MuppetsMostWantedQuestInterfaceFR.swf|Quest Interface]]||[[Media:MuppetsMostWantedQuestInterfaceES.swf|Quest Interface]]||[[Media:MuppetsMostWantedQuestInterfaceDE.swf|Quest Interface]]||[[Media:MuppetsMostWantedQuestInterfaceRU.swf|Quest Interface]]
+|-
+|[[Media:CloseUpsENIglooPrompt-MuppetsWorldTour.swf|Igloo Prompt]]||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}
+|-
+|[[Media:CloseUpsENPartyIglooList-MuppetsWorldTour.swf|Party Igloo List]]||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:MuppetsWorldTourMap.swf|Map]]
+|-
+|[[Media:ContentParty icon-MuppetsWorldTour.swf|Party Icon]]
+|}
+</center>
+
+==Login Screen==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+!Русский (Russian)
+|-
+|[[Media:LoginScreen-ENMuppetsWorldTourPreAwareness.swf|PreAwareness]]||[[Media:LoginScreen-PTMuppetsWorldTourPreAwareness.swf|PreAwareness]]||[[Media:LoginScreen-FRMuppetsWorldTourPreAwareness.swf|PreAwareness]]||[[Media:LoginScreen-ESMuppetsWorldTourPreAwareness.swf|PreAwareness]]||[[Media:LoginScreen-DEMuppetsWorldTourPreAwareness.swf|PreAwareness]]||[[Media:LoginScreen-RUMuppetsWorldTourPreAwareness.swf|PreAwareness]]
+|-
+|[[Media:LoginScreen-ENMuppetsWorldTour-JoinTheTour.swf|Join the Tour]]||[[Media:LoginScreen-PTMuppetsWorldTour-JoinTheTour.swf|Join the Tour]]||[[Media:LoginScreen-FRMuppetsWorldTour-JoinTheTour.swf|Join the Tour]]||[[Media:LoginScreen-ESMuppetsWorldTour-JoinTheTour.swf|Join the Tour]]||[[Media:LoginScreen-DEMuppetsWorldTour-JoinTheTour.swf|Join the Tour]]||[[Media:LoginScreen-RUMuppetsWorldTour-JoinTheTour.swf|Join the Tour]]
+|-
+|[[Media:LoginScreen-ENMuppetsWorldTour-member.swf|Membership]]||[[Media:LoginScreen-PTMuppetsWorldTour-member.swf|Membership]]||[[Media:LoginScreen-FRMuppetsWorldTour-member.swf|Membership]]||[[Media:LoginScreen-ESMuppetsWorldTour-member.swf|Membership]]||[[Media:LoginScreen-DEMuppetsWorldTour-member.swf|Membership]]||[[Media:LoginScreen-RUMuppetsWorldTour-member.swf|Membership]]
+|}
+</center>
+{{Parties}}
+
+[[Category:Parties of 2014]]

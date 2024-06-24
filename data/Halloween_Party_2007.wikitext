@@ -1,0 +1,58 @@
+{{CPW|Halloween Party 2007|Festa de Halloween 2007}}
+
+==Rooms==
+{|class="wikitable" border="1" style="margin: auto;"
+!Room!!Music
+|-
+|[[Media:RoomsBeach-HalloweenParty2007.swf|Beach]]||[[Media:Music223.swf|223]]
+|-
+|[[Media:RoomsBeacon-HalloweenParty2007.swf|Beacon]]||{{n/a|?}}
+|-
+|[[Media:RoomsCave-HalloweenParty2007.swf|Cave]]||{{n/a|?}}
+|-
+|[[Media:RoomsCoffee-HalloweenParty2007.swf|Coffee Shop]]||[[Media:Music205.swf|205]]
+|-
+|[[Media:RoomsCove-HalloweenParty2007.swf|Cove]]||[[Media:Music223.swf|223]]
+|-
+|[[Media:RoomsDock-HalloweenParty2007.swf|Dock]]||[[Media:Music223.swf|223]]
+|-
+|[[Media:RoomsForest-HalloweenParty2007.swf|Forest]]||[[Media:Music223.swf|223]]
+|-
+|[[Media:RoomsBerg-HalloweenParty2007.swf|Iceberg]]||[[Media:Music223.swf|223]]
+|-
+|[[Media:RoomsLight-HalloweenParty2007.swf|Lighthouse]]||[[Media:Music205.swf|205]]
+|-
+|[[Media:RoomsAttic-HalloweenParty2007.swf|Lodge Attic]]||{{n/a|?}}
+|-
+|[[Media:RoomsShack-HalloweenParty2007.swf|Mine Shack]]||[[Media:Music223.swf|223]]
+|-
+|[[Media:RoomsDance-HalloweenParty2007.swf|Night Club]]||[[Media:Music224.swf|224]]
+|-
+|[[Media:RoomsPizza-HalloweenParty2007.swf|Pizza Parlor]]||[[Media:Music205.swf|205]]
+|-
+|[[Media:RoomsPlaza-HalloweenParty2007.swf|Plaza]]||{{n/a|?}}
+|-
+|[[Media:RoomsForts-HalloweenParty2007.swf|Snow Forts]]||[[Media:Music223.swf|223]]
+|-
+|[[Media:RoomsRink-HalloweenParty2007.swf|Ice Rink]]||{{n/a|?}}
+|-
+|[[Media:RoomsMtn-HalloweenParty2007.swf|Ski Hill]]||[[Media:Music223.swf|223]]
+|-
+|[[Media:RoomsLodge-HalloweenParty2007.swf|Ski Lodge]]||[[Media:Music205.swf|205]]
+|-
+|[[Media:RoomsVillage-HalloweenParty2007.swf|Ski Village]]||[[Media:Music223.swf|223]]
+|-
+|[[Media:RoomsTown-HalloweenParty2007.swf|Town]]||[[Media:Music223.swf|223]]
+|}
+
+==Other==
+{|class="wikitable" border="1" style="margin: auto;"
+!colspan="2"|SWF
+|-
+|[[Media:ContentParty icon-HalloweenParty2007.swf|Scavenger Hunt Icon]]||[[Media:ContentBinoculars-HalloweenParty2007.swf|Cove Binoculars]]
+|}
+
+
+{{Parties}}
+
+[[Category:Parties of 2007]]

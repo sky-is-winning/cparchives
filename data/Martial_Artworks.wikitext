@@ -1,0 +1,23 @@
+{{CPW|Martial Artworks|Obras de Artes Marciais}}
+
+
+<center>
+{|class="wikitable" border="1"
+!!!2008!!colspan="4"|2009!!colspan="2"|2011!!2012!!2013
+|-
+|'''English'''||[[Media:MANov2008.swf|November 17]]||[[Media:MAMar2009.swf|March 27]]||style="background: #ececec; color: grey;" class="table-na" |July||style="background: #ececec; color: grey;" class="table-na" |November 2||[[Media:November09Ninja2.swf|November 13]]||[[Media:June2011Ninja.swf|June]]||[[Media:ENCataloguesNinjaDecember2011.swf|December]]||[[Media:June2012Ninja.swf|June]]||[[Media:ENCataloguesNinja-May2013.swf|May]]
+|-
+|'''Português'''||style="background: #ececec; color: grey;" class="table-na" |Novembro||style="background: #ececec; color: grey;" class="table-na" |Março||style="background: #ececec; color: grey;" class="table-na" |Julho||style="background: #ececec; color: grey;" class="table-na" |Novembro||style="background: #ececec; color: grey;" class="table-na" |Novembro||style="background: #ececec; color: grey;" class="table-na" |Junho||[[Media:MaritalArtworksDec2011PT.swf|Dezembro]]||[[Media:PTCataloguesNinja-June2012.swf|Junho]]||[[Media:PTCataloguesNinja-May2013.swf|Maio]]
+|-
+|'''Français'''||style="background: #ececec; color: grey;" class="table-na" |Novembre||style="background: #ececec; color: grey;" class="table-na" |Mars||style="background: #ececec; color: grey;" class="table-na" |Juillet||style="background: #ececec; color: grey;" class="table-na" |Novembre||style="background: #ececec; color: grey;" class="table-na" |Novembre||style="background: #ececec; color: grey;" class="table-na" |Juin||style="background: #ececec; color: grey;" class="table-na" |Décembre||[[Media:FRCataloguesNinja-June 2012.swf|Juin]]||[[Media:FRCataloguesNinja-May2013.swf|Mai]]
+|-
+|'''Español'''||{{n/a}}||{{n/a}}||style="background: #ececec; color: grey;" class="table-na" |Julio||style="background: #ececec; color: grey;" class="table-na" |Noviembre||style="background: #ececec; color: grey;" class="table-na" |Noviembre||style="background: #ececec; color: grey;" class="table-na" |Junio||[[Media:MaritalArtworksDec2011ES.swf|Diciembre]]||[[Media:ESCataloguesNinja-June2012.swf|Junio]]||[[Media:ESCataloguesNinja-May2013.swf|Mayo]]
+|-
+|'''Deutsch'''||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}||style="background: #ececec; color: grey;" class="table-na" |Juni||[[Media:MaritalArtworksDec2011DE.swf|Dezember]]||[[Media:DECataloguesNinja-June 2012.swf|Juni]]||[[Media:DECataloguesNinja-May2013.swf|Mai]]
+|-
+|'''русский'''||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}||{{n/a}}||[[Media:DECataloguesNinja-Jan2014.swf|членство]]
+|}
+</center>
+
+
+[[Category:Catalogs]]

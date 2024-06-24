@@ -1,0 +1,13 @@
+Below are SWF files from issue #368 (November 8, 2012) of the Club Penguin Times:
+
+*[[Media:News368HeaderFront.swf|Header (front)]]
+*[[Media:News368FeatureStory.swf|Feature Story]]
+*[[Media:News368SupportStory.swf|Support Story]]
+*[[Media:News368UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News368NewsFlash.swf|News Flash]]
+*[[Media:News368AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News368HeaderBack.swf|Header (back)]]
+*[[Media:News368AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News368JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News368SecretOverlay.swf|Secret Overlay]]
+*[[Media:News368FeatureMore.swf|Feature More]]

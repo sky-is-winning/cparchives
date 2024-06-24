@@ -1,0 +1,17 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Pet Shop#2011 Redesign and Puffle Launch game|Pet Shop]]
+
+==Rooms==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:PetConstructionMar2011.swf|Pet Shop - February 28, 2011]]
+|-
+|[[Media:Mar07.2011Pet.swf|Pet Shop - March 7, 2011]]
+|-
+|[[Media:PlazaConstructionMar2011.swf|Plaza]]
+
+|}
+</center>
+==Posters==
+*[[Media:PetConstructionMar2011Poster.swf|Poster]]

@@ -1,0 +1,44 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Earth Day 2010|Earth Day 2010]]''
+
+==Rooms==
+===Construction===
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/pre-party/shack.swf Mine Shack]
+
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/town.swf Town]||[[Media:Music219.swf|219]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/coffee.swf Coffee Shop]||[[Media:Music1.swf|1]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/book.swf Book Room]||[[Media:Music1.swf|1]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/plaza.swf Plaza]||[[Media:Music219.swf|219]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/pet.swf Pet Shop]||{{n/a}}
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/mtn.swf Ski Hill]||{{n/a}}
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/village.swf Ski Village]||{{n/a}}
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/forest.swf Forest]||{{n/a}}
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/cove.swf Cove]||{{n/a}}
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/shack.swf Mine Shack]||{{n/a}}
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/dojoext.swf Dojo]||{{n/a}}
+|}
+</center>
+
+==Scavenger Hunt==
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/recycle.swf Recycle Hunt]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/recycle_icon.swf Recycle Hunt Icon]
+
+==Login Screen==
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/startscreen/earth_day.swf Login Screen #1]
+{{Parties}}
+
+[[Category:Parties of 2010]]

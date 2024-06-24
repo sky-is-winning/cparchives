@@ -1,0 +1,115 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Medieval Party 2012|Medieval Party 2012]]''
+
+==Rooms==
+===Construction===
+*[[Media:MedievalParty2012ConsBeach.swf|Beach]]
+*[[Media:MedievalParty2012ConsCave.swf|Cave]]
+*[[Media:MedievalParty2012ConsDock.swf|Dock]]
+*[[Media:MedievalParty2012ConsPlaza.swf|Plaza]]
+*[[Media:MedievalParty2012ConsMtn.swf|Ski Hill]]
+*[[Media:MedievalParty2012ConsForts.swf|Snow Forts]]
+
+===Party===
+*[[Media:RoomsTown-MedievalParty2012.swf|Town]]
+*[[Media:MedievalParty2012beach.swf|Beach]]
+*[[Media:MedievalParty2012beacon.swf|Beacon]]
+*[[Media:MedievalParty2012boiler.swf|Boiler Room]]
+*[[Media:MedievalParty2012book.swf|Book Room]]
+*[[Media:MedievalParty2012party25.swf|Bridge]]
+*[[Media:MedievalParty2012cave.swf|Cave]]
+*[[Media:MedievalParty2012coffee.swf|Coffee Shop]]
+*[[Media:MedievalParty2012cove.swf|Cove]]
+*[[Media:MedievalParty2012lounge.swf|Dance Lounge]]
+*[[Media:MedievalParty2012party24.swf|Dragon's Path]]
+*[[Media:MedievalParty2012dock.swf|Dock]]
+*[[Media:MedievalParty2012forest.swf|Forest]]
+*[[Media:MedievalParty2012shop.swf|Gift Shop]]
+*[[Media:MedievalParty2012light.swf|Lighthouse]]
+*[[Media:MedievalParty2012attic.swf|Lodge Attic]]
+*[[Media:MedievalParty2012mine.swf|Mine]]
+*[[Media:MedievalParty2012shack.swf|Mine Shack]]
+*[[Media:MedievalParty2012party26.swf|Misery Mountain (Before)]]
+*[[Media:MedievalParty2012party26 2.swf|Misery Mountain (After)]]
+*[[Media:MedievalParty2012dance.swf|Night Club]]
+*[[Media:MedievalParty2012pizza.swf|Pizza Parlor]]
+*[[Media:MedievalParty2012plaza.swf|Plaza]]
+*[[Media:MedievalParty2012eco.swf|Recycling Plant]]
+*[[Media:MedievalParty2012mtn.swf|Ski Hill]]
+*[[Media:MedievalParty2012lodge.swf|Ski Lodge]]
+*[[Media:MedievalParty2012village.swf|Ski Village]]
+*[[Media:MedievalParty2012party27.swf|Sky Kingdom]]
+*[[Media:MedievalParty2012forts.swf|Snow Forts]]
+*[[Media:MedievalParty2012rink.swf|Stadium]]
+*[[Media:MedievalParty2012party1.swf|Treetop Fort]]
+*[[Media:MedievalParty2012arty2.swf|Ye Knight's Quest - Orb Room]]
+*[[Media:MedievalParty2012Party3.swf|Ye Knight's Quest - Target Cave]]
+*[[Media:MedievalParty2012Party4.swf|Ye Knight's Quest - Maze Entrance]]
+*[[Media:MedievalParty2012Party5.swf|Ye Knight's Quest - Maze]]
+*[[Media:MedievalParty2012Party6.swf|Ye Knight's Quest - Maze]]
+*[[Media:MedievalParty2012Party7.swf|Ye Knight's Quest - Maze]]
+*[[Media:MedievalParty2012Party8.swf|Ye Knight's Quest - Maze]]
+*[[Media:MedievalParty2012Party9.swf|Ye Knight's Quest - Maze]]
+*[[Media:MedievalParty2012Party10.swf|Ye Knight's Quest - Maze]]
+*[[Media:MedievalParty2012Party11.swf|Ye Knight's Quest - Maze]]
+*[[Media:MedievalParty2012Party12.swf|Ye Knight's Quest - Maze]]
+*[[Media:MedievalParty2012Party13.swf|Ye Knight's Quest - Knight Chamber]]
+*[[Media:MedievalParty2012Party14.swf|Ye Knight's Quest 2 - Statue Puzzle Room]]
+*[[Media:MedievalParty2012Party15.swf|Ye Knight's Quest 2 - Puzzle Door]]
+*[[Media:MedievalParty2012Party16.swf|Ye Knight's Quest 2 - Dragon's Drawbridge]]
+*[[Media:MedievalParty2012Party17.swf|Ye Knight's Quest 2 - Dragon's Lair]]
+*[[Media:MedievalParty2012Party18.swf|Ye Knight's Quest 2 - Dragon's Treasure Trove]]
+*[[Media:MedievalParty2012Party19.swf|Ye Knight's Quest 3 - Chamber of Gems]]
+*[[Media:MedievalParty2012Party20.swf|Ye Knight's Quest 3 - Place of Puzzles]]
+*[[Media:MedievalParty2012Party21.swf|Ye Knight's Quest 3 - Hall of Hints]]
+*[[Media:MedievalParty2012Party22.swf|Ye Knight's Quest 3 - Cave of Battle]]
+*[[Media:MedievalParty2012Party23.swf|Ye Knight's Quest 3 - Royal Court]]
+
+==Music==
+*[[Media:Music233.swf|Town, Plaza and Mine Shack]]
+*[[Media:Music234.swf|Coffee Shop, Book Room, Gift Shop and Pizza Parlor]]
+*[[Media:Music295.swf|Ski Village]]
+*[[Media:Music235.swf|Forest, Dock, Treetop Fort, Ski Lodge, Lodge Attic and Cove]]
+*[[Media:Music236.swf|Snow Forts, Stadium and Underground]]
+*[[Media:Music305.swf|Beach, Lighthouse and Beacon]]
+*[[Media:Music322.swf|Bridge]]
+*[[Media:Music323.swf|Misery Mountain]]
+*[[Media:Music266.swf|Ye Knight's Quest (And Princesses Too!), Ski Hill and Dragon's Path]]
+*[[Media:Music265.swf|Knight's Quest 1 and 2 Finish and Sky Kingdom]]
+*[[Media:Music286.swf|Knight's Quest 2 - Quests]]
+*[[Media:Music287.swf|Knight's Quest 2 - Before Battle]]
+*[[Media:Music288.swf|Knight's Quest 2 - Battle]]
+*[[Media:Music310.swf|Knight's Quest 3 - Chamber of Gems and Place of Puzzles]]
+*[[Media:Music309.swf|Knight's Quest 3 - Hall of Hints]]
+*[[Media:Music308.swf|Knight's Quest 3 - Cave of Battle]]
+*[[Media:Music41.swf|Knight's Quest 3 - Royal Court]]
+
+==Login Screen==
+*[[Media:MedievalParty2012PreStartBillboards.swf|Login Screen #1]]
+*[[Media:MedievalParty2012StartBillboards.swf|Login Screen #2]]
+
+==Catalog==
+*[[Media:MedievalParty2012Catalog.swf|Medieval Catalog]]
+
+==Hunt==
+*[[Media:MedievalParty2012MedievalHunt.swf|Medieval Hunt]]
+*[[Media:MedievalParty2012MedievalHuntIcon.swf|Medieval Hunt Icon]]
+
+==Notes==
+*[[Media:MedievalParty2012Party_map_note.swf|Map Note]]
+*[[Media:MedievalParty2012Item.swf|Ski Hill Note]]
+*[[Media:MedievalParty2012Sky.swf|Sky Kingdom Note]]
+*[[Media:MedievalParty2012loginposter.swf|Login Poster #1]]
+*[[Media:MedievalParty2012loginposter2.swf|Login Poster #2]]
+
+==Poster==
+*[[Media:MedievalParty2012Quest.swf|Ye Knight's Quest Poster]]
+
+==Membership Notes==
+*[[Media:MedievalParty2012Member1.swf|Notice when trying to enter in Ye Knight's Quest 2 and Ye Knight's Quest 3]]
+*[[Media:MedievalParty2012Member2.swf|Notice when trying to enter in Misery Mountain]]
+
+==Others==
+*[[Media:MedievalParty2012telescope.swf|Lighthouse Telescope]]
+{{Parties}}
+
+[[Category:Parties of 2012]]

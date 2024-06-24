@@ -1,0 +1,28 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:System Defender|System Defender]]''
+
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|level 1||[[Media:GamesSystemDefenderLevel1.swf|All]]
+|-
+|level 2||[[Media:GamesSystemDefenderLevel2.swf|All]]
+|-
+|level 3||[[Media:GamesSystemDefenderLevel3.swf|All]]
+|-
+|level 4||[[Media:GamesSystemDefenderLevel4.swf|All]]
+|-
+|level 5||[[Media:GamesSystemDefenderLevel5.swf|All]]
+|-
+|level 6||[[Media:GamesSystemDefenderLevel6.swf|All]]
+|-
+|locale||[[Media:GamesSystemDefenderLangENLocale.swf|English]]<br>[[Media:GamesSystemDefenderLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSystemDefenderLangFRLocale.swf|French]]<br>[[Media:GamesSystemDefenderLangESLocale.swf|Spanish]]<br>[[Media:GamesSystemDefenderLangDELocale.swf|German]]<br>[[Media:GamesSystemDefenderLangRULocale.swf|Russian]]
+|-
+|Main||[[Media:GamesSystemDefenderMain.swf|All]]
+|-
+|scenario||[[Media:GamesSystemDefenderScenario.swf|All]]
+|-
+|tutorial||[[Media:GamesSystemDefenderTutorial.swf|All]]
+|}
+</center>

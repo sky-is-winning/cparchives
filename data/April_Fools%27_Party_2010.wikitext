@@ -1,0 +1,60 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:April Fools Party 2010|April Fools Party 2010]]''
+
+==Signs==
+*[[Media:AprilFoolsParty2010MembershipOopsAprilFools.swf|Membership Sign]]
+
+==Rooms==
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/party.swf A Silly Place]||[[Media:Music261.swf|261]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/beach.swf Beach]||[[Media:Music232.swf|232]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/beacon.swf Beacon]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/boiler.swf Boiler Room]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/cave.swf Cave]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/coffee.swf Coffee Shop]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/cove.swf Cove]||[[Media:Music232.swf|232]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/dock.swf Dock]||[[Media:Music232.swf|232]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/forest.swf Forest]||[[Media:Music232.swf|232]]
+|-
+|[[Media:AprilFoolsParty2010GiftShop.swf|Gift Shop]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/berg.swf Iceberg]||[[Media:Music232.swf|232]]
+|-
+|[http://archive.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/light.swf Lighthouse]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/dance.swf Night Club]||[[Media:Music231.swf|231]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/mine.swf Mine]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/shack.swf Mine Shack]
+|-
+|[http://archive.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/pizza.swf Pizza Parlor]
+|-
+|[http://archive.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/lodge.swf Ski Lodge]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/village.swf Ski Village]||[[Media:Music232.swf|232]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/forts.swf Snow Forts]||[[Media:Music232.swf|232]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/town.swf Town]||[[Media:Music232.swf|232]]
+|}
+</center>
+
+==Music==
+*[[Media:Music232.swf|Main theme]]
+*[[Media:Music201.swf|Indoors theme]]
+*[[Media:Music231.swf|Night Club]]
+*[[Media:Music261.swf|A Silly Place]]
+{{Parties}}
+
+[[Category:Parties of 2010]]

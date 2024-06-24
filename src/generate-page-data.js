@@ -8,6 +8,7 @@ export default class GeneratePageData {
 
     async generatePageData(page) {
         if (this.cache.has(page)) {
+            console.log("Cache hit for", page);
             return this.cache.get(page);
         }
 
@@ -25,7 +26,7 @@ export default class GeneratePageData {
             </body>
         </html>`;
 
-        // this.cache.set(page, pageData);
+        this.cache.set(page, pageData);
         return pageData;
     }
 
@@ -146,6 +147,31 @@ export default class GeneratePageData {
         return pageContainer
     }
 
+    getContentFromWikiText(wt) {
+        let content = "";
+        for (let line of wt.split("\n")) {
+            if (line.startsWith("==")) {
+                content += `<h2 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h2>`;
+            } else {
+                if (line.startsWith("*")) {
+                    line = `<li>${line.replace("*", "").trim()}</li>`;
+                }
+
+                let linkRegex = /\[\[(.*?)\]\]/g;
+                line = line.replace(linkRegex, (match, p1) => {
+                    const urlText = p1.replace(/ /g, '_'); // Replace spaces with underscores for the URL
+                    return `<a href="/wiki/${urlText}" title="${p1}">${p1}</a>`;
+                });
+
+                line = line.replace(/'''(.*?)'''/g, "<strong>$1</strong>");
+                line = line.replace(/''(.*?)''/g, "<i>$1</i>");
+
+                content += line;
+            }
+        }
+        return content;
+    }
+
     getContentContainer(wt, pageName) {
         let contentContainer = "";
         contentContainer += `<div class="mw-content-container">`;
@@ -192,7 +218,7 @@ export default class GeneratePageData {
                         <div class="mw-parser-output">
                        <meta property="mw:PageProp/toc">
         `
-
+        contentContainer += this.getContentFromWikiText(wt);
         contentContainer += `</div></main></div></div></div>`;
         return contentContainer;
     }

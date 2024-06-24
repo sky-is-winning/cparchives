@@ -1,0 +1,15 @@
+{{CPW|Talk Like a Pirate Day|Dia de FalARR Como um Pirata}}
+
+==Rooms==
+<center>
+{|class="wikitable"
+!Room
+!Music
+|-
+|[[Media:RoomsBeach-TalkLikeAPirateDay.swf|Beach]]||[[Media:Music957.swf|957]]
+|}
+</center>
+
+{{Events}}
+
+[[Category:Events of 2015]]

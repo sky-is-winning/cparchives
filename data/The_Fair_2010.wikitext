@@ -1,0 +1,76 @@
+{{CPW|The Fair 2010|Festa Setembrina 2010}}
+
+==Rooms==
+===Construction===
+<center>
+{|class="wikitable" border="1"
+!Room
+|-
+|[[Media:RoomsBeach-PreFair2010.swf|Beach]]
+|}
+</center>
+
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsTown-TheFair2010.swf|Town]]||[[Media:Music297.swf|297]]
+|-
+|[[Media:RoomsCoffee-Fair2010.swf|Coffee Shop]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:RoomsDance-Fair2010.swf|Night Club]]||
+|-
+|[[Media:RoomsLounge-Fair2009.swf|Dance Lounge]]||
+|-
+|[[Media:RoomsForts-Fair2010.swf|Snow Forts]]||[[Media:Music297.swf|297]]
+|-
+|[[Media:RoomsPlaza-Fair2010.swf|Plaza]]||[[Media:Music297.swf|297]]
+|-
+|[[Media:RoomsForest-Fair2010.swf|Forest]]|||[[Media:Music297.swf|297]]
+|-
+|[[Media:RoomsCove-Fair2010.swf|Cove]]|||[[Media:Music297.swf|297]]
+|-
+|[[Media:RoomsBerg-Fair2010.swf|Iceberg]]||[[Media:Music297.swf|297]]
+|-
+|[[Media:RoomsDock-Fair2010.swf|Dock]]|||[[Media:Music297.swf|297]]
+|-
+|[[Media:RoomsBeach-Fair2010.swf|Beach]]||[[Media:Music297.swf|297]]
+|-
+|[[Media:RoomsBeacon-Fair2010.swf|Beacon]]|||[[Media:Music221.swf|221]]
+|-
+|[[Media:RoomsVillage-Fair2010.swf|Ski Village]]||[[Media:Music297.swf|297]]
+|-
+|[[Media:RoomsMtn-Fair2010.swf|Ski Hill]]||[[Media:Music297.swf|297]]
+|-
+|[[Media:RoomsParty-Fair2010.swf|Bonus Game Room]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:RoomsParty2-Fair2010.swf|Great Puffle Circus Entrance]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:RoomsParty3-Fair2010.swf|Great Puffle Circus]]||[[Media:Music221.swf|221]]
+|}
+</center>
+
+==Music==
+*[[Media:Music297.swf|Main Theme]]
+*[[Media:Music221.swf|Coffee Shop, Beacon, Bonus Game Room, Great Puffle Circus Entrance and Great Puffle Circus]]
+*[[Media:Music222.swf|Games]]
+
+==Tickets==
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/the_fair_september/tickets.swf Ticket Info]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/the_fair_september/ticket_icon.swf Ticket Icon]
+
+==Login Screens==
+*[[Media:LoginFairParty2010.swf|Login Screen #1]]
+*[[Media:StartscreenFairMember10.swf|Login Screen #2]]
+
+==Prize Booths==
+*[[Media:TheFair2010PrizeBooth.swf|Forest Prize Booth - Before September 10]]
+*[[Media:TheFair2010PrizeBoothMember.swf|Member Prize Booth - Before September 10]]
+*[[Media:TheFair2010PrizeBooth2.swf|Forest Prize Booth - After September 10]]
+*[[Media:TheFair2010PrizeBoothMember2.swf|Member Prize Booth - After September 10]]
+
+
+{{Parties}}
+
+[[Category:Parties of 2010]]

@@ -1,0 +1,21 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Recycling Plant|Recycling Plant]]''
+
+<center>
+{|class="wikitable" border="1"
+!Event
+!Music
+!Year
+|-
+|[[Media:RoomsEco.swf|None]]||[[Media:Music284.swf|284]]||2010
+|-
+|[[Media:AprilFools'Party2011Eco.swf|April Fools' Party]]||N/A||2011
+|-
+|[[Media:MedievalParty2011Eco.swf|Medieval Party]]||[[Media:Music234.swf|234]]||2011
+|-
+|[[Media:MedievalParty2012eco.swf|Medieval Party]]||[[Media:Music234.swf|234]]||2012
+|-
+|[[Media:RoomsEcoPin2.swf|Gariwald Family Crest]]||[[Media:Music284.swf|284]]||2010
+|}
+</center>
+
+{{Places}}

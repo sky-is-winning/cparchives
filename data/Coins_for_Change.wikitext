@@ -1,0 +1,37 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Coins For Change|Coins For Change]]''
+
+==2011==
+===Rooms===
+====Construction====
+*[[Media:HolidayParty2011ConsBeach.swf|Beach]]
+
+====Party====
+*[[Media:HolidayParty2011Beach.swf|Beach]]
+*[[Media:HolidayParty2011Beacon1.swf|Beacon]]
+*[[Media:HolidayParty2011ShipQuarters.swf|Captain's Quarters]]
+*[[Media:HolidayParty2011Dock.swf|Dock]]
+*[[Media:HolidayParty2011Forest.swf|Forest]]
+*[[Media:HolidayParty2011Light1.swf|Lighthouse]]
+*[[Media:HolidayParty2011Plaza.swf|Plaza]]
+*[[Media:HolidayParty2011Village.swf|Ski Village]]
+*[[Media:HolidayParty2011Forts.swf|Snow Forts]]
+*[[Media:RoomsTown-HolidayParty2011.swf|Town]]
+
+===After Party===
+*[[Media:CFC2011Beach.swf|Beach]]
+
+===Donate===
+*[[Media:CFC2011Donation.swf|Donation Message]]
+
+===Poster===
+*[[Media:CFC2011RockhopperPoster.swf|Beach Poster EN]]
+*[[Media:CFC2011Informative.swf|First Informative Poster EN]]
+*[[Media:CFC2011Informative2.swf|Second Informative Poster EN]]
+*[[Media:CFC2011Informative3.swf|Third Informative Poster EN]]
+*[[Media:CFCPoster2011DE.swf|First Informative Poster DE]]
+
+===Login Screens===
+*[[Media:CFC2011LoginScreen.SWF|Login Screen #1]]
+*[[Media:CFC20112LoginScreen.SWF|Login Screen #2]]
+
+{{Events}}

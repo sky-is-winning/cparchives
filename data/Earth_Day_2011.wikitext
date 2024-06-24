@@ -1,0 +1,30 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Earth Day 2011|Earth Day 2011]]''
+==Rooms==
+*[[Media:EarthDay2011Dock.swf|Dock]]
+*[[Media:EarthDay2011Forest.swf|Forest]]
+*[[Media:EarthDay2011Plaza.swf|Plaza]]
+*[[Media:EarthDay2011Forts.swf|Snow Forts]]
+*[[Media:RoomsTown-March2011.swf|Town]]
+
+==Music==
+*[[Media:Music269.swf|Dock]]
+*[[Media:Music295.swf|Snow Forts]]
+
+==Posters==
+*[[Media:EarthDay2011Poster.swf|Poster]]
+
+==Scavenger Hunt==
+:''See [[Easter Egg Hunt 2011]]''
+
+==Catalogs==
+*[[Media:EarthDay2011CatalogParty.swf|Party Catalog]]
+*[[Media:EarthDay2011CatalogParty2.swf|Party Catalog 2]]
+
+==Login Screens==
+*[[Media:LoginEarth day1.swf|Earth Day 1]]
+==Other==
+*[[Media:EarthDay2011Earth_day_video.swf|Earth Day Video]]
+
+{{Parties}}
+
+[[Category:Parties of 2011]]

@@ -1,0 +1,64 @@
+{{NeedSWFs}}
+{{CPW|Stadium|Estádio}}
+
+__TOC__
+
+==Normal==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Years!!State!!Music
+|-
+|[[Media:ArtworkRoomsRink10.swf|rink10]]||2005?||Ice Rink||{{n/a}}
+|-
+|[[Media:ArtworkRoomsRink11.swf|rink11]]||2005?||Ice Rink||{{n/a}}
+|-
+|[[Media:ArtworkRoomsRink12.swf|rink12]]||2005?||Ice Rink||{{n/a}}
+|-
+|[[Media:ArtworkRoomsRink22.swf|rink22]]||2006||Ice Rink||{{n/a}}
+|-
+|[[Media:RoomsRink.swf|rink]]||2009||Ice Rink||{{n/a}}
+|-
+|[[Media:RoomsRink 2.swf|rink]]||2009||Soccer Pitch||{{n/a}}
+|-
+|[[Media:RoomsRink-May2010.swf|rink]]||2010||Soccer Pitch||{{n/a}}
+|-
+|[[Media:RoomsRink-Dec2010.swf|rink]]||2010||Ice Rink||{{n/a}}
+|-
+|[[Media:RoomsRink-May2011.swf|rink]]||2010||Soccer Pitch||{{n/a}}
+|-
+|[[Media:RoomsRink-Dec2011.swf|rink]]||2011||Ice Rink||{{n/a}}
+|-
+|[[Media:RoomsRink-Jul2013.swf|rink]]||2013||Soccer Pitch||{{n/a}}
+|-
+|[[Media:RoomsRink-Jul2014.swf|rink]]||2014||Soccer Pitch||[[Media:Music592.swf|592]]
+|-
+|[[Media:RoomsRink-Mar2015.swf|rink]]||2015||Ice Rink||[[Media:Music592.swf|592]]
+|-
+|[[Media:RoomsRink-Nov2015.swf|rink]]||2015||Ice Rink||[[Media:Music592.swf|592]]
+|}
+
+==Parties and Events==
+*<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/unknown_year/FallFairFiles/IceRink.swf Fall Fair 2007]</span>
+*[[Media:RoomsRink-HalloweenParty2007.swf|Halloween Party 2007]]
+*[[Media:RoomsRink-PenguinGames.swf|Penguin Games]] - [[Media:Music240.swf|Music]]
+*<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/medieval_party_2009/rink.swf Medieval Party 2009]</span>
+*[[Media:RoomsRink-AdventureParty2009.swf|Adventure Party]]
+*<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/construction/rink.swf Music Jam 2009 (Construction)]</span>
+*<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/rink.swf Music Jam 2009]</span> - [[Media:Music240.swf|Music]]
+*<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/halloween_october_2009/rink.swf Halloween Party 2009]</span>
+*[[Media:RoomsRink-WinterParty.swf|Winter Party]] - [[Media:Music280.swf|Music]]
+*<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/rink.swf Holiday Party 2009]</span>
+*<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/medieval_party_may/rink.swf Medieval Party 2010]</span>
+*[[Media:RoomsRink-MusicJam2010.swf|Music Jam 2010]] - [[Media:Music240.swf|Music]]
+*[[Media:HalloweenParty2010Stadium.swf|Halloween Party 2010]]
+*[[Media:StormRink.swf|The Great Storm of 2010 (Before Rain)]]
+*[[Media:RainRink.swf|The Great Storm of 2010 (During Rain)]]
+*[[Media:HolidayParty2010Rink(1).swf|Holiday Party 2010 (1)]]
+*[[Media:HolidayParty2010Rink(2).swf|Holiday Party 2010 (2)]]
+*[[Media:MedievalParty2011Rink.swf|Medieval Party 2011]]
+*[[Media:MusicJam2011Rink.swf|Music Jam 2011]] - [[Media:Music240.swf|Music]]
+*[[Media:TheFair2011Rink.swf|The Fair 2011]] - [[Media:Music311.swf|Music]]
+*[[Media:HalloweenParty2011Rink.swf|Halloween Party 2011]]
+*[[Media:Card-JitsuPartyConsRink.swf|Card-Jitsu Party 2011 (Construction)]]
+*[[Media:Card-JitsuPartyRink.swf|Card-Jitsu Party 2011]] - [[Media:Music116.swf|Music]]
+
+{{Places}}

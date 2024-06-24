@@ -1,0 +1,51 @@
+{{NeedSWFs}}
+
+{{CPW|Map|Mapa}}
+
+==Club Penguin maps==
+*[[Media:ArtworkMapsIsland3.swf|2006]]
+*[[Media:ArtworkMapsIsland5.swf|2006]]
+*[[Media:ArtworkMapsIsland10.swf|2006]]
+*[[Media:ArtworkMaps10.swf|2006]]
+*[[Media:ArtworkMaps15.swf|2007]]
+*[[Media:Map2007Plaza.swf|2007-2008]]
+*[[Media:Map2008-2011Rink.swf|2008-2011]] (Ice Rink)
+*[[Media:Map2008-2011Stadium.swf|2008-2011]] (Stadium)
+*[[Media:Map2011.swf|2011-2012]]
+*[[Media:MapAug2012.swf|2012-2013]] (addition of [[Smoothie Smash]])
+*[[Media:ContentMapMar2013.swf|March 2013-May 2013]] (addition of the Rainbow Puffle Quest)
+*[[Media:ContentMapJun2013.swf|July 2013]] (removal of [[Recycling Plant]], addition of [[School]])
+*[[Media:ContentMap-03262015.swf|March 2015]] (addition of [[Puffle Wild]])
+*[[Media:ContentMapJun2015.swf|June 2015]] (removal of [[Stage]], addition of [[Puffle Berry Mall]])
+
+===Temporary===
+*[[Media:HolidayParty2010Map.swf|Holiday Party 2009]]
+*[[Media:HalloweenParty2010Map.swf|Halloween Party 2010]]
+*[[Media:HolidayParty2010Map.swf|Holiday Party 2010]]
+*[[Media:HolidayParty2012Map.swf|Holiday Party 2012]]
+*[[Media:HolidayParty2013Map.swf|Holiday Party 2013]]
+*[[Media:MuppetsWorldTourMap.swf|Muppets World Tour]]
+*[[Media:PuffleParty2014Map.swf|Puffle Party 2014]]
+*[[Media:ContentMap-PenguinCup.swf|Penguin Cup]]
+*[[Media:ContentMap-MusicJam2014.swf|Music Jam 2014]]
+*[[Media:ContentMap-FrozenParty.swf|Frozen Party]]
+*[[Media:ContentMap-School&SkateParty.swf|School & Skate Party]]
+*[[Media:ContentMap-HalloweenParty2014.swf|Halloween Party 2014]]
+*[[Media:ContentMap-PirateParty2014.swf|Pirate Party 2014]]
+*[[Media:ContentMap-StarWarsRebelsTakeover.swf|Star Wars Rebels Takeover]]
+*[[Media:ContentMap-SoundStudioParty.swf|SoundStudio Party]]
+*[[Media:ContentMap-FrozenFeverParty.swf|Frozen Fever Party 2015]]
+*[[Media:ContentMap-FrozenFeverParty2016.swf|Frozen Fever Party 2016]]
+
+==Other==
+*[[Media:UnderwaterExpeditionMaze map.swf|Underwater Expedition maze map]]
+*[[Media:ENCloseUpsMapInterface-PrehistoricParty.swf|Prehistoric Party 2013 past map]] ([[Media:PTCloseUpsMapInterface-PrehistoricParty.swf|PT]]·[[Media:FRCloseUpsMapInterface-PrehistoricParty.swf|FR]]·[[Media:ESCloseUpsMapInterface-PrehistoricParty.swf|ES]]·[[Media:DECloseUpsMapInterface-PrehistoricParty.swf|DE]])
+*[[Media:ENClose upsTatooine map.swf|Tatooine map]] ([[Media:PTClose upsTatooine map.swf|PT]]·[[Media:FRClose upsTatooine map.swf|FR]]·[[Media:ESClose upsTatooine map.swf|ES]]·[[Media:DEClose upsTatooine map.swf|DE]])
+*[[Media:ENClose upsDeathstar map.swf|Death Star map]] ([[Media:PTClose upsDeathstar map.swf|PT]]·[[Media:FRClose upsDeathstar map.swf|FR]]·[[Media:ESClose upsDeathstar map.swf|ES]]·[[Media:DEClose upsDeathstar map.swf|DE]])
+*[[Media:ENClose upsYavin map.swf|Yavin IV map]] ([[Media:PTClose upsYavin map.swf|PT]]·[[Media:FRClose upsYavin map.swf|FR]]·[[Media:ESClose upsYavin map.swf|ES]]·[[Media:DEClose upsYavin map.swf|DE]])
+*[[Media:PrehistoricParty2014Map.swf|Prehistoric Party 2014 past map]]
+*[[Media:TheFair2014PartyMapEN.swf|Amazement Park map 2014]] ([[Media:TheFair2014PartyMapPT.swf|PT]]·[[Media:TheFair2014PartyMapFR.swf|FR]]·[[Media:TheFair2014PartyMapES.swf|ES]]·[[Media:TheFair2014PartyMapDE.swf|DE]]·[[Media:TheFair2014PartyMapRU.swf|RU]])
+*[[Media:ENClose upsParty map-FutureParty.swf|Future Party future map]] ([[Media:PTClose upsParty map-FutureParty.swf|PT]]·[[Media:FRClose upsParty map-FutureParty.swf|FR]]·[[Media:ESClose upsParty map-FutureParty.swf|ES]]·[[Media:DEClose upsParty map-FutureParty.swf|DE]]·[[Media:RUClose upsParty map-FutureParty.swf|RU]])
+*[[Media:Close upsParty map-MusicJam2014.swf|Music Cruise Map]]
+*[[Media:ENCloseUpsPartyMap-TheFair2015.swf|Amazement Park map 2015]] ([[Media:PTCloseUpsPartyMap-TheFair2015.swf|PT]]·[[Media:FRCloseUpsPartyMap-TheFair2015.swf|FR]]·[[Media:ESCloseUpsPartyMap-TheFair2015.swf|ES]]·[[Media:DECloseUpsPartyMap-TheFair2015.swf|DE]]·[[Media:RUCloseUpsPartyMap-TheFair2015.swf|RU]])
+*[[Media:ENClose upsParty map-PrehistoricParty2016.swf|Prehistoric Party 2016 past map]] ([[Media:PTClose upsParty map-PrehistoricParty2016.swf|PT]]·[[Media:FRClose upsParty map-PrehistoricParty2016.swf|FR]]·[[Media:ESClose upsParty map-PrehistoricParty2016.swf|ES]])

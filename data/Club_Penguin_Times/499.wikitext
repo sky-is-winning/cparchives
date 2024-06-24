@@ -1,0 +1,4 @@
+{{Newspaper2
+|issue=499
+|date=May 14, 2015
+}}

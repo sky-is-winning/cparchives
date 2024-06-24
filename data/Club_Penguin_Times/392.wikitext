@@ -1,0 +1,21 @@
+{{NeedSWFs}}
+Below are SWF files from issue #392 (April 25, 2013) of the Club Penguin Times:
+
+<center>
+{|class="wikitable" border="1"
+!Header (front)
+!Feature Story (Super Hero)
+!Collect Power Crystals
+!Upcoming Events
+|-
+|[[Media:ENNews392HeaderFront.swf|English]]||[[Media:ENNews392FeatureStory.swf|English]]||[[Media:ENNews392SupportStory.swf|English]]||[[Media:ENNews392UpcomingEvents.swf|English]]
+|-
+|[[Media:PTNews392HeaderFront.swf|Português]]||[[Media:PTNews392FeatureStory.swf|Português]]||[[Media:PTNews392SupportStory.swf|Português]]||[[Media:PTNews392UpcomingEvents.swf|Português]]
+|-
+|[[Media:FRNews392HeaderFront.swf|Français]]||[[Media:FRNews392FeatureStory.swf|Français]]||[[Media:FRNews392SupportStory.swf|Français]]||[[Media:FRNews392UpcomingEvents.swf|Français]]
+|-
+|[[Media:ESNews392HeaderFront.swf|Español]]||[[Media:ESNews392FeatureStory.swf|Español]]||[[Media:ESNews392SupportStory.swf|Español]]||[[Media:ESNews392UpcomingEvents.swf|Español]]
+|-
+|[[Media:DENews392HeaderFront.swf|Deutsch]]||[[Media:DENews392FeatureStory.swf|Deutsch]]||[[Media:DENews392SupportStory.swf|Deutsch]]||[[Media:DENews392UpcomingEvents.swf|Deutsch]]
+|}
+</center>

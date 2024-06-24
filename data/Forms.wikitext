@@ -1,0 +1,21 @@
+{|class="wikitable" style="margin: auto;"
+!Form!!Languages
+|-
+|Coins for Change (2012)||[[Media:ENFormsCoinsforChange2012.swf|en]] · [[Media:PTFormsCoinsforChange2012.swf|pt]] · [[Media:FRFormsCoinsforChange2012.swf|fr]] · [[Media:ESFormsCoinsforChange2012.swf|es]] · [[Media:DEFormsCoinsforChange2012.swf|de]]
+|-
+|Missions (1 mission)||[[Media:ArtworkToolsMissions1.swf|en]]
+|-
+|Missions (2 missions)||[[Media:ArtworkToolsMissions2.swf|en]]
+|-
+|Missions (4 missions)||[[Media:ArtworkToolsMissions4.swf|en]]
+|-
+|Missions (11 missions)||[[media:ENMissionFormMay2010.swf|en]] · [[media:PTMissionFormMay2010.swf|pt]] · [[media:FRMissionFormMay2010.swf|fr]] · [[media:ESMissionFormMay2010.swf|es]] · [[media:DEMissionForm.swf|de]]
+|-
+|Newspaper Submit Content (old)||[[Media:ENFormsNews.swf|en]] · [[Media:PTFormsNews.swf|pt]] · [[Media:FRFormsNews.swf|fr]] · [[Media:ESFormsNews.swf|es]] · [[Media:DEFormsNews.swf|de]] · [[Media:RUFormsNews.swf|ru]]
+|-
+|Newspaper Submit Content (new)||[[Media:ENNewsPapersFormsNews.swf|en]] · [[Media:PTNewsPapersFormsNews.swf|pt]] · [[Media:FRNewsPapersFormsNews.swf|fr]] · [[Media:ESNewsPapersFormsNews.swf|es]] · [[Media:DENewsPapersFormsNews.swf|de]] · [[Media:RUNewsPapersFormsNews.swf|ru]]
+|-
+|PSA Application||[[Media:ENFormsAgent.swf|en]] · [[Media:PTFormsAgent.swf|pt]] · [[Media:FRFormsAgent.swf|fr]] · [[Media:ESFormsAgent.swf|es]]
+|-
+|Tour Guide Quiz||[[Media:ENFormsTour.swf|en]] · [[Media:PTFormsTour.swf|pt]] · [[Media:FRFormsTour.swf|fr]] · [[Media:ESFormsTour.swf|es]] · [[Media:DEFormsTour.swf|de]] · [[Media:RUFormsTour.swf|ru]]
+|}

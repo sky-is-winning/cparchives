@@ -1,0 +1,140 @@
+{{NeedSWFs|'''EN:''' Apr 2007; Mar, May-Aug 2009; Jan, Feb, May-Jul, Sept, Dec 2010; Dec 2013; All 2015 Catalogs<br>
+'''PT:''' All 2008-2010; Feb, May, Oct, Dec 2011; Apr, May, Jul, Dec 2012; Sept, Dec 2013; All 2015 Catalogs<br>
+'''FR:''' All 2008-2011; Feb, Apr-Jul 2012; Sept, Dec 2013; All 2015 Catalogs<br>
+'''ES:''' All 2009-2011; Apr-Jun, 12 Jul, Dec 2012; Sept, Dec 2013; All 2015 Catalogs<br>
+'''DE:''' All 2011; Apr-Jul, Dec 2012; Sept, Dec 2013; All 2015 Catalogs<br>
+'''RU:''' All 2015 Catalogs}}
+
+
+The '''Igloo Catalog''' (known as '''Igloo Upgrades''' before the December 2011 catalog) was a catalog in club Penguin from November 2005 until 2014, also appearing briefly in 2015. In January 2014, it was merged into the Furniture Catalog, making a combined [[Furniture & Igloo Catalog]]. The catalogs were split again in June 2015, but were re-combined just a month later. 
+
+
+==English: Igloo Catalog==
+
+:''Club Penguin Wiki article: [[clubpenguinwiki:Igloo Catalog|Igloo Catalog]]''
+
+
+<center>
+{|class="wikitable" border="1"
+!January!!February!!March!!April!!May!!June!!July!!August!!September!!October!!November!!December
+|-
+|colspan="10" {{n/a}}||[[Media:February2006Igloo.swf|2005]]||{{n/a}}
+|-
+|colspan="3" {{n/a}}||[[Media:April2006Igloo.swf|2006]]||[[Media:May2006Igloo.swf|2006]]||[[Media:June2006Igloo.swf|2006]]||[[Media:July2006Igloo.swf|2006]]||[[Media:August2006Igloo.swf|2006]]||[[Media:September2006Igloo.swf|2006]]||{{n/a}}||[[Media:November2006Igloo.swf|2006]]||[[Media:December2006Igloo.swf|2006]]
+|-
+|[[Media:Igloo_0701.swf|2007]]||[[Media:Igloo_0702.swf|2007]]||[[Media:Igloo_0703.swf|2007]]||{{n/a|2007}}||[[Media:Igloo_0705.swf|2007]]||[[Media:Igloo_0706.swf|2007]]||[[Media:Igloo_0707.swf|2007]]||[[Media:August2007iglooupgrades.swf|2007]]||[[Media:September2007iglooupgrades.swf|2007]]||[[Media:October2007iglooupgrades.swf|2007]]||[[Media:November07Furniture.swf|2007]]||[[Media:December07Igloo.swf|2007]]
+|-
+|{{n/a}}||[[Media:ArtworkCatalogueIgloo 0802.swf|2008]]||{{n/a}}||[[Media:April2008Igloo.swf|2008]]||[[Media:May08Igloo.swf|2008]]||colspan="2" {{n/a}}||[[Media:August2008Igloo.swf|2008]]||{{n/a}}||[[Media:October2008Igloo.swf|2008]]||{{n/a}}||[[Media:IglooCatalogDec2008EN.swf|2008]]
+|-
+|colspan="2" {{n/a}}||{{n/a|2009}}||[[Media:April2009Igloo.swf|2009]]||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||[[Media:September2009Igloo.swf|2009]]||[[Media:OctoberIgloo09.swf|2009]]||[[Media:NovemberIgloo09.swf|2009]]||[[Media:December2009Igloos.swf|2009]]
+|-
+|{{n/a|2010}}||{{n/a|2010}}||[[Media:March2010Igloo.swf|2010]]||[[Media:April2010Igloo.swf|2010]]||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||[[Media:August10Igloo.swf|2010]]||{{n/a|2010}}||{{n/a}}||[[Media:November2010Igloo.swf|2010]]||{{n/a|2010}}
+|-
+|{{n/a}}||[[Media:Feb2011Igloos.swf|2011]]||colspan="2" {{n/a}}||[[Media:May2011Igloo.swf|2011]]||{{n/a}}||[[Media:July2011Igloo.swf|2011]]||colspan="2" {{n/a}}||[[Media:October2011Igloo.swf‎|2011]]||[[Media:November2011Igloo.swf|2011]]||[[Media:December2011Igloo.swf|2011]]
+|-
+|{{n/a}}||[[Media:February2012Igloo.swf|2012]]||{{n/a}}||[[Media:IglooCatalogApr2012EN.swf|2012]]||[[Media:May2012Igloo.swf|2012]]||[[Media:June2012Igloo.swf|2012]]||[[Media:Jul2012Igloo.swf|July 12, 2012]]<br>[[Media:Aug2012Igloo.swf|July 26, 2012]]||colspan="2" {{n/a}}||[[Media:ENCataloguesIglooOct2012.swf|2012]]||{{n/a}}||[[Media:IglooCatalogDec2012.swf|2012]]
+|-
+|{{n/a}}||[[Media:ENIglooCatalogFeb13.swf|2013]]||{{n/a}}||[[Media:April2013Igloo.swf|2013]]||colspan="2" {{n/a}}||[[Media:July2013Igloo.swf|2013]]||{{n/a}}||[[Media:September2013Igloo.swf|2013]]||[[Media:October2013Igloo.swf|2013]]||{{n/a}}||{{n/a|2013}}
+|-
+|colspan="6" {{n/a}}||{{n/a|2015}}||{{n/a|2015}}||colspan="4" {{n/a}}
+|}
+</center>
+
+==Português (Portuguese): Iglu Novo em Folha==
+:''Club Penguin Wiki Português article: [[ptwiki:Iglu Novo em Folha|Iglu Novo em Folha]]''
+
+
+<center>
+{|class="wikitable" border="1"
+!Janeiro!!Fevereiro!!Março!!Abril!!Maio!!Junho!!Julho!!Agosto!!Setembro!!Outubro!!Novembro!!Dezembro
+|-
+|colspan="9" {{n/a}}||{{n/a|2008}}||{{n/a}}||{{n/a|2008}}
+|-
+|colspan="2" {{n/a}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}
+|-
+|{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a}}||{{n/a|2010}}||{{n/a|2010}}
+|-
+|{{n/a}}||{{n/a|2011}}||colspan="2" {{n/a}}||{{n/a|2011}}||{{n/a}}||[[Media:PTCataloguesIgloo-July2011.swf|2011]]||colspan="2" {{n/a}}||{{n/a|2011}}||[[Media:PTCataloguesIgloo-November2011.swf|2011]]||{{n/a|2011}}
+|-
+|{{n/a}}||[[Media:IglooCatalogFeb2012PT.swf|2012]]||{{n/a}}||{{n/a|2012}}||{{n/a|2012}}||[[Media:PTCataloguesIgloo-June2012.swf|2012]]||{{n/a|2012}}||colspan="2" {{n/a}}||[[Media:PTCataloguesIglooOct2012.swf|2012]]||{{n/a}}||{{n/a|2012}}
+|-
+|{{n/a}}||[[Media:PTCataloguesIglooFeb2013.swf|2013]]||{{n/a}}||[[Media:PTApril2013Igloo.swf|2013]]||colspan="2" {{n/a}}||[[Media:PTJuly2013Igloo.swf|2013]]||{{n/a}}||{{n/a|2013}}||[[Media:PTOctober2013Igloo.swf|2013]]||{{n/a}}||{{n/a|2013}}
+|-
+|colspan="6" {{n/a}}||{{n/a|2015}}||{{n/a|2015}}||colspan="4" {{n/a}}
+|}
+</center>
+
+
+==Français (French): Catalogue d'Igloos==
+
+
+<center>
+{|class="wikitable" border="1"
+!Janvier!!Février!!Mars!!Avril!!Mai!!Juin!!Juillet!!Août!!Septembre!!Octobre!!Novembre!!Décembre
+|-
+|colspan="11" {{n/a}}||{{n/a|2008}}
+|-
+|colspan="2" {{n/a}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}
+|-
+|{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a}}||{{n/a|2010}}||{{n/a|2010}}
+|-
+|{{n/a}}||{{n/a|2011}}||colspan="2" {{n/a}}||{{n/a|2011}}||{{n/a}}||{{n/a|2011}}||colspan="2" {{n/a}}||{{n/a|2011}}||{{n/a|2011}}||{{n/a|2011}}
+|-
+|{{n/a}}||{{n/a|2012}}||{{n/a}}||{{n/a|2012}}||{{n/a|2012}}||{{n/a|2012}}||{{n/a|2012}}||colspan="2" {{n/a}}||[[Media:FRCataloguesIglooOct2012.swf|2012]]||{{n/a}}||[[Media:IglooCatalogDec2012FR.swf|2012]]
+|-
+|{{n/a}}||[[Media:FRCataloguesIglooFeb2013.swf|2013]]||{{n/a}}||[[Media:FRApril2013Igloo.swf|2013]]||colspan="2" {{n/a}}||[[Media:FRJuly2013Igloo.swf|2013]]||{{n/a}}||{{n/a|2013}}||[[Media:FROctober2013Igloo.swf|2013]]||{{n/a}}||{{n/a|2013}}
+|-
+|colspan="6" {{n/a}}||{{n/a|2015}}||{{n/a|2015}}||colspan="4" {{n/a}}
+|}
+</center>
+
+
+==Español (Spanish): Catálogo de iglús ==
+
+
+<center>
+{|class="wikitable" border="1"
+!Enero!!Febrero!!Marzo!!Abril!!Mayo!!Junio!!Julio!!Agosto!!Septiembre!!Octubre!!Noviembre!!Diciembre
+|-
+|colspan="5" {{n/a}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}||{{n/a|2009}}
+|-
+|{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a|2010}}||{{n/a}}||{{n/a|2010}}||{{n/a|2010}}
+|-
+|{{n/a}}||{{n/a|2011}}||colspan="2" {{n/a}}||{{n/a|2011}}||{{n/a}}||{{n/a|2011}}||colspan="2" {{n/a}}||{{n/a|2011}}||{{n/a|2011}}||{{n/a|2011}}
+|-
+|{{n/a}}||[[Media:IglooCatalogFeb2012ES.swf|2012]]||{{n/a}}||{{n/a|2012}}||{{n/a|2012}}||{{n/a|2012}}||[[Media:ESCataloguesIgloo-July2012Update.swf|26 Julio 2012]]||colspan="2" {{n/a}}||[[Media:ESCataloguesIglooOct2012.swf|2012]]||{{n/a}}||{{n/a|2012}}
+|-
+|{{n/a}}||[[Media:ESCataloguesIglooFeb2013.swf|2013]]||{{n/a}}||[[Media:ESApril2013Igloo.swf|2013]]||colspan="2" {{n/a}}||[[Media:ESJuly2013Igloo.swf|2013]]||{{n/a}}||{{n/a|2013}}||[[Media:ESOctober2013Igloo.swf|2013]]||{{n/a}}||{{n/a|2013}}
+|-
+|colspan="6" {{n/a}}||{{n/a|2015}}||{{n/a|2015}}||colspan="4" {{n/a}}
+|}
+</center>
+
+
+==Deutsch (German): Iglu-Katalog==
+
+
+<center>
+{|class="wikitable" border="1"
+!Januar!!Februar!!März!!April!!Mai!!Juni!!Juli!!August!!September!!Oktober!!November!!Dezember
+|-
+|colspan="9" {{n/a}}||{{n/a|2011}}||{{n/a|2011}}||{{n/a|2011}}
+|-
+|{{n/a}}||[[Media:IglooCatalogFeb2012DE.swf|2012]]||{{n/a}}||{{n/a|2012}}||{{n/a|2012}}||{{n/a|2012}}||{{n/a|2012}}||colspan="2" {{n/a}}||[[Media:DECataloguesIglooOct2012.swf|2012]]||{{n/a}}||{{n/a|2012}}
+|-
+|{{n/a}}||[[Media:DECataloguesIglooFeb2013.swf|2013]]||{{n/a}}||[[Media:DEApril2013Igloo.swf|2013]]||colspan="2" {{n/a}}||[[Media:DEJuly2013Igloo.swf|2013]]||{{n/a}}||{{n/a|2013}}||[[Media:DEOctober2013Igloo.swf|2013]]||{{n/a}}||{{n/a|2013}}
+|-
+|colspan="6" {{n/a}}||{{n/a|2015}}||{{n/a|2015}}||colspan="4" {{n/a}}
+|}
+</center>
+
+==русский (Russian):Каталог Иглу==
+
+<center>
+{|class="wikitable" border="1"
+!январь!!февраль!!март!!апрель!!май!!июнь!!июль!!август!!сентябрь!!октябрь!!ноябрь!!декабрь
+|-
+|colspan="6" {{n/a}}||{{n/a|2015}}||{{n/a|2015}}||colspan="4" {{n/a}}
+|}
+
+[[Category:Catalogs]]

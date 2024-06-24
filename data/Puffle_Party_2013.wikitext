@@ -1,0 +1,95 @@
+:''Club Penguin Wiki article: [[clubpenguinwiki:Puffle Party 2013|Puffle Party 2013]]''
+
+==Rooms==
+
+===Construction===
+*[[Media:PuffleParty2013Construction-Dock.swf|Dock]]
+*[[Media:PuffleParty2013Construction-Forest.swf|Forest]]
+*[[Media:PuffleParty2013Construction-Pet.swf|Pet Shop]]
+*[[Media:PuffleParty2013Construction-Plaza.swf|Plaza (1)]]
+*[[Media:PuffleParty2013Construction-Plaza_2.swf|Plaza (2)]]
+*[[Media:PuffleParty2013Construction-Village.swf|Ski Village]]
+===Party===
+*[[Media:RoomsBeach-PuffleParty2013.swf|Beach]]
+*[[Media:RoomsBeacon-PuffleParty2013.swf|Beacon]]
+*[[Media:RoomsBoxDimension-PuffleParty2013.swf|Box Dimension]]
+*[[Media:RoomsCave-PuffleParty2013.swf|Cave]]
+*[[Media:RoomsCove-PuffleParty2013.swf|Cove]]
+*[[Media:RoomsCloudForest-PuffleParty2013.swf|Cloud Forest]]
+*[[Media:RoomsDance-PuffleParty2013.swf|Dance Club]]
+*[[Media:RoomsDock-PuffleParty2013.swf|Dock]]
+*[[Media:RoomsHotelLobby-PuffleParty2013.swf‎|Hotel Lobby]]
+*[[Media:RoomsHotelRoof-PuffleParty2013.swf|Hotel Roof]]
+*[[Media:RoomsHotelSpa-PuffleParty2013.swf|Hotel Spa]]
+*[[Media:RoomsBerg-PuffleParty2013.swf|Iceberg]]
+*[[Media:RoomsLight-PuffleParty2013.swf|Lighthouse]]
+*[[Media:RoomsLounge-PuffleParty2013.swf|Lounge]]
+*[[Media:RoomsPet-PuffleParty2013.swf|Pet Shop]]
+*[[Media:PuffleParty2013-Party1.swf|Puffle Feeding Area]]
+*[[Media:PuffleParty2013-Party2.swf|Puffle Play Zone]]
+*[[Media:RoomsPlaza-PuffleParty2013.swf|Plaza]]
+*[[Media:RoomsMtn-PuffleParty2013.swf|Ski Hill]]
+*[[Media:RoomsLodge-PuffleParty2013.swf|Ski Lodge]]
+*[[Media:RoomsVillage-PuffleParty2013.swf|Ski Village]]
+*[[Media:RoomsForts-PuffleParty2013.swf|Snow Forts]]
+*[[Media:RoomsTown-PuffleParty2013.swf|Town]]
+
+==Music==
+*[[Media:Music3601.swf|Puffle Hotel Rooftop]]
+*[[Media:Music361.swf|Puffle Hotel Spa]]
+*[[Media:Music362.swf|Puffle Hotel Lobby]]
+*[[Media:Music363.swf|Cloud Forest]]
+*[[Media:Music364.swf|Lighthouse]]
+*[[Media:Music366.swf|Cave]]
+*[[Media:Music367.swf|Cove]]
+*[[Media:Music368.swf|Pet Shop, Puffle Play Zone and Ski Lodge]]
+*[[Media:Music369.swf|Plaza, Puffle Feeding Area, Snow Forts and Town]]
+*[[Media:Music370.swf|Ski Hill and Ski Village]]
+*[[Media:Music371.swf|Beach, Beacon, Dock and Iceberg]]
+*[[Media:Music373.swf|Night Club]]
+*[[Media:Music374.swf|Lounge]]
+
+==Close Ups==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+|-
+|[[Media:ENClose upsParty map note.swf|Party Note]]||[[Media:PTClose upsParty map note.swf|Nota do Mapa]]||[[Media:FRClose upsParty map note.swf|Party Note]]||[[Media:ESClose upsParty map note.swf|Party Note]]||[[Media:DEClose upsParty map note.swf|Party Note]]
+|-
+|[[Media:ENClose_upsPuffle_choose.swf|Choose a Puffle]]||[[Media:PTClose_upsPuffle_choose.swf|Só Puffles]]||[[Media:FRClose_upsPuffle_choose.swf|Choose a Puffle ''Needs Translation'']]||[[Media:ESClose_upsPuffle_choose.swf|Choose a Puffle ''Needs Translation'']]||[[Media:DEClose_upsPuffle_choose.swf|Choose a Puffle ''Needs Translation'']]
+|-
+|[[Media:ENClose upsHotel elevator.swf|Hotel Elevator]]||[[Media:PTClose upsHotel elevator.swf|Elevador]]||[[Media:FRClose upsHotel elevator.swf|Hotel Elevator ''Needs Translation'']]||[[Media:ESClose upsHotel elevator.swf|Hotel Elevator ''Needs Translation'']]||[[Media:DEClose upsHotel elevator.swf|Hotel Elevator ''Needs Translation'']]
+|-
+|[[Media:ENClose_upsRainbow_cannon_prompt.swf|Rainbow Cannon]]||[[Media:PTClose_upsRainbow_cannon_prompt.swf|Canhão Multicor]]||[[Media:FRClose_upsRainbow_cannon_prompt.swf|Rainbow Cannon ''Needs Translation'']]||[[Media:ESClose_upsRainbow_cannon_prompt.swf|Rainbow Cannon ''Needs Translation'']]||[[Media:DEClose_upsRainbow_cannon_prompt.swf|Rainbow Cannon ''Needs Translation'']]
+|-
+|[[Media:ENClose_upsRainbow_puffle_quest.swf|Rainbow Puffle Quest]]||[[Media:PTClose_upsRainbow_puffle_quest.swf|Lista de Tarefas do Puffle Multicor]]||[[Media:FRClose_upsRainbow_puffle_quest.swf|Rainbow Puffle Quest ''Needs Translation'']]||[[Media:ESClose_upsRainbow_puffle_quest.swf|Rainbow Puffle Quest ''Needs Translation'']]||[[Media:DEClose_upsRainbow_puffle_quest.swf|Rainbow Puffle Quest ''Needs Translation'']]
+|}
+</center>
+
+==Login Screen==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+|-
+|[[Media:SwfPuffle-party-1.swf|Login Screen #1]]||[[Media:PTSwfPuffle-party-1.swf|Tela de Entrada #1]]||[[Media:FRSwfPuffle-party-1.swf|Login Screen #1]]||[[Media:ESSwfPuffle-party-1.swf|Login Screen #1]]||[[Media:DESwfPuffle-party-1.swf|Login Screen #1]]
+|-
+|[[Media:SwfPuffle-party-2.swf|Login Screen #2]]||[[Media:PTSwfPuffle-party-2.swf|Tela de Entrada #2]]||N/A||[[Media:ESSwfPuffle-party-2.swf|Login Screen #2]]||[[Media:DESwfPuffle-party-2.swf|Login Screen #2]]
+|}
+</center>
+
+==Other==
+*[[Media:ClientInterfacePuffleParty2013.swf|Client Interface]]
+
+==Catalog==
+*[[Media:ENPuffleParty2013-PartyCatalog.swf|Party Catalog]]
+{{Parties}}
+
+[[Category:Parties of 2013]]

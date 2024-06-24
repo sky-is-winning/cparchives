@@ -1,0 +1,148 @@
+''Note: Any sections on these charts that are blank words (without links), then that means we don't have those SWFs. If you have one of those "missing" SWFs, please upload it and add it in the correct location.''
+
+==Current==
+*[http://media1.clubpenguin.com/play/v2/content/local/en/catalogues/light.swf The current Music Catalog (in the Lighthouse)- English]
+*[http://media1.clubpenguin.com/play/v2/content/local/pt/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Português]
+*[http://media1.clubpenguin.com/play/v2/content/local/fr/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Français]
+*[http://media1.clubpenguin.com/play/v2/content/local/es/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Español]
+*[http://media1.clubpenguin.com/play/v2/content/local/de/catalogues/light.swf The current Music Catalog (in the Lighthouse)- Deutsch]
+*[http://media1.clubpenguin.com/play/v2/content/local/ru/catalogues/light.swf The current Music Catalog (in the Lighthouse)- русский]
+
+==English: Music Catalog==
+
+:''Club Penguin Wiki article: [[clubpenguinwiki:Music Catalog|Music Catalog]]''
+
+<center>
+{|class="wikitable" border="1"
+!Version
+|-
+|Music Jam 2008 (before update)
+|-
+|Music Jam 2008 (complete)
+|-
+|Music Jam 2009 (before update)
+|-
+|Music Jam 2009 (complete)
+|-
+|Music Jam 2010 (before update)
+|-
+|Music Jam 2010 (complete)
+|-
+|[[Media:Lighthousecatalog.swf|Lighthouse old version]]
+|-
+|[[Media:ENCataloguesLight.swf|Lighthouse version]]
+|-
+|Music Jam 2011 (before update)
+|-
+|[[Media:MusicJam2011CatalogParty.swf|Music Jam 2011]] (complete)
+|-
+|[[Media:AugustNewMusicCatalog13.swf|Lighthouse version (August 2013 update)]]
+|-
+|[[Media:ENCataloguesLight2014.swf|Lighthouse version (2014 update)]]
+|}
+</center>
+
+==Português (Portuguese)==
+
+<center>
+{|class="wikitable" border="1"
+!Version
+|-
+|Music Jam 2009 (before update)
+|-
+|Music Jam 2009 (complete)
+|-
+|Music Jam 2010 (before update)
+|-
+|Music Jam 2010 (complete)
+|-
+|[[Media:PTCataloguesLight.swf|Lighthouse version]]
+|-
+|Music Jam 2011 (before update)
+|-
+|Music Jam 2011 (complete)
+|-
+|Lighthouse version (August 2013 update)
+|-
+|[[Media:PTCataloguesLight2014.swf|Lighthouse version (2014 update)]]
+|}
+</center>
+
+==Français (French): Catalogue de Musique==
+
+<center>
+{|class="wikitable" border="1"
+!Version
+|-
+|Fête de la Musique 2009 (before update)
+|-
+|Fête de la Musique 2009 (complete)
+|-
+|Fête de la Musique 2010 (before update)
+|-
+|Fête de la Musique 2010 (complete)
+|-
+|[[Media:MusicCatalog08091011PT.swf|Lighthouse old version]]
+|-
+|[[Media:FRCataloguesLight.swf|Lighthouse version]]
+|-
+|Fête de la Musique 2011 (before update)
+|-
+|Fête de la Musique 2011 (complete)
+|-
+|Lighthouse version (August 2013 update)
+|-
+|[[Media:FRCataloguesLight2014.swf|Lighthouse version (2014 update)]]
+|}
+</center>
+
+==Español (Spanish)==
+
+<center>
+{|class="wikitable" border="1"
+!Version
+|-
+|Festival de Música 2010 (before update)
+|-
+|Festival de Música 2010 (complete)
+|-
+|[[Media:MusicCatalog08091011ES.swf|Lighthouse old version]]
+|-
+|[[Media:ESCataloguesLight.swf|Lighthouse version]]
+|-
+|Festival de Música 2011 (before update)
+|-
+|Festival de Música 2011 (complete)
+|-
+|Lighthouse version (August 2013 update)
+|-
+|[[Media:ESCataloguesLight2014.swf|Lighthouse version (2014 update)]]
+|}
+</center>
+
+==Deutsch (German)==
+
+<center>
+{|class="wikitable" border="1"
+!Version
+|-
+|-
+|[[Media:MusicCatalog08091011DE.swf|Lighthouse old version]]
+|-
+|[[Media:DECataloguesLight.swf|Lighthouse version]]
+|-
+|Lighthouse version (August 2013 update)
+|-
+|[[Media:DECataloguesLight2014.swf|Lighthouse version (2014 update)]]
+|}
+</center>
+
+==русский (Russian)==
+
+<center>
+{|class="wikitable" border="1"
+!Version
+|-
+|[[Media:RUCataloguesLight.swf|Lighthouse version]]
+|}
+</center>

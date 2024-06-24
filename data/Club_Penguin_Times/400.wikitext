@@ -1,0 +1,27 @@
+Below are SWF files from issue #400 (June 20, 2013) of the Club Penguin Times:
+
+<center>
+{|class="wikitable" border="1"
+!Header (front)
+!Feature Story
+!Support Story
+!Upcoming Events
+!News Flash
+!Ask Aunt Arctic (front)
+!Header (back)
+!Ask Aunt Arctic (back)
+!Jokes and Riddles
+!Secrets
+!Feature More
+|-
+|[[Media:ENNews400HeaderFront.swf|English]]||[[Media:ENNews400FeatureStory.swf|English]]||[[Media:ENNews400SupportStory.swf|English]]||[[Media:ENNews400UpcomingEvents.swf|English]]||[[Media:ENNews400NewsFlash.swf|English]]||[[Media:ENNews400AskAuntArcticFront.swf|English]]||[[Media:ENNews400HeaderBack.swf|English]]||[[Media:ENNews400AskAuntArcticBack.swf|English]]||[[Media:ENNews400JokesAndRiddles.swf|English]]||[[Media:ENNews400Secrets.swf|English]]||[[Media:ENNews400FeatureMore.swf|English]]
+|-
+|[[Media:PTNews400HeaderFront.swf|Português]]||[[Media:PTNews400FeatureStory.swf|Português]]||[[Media:PTNews400SupportStory.swf|Português]]||[[Media:PTNews400UpcomingEvents.swf|Português]]||[[Media:PTNews400NewsFlash.swf|Português]]||[[Media:PTNews400AskAuntArcticFront.swf|Português]]||[[Media:PTNews400HeaderBack.swf|Português]]||[[Media:PTNews400AskAuntArcticBack.swf|Português]]||[[Media:PTNews400JokesAndRiddles.swf|Português]]||[[Media:PTNews400Secrets.swf|Português]]||[[Media:PTNews400FeatureMore.swf|Português]]
+|-
+|[[Media:FRNews400HeaderFront.swf|Français]]||[[Media:FRNews400FeatureStory.swf|Français]]||[[Media:FRNews400SupportStory.swf|Français]]||[[Media:FRNews400UpcomingEvents.swf|Français]]||[[Media:FRNews400NewsFlash.swf|Français]]||[[Media:FRNews400AskAuntArcticFront.swf|Français]]||[[Media:FRNews400HeaderBack.swf|Français]]||[[Media:FRNews400AskAuntArcticBack.swf|Français]]||[[Media:FRNews400JokesAndRiddles.swf|Français]]||[[Media:FRNews400Secrets.swf|Français]]||[[Media:FRNews400FeatureMore.swf|Français]]
+|-
+|[[Media:ESNews400HeaderFront.swf|Español]]||[[Media:ESNews400FeatureStory.swf|Español]]||[[Media:ESNews400SupportStory.swf|Español]]||[[Media:ESNews400UpcomingEvents.swf|Español]]||[[Media:ESNews400NewsFlash.swf|Español]]||[[Media:ESNews400AskAuntArcticFront.swf|Español]]||[[Media:ESNews400HeaderBack.swf|Español]]||[[Media:ESNews400AskAuntArcticBack.swf|Español]]||[[Media:ESNews400JokesAndRiddles.swf|Español]]||[[Media:ESNews400Secrets.swf|Español]]||[[Media:ESNews400FeatureMore.swf|Español]]
+|-
+|[[Media:DENews400HeaderFront.swf|Deutsch]]||[[Media:DENews400FeatureStory.swf|Deutsch]]||[[Media:DENews400SupportStory.swf|Deutsch]]||[[Media:DENews400UpcomingEvents.swf|Deutsch]]||[[Media:DENews400NewsFlash.swf|Deutsch]]||[[Media:DENews400AskAuntArcticFront.swf|Deutsch]]||[[Media:DENews400HeaderBack.swf|Deutsch]]||[[Media:DENews400AskAuntArcticBack.swf|Deutsch]]||[[Media:DENews400JokesAndRiddles.swf|Deutsch]]||[[Media:DENews400Secrets.swf|Deutsch]]||[[Media:DENews400FeatureMore.swf|Deutsch]]
+|}
+</center>

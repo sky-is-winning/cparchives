@@ -1,0 +1,111 @@
+{{CPW|Snow Forts|Forte Nevado}}
+
+==Normal==
+<center>
+{|class="wikitable" border="1"
+!SWF!!Year(s)!!Field
+|-
+|[[Media:ArtworkRoomsForts3.swf|forts3]]||2005||Ice Rink
+|-
+|[[Media:ArtworkRoomsForts10.swf|forts10]]||2006||Ice Rink
+|-
+|[[Media:ArtworkRoomsForts12.swf|forts12]]||2006||Ice Rink
+|-
+|[[Media:ArtworkRoomsForts13.swf|forts13]]||2006||Ice Rink
+|-
+|[[Media:ArtworkRoomsForts15.swf|forts15]]||2006||Ice Rink
+|-
+|[[Media:ArtworkRoomsForts17.swf|forts17]]||2006||Ice Rink
+|-
+|[[Media:ArtworkRoomsForts40.swf|forts40]]||2006||Ice Rink
+|-
+|[[Media:RoomsForts.swf|forts]]||2009-2011||Ice Rink
+|-
+|[[Media:RoomsForts 2.swf|forts]]||2009-2011||Stadium
+|-
+|[[Media:RoomsForts 3.swf|forts]]||2011-2012||Ice Rink
+|-
+|[[Media:RoomsForts 4.swf|forts]]||2011-2012||Stadium
+|-
+|[[Media:RoomsForts2012-Hockey.swf|forts]]||2012-2013||Ice Rink
+|-
+|[[Media:RoomsForts 6.swf|forts]]||2013||Stadium
+|-
+|[[Media:RoomsForts 7.swf|forts]]||2013||Stadium
+|-
+|[[Media:RoomsForts 8.swf|forts]]||2013-2015||Stadium
+|-
+|[[Media:RoomsForts 9.swf|forts]]||2013-2015||Ice Rink
+|-
+|[[Media:RoomsForts-June2015.swf|forts]]||June 2015-July 2015||Ice Rink
+|-
+|[[Media:RoomsForts-July2015.swf|forts]]||July 2015-November 2015||Stadium
+|-
+|[[Media:RoomsForts-November2015.swf|forts]]||November 2015-February 2016||Ice Rink
+|-
+|[[Media:RoomsForts-February2016.swf|forts]]||February 2016-March 2017||Ice Rink
+|}
+</center>
+
+==Parties and Events==
+===2005-2009===
+<center>
+{|class="wikitable" border="1"
+!Event
+|-
+|[[Media:RoomsForts-HalloweenParty2007.swf|Halloween Party 2007]]
+|-
+|[[Media:RoomsForts-SubMarine.swf|Sub-Marine Party 2008]]
+|-
+|[[Media:WinterFiesta2009Forts.swf|Winter Fiesta 2009]]
+|-
+|[[Media:2009pufflepartysnowforts.swf|Puffle Party 2009]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/stpatricksparty2009/forts.swf St. Patrick's Day Party 2009]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/medieval_party_2009/forts.swf Medieval Party 2009]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/adventure_party_june_2009/rooms_before_party/forts.swf Adventure Party 2009 (Construction)]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/adventure_party_june_2009/forts.swf Adventure Party 2009]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/construction/forts.swf Music Jam 2009 (Construction)]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/forts.swf Music Jam 2009]
+|-
+|[[Media:FestivalOfFlightForts.swf|Festival of Flight]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/the_fair_september_2009/forts.swf The Fair 2009]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/halloween_october_2009/forts.swf Halloween Party 2009]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/forts.swf Holiday Party 2009]
+|}
+</center>
+
+===2010-2017===
+<center>
+{|class="wikitable" border="1"
+!Event
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/puffle_party_febuary/forts.swf Puffle Party 2010]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/forts.swf April Fools Party 2010]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/medieval_party_may/before_party/forts.swf Medieval Party 2010 (Construction)]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/medieval_party_may/forts.swf Medieval Party 2010]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/island_adventure_party/forts.swf Island Adventure Party 2010]
+|-
+|[[Media:RoomsForts-MusicJam2010.swf|Music Jam 2010]]
+|-
+|[[Media:SnowForts.swf|December 3-16, 2010. While the Snowflakes Pin was hidden there]]
+|-
+|[[Media:RoomsForts-WaddleOnParty.swf|Waddle On Party 2017]]
+|-
+|[[Media:RoomsForts-WaddleOnParty 2.swf|Waddle On Party 2017 (fireworks)]]
+|}
+</center>
+
+{{Places}}
