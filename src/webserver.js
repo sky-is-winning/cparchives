@@ -4,6 +4,7 @@ import { EventEmitter } from "events";
 import { JSDOM } from "jsdom";
 import mime from "mime-types";
 import CryptoJS from "crypto-js";
+import GeneratePageData from "./generate-page-data.js";
 
 export default class WebServer {
     constructor() {
@@ -11,6 +12,7 @@ export default class WebServer {
         this.events = new EventEmitter();
         this.fileStructure = this.getFileStructure();
         this.cache = {};
+        this.wikiParser = new GeneratePageData(this);
     }
 
     getFileStructure() {
@@ -173,7 +175,7 @@ export default class WebServer {
                         response.end();
                         return;
                     } else {
-                        filePath = "./archives.clubpenguinwiki.info" + request.url;
+                        filePath = request.url;
                     }
 
                     if (filePath.includes("/thumb")) {
@@ -236,6 +238,13 @@ export default class WebServer {
                     }
 
                     console.log("Serving: " + filePath);
+
+                    if (!filePath.includes(".")) {
+                        let pageData = await this.wikiParser.generatePageData(filePath)
+                        response.writeHead(200, { "Content-Type": "text/html" });
+                        response.end(pageData, "utf-8");
+                        return;
+                    }
 
                     fs.readFile(filePath, (error, content) => {
                         if (error) {
