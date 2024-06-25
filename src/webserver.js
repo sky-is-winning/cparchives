@@ -74,7 +74,7 @@ export default class WebServer {
     start() {
         this.server.listen(PORT);
 
-        console.log("Server running on port " + port);
+        console.log("Server running on port " + PORT);
 
         this.server.on("request", async (request, response) => {
             try {

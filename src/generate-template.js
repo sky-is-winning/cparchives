@@ -67,6 +67,43 @@ export default class GenerateTemplate {
         return navbox;
     }
 
+    generateWikitable(wt) {
+        let wikitable = "";
+        for (let line of wt.split("\n")) {
+            if (line.startsWith("{|")) {
+                wikitable += `<table ${line.substring(2)}><tbody>`;
+            } else if (line.startsWith("!")) {
+                wikitable += "<tr>";
+                let headers = line.split("!")
+                headers.forEach(header => {
+                    if (header == "" || header == "<") {
+                        return;
+                    }
+                    if (header == "--Blank-->") {
+                        header = "";
+                    }
+                    wikitable += `<th>${header}</th>`;
+                });
+            } else if (line.startsWith("|-")) {
+                wikitable += "</tr><tr>";
+            } else if (line.startsWith("|")) {
+                let cells = line.split("||");
+                cells.forEach(cell => {
+                    if (/\|rowspan="(\d+)"\|/.test(cell)) {
+                        let match = cell.match(`\|rowspan="(\d+)"\|`);
+                        let rowspan = match[1];
+                        cell = cell.replace(`\|rowspan="${rowspan}"\|`, "");
+                        wikitable += `<td rowspan="${rowspan}">${cell}</td>`;
+                    } else {
+                        wikitable += `<td>${cell}</td>`;
+                    }
+                });
+            }
+        }
+        wikitable += "</tbody></table>";
+        return wikitable;        
+    }
+
     generateImage(imageData) {
         let image = {
             file: "",

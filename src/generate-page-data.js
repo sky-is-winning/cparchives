@@ -200,55 +200,69 @@ export default class GeneratePageData {
 
     async getContentFromWikiText(wt, pageName) {
         let content = "";
+        let inTable = false;
+        let tableLines = "";
         for (let line of wt.split("\n")) {
-            if (line.startsWith("===")) {
-                content += `<h3 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h3>`;
-            } else if (line.startsWith("==")) {
-                content += `<h2 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h2>`;
+            if (inTable) {
+                tableLines += `\n${line}`;
+                if (line == "|}") {
+                    inTable = false;
+                    content += this.templateGenerator.generateWikitable(tableLines);
+                }
             } else {
-                const templateRegex = /\{\{(.*?)\}\}/g;
-                let match;
-                while ((match = templateRegex.exec(line)) !== null) {
-                    const replacement = await this.getTemplate(match[1], pageName);
-                    line = line.replace(match[0], replacement);
-                }
-
-                if (line.startsWith("*")) {
-                    line = `<li>${line.replace("*", "").trim()}</li>`;
-                }
-
-                let localLinkRegex = /\[\[(.*?)\]\]/g;
-                line = line.replace(localLinkRegex, (match, p1) => {
-                    if (p1.includes("|")) {
-                        let [url, text] = p1.split("|");
-                        let urlText = url.replace(/ /g, "_"); // Replace spaces with underscores for the URL
-                        if (urlText.startsWith("File:")) {
-                            console.log(this.templateGenerator.getMWImageElement(match));
-                            return this.templateGenerator.getMWImageElement(match);
-                        }
-                        if (urlText.startsWith("Media:")) {
-                            return `<a href="${this.getFileURI(urlText.split(":")[1])}" title="${url}">${text}</a>`;
-                        }
-                        return `<a href="/wiki/${urlText}" title="${url}">${text}</a>`;
+                if (line.startsWith(`{|class="wikitable"`)) {
+                    inTable = true;
+                    tableLines+=line;
+                    continue;
+                } else if (line.startsWith("===")) {
+                    content += `<h3 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h3>`;
+                } else if (line.startsWith("==")) {
+                    content += `<h2 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h2>`;
+                } else {
+                    const templateRegex = /\{\{(.*?)\}\}/g;
+                    let match;
+                    while ((match = templateRegex.exec(line)) !== null) {
+                        const replacement = await this.getTemplate(match[1], pageName);
+                        line = line.replace(match[0], replacement);
                     }
-                    let urlText = p1.replace(/ /g, "_"); // Replace spaces with underscores for the URL
-                    return `<a href="/wiki/${urlText}" title="${p1}">${p1}</a>`;
-                });
 
-                let externalLinkRegex = /\[(.*?)\]/g;
-                line = line.replace(externalLinkRegex, (match, p1) => {
-                    if (p1.includes(" ")) {
-                        let url = p1.split(" ")[0];
-                        let text = p1.split(" ").slice(1).join(" ");
-                        return `<a href="${url}">${text}</a>`;
+                    if (line.startsWith("*")) {
+                        line = `<li>${line.replace("*", "").trim()}</li>`;
                     }
-                    return `<a href="${p1}">${p1}</a>`;
-                });
 
-                line = line.replace(/'''(.*?)'''/g, "<strong>$1</strong>");
-                line = line.replace(/''(.*?)''/g, "<i>$1</i>");
+                    let localLinkRegex = /\[\[(.*?)\]\]/g;
+                    line = line.replace(localLinkRegex, (match, p1) => {
+                        if (p1.includes("|")) {
+                            let [url, text] = p1.split("|");
+                            let urlText = url.replace(/ /g, "_"); // Replace spaces with underscores for the URL
+                            if (urlText.startsWith("File:")) {
+                                console.log(this.templateGenerator.getMWImageElement(match));
+                                return this.templateGenerator.getMWImageElement(match);
+                            }
+                            if (urlText.startsWith("Media:")) {
+                                return `<a href="${this.getFileURI(urlText.split(":")[1])}" title="${url}">${text}</a>`;
+                            }
+                            return `<a href="/wiki/${urlText}" title="${url}">${text}</a>`;
+                        }
+                        let urlText = p1.replace(/ /g, "_"); // Replace spaces with underscores for the URL
+                        return `<a href="/wiki/${urlText}" title="${p1}">${p1}</a>`;
+                    });
 
-                content += line;
+                    let externalLinkRegex = /\[(.*?)\]/g;
+                    line = line.replace(externalLinkRegex, (match, p1) => {
+                        if (p1.includes(" ")) {
+                            let url = p1.split(" ")[0];
+                            let text = p1.split(" ").slice(1).join(" ");
+                            return `<a href="${url}">${text}</a>`;
+                        }
+                        return `<a href="${p1}">${p1}</a>`;
+                    });
+
+                    line = line.replace(/'''(.*?)'''/g, "<strong>$1</strong>");
+                    line = line.replace(/''(.*?)''/g, "<i>$1</i>");
+
+                    content += line;
+                }
             }
         }
         return content;
