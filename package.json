@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "format": "npx prettier --write *.js && npx prettier --write src/*.js"
   },
   "author": "",
   "license": "ISC",
@@ -13,5 +14,12 @@
     "crypto-js": "^4.2.0",
     "googleapis": "^140.0.0",
     "jsdom": "^24.0.0"
+  },
+  "prettier": {
+    "tabWidth": 4,
+    "bracketSpacing": false,
+    "printWidth": 99999,
+    "endOfLine": "auto",
+    "trailingComma": "none"
   }
 }

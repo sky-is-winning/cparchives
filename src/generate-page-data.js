@@ -1,69 +1,69 @@
-import { promises as fs } from "fs";
+import {promises as fs} from "fs";
 import CryptoJS from "crypto-js";
 import GenerateTemplate from "./generate-template.js";
 
 export default class GeneratePageData {
-  constructor(webserver) {
-    this.webserver = webserver;
-    this.wikitextCache = new Map();
-    this.cache = new Map();
-    this.templateGenerator = new GenerateTemplate(this);
-  }
-
-  async generatePageData(page) {
-    if (page.startsWith("/wiki/")) {
-      page = page.replace("/wiki/", "/");
+    constructor(webserver) {
+        this.webserver = webserver;
+        this.wikitextCache = new Map();
+        this.cache = new Map();
+        this.templateGenerator = new GenerateTemplate(this);
     }
 
-    let wikitext = await this.getWikiText(page);
-    if (this.wikitextCache.has(page)) {
-      if (this.wikitextCache.get(page) === wikitext) {
-        if (this.cache.has(page)) {
-          console.log("Cache hit for", page);
-          return this.cache.get(page);
+    async generatePageData(page) {
+        if (page.startsWith("/wiki/")) {
+            page = page.replace("/wiki/", "/");
         }
-      }
-    }
 
-    let pageName = page.split("/").pop();
-    const replacers = [
-      [":", "%3A"],
-      ["?", "%3F"],
-      ["#", "%23"],
-      ["[", "%5B"],
-      ["]", "%5D"],
-      ["@", "%40"],
-      ["!", "%21"],
-      ["$", "%24"],
-      ["&", "%26"],
-      ["'", "%27"],
-      ["(", "%28"],
-      [")", "%29"],
-      ["*", "%2A"],
-      ["+", "%2B"],
-      [",", "%2C"],
-      [";", "%3B"],
-      ["=", "%3D"],
-      [" ", "%20"],
-      [".", "%2E"],
-      ["<", "%3C"],
-      [">", "%3E"],
-      ["^", "%5E"],
-      ["`", "%60"],
-      ["{", "%7B"],
-      ["|", "%7C"],
-      ["}", "%7D"],
-      ["~", "%7E"],
-    ];
-    for (const replacer of replacers) {
-      pageName = pageName.replaceAll(replacer[1], replacer[0]);
-    }
-    pageName = pageName.replaceAll("_", " ");
+        let wikitext = await this.getWikiText(page);
+        if (this.wikitextCache.has(page)) {
+            if (this.wikitextCache.get(page) === wikitext) {
+                if (this.cache.has(page)) {
+                    console.log("Cache hit for", page);
+                    return this.cache.get(page);
+                }
+            }
+        }
 
-    let headData = await this.getHeadData(page, pageName);
-    let body = await this.getBody(page, pageName);
+        let pageName = page.split("/").pop();
+        const replacers = [
+            [":", "%3A"],
+            ["?", "%3F"],
+            ["#", "%23"],
+            ["[", "%5B"],
+            ["]", "%5D"],
+            ["@", "%40"],
+            ["!", "%21"],
+            ["$", "%24"],
+            ["&", "%26"],
+            ["'", "%27"],
+            ["(", "%28"],
+            [")", "%29"],
+            ["*", "%2A"],
+            ["+", "%2B"],
+            [",", "%2C"],
+            [";", "%3B"],
+            ["=", "%3D"],
+            [" ", "%20"],
+            [".", "%2E"],
+            ["<", "%3C"],
+            [">", "%3E"],
+            ["^", "%5E"],
+            ["`", "%60"],
+            ["{", "%7B"],
+            ["|", "%7C"],
+            ["}", "%7D"],
+            ["~", "%7E"]
+        ];
+        for (const replacer of replacers) {
+            pageName = pageName.replaceAll(replacer[1], replacer[0]);
+        }
+        pageName = pageName.replaceAll("_", " ");
 
-    let pageData = `<html>
+        let headData = await this.getHeadData(page, pageName);
+        let body = await this.getBody(page, pageName);
+
+        let pageData = `<html>
             <head>
                 ${headData}
             </head>
@@ -72,12 +72,12 @@ export default class GeneratePageData {
             </body>
         </html>`;
 
-    this.cache.set(page, pageData);
-    return pageData;
-  }
+        this.cache.set(page, pageData);
+        return pageData;
+    }
 
-  async getHeadData(page, pageName) {
-    return `
+    async getHeadData(page, pageName) {
+        return `
     <head>
 <meta charset="UTF-8">
 <title>${pageName} - Club Penguin Archives Wiki</title>
@@ -117,10 +117,10 @@ export default class GeneratePageData {
 <link rel="dns-prefetch" href="//login.miraheze.org">
 </head>
         `;
-  }
+    }
 
-  getHeader() {
-    return `
+    getHeader() {
+        return `
 <div class="vector-header-container">
     <header class="vector-header mw-header">
         <div class="vector-header-start">
@@ -134,24 +134,24 @@ export default class GeneratePageData {
     </header>
 </div>
     `;
-  }
+    }
 
-  getSiteNotice() {
-    return `
+    getSiteNotice() {
+        return `
         <div class="vector-sitenotice-container">
             <div id="siteNotice"></div>
         </div>
         `;
-  }
-
-  getNavigation(wt) {
-    let headers = [];
-    for (let line of wt.split("\n")) {
-      if (line.startsWith("==")) {
-        headers.push(line.replace(/=/g, "").trim());
-      }
     }
-    let nav = `
+
+    getNavigation(wt) {
+        let headers = [];
+        for (let line of wt.split("\n")) {
+            if (line.startsWith("==")) {
+                headers.push(line.replace(/=/g, "").trim());
+            }
+        }
+        let nav = `
         <nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
         <div id="vector-toc-pinned-container" class="vector-pinned-container">
         <div id="vector-toc" class="vector-toc vector-pinnable-element">
@@ -167,9 +167,9 @@ export default class GeneratePageData {
               </a>
           </li>
         `;
-    for (let header of headers) {
-      let headerId = header.replace(/ /g, "_");
-      nav += `
+        for (let header of headers) {
+            let headerId = header.replace(/ /g, "_");
+            nav += `
             <li id="toc-${headerId}" class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
               <a class="vector-toc-link" href="#${headerId}">
                 <div class="vector-toc-text">
@@ -179,93 +179,87 @@ export default class GeneratePageData {
               <ul id="toc-${headerId}-sublist" class="vector-toc-list"></ul>
             </li>
             `;
-    }
-    nav += `</ul></div></div></nav>`;
-    return nav;
-  }
-
-  getPageContainer(wt, pageName) {
-    let pageContainer = "";
-    pageContainer += `<div class="mw-page-container">`;
-    pageContainer += `<div class="mw-page-container-inner">`;
-    pageContainer += this.getSiteNotice();
-    if (pageName != "Main Page") pageContainer += this.getNavigation(wt);
-    return pageContainer;
-  }
-
-  getFileURI(file) {
-    let md5hash = CryptoJS.MD5(file).toString();
-    return `/static/images/archives/${md5hash[0]}/${md5hash[0]}${md5hash[1]}/${file}`;
-  }
-
-  async getContentFromWikiText(wt, pageName) {
-    let content = "";
-    for (let line of wt.split("\n")) {
-      if (line.startsWith("===")) {
-        content += `<h3 id="${line.replace(/ /g, "_")}">${line
-          .replace(/=/g, "")
-          .trim()}</h3>`;
-      } else if (line.startsWith("==")) {
-        content += `<h2 id="${line.replace(/ /g, "_")}">${line
-          .replace(/=/g, "")
-          .trim()}</h2>`;
-      } else {
-        const templateRegex = /\{\{(.*?)\}\}/g;
-        let match;
-        while ((match = templateRegex.exec(line)) !== null) {
-          const replacement = await this.getTemplate(match[1], pageName);
-          line = line.replace(match[0], replacement);
         }
-
-        if (line.startsWith("*")) {
-          line = `<li>${line.replace("*", "").trim()}</li>`;
-        }
-
-        let localLinkRegex = /\[\[(.*?)\]\]/g;
-        line = line.replace(localLinkRegex, (match, p1) => {
-          if (p1.includes("|")) {
-            let [url, text] = p1.split("|");
-            let urlText = url.replace(/ /g, "_"); // Replace spaces with underscores for the URL
-            if (urlText.startsWith("File:")) {
-              console.log(this.templateGenerator.getMWImageElement(match));
-              return this.templateGenerator.getMWImageElement(match);
-            }
-            if (urlText.startsWith("Media:")) {
-              return `<a href="${this.getFileURI(
-                urlText.split(":")[1],
-              )}" title="${url}">${text}</a>`;
-            }
-            return `<a href="/wiki/${urlText}" title="${url}">${text}</a>`;
-          }
-          let urlText = p1.replace(/ /g, "_"); // Replace spaces with underscores for the URL
-          return `<a href="/wiki/${urlText}" title="${p1}">${p1}</a>`;
-        });
-
-        let externalLinkRegex = /\[(.*?)\]/g;
-        line = line.replace(externalLinkRegex, (match, p1) => {
-          if (p1.includes(" ")) {
-            let url = p1.split(" ")[0];
-            let text = p1.split(" ").slice(1).join(" ");
-            return `<a href="${url}">${text}</a>`;
-          }
-          return `<a href="${p1}">${p1}</a>`;
-        });
-
-        line = line.replace(/'''(.*?)'''/g, "<strong>$1</strong>");
-        line = line.replace(/''(.*?)''/g, "<i>$1</i>");
-
-        content += line;
-      }
+        nav += `</ul></div></div></nav>`;
+        return nav;
     }
-    return content;
-  }
 
-  async getContentContainer(wt, pageName) {
-    let contentContainer = "";
-    contentContainer += `<div class="mw-content-container">`;
-    contentContainer += `<main id="content" class="mw-body" role="main">`;
-    if (pageName !== "Main Page")
-      contentContainer += `
+    getPageContainer(wt, pageName) {
+        let pageContainer = "";
+        pageContainer += `<div class="mw-page-container">`;
+        pageContainer += `<div class="mw-page-container-inner">`;
+        pageContainer += this.getSiteNotice();
+        if (pageName != "Main Page") pageContainer += this.getNavigation(wt);
+        return pageContainer;
+    }
+
+    getFileURI(file) {
+        let md5hash = CryptoJS.MD5(file).toString();
+        return `/static/images/archives/${md5hash[0]}/${md5hash[0]}${md5hash[1]}/${file}`;
+    }
+
+    async getContentFromWikiText(wt, pageName) {
+        let content = "";
+        for (let line of wt.split("\n")) {
+            if (line.startsWith("===")) {
+                content += `<h3 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h3>`;
+            } else if (line.startsWith("==")) {
+                content += `<h2 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h2>`;
+            } else {
+                const templateRegex = /\{\{(.*?)\}\}/g;
+                let match;
+                while ((match = templateRegex.exec(line)) !== null) {
+                    const replacement = await this.getTemplate(match[1], pageName);
+                    line = line.replace(match[0], replacement);
+                }
+
+                if (line.startsWith("*")) {
+                    line = `<li>${line.replace("*", "").trim()}</li>`;
+                }
+
+                let localLinkRegex = /\[\[(.*?)\]\]/g;
+                line = line.replace(localLinkRegex, (match, p1) => {
+                    if (p1.includes("|")) {
+                        let [url, text] = p1.split("|");
+                        let urlText = url.replace(/ /g, "_"); // Replace spaces with underscores for the URL
+                        if (urlText.startsWith("File:")) {
+                            console.log(this.templateGenerator.getMWImageElement(match));
+                            return this.templateGenerator.getMWImageElement(match);
+                        }
+                        if (urlText.startsWith("Media:")) {
+                            return `<a href="${this.getFileURI(urlText.split(":")[1])}" title="${url}">${text}</a>`;
+                        }
+                        return `<a href="/wiki/${urlText}" title="${url}">${text}</a>`;
+                    }
+                    let urlText = p1.replace(/ /g, "_"); // Replace spaces with underscores for the URL
+                    return `<a href="/wiki/${urlText}" title="${p1}">${p1}</a>`;
+                });
+
+                let externalLinkRegex = /\[(.*?)\]/g;
+                line = line.replace(externalLinkRegex, (match, p1) => {
+                    if (p1.includes(" ")) {
+                        let url = p1.split(" ")[0];
+                        let text = p1.split(" ").slice(1).join(" ");
+                        return `<a href="${url}">${text}</a>`;
+                    }
+                    return `<a href="${p1}">${p1}</a>`;
+                });
+
+                line = line.replace(/'''(.*?)'''/g, "<strong>$1</strong>");
+                line = line.replace(/''(.*?)''/g, "<i>$1</i>");
+
+                content += line;
+            }
+        }
+        return content;
+    }
+
+    async getContentContainer(wt, pageName) {
+        let contentContainer = "";
+        contentContainer += `<div class="mw-content-container">`;
+        contentContainer += `<main id="content" class="mw-body" role="main">`;
+        if (pageName !== "Main Page")
+            contentContainer += `
         <header class="mw-body-header vector-page-titlebar">
                     <label id="vector-toc-collapsed-button" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only" for="vector-toc-collapsed-checkbox" role="button" aria-controls="vector-toc" tabindex="0" title="Table of Contents">
                         <span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
@@ -288,7 +282,7 @@ export default class GeneratePageData {
                     </h1>
                 </header>
         `;
-    contentContainer += `
+        contentContainer += `
         <div class="vector-page-toolbar"></div>
                 <div class="vector-column-end">
                     <nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
@@ -307,36 +301,36 @@ export default class GeneratePageData {
                         <div class="mw-parser-output">
                        <meta property="mw:PageProp/toc">
         `;
-    contentContainer += await this.getContentFromWikiText(wt, pageName);
-    contentContainer += `</div></main></div></div></div>`;
-    return contentContainer;
-  }
-
-  async getWikiText(title) {
-    let wikitext;
-    try {
-      wikitext = await fs.readFile(`./data/${title}.wikitext`, "utf-8");
-    } catch (error) {
-      wikitext = await fs.readFile(`./data/404.wikitext`, "utf-8");
+        contentContainer += await this.getContentFromWikiText(wt, pageName);
+        contentContainer += `</div></main></div></div></div>`;
+        return contentContainer;
     }
 
-    return wikitext;
-  }
+    async getWikiText(title) {
+        let wikitext;
+        try {
+            wikitext = await fs.readFile(`./data/${title}.wikitext`, "utf-8");
+        } catch (error) {
+            wikitext = await fs.readFile(`./data/404.wikitext`, "utf-8");
+        }
 
-  async getBody(page, pageName) {
-    let wt = await this.getWikiText(page);
-    let body = "";
-    body += this.getHeader();
-    body += this.getPageContainer(wt, pageName);
-    body += await this.getContentContainer(wt, pageName);
-    body += `</div></div>`;
-    return body;
-  }
-
-  async getTemplate(template, pageName) {
-    if (template == "BASEPAGENAME") {
-      return pageName;
+        return wikitext;
     }
-    return await this.templateGenerator.generateTemplate(template);
-  }
+
+    async getBody(page, pageName) {
+        let wt = await this.getWikiText(page);
+        let body = "";
+        body += this.getHeader();
+        body += this.getPageContainer(wt, pageName);
+        body += await this.getContentContainer(wt, pageName);
+        body += `</div></div>`;
+        return body;
+    }
+
+    async getTemplate(template, pageName) {
+        if (template == "BASEPAGENAME") {
+            return pageName;
+        }
+        return await this.templateGenerator.generateTemplate(template);
+    }
 }
