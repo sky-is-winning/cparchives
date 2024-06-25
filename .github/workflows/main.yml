@@ -25,6 +25,7 @@ jobs:
                   port: 22
                   script: |
                     cd cparchives
+                    git checkout .
                     git pull
                     npm install
                     screen -XS cparchives quit
