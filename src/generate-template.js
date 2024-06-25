@@ -71,6 +71,9 @@ export default class GenerateTemplate {
         const templateRegex = /\{\{([^{}]*?)\}\}(?!\})/g;
         let match;
             while ((match = templateRegex.exec(line)) !== null) {
+                if (match.includes("rowspan")) {
+                    console.log(match);
+                }
             const replacement = await this.generateTemplate(match[1]);
             line = line.replace(match[0], replacement);
         }
@@ -108,6 +111,8 @@ export default class GenerateTemplate {
 
         line = line.replace(/'''(.*?)'''/g, "<strong>$1</strong>");
         line = line.replace(/''(.*?)''/g, "<i>$1</i>");
+
+        line = line.replaceAll("|", "");
         return line;
     }
 
@@ -137,8 +142,12 @@ export default class GenerateTemplate {
                     }
 
                     if (containsPipeOutsideBrackets(header)){
-                        let rowspan = header.split("|")[0];
-                        let data = header.split("|").slice(1).join("|");
+                        // Use a regular expression to split only on vertical bars outside of curly braces
+                        let parts = header.split(/(\{\{[^{}]*\}\})|\[\[[^\[\]]*\]\]|([^|]+)/g);
+                        let filteredParts = parts.filter(Boolean);
+                    
+                        let rowspan = filteredParts.shift();
+                        let data = filteredParts.join("");
                         let parsedLine = await this.parseLine(data);
                         wikitable += `<td ${rowspan}>${parsedLine}</td>`;
                     } else {
@@ -158,8 +167,12 @@ export default class GenerateTemplate {
                 let cells = line.split("||");
                 for (let cell of cells) {
                     if (containsPipeOutsideBrackets(cell)) {
-                        let rowspan = cell.split("|")[0];
-                        let data = cell.split("|").slice(1).join("|");
+                        // Use a regular expression to split only on vertical bars outside of curly braces
+                        let parts = cell.split(/(\{\{[^{}]*\}\})|\[\[[^\[\]]*\]\]|([^|]+)/g);
+                        let filteredParts = parts.filter(Boolean);
+                    
+                        let rowspan = filteredParts.shift();
+                        let data = filteredParts.join("");
                         let parsedLine = await this.parseLine(data);
                         wikitable += `<td ${rowspan}>${parsedLine}</td>`;
                     } else {

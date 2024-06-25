@@ -32,7 +32,7 @@
           <div class="mainpage-explore-links">
             <div class="mainpage-explore-links-link"> [[File:Parties.png|46px|link=Parties_&_Events]] [[Parties & Events]] </div>
             <div class="mainpage-explore-links-link"> [[File:MailIcon.PNG|44px|link=Postcards]] [[Postcards]] </div>
-            <div class="mainpage-explore-links-link"> [[File:SpeakerPin.PNG|60px|link=Music]] [[Music|Music]] </div>
+            <div class="mainpage-explore-links-link"> [[File:SpeakerPin.PNG|60px|link=]] [https://drive.google.com/drive/u/0/folders/18p2IPJsz7qk3Wf08Fzsta46xBW_GDxMC?| Music] </div>
             <div class="mainpage-explore-links-link"> [[File:Stamp.png|60px|link=Stamps]] [[Stamps]] </div>
             <div class="mainpage-explore-links-link"> [[File:Map-Lighthouse.png|29px|link=Website]] [[Website]] </div>
             <div class="mainpage-explore-links-link"> [[File:Other.png|60px|link=Other]] [[Other]] </div>
@@ -81,7 +81,7 @@
                                       <dl>
                                         <dd>
                                           <p>
-                                            That is a lot easier said than done. While it is true some files were uploaded and are absent from pages, generally if a file is missing from a page, it was never archived or uploaded at all. If a file has been archived, but isn't on a page, your best bet of finding it is in [https://drive.google.com/drive/folders/14XgRKhd6fb6pCl1rAXCttUTOxBvma4os| this Google Drive folder].
+                                            That is a lot easier said than done. While it is true some files were uploaded and are absent from pages, generally if a file is missing from a page, it was never archived or uploaded at all. If a file has been archived, but isn't on a page, your best bet of finding it is in [https://drive.google.com/drive/folders/14XgRKhd6fb6pCl1rAXCttUTOxBvma4os?| this Google Drive folder].
                                           </p>
                                         </dd>
                                       </dl>
@@ -93,7 +93,7 @@
                                       <dl>
                                         <dd>
                                           <p>
-                                            <span style="font-family:trebuchet ms;">Whilst there's no official Discord server, [https://discord.gg/ser2KbyCwU| this server], coincidentally also called ‘Club Penguin Archives’, is a great place to talk with community members.</span>
+                                            <span style="font-family:trebuchet ms;">Whilst there's no official Discord server, [https://discord.gg/ser2KbyCwU?| this server], coincidentally also called ‘Club Penguin Archives’, is a great place to talk with community members.</span>
                                           </p>
                                         </dd>
                                       </dl>

@@ -96,7 +96,7 @@
 |-
 |{{Tablebox|white}}[[Media:Music33.swf|33]]||{{M|33}}||Team Power
 |-
-|rowspan=2 {{Tablebox|white}}rowspan=2|[[Media:Music34.swf|34]]||rowspan=2|{{M|34}}||Egyptian Wrap
+|{{Tablebox|white|rowspan=2}} rowspan=2|[[Media:Music34.swf|34]]||rowspan=2|{{M|34}}||Egyptian Wrap
 |-
 |Quest for the Golden Puffle
 |-
@@ -264,7 +264,7 @@
 |-
 |{{Tablebox|white}}[[Media:Music216.swf|216]]||{{M|216}}||Summer Song
 |-
-|rowspan=2 {{Tablebox|white}}rowspan=2|[[Media:Music217.swf|217]]||rowspan=2|{{M|217}}||Water Kongo
+|{{Tablebox|white|rowspan=2}}rowspan=2|[[Media:Music217.swf|217]]||rowspan=2|{{M|217}}||Water Kongo
 |-
 |Water Party
 |-
@@ -324,7 +324,7 @@
 |-
 |{{Tablebox|white}}[[Media:Music235.swf|235]]||{{M|235}}||In the Tower
 |-
-|rowspan=2 {{Tablebox|white}}rowspan=2|[[Media:Music236.swf|236]]||rowspan=2|{{M|236}}||Epic Battle
+|{{Tablebox|white|rowspan=2 }}rowspan=2|[[Media:Music236.swf|236]]||rowspan=2|{{M|236}}||Epic Battle
 |-
 |To Battle!
 |-
@@ -338,7 +338,7 @@
 |-
 |{{Tablebox|lightblue}}[[Media:Music241 2.swf|241]]
 |-
-|rowspan=2 {{Tablebox|white}}rowspan=2|[[Media:Music242.swf|242]]||rowspan=2|{{M|242}}||Mix Maestro
+|{{Tablebox|white|rowspan=2}}rowspan=2|[[Media:Music242.swf|242]]||rowspan=2|{{M|242}}||Mix Maestro
 |-
 |DJ3K Mix
 |-
