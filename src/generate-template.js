@@ -30,6 +30,43 @@ export default class GenerateTemplate {
         ambox += `</tr></tbody></table>`;
         return ambox;
     }
+
+    generateNavbox(wt) {
+        let boxContent = this.extractTemplate(wt, 'Navbox')[0];
+    
+        // Use a regex to split the content into key-value pairs
+        let boxData = {};
+        const keyValueRegex = /\|\s*([^=|\n\r]+)\s*=\s*((?:\[\[.*?\]\]|(?:[^[\]\n\r]|\[\[[^\]]*\]\])*)*)/g;
+        let match;
+        while ((match = keyValueRegex.exec(boxContent)) !== null) {
+            let key = match[1].trim();
+            let value = match[2].trim();
+            
+            // Handle separators like {{·}} by splitting and parsing
+            let values = value.split(/{{·}}/).map(item => item.trim());
+    
+            // Remove empty strings from split
+            values = values.filter(item => item !== '');
+    
+            // Join back with separators if there are multiple values
+            value = values.join(' {{·}} ');
+    
+            boxData[key] = value;
+        }
+
+        let navbox = `<table class="navbox" cellspacing="0" style=""><tbody><tr><td style="padding:2px;"><<table cellspacing="0" class="nowraplinks collapsible autocollapse" style="width:100%;background:transparent;color:inherit;;"><tbody>`;
+        navbox += `<tr><th style=";" colspan="2" class="color1"><div class="navbox-title-x"><span class="" style="font-size:110%;">${boxData.title}<span></div></th></tr>`
+        for (let list of Object.keys(boxData).filter(key => key.startsWith('list'))) {
+            let id = parseInt(list.replace('list', ''));
+            navbox += `<tr style="height:2px;"><td></td></tr>`
+            navbox += `<td class="navbox-group accent" style=";;">${boxData["group" + id]}</td>`;
+            let listContent = boxData[list];
+            navbox += `<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-${id % 2 == 0 ? "even" : "odd" }"><div style="padding:0em 0.25em">${listContent}</div></td>`;
+        }
+    
+        return navbox;
+    }
+    
     
     generateImage(imageData) {
         let image = {
@@ -96,14 +133,20 @@ export default class GenerateTemplate {
 
     async generateTemplate(template) {
         const templateName = template.split('|')[0];
+
         let wikitext;
         try {
             wikitext = await fs.readFile(`./data/templates/${templateName}.wikitext`, "utf-8");
         } catch (error) {
             return `Template:${templateName}`;
         }
+
         if (wikitext.includes("{{Ambox")) {
             return this.generateAmbox(wikitext);
+        }
+
+        if (wikitext.includes("{{Navbox")) {
+            return this.generateNavbox(wikitext);
         }
 
         return await this.wikiParser.getContentFromWikiText(wikitext);
