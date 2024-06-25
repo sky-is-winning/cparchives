@@ -1,10 +1,12 @@
 import { promises as fs } from "fs";
 import CryptoJS from "crypto-js";
+import GenerateTemplate from "./generate-template.js";
 
 export default class GeneratePageData {
     constructor(webserver) {
         this.webserver = webserver;
         this.cache = new Map();
+        this.templateGenerator = new GenerateTemplate(this);
     }
 
     async generatePageData(page) {
@@ -190,12 +192,19 @@ export default class GeneratePageData {
         return `/static/images/archives/${md5hash[0]}/${md5hash[0]}${md5hash[1]}/${file}`;
     }
 
-    getContentFromWikiText(wt) {
+    async getContentFromWikiText(wt, pageName) {
         let content = "";
         for (let line of wt.split("\n")) {
             if (line.startsWith("==")) {
                 content += `<h2 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h2>`;
             } else {
+                const templateRegex = /\{\{(.*?)\}\}/g;
+                let match;
+                while ((match = templateRegex.exec(line)) !== null) {
+                    const replacement = await this.getTemplate(match[1], pageName);
+                    line = line.replace(match[0], replacement);
+                }
+
                 if (line.startsWith("*")) {
                     line = `<li>${line.replace("*", "").trim()}</li>`;
                 }
@@ -233,7 +242,7 @@ export default class GeneratePageData {
         return content;
     }
 
-    getContentContainer(wt, pageName) {
+    async getContentContainer(wt, pageName) {
         let contentContainer = "";
         contentContainer += `<div class="mw-content-container">`;
         contentContainer += `<main id="content" class="mw-body" role="main">`;
@@ -279,7 +288,7 @@ export default class GeneratePageData {
                         <div class="mw-parser-output">
                        <meta property="mw:PageProp/toc">
         `
-        contentContainer += this.getContentFromWikiText(wt);
+        contentContainer += await this.getContentFromWikiText(wt, pageName);
         contentContainer += `</div></main></div></div></div>`;
         return contentContainer;
     }
@@ -293,8 +302,15 @@ export default class GeneratePageData {
         let body = "";
         body += this.getHeader();
         body += this.getPageContainer(wt);
-        body += this.getContentContainer(wt, pageName);
+        body += await this.getContentContainer(wt, pageName);
         body += `</div></div>`;
         return body;
+    }
+
+    async getTemplate(template, pageName) {
+        if (template == "BASEPAGENAME") {
+            return pageName;
+        }
+        return await this.templateGenerator.generateTemplate(template);
     }
 }
