@@ -76,7 +76,7 @@ export default class GenerateTemplate {
             "alt": "",
         };
     
-        const imageRegex = /\[\[File:([^|\]]+)(?:\|([^|\]]+))?(?:\|link=([^|\]]*))?(?:\|alt=([^|\]]*))?\]\]/;
+        const imageRegex = /\[\[File:([^|\]]+)(?:\|([^|\]]+))?(?:\|link=([^|\]]*))?(?:\|alt=([^|\]]*))?(?:\|align=([^|\]]*))?\]\]/;
         let match = imageData.match(imageRegex);
     
         if (match) {
@@ -85,6 +85,7 @@ export default class GenerateTemplate {
             image.size = match[2] || "";
             image.link = match[3] || "";
             image.alt = match[4] || "";
+            image.alignment = match[5] || "center";
         } else {
             // Handle case where no match is found
             console.error(`No match found for imageData: ${imageData}`);
@@ -99,7 +100,7 @@ export default class GenerateTemplate {
 
     getMWImageElement(imageData) {
         let image = this.generateImage(imageData);
-        return `<figure class="mw-halign-center" typeof="mw:File"><p><a href="${image.link}" title="${image.alt}"><span style="font-family:trebuchet ms;"><img class="mw-file-element" src="${image.address}" width="${image.size}" height="auto" decoding="async"></span></a></p><figcaption>&nbsp;</figcaption></figure>`;
+        return `<figure class="mw-halign-${image.alignment}" typeof="mw:File"><p><a href="${image.link}" title="${image.alt}"><span style="font-family:trebuchet ms;"><img class="mw-file-element" src="${image.address}" width="${image.size}" height="auto" decoding="async"></span></a></p><figcaption>&nbsp;</figcaption></figure>`;
     }
     
     

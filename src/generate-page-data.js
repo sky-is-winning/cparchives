@@ -184,12 +184,12 @@ export default class GeneratePageData {
         return nav;
     }
 
-    getPageContainer(wt) {
+    getPageContainer(wt, pageName) {
         let pageContainer = "";
         pageContainer += `<div class="mw-page-container">`;
         pageContainer += `<div class="mw-page-container-inner">`;
         pageContainer += this.getSiteNotice();
-        pageContainer += this.getNavigation(wt);
+        if (pageName != "Main Page") pageContainer += this.getNavigation(wt);
         return pageContainer
     }
 
@@ -258,7 +258,7 @@ export default class GeneratePageData {
         let contentContainer = "";
         contentContainer += `<div class="mw-content-container">`;
         contentContainer += `<main id="content" class="mw-body" role="main">`;
-        contentContainer += `
+        if (pageName !== "Main Page") contentContainer += `
         <header class="mw-body-header vector-page-titlebar">
                     <label id="vector-toc-collapsed-button" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only" for="vector-toc-collapsed-checkbox" role="button" aria-controls="vector-toc" tabindex="0" title="Table of Contents">
                         <span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
@@ -320,7 +320,7 @@ export default class GeneratePageData {
         let wt = await this.getWikiText(page);
         let body = "";
         body += this.getHeader();
-        body += this.getPageContainer(wt);
+        body += this.getPageContainer(wt, pageName);
         body += await this.getContentContainer(wt, pageName);
         body += `</div></div>`;
         return body;

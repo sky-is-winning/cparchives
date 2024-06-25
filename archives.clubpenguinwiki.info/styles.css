@@ -1880,7 +1880,7 @@ figure[typeof~='mw:File/Frameless'].mw-halign-right {
 
 figure[typeof~='mw:File'].mw-halign-left,
 figure[typeof~='mw:File/Frameless'].mw-halign-left {
-	margin: 0 .5em .5em 0;
+	margin: -5 .5em .5em 0;
 	clear: left;
 	float: left
 }
