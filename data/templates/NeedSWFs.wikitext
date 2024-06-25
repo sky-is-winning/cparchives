@@ -1,5 +1,4 @@
-{{Ambox|type=content|image=[[File:Wiki.png|55px|link=]]|text='''{{BASEPAGENAME}} is missing some files!'''<br/>If you happen to have any files we might need, please upload them and then add them to this page.<br>{{#if: {{{1|}}} | (''{{{1|Info}}}'') | }}}}
-__TOC__
+{{Ambox|type=content|image=[[File:Wiki.png|55px|link=]]|text='''{{BASEPAGENAME}} is missing some files!'''<br/>If you happen to have any files we might need, please upload them and then add them to this page.<br>}}
 ==Parameters==
 <pre>
 {{NeedSWFs

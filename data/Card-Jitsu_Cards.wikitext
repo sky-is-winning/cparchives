@@ -1,6 +1,5 @@
 
 
-__TOC__
 
 ==Cards JSON/JSONP==
 {|class="wikitable" style="margin: 1em auto;"

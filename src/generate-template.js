@@ -67,41 +67,94 @@ export default class GenerateTemplate {
         return navbox;
     }
 
+    parseLine(line) {
+        if (line.startsWith("*")) {
+            line = `<li>${line.replace("*", "").trim()}</li>`;
+        }
+
+        let localLinkRegex = /\[\[(.*?)\]\]/g;
+        line = line.replace(localLinkRegex, (match, p1) => {
+            if (p1.includes("|")) {
+                let [url, text] = p1.split("|");
+                let urlText = url.replace(/ /g, "_"); // Replace spaces with underscores for the URL
+                if (urlText.startsWith("File:")) {
+                    return this.templateGenerator.getMWImageElement(match);
+                }
+                if (urlText.startsWith("Media:")) {
+                    return `<a href="${this.wikiParser.getFileURI(urlText.split(":")[1])}" title="${url}">${text}</a>`;
+                }
+                return `<a href="/wiki/${urlText}" title="${url}">${text}</a>`;
+            }
+            let urlText = p1.replace(/ /g, "_"); // Replace spaces with underscores for the URL
+            return `<a href="/wiki/${urlText}" title="${p1}">${p1}</a>`;
+        });
+
+        let externalLinkRegex = /\[(.*?)\]/g;
+        line = line.replace(externalLinkRegex, (match, p1) => {
+            if (p1.includes(" ")) {
+                let url = p1.split(" ")[0];
+                let text = p1.split(" ").slice(1).join(" ");
+                return `<a href="${url}">${text}</a>`;
+            }
+            return `<a href="${p1}">${p1}</a>`;
+        });
+
+        line = line.replace(/'''(.*?)'''/g, "<strong>$1</strong>");
+        line = line.replace(/''(.*?)''/g, "<i>$1</i>");
+        return line;
+    }
+
     generateWikitable(wt) {
+        function containsPipeOutsideBrackets(inputString) {
+            // Step 1: Remove all content within square brackets along with the brackets
+            const stringWithoutBrackets = inputString.replace(/\[[^\]]*\]/g, '');
+            
+            // Step 2: Test for presence of | in the remaining string
+            return /\|/.test(stringWithoutBrackets);
+        }
+
         let wikitable = "";
         for (let line of wt.split("\n")) {
             if (line.startsWith("{|")) {
                 wikitable += `<table ${line.substring(2)}><tbody>`;
+            } else if (line.startsWith("|}")) {
             } else if (line.startsWith("!")) {
                 wikitable += "<tr>";
-                let headers = line.split("!")
-                headers.forEach(header => {
+                let headers = line.split("!");
+                headers.forEach((header) => {
                     if (header == "" || header == "<") {
                         return;
                     }
                     if (header == "--Blank-->") {
                         header = "";
                     }
-                    wikitable += `<th>${header}</th>`;
+
+                    if (containsPipeOutsideBrackets(header)){
+                        let rowspan = header.split("|")[0];
+                        let data = header.split("|").slice(1).join("|");
+                        wikitable += `<td ${rowspan}>${this.parseLine(data)}</td>`;
+                    } else {
+                        wikitable += `<td>${this.parseLine(header)}</td>`;
+                    }
                 });
             } else if (line.startsWith("|-")) {
                 wikitable += "</tr><tr>";
             } else if (line.startsWith("|")) {
+                line = line.substring(1);
                 let cells = line.split("||");
-                cells.forEach(cell => {
-                    if (/\|rowspan="(\d+)"\|/.test(cell)) {
-                        let match = cell.match(`\|rowspan="(\d+)"\|`);
-                        let rowspan = match[1];
-                        cell = cell.replace(`\|rowspan="${rowspan}"\|`, "");
-                        wikitable += `<td rowspan="${rowspan}">${cell}</td>`;
+                cells.forEach((cell) => {
+                    if (containsPipeOutsideBrackets(cell)) {
+                        let rowspan = cell.split("|")[0];
+                        let data = cell.split("|").slice(1).join("|");
+                        wikitable += `<td ${rowspan}>${this.parseLine(data)}</td>`;
                     } else {
-                        wikitable += `<td>${cell}</td>`;
+                        wikitable += `<td>${this.parseLine(cell)}</td>`;
                     }
                 });
             }
         }
         wikitable += "</tbody></table>";
-        return wikitable;        
+        return wikitable;
     }
 
     generateImage(imageData) {
@@ -178,6 +231,10 @@ export default class GenerateTemplate {
             return `Template:${templateName}`;
         }
 
+        return await this.generateTemplateFromWikitext(wikitext);
+    }
+
+    async generateTemplateFromWikitext(wikitext) {
         if (wikitext.includes("{{Ambox")) {
             return this.generateAmbox(wikitext);
         }
@@ -188,4 +245,5 @@ export default class GenerateTemplate {
 
         return await this.wikiParser.getContentFromWikiText(wikitext);
     }
+
 }

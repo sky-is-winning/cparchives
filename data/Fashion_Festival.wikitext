@@ -1,5 +1,4 @@
 
-__TOC__
 ''Note: Due to some files being updated after bug fixes, there are some alternate versions.''
 ==Rooms==
 ===Party===

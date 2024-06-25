@@ -1,4 +1,3 @@
-__TOC__
 If there are words in the "date" sections that '''aren't''' links, then that means we don't have that catalog SWF yet. If you have an SWF of it, please upload it! Also, some sections need their proper language translation for the catalog month, which is why you might see ''(needs translation)'' next to some dates or months.
 
 ==English: Puffle Catalog==

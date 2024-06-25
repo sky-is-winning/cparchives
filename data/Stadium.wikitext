@@ -1,7 +1,6 @@
 {{NeedSWFs}}
 
 
-__TOC__
 
 ==Normal==
 {|class="wikitable" style="margin: 1em auto;"

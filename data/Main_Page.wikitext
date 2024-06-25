@@ -69,11 +69,7 @@
                                       <dl>
                                         <dd>
                                           <p>
-                                            <span style="font-family:trebuchet ms;">Yep! </span>
-                                            <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/12OJCc-pHT-CZB4wInO1gN9df8oVjKr8G?usp=drive_link">
-                                              <span style="font-family:trebuchet ms;">Here's the link</span>
-                                            </a>
-                                            <span style="font-family:trebuchet ms;">. Whilst it's very much unsorted, if you want to keep a local copy, feel free.</span>
+                                            <span style="font-family:trebuchet ms;"> Yep. [https://drive.google.com/drive/folders/12OJCc-pHT-CZB4wInO1gN9df8oVjKr8G?usp=drive_link| Here's the link]. Whilst it's very much unsorted, if you want to keep a local copy, feel free.</span>
                                           </p>
                                         </dd>
                                       </dl>
@@ -85,7 +81,7 @@
                                       <dl>
                                         <dd>
                                           <p>
-                                            That is a lot easier said than done. While it is true some files were uploaded and are absent from pages, generally if a file is missing from a page, it was never archived or uploaded at all. If a file has been archived, but isn't on a page, your best bet of finding it is in [https://drive.google.com/drive/folders/14XgRKhd6fb6pCl1rAXCttUTOxBvma4os|this Google Drive folder].
+                                            That is a lot easier said than done. While it is true some files were uploaded and are absent from pages, generally if a file is missing from a page, it was never archived or uploaded at all. If a file has been archived, but isn't on a page, your best bet of finding it is in [https://drive.google.com/drive/folders/14XgRKhd6fb6pCl1rAXCttUTOxBvma4os| this Google Drive folder].
                                           </p>
                                         </dd>
                                       </dl>
@@ -97,11 +93,7 @@
                                       <dl>
                                         <dd>
                                           <p>
-                                            <span style="font-family:trebuchet ms;">Whilst there's no official Discord server, </span>
-                                            <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/ser2KbyCwU">
-                                              <span style="font-family:trebuchet ms;">this server</span>
-                                            </a>
-                                            <span style="font-family:trebuchet ms;">, coincidentally also called ‘Club Penguin Archives’, is a great place to talk with community members.</span>
+                                            <span style="font-family:trebuchet ms;">Whilst there's no official Discord server, [https://discord.gg/ser2KbyCwU| this server], coincidentally also called ‘Club Penguin Archives’, is a great place to talk with community members.</span>
                                           </p>
                                         </dd>
                                       </dl>
@@ -125,7 +117,7 @@
                                       <dl>
                                         <dd>
                                           <p>
-                                            <span style="font-family:trebuchet ms;">If you believe you are in possession of genuine Club Penguin files that aren't on Archives yet and wish to upload them, please make a pull request at [https://github.com/sky-is-winning/cparchives|the mirror's repo] and include the file you want uploaded.</span>
+                                            <span style="font-family:trebuchet ms;">If you believe you are in possession of genuine Club Penguin files that aren't on Archives yet and wish to upload them, please make a pull request at [https://github.com/sky-is-winning/cparchives.git| the mirror's repo] and include the file you want uploaded.</span>
                                           </p>
                                         </dd>
                                       </dl>

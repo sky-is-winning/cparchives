@@ -208,11 +208,12 @@ export default class GeneratePageData {
                 if (line == "|}") {
                     inTable = false;
                     content += this.templateGenerator.generateWikitable(tableLines);
+                    tableLines = "";
                 }
             } else {
-                if (line.startsWith(`{|class="wikitable"`)) {
+                if (line.startsWith(`{|`)) {
                     inTable = true;
-                    tableLines+=line;
+                    tableLines += line;
                     continue;
                 } else if (line.startsWith("===")) {
                     content += `<h3 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h3>`;
@@ -236,7 +237,6 @@ export default class GeneratePageData {
                             let [url, text] = p1.split("|");
                             let urlText = url.replace(/ /g, "_"); // Replace spaces with underscores for the URL
                             if (urlText.startsWith("File:")) {
-                                console.log(this.templateGenerator.getMWImageElement(match));
                                 return this.templateGenerator.getMWImageElement(match);
                             }
                             if (urlText.startsWith("Media:")) {
@@ -322,6 +322,12 @@ export default class GeneratePageData {
 
     async getWikiText(title) {
         let wikitext;
+
+        if (title.includes("templates/")) {
+            title = title.replace("templates/", "");
+            return `{{${title}}}`
+        }
+
         try {
             wikitext = await fs.readFile(`./data/${title}.wikitext`, "utf-8");
         } catch (error) {
