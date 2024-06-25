@@ -207,7 +207,8 @@ export default class GeneratePageData {
                 tableLines += `\n${line}`;
                 if (line == "|}") {
                     inTable = false;
-                    content += this.templateGenerator.generateWikitable(tableLines);
+                    let wikitable = await this.templateGenerator.generateWikitable(tableLines);
+                    content += wikitable;
                     tableLines = "";
                 }
             } else {
@@ -220,7 +221,7 @@ export default class GeneratePageData {
                 } else if (line.startsWith("==")) {
                     content += `<h2 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h2>`;
                 } else {
-                    const templateRegex = /\{\{(.*?)\}\}/g;
+                    const templateRegex = /\{\{([^{}]*?)\}\}(?!\})/g;
                     let match;
                     while ((match = templateRegex.exec(line)) !== null) {
                         const replacement = await this.getTemplate(match[1], pageName);

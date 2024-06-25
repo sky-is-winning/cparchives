@@ -67,7 +67,14 @@ export default class GenerateTemplate {
         return navbox;
     }
 
-    parseLine(line) {
+    async parseLine(line) {
+        const templateRegex = /\{\{([^{}]*?)\}\}(?!\})/g;
+        let match;
+            while ((match = templateRegex.exec(line)) !== null) {
+            const replacement = await this.generateTemplate(match[1]);
+            line = line.replace(match[0], replacement);
+        }
+        
         if (line.startsWith("*")) {
             line = `<li>${line.replace("*", "").trim()}</li>`;
         }
@@ -104,10 +111,10 @@ export default class GenerateTemplate {
         return line;
     }
 
-    generateWikitable(wt) {
+    async generateWikitable(wt) {
         function containsPipeOutsideBrackets(inputString) {
             // Step 1: Remove all content within square brackets along with the brackets
-            const stringWithoutBrackets = inputString.replace(/\[[^\]]*\]/g, '');
+            const stringWithoutBrackets = inputString.replace(/\[[^\]]*\]/g, '').replace(/\{\{[^\}]*\}\}/g, '');
             
             // Step 2: Test for presence of | in the remaining string
             return /\|/.test(stringWithoutBrackets);
@@ -121,9 +128,9 @@ export default class GenerateTemplate {
             } else if (line.startsWith("!")) {
                 wikitable += "<tr>";
                 let headers = line.split("!");
-                headers.forEach((header) => {
+                for (let header of headers) {
                     if (header == "" || header == "<") {
-                        return;
+                        continue;
                     }
                     if (header == "--Blank-->") {
                         header = "";
@@ -132,26 +139,41 @@ export default class GenerateTemplate {
                     if (containsPipeOutsideBrackets(header)){
                         let rowspan = header.split("|")[0];
                         let data = header.split("|").slice(1).join("|");
-                        wikitable += `<td ${rowspan}>${this.parseLine(data)}</td>`;
+                        let parsedLine = await this.parseLine(data);
+                        wikitable += `<td ${rowspan}>${parsedLine}</td>`;
                     } else {
-                        wikitable += `<td>${this.parseLine(header)}</td>`;
+                        let parsedLine = await this.parseLine(header);
+                        if (parsedLine.includes("</td>")){
+                            parsedLine = parsedLine.replace("</td>", "</td><td>");
+                            wikitable += `${parsedLine}</td>`;
+                        } else {
+                            wikitable += `<td>${parsedLine}</td>`;
+                        }
                     }
-                });
+                }
             } else if (line.startsWith("|-")) {
                 wikitable += "</tr><tr>";
             } else if (line.startsWith("|")) {
                 line = line.substring(1);
                 let cells = line.split("||");
-                cells.forEach((cell) => {
+                for (let cell of cells) {
                     if (containsPipeOutsideBrackets(cell)) {
                         let rowspan = cell.split("|")[0];
                         let data = cell.split("|").slice(1).join("|");
-                        wikitable += `<td ${rowspan}>${this.parseLine(data)}</td>`;
+                        let parsedLine = await this.parseLine(data);
+                        wikitable += `<td ${rowspan}>${parsedLine}</td>`;
                     } else {
-                        wikitable += `<td>${this.parseLine(cell)}</td>`;
+                        let parsedLine = await this.parseLine(cell);
+                        if (parsedLine.includes("</td>")){
+                            parsedLine = parsedLine.replace("</td>", "</td><td>");
+                            wikitable += `${parsedLine}</td>`;
+                        } else {
+                            wikitable += `<td>${parsedLine}</td>`;
+                        }
                     }
-                });
+                }
             }
+            wikitable += "\n";
         }
         wikitable += "</tbody></table>";
         return wikitable;
@@ -223,6 +245,7 @@ export default class GenerateTemplate {
 
     async generateTemplate(template) {
         const templateName = template.split("|")[0];
+        const templateData = template.split("|").slice(1)
 
         let wikitext;
         try {
@@ -231,19 +254,24 @@ export default class GenerateTemplate {
             return `Template:${templateName}`;
         }
 
-        return await this.generateTemplateFromWikitext(wikitext);
+        return await this.generateTemplateFromWikitext(wikitext, templateData);
     }
 
-    async generateTemplateFromWikitext(wikitext) {
+    async generateTemplateFromWikitext(wikitext, data) {
+        let template;
         if (wikitext.includes("{{Ambox")) {
-            return this.generateAmbox(wikitext);
+            template = this.generateAmbox(wikitext);
+        } else if (wikitext.includes("{{Navbox")) {
+            template = this.generateNavbox(wikitext);
+        } else {
+            template = await this.wikiParser.getContentFromWikiText(wikitext);
         }
 
-        if (wikitext.includes("{{Navbox")) {
-            return this.generateNavbox(wikitext);
-        }
+        data.forEach((item, index) => {
+            template = template.replace(`{{{${index + 1}}}}`, item);
+        });
 
-        return await this.wikiParser.getContentFromWikiText(wikitext);
+        return template;
     }
 
 }
