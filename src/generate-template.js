@@ -25,7 +25,7 @@ export default class GenerateTemplate {
     
         let ambox = `<table class="metadata plainlinks ambox ambox-content" style="">`;
         ambox += `<tbody><tr>`;
-        ambox += `<td class="mbox-image><div style="width:${boxData.image.size}"><span typeof="mw:File"><span><img src="${boxData.image.link}" width="${boxData.image.size}" height="auto" class="mw-file-element"/></span></span></span></div></td>`;
+        ambox += `<td class="mbox-image><div style="width:${boxData.image.size}"><span typeof="mw:File"><span><img src="${boxData.image.address}" width="${boxData.image.size}" height="auto" class="mw-file-element"/></span></span></span></div></td>`;
         ambox += `<td class="mbox-text" style="">${boxData.text}</td>`;
         ambox += `</tr></tbody></table>`;
         return ambox;
@@ -54,7 +54,7 @@ export default class GenerateTemplate {
             boxData[key] = value;
         }
 
-        let navbox = `<table class="navbox" cellspacing="0" style=""><tbody><tr><td style="padding:2px;"><<table cellspacing="0" class="nowraplinks collapsible autocollapse" style="width:100%;background:transparent;color:inherit;;"><tbody>`;
+        let navbox = `<table class="navbox" cellspacing="0" style=""><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks collapsible autocollapse" style="width:100%;background:transparent;color:inherit;;"><tbody>`;
         navbox += `<tr><th style=";" colspan="2" class="color1"><div class="navbox-title-x"><span class="" style="font-size:110%;">${boxData.title}<span></div></th></tr>`
         for (let list of Object.keys(boxData).filter(key => key.startsWith('list'))) {
             let id = parseInt(list.replace('list', ''));
@@ -75,8 +75,8 @@ export default class GenerateTemplate {
             "link": "",
             "alt": "",
         };
-        // Regular expression to match [[File:...|...|link=...|alt=...]]
-        const imageRegex = /\[\[File:([^|\]]+)\|([^|\]]*)(?:\|link=([^|\]]*))?(?:\|alt=([^|\]]+))*\]\]/;
+    
+        const imageRegex = /\[\[File:([^|\]]+)(?:\|([^|\]]+))?(?:\|link=([^|\]]*))?(?:\|alt=([^|\]]*))?\]\]/;
         let match = imageData.match(imageRegex);
     
         if (match) {
@@ -92,13 +92,16 @@ export default class GenerateTemplate {
             // For example, you might set default values or throw an error
         }
     
-        // Handle link fallback if not provided or empty
-        if (!image.link || image.link === "") {
-            image.link = `${ROOT_PATH}/${image.file}`;
-        }
+        image.address = `${ROOT_PATH}/${image.file}`;
     
         return image;
     }
+
+    getMWImageElement(imageData) {
+        let image = this.generateImage(imageData);
+        return `<figure class="mw-halign-center" typeof="mw:File"><p><a href="${image.link}" title="${image.alt}"><span style="font-family:trebuchet ms;"><img class="mw-file-element" src="${image.address}" width="${image.size}" height="auto" decoding="async"></span></a></p><figcaption>&nbsp;</figcaption></figure>`;
+    }
+    
     
     
 

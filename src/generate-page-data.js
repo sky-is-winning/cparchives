@@ -5,6 +5,7 @@ import GenerateTemplate from "./generate-template.js";
 export default class GeneratePageData {
     constructor(webserver) {
         this.webserver = webserver;
+        this.wikitextCache = new Map();
         this.cache = new Map();
         this.templateGenerator = new GenerateTemplate(this);
     }
@@ -14,9 +15,14 @@ export default class GeneratePageData {
             page = page.replace("/wiki/", "/");
         }
 
-        if (this.cache.has(page)) {
-            console.log("Cache hit for", page);
-            return this.cache.get(page);
+        let wikitext = await this.getWikiText(page);
+        if (this.wikitextCache.has(page)) {
+            if (this.wikitextCache.get(page) === wikitext) {
+                if (this.cache.has(page)) {
+                    console.log("Cache hit for", page);
+                    return this.cache.get(page);
+                }
+            }
         }
 
         let pageName = page.split("/").pop();
@@ -195,7 +201,9 @@ export default class GeneratePageData {
     async getContentFromWikiText(wt, pageName) {
         let content = "";
         for (let line of wt.split("\n")) {
-            if (line.startsWith("==")) {
+            if (line.startsWith(("==="))) {
+                content += `<h3 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h3>`;
+            } else if (line.startsWith("==")) {
                 content += `<h2 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h2>`;
             } else {
                 const templateRegex = /\{\{(.*?)\}\}/g;
@@ -214,7 +222,11 @@ export default class GeneratePageData {
                     if (p1.includes("|")) {
                         let [url, text] = p1.split("|");
                         let urlText = url.replace(/ /g, '_'); // Replace spaces with underscores for the URL
-                        if (urlText.startsWith("File:") || urlText.startsWith("Media:")) {
+                        if (urlText.startsWith("File:")) {
+                            console.log(this.templateGenerator.getMWImageElement(match));
+                            return this.templateGenerator.getMWImageElement(match);
+                        }
+                        if (urlText.startsWith("Media:")) {
                             return `<a href="${this.getFileURI(urlText.split(':')[1])}" title="${url}">${text}</a>`;
                         }
                         return `<a href="/wiki/${urlText}" title="${url}">${text}</a>`;
@@ -294,7 +306,14 @@ export default class GeneratePageData {
     }
 
     async getWikiText(title) {
-        return await fs.readFile(`./data/${title}.wikitext`, "utf-8")
+        let wikitext;
+        try {
+            wikitext = await fs.readFile(`./data/${title}.wikitext`, "utf-8")
+        } catch (error) {
+            wikitext = await fs.readFile(`./data/404.wikitext`, "utf-8");
+        }
+
+        return wikitext;
     }
 
     async getBody(page, pageName) {
