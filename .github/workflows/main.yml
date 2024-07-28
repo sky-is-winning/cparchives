@@ -24,9 +24,9 @@ jobs:
                   key: ${{ secrets.SSH_PRIVATE_KEY }}
                   port: 22
                   script: |
+                      rm -rf cparchives
+                      git clone https://github.com/sky-is-winning/cparchives
                       cd cparchives
-                      git checkout .
-                      git pull
                       npm install
                       screen -XS cparchives quit
                       screen -dmS cparchives sudo npm run start
