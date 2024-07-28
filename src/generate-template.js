@@ -71,9 +71,6 @@ export default class GenerateTemplate {
         const templateRegex = /\{\{([^{}]*?)\}\}(?!\})/g;
         let match;
             while ((match = templateRegex.exec(line)) !== null) {
-                if (match.includes("rowspan")) {
-                    console.log(match);
-                }
             const replacement = await this.generateTemplate(match[1]);
             line = line.replace(match[0], replacement);
         }
@@ -126,40 +123,76 @@ export default class GenerateTemplate {
         }
 
         let wikitable = "";
+        let headerLines = "";
         for (let line of wt.split("\n")) {
             if (line.startsWith("{|")) {
                 wikitable += `<table ${line.substring(2)}><tbody>`;
             } else if (line.startsWith("|}")) {
             } else if (line.startsWith("!")) {
-                wikitable += "<tr>";
-                let headers = line.split("!");
-                for (let header of headers) {
-                    if (header == "" || header == "<") {
-                        continue;
-                    }
-                    if (header == "--Blank-->") {
-                        header = "";
-                    }
+                if (line.endsWith("!")) {
+                    wikitable += "<tr>";
+                    let headers = line.split("!");
+                    for (let header of headers) {
+                        if (header == "" || header == "<") {
+                            continue;
+                        }
+                        if (header == "--Blank-->") {
+                            header = "";
+                        }
 
-                    if (containsPipeOutsideBrackets(header)){
-                        let parts = splitString(header);
-                        let filteredParts = parts.filter(Boolean);
+                        if (containsPipeOutsideBrackets(header)) {
+                            let parts = splitString(header);
+                            let filteredParts = parts.filter(Boolean);
                     
-                        let rowspan = filteredParts.shift();
-                        let data = filteredParts.join("");
-                        let parsedLine = await this.parseLine(data);
-                        wikitable += `<th ${rowspan}>${parsedLine}</th>`;
-                    } else {
-                        let parsedLine = await this.parseLine(header);
-                        if (parsedLine.includes("</th>")){
-                            parsedLine = parsedLine.replace("</th>", "</th><th>");
-                            wikitable += `${parsedLine}</th>`;
+                            let rowspan = filteredParts.shift();
+                            let data = filteredParts.join("");
+                            let parsedLine = await this.parseLine(data);
+                            wikitable += `<th ${rowspan}>${parsedLine}</th>`;
                         } else {
-                            wikitable += `<th>${parsedLine}</th>`;
+                            let parsedLine = await this.parseLine(header);
+                            if (parsedLine.includes("</th>")) {
+                                parsedLine = parsedLine.replace("</th>", "</th><th>");
+                                wikitable += `${parsedLine}</th>`;
+                            } else {
+                                wikitable += `<th>${parsedLine}</th>`;
+                            }
                         }
                     }
+                } else {
+                    headerLines += line;
                 }
             } else if (line.startsWith("|-")) {
+                if (headerLines !== "") {
+                    wikitable += "<tr>";
+                    let headers = headerLines.split("!");
+                    for (let header of headers) {
+                        if (header == "" || header == "<") {
+                            continue;
+                        }
+                        if (header == "--Blank-->") {
+                            header = "";
+                        }
+
+                        if (containsPipeOutsideBrackets(header)) {
+                            let parts = splitString(header);
+                            let filteredParts = parts.filter(Boolean);
+                    
+                            let rowspan = filteredParts.shift();
+                            let data = filteredParts.join("");
+                            let parsedLine = await this.parseLine(data);
+                            wikitable += `<th ${rowspan}>${parsedLine}</th>`;
+                        } else {
+                            let parsedLine = await this.parseLine(header);
+                            if (parsedLine.includes("</th>")) {
+                                parsedLine = parsedLine.replace("</th>", "</th><th>");
+                                wikitable += `${parsedLine}</th>`;
+                            } else {
+                                wikitable += `<th>${parsedLine}</th>`;
+                            }
+                        }
+                    }
+                    headerLines = "";
+                }
                 wikitable += "</tr><tr>";
             } else if (line.startsWith("|")) {
                 line = line.substring(1);
@@ -299,25 +332,57 @@ export default class GenerateTemplate {
         return results;
     }
 
-    async generateTemplate(template) {
+    async generateTemplate(template, bypassNoInclude = false) {
         template = template.replaceAll("n/a", "NA");
-        console.log(template);
 
-        const templateName = template.split("|")[0];
+        let templateName = template.split("|")[0];
         const templateData = template.split("|").slice(1)
+
+        templateName = templateName.replace("\n", "").trim();
 
         let wikitext;
         try {
             wikitext = await fs.readFile(`./data/templates/${templateName}.wikitext`, "utf-8");
         } catch (error) {
+            console.error(`Error reading template file: ${templateName}${error}`);``
             return `Template:${templateName}`;
         }
 
-        return await this.generateTemplateFromWikitext(wikitext, templateData);
+        return await this.generateTemplateFromWikitext(wikitext, templateData, bypassNoInclude);
     }
 
-    async generateTemplateFromWikitext(wikitext, data) {
-        
+    async generateTemplateFromWikitext(wikitext, data, bypassNoInclude) {
+        if (!bypassNoInclude) wikitext = wikitext.replace(/<noinclude>[\s\S]*?<\/noinclude>|<noinclude>[\s\S]*?(?=<noinclude>|$)/g, "");
+
+        var dataSwappers = {};
+        data.forEach((item, index) => {
+            item = item.replaceAll("\n", "").trim();
+            if (item.includes("=")) {
+                let [key, value] = item.split("=");
+                dataSwappers[key] = value.replaceAll("}}", "").trim();
+            } else {
+                dataSwappers[index + 1] = item;
+            }
+        });
+
+        console.log(dataSwappers);
+
+        while (wikitext.includes('{{{')) {
+            let match = wikitext.match(/{{{(.*?)\|([^}]*)}}}/);
+            if (match) {
+                const wholeMatch = match[0];
+                const dataIndex = match[1];
+                const defaultValue = match[2];
+
+                if (!dataSwappers[dataIndex]) {
+                    wikitext = wikitext.replace(wholeMatch, defaultValue);
+                } else {
+                    wikitext = wikitext.replace(wholeMatch, dataSwappers[dataIndex]);
+                }
+            } else {
+                break; // Break the loop if no match is found to avoid an infinite loop
+            }
+        }
 
         let template;
         if (wikitext.includes("{{Ambox")) {
@@ -328,27 +393,7 @@ export default class GenerateTemplate {
             template = await this.wikiParser.getContentFromWikiText(wikitext);
         }
 
-        data.forEach((item, index) => {
-            template = template.replace(`{{{${index + 1}}}}`, item);
-        });
-
-        while (template.includes('{{{')) {
-            let match = template.match(/\{\{\{(\d+)\|([^}]+)\}\}\}/);
-            if (match) {
-                const wholeMatch = match[0];
-                const dataIndex = parseInt(match[1]);
-                const defaultValue = match[2];
-                console.log(data, dataIndex, data[dataIndex - 1]);
-
-                if (!data[dataIndex - 1]) {
-                    template = template.replace(wholeMatch, defaultValue);
-                } else {
-                    template = template.replace(wholeMatch, data[dataIndex - 1]);
-                }
-            } else {
-                break; // Break the loop if no match is found to avoid an infinite loop
-            }
-        }
+        
 
         return template;
     }

@@ -201,7 +201,9 @@ export default class GeneratePageData {
     async getContentFromWikiText(wt, pageName) {
         let content = "";
         let inTable = false;
+        let inTemplate = false;
         let tableLines = "";
+        let templateLines = "";
         for (let line of wt.split("\n")) {
             line = line.trim();
             if (inTable) {
@@ -212,10 +214,22 @@ export default class GeneratePageData {
                     content += wikitable;
                     tableLines = "";
                 }
+            } else if (inTemplate) {
+                templateLines += `\n${line}`;
+                if (line == "}}") {
+                    inTemplate = false;
+                    let template = await this.templateGenerator.generateTemplate(templateLines);
+                    content += template;
+                    templateLines = "";
+                }
             } else {
                 if (line.startsWith(`{|`)) {
                     inTable = true;
                     tableLines += line;
+                    continue;
+                } else if (line.startsWith(`{{`) && !line.endsWith("}}")) {
+                    inTemplate = true;
+                    templateLines += line.replace("{{", "");
                     continue;
                 } else if (line.startsWith("===")) {
                     content += `<h3 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h3>`;
@@ -353,6 +367,6 @@ export default class GeneratePageData {
         if (template == "BASEPAGENAME") {
             return pageName;
         }
-        return await this.templateGenerator.generateTemplate(template);
+        return await this.templateGenerator.generateTemplate(template, true);
     }
 }
