@@ -1,0 +1,13 @@
+
+==Rooms==
+===Event===
+<center>
+{|class="wikitable" border="1"
+!Room
+!Music
+|-
+|[[Media:WelcomeRussiaStadium.swf|Stadium]]||[[Media:Music592.swf|592]]
+|}
+</center>
+
+{{Events}}

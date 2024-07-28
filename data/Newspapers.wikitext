@@ -1,0 +1,23 @@
+:''Not to be confused with: [[Club Penguin Times]]''
+==Current==
+{| class="wikitable sortable plainlinks"
+! File Name
+! JSON
+! JSONP
+|-
+| newspapers || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/newspapers.json en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/newspapers.json pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/newspapers.json fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/newspapers.json es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/newspapers.json de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/newspapers.json ru] || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/newspapers.jsonp en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/newspapers.jsonp pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/newspapers.jsonp fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/newspapers.jsonp es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/newspapers.jsonp de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/newspapers.jsonp ru]
+|}
+==2011==
+{| class="wikitable sortable plainlinks"
+! File Name
+! Date
+! JSONs
+! JSONPs
+|-
+|{{{title|general}}} || May 17, 2011 || [[Media:GameConfigsEN2011May17{{{title|general}}}.json|en]] {{·}} [[Media:GameConfigsPT2011May17{{{title|general}}}.json|pt]] {{·}} [[Media:GameConfigsFR2011May17{{{title|general}}}.json|fr]] {{·}} [[Media:GameConfigsES2011May17{{{title|general}}}.json|es]] {{·}} [[Media:GameConfigsDE2011May17{{{title|general}}}.json|de]] {{·}} [[Media:GameConfigsRU2011May17{{{title|general}}}.json|ru]] || [[Media:GameConfigsEN2011May17{{{title|general}}}.jsonp|en]] {{·}} [[Media:GameConfigsPT2011May17{{{title|general}}}.jsonp|pt]] {{·}} [[Media:GameConfigsFR2011May17{{{title|general}}}.jsonp|fr]] {{·}} [[Media:GameConfigsES2011May17{{{title|general}}}.jsonp|es]] {{·}} [[Media:GameConfigsDE2011May17{{{title|general}}}.jsonp|de]]
+|-
+|{{{title|general}}} || August 30, 2011 || [[Media:GameConfigsEN2011Aug30{{{title|general}}}.json|en]] {{·}} [[Media:GameConfigsPT2011Aug30{{{title|general}}}.json|pt]] {{·}} [[Media:GameConfigsFR2011Aug30{{{title|general}}}.json|fr]] {{·}} [[Media:GameConfigsES2011Aug30{{{title|general}}}.json|es]] {{·}} [[Media:GameConfigsDE2011Aug30{{{title|general}}}.json|de]] {{·}} [[Media:GameConfigsRU2011Aug30{{{title|general}}}.json|ru]] || [[Media:GameConfigsEN2011Aug30{{{title|general}}}.jsonp|en]] {{·}} [[Media:GameConfigsPT2011Aug30{{{title|general}}}.jsonp|pt]] {{·}} [[Media:GameConfigsFR2011Aug30{{{title|general}}}.jsonp|fr]] {{·}} [[Media:GameConfigsES2011Aug30{{{title|general}}}.jsonp|es]] {{·}} [[Media:GameConfigsDE2011Aug30{{{title|general}}}.jsonp|de]]
+|}
+
+==2015==
+{{2015GameConfigs|title=newspapers}}

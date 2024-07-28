@@ -1,0 +1,43 @@
+
+
+==Rooms==
+===Construction===
+*[/swf.cpcheats.info/rooms/2010/earth_day_april/pre-party/shack.swf Mine Shack]
+
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/town.swf Town]||[[Media:Music219.swf|219]]
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/coffee.swf Coffee Shop]||[[Media:Music1.swf|1]]
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/book.swf Book Room]||[[Media:Music1.swf|1]]
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/plaza.swf Plaza]||[[Media:Music219.swf|219]]
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/pet.swf Pet Shop]||{{n/a}}
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/mtn.swf Ski Hill]||{{n/a}}
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/village.swf Ski Village]||{{n/a}}
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/forest.swf Forest]||{{n/a}}
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/cove.swf Cove]||{{n/a}}
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/shack.swf Mine Shack]||{{n/a}}
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/dojoext.swf Dojo]||{{n/a}}
+|}
+</center>
+
+==Scavenger Hunt==
+*[/swf.cpcheats.info/rooms/2010/earth_day_april/recycle.swf Recycle Hunt]
+*[/swf.cpcheats.info/rooms/2010/earth_day_april/recycle_icon.swf Recycle Hunt Icon]
+
+==Login Screen==
+*[/swf.cpcheats.info/rooms/2010/earth_day_april/startscreen/earth_day.swf Login Screen #1]
+{{Parties}}
+

@@ -1,0 +1,10 @@
+
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[[Media:RoomsCoffeeRedNoseDay.swf|Coffee Shop]]||[[Media:Music1.swf|1]]
+|}
+
+{{Events}}

@@ -1,0 +1,12 @@
+Below are SWF files from issue #314 (October 27, 2011) of the Club Penguin Times:
+*[[Media:News314HeaderFront.swf|Header (front)]]
+*[[Media:News314FeatureStory.swf|Feature Story]]
+*[[Media:News314SupportStory.swf|Support Story]]
+*[[Media:News314UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News314NewsFlash.swf|News Flash]]
+*[[Media:News314AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News314HeaderBack.swf|Header (back)]]
+*[[Media:News314AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News314JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News314SecretOverlay.swf|Secret Overlay]]
+*[[Media:News314FeatureMore.swf|Feature More]]

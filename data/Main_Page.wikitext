@@ -1,0 +1,132 @@
+<font face='trebuchet ms'>
+  <div class="mainpage-wrapper">
+    <!--  BANNER  -->
+    <div class="mainpage-notice">'''In the event the Club Penguin Wiki Network goes up, it can be found at [https://archives.clubpenguinwiki.info archives.clubpenguinwiki.info]'''</div>
+    <div class="mainpage-banner">
+      <div class="mainpage-banner-logo">[[File:Archive.png|70px|link=]]</div>
+      <div class="mainpage-banner-title">
+        <p class="mainpage-banner-title-welcome">'''Welcome to Club Penguin Archives'''</p>
+        <p class="mainpage-banner-title-motto">''This is a mirror of the original site, which has been down for some time.''</p>
+        <p class="mainpage-banner-title-articles">Since December 12, 2010, we have archived 61,847 Club Penguin files.</p>
+      </div>
+    </div>
+    <!--  LEFT  -->
+    <div class="mainpage-right">
+      <div class="mainpage-box">
+        <div class="mainpage-box-heading">[[File:Wave.png|23px|link=|alt=Welcome!|align=left]] About Us</div>
+        <div class="mainpage-box-content">
+            '''Club Penguin Archives''' is a site dedicated to preserving ''Club Penguin'''s history by archiving the files that made up the game since December 12, 2010.<br>
+              <br>If you use files stored here for your Club Penguin cutouts, private servers, fan sites/blogs, or anything else, we'd really appreciate it if you could put a link to us on your site or post. </div>
+      </div>
+      <div class="mainpage-box">
+        <div class="mainpage-box-heading">[[File:Explore.png|23px|link=|alt=Browse|align=left]] Browse</div>
+        <div class="mainpage-box-content">
+          <div class="mainpage-explore-links">
+            <div class="mainpage-explore-links-link"> [[File:PenguinStyle.png|60px|link=Catalogs]] [[Catalogs]] </div>
+            <div class="mainpage-explore-links-link"> [[File:Map-MyIgloo.png|60px|link=Igloo]] [[Igloo|Igloos]] </div>
+            <div class="mainpage-explore-links-link"> [[File:Items.png|46px|link=Items]] [[Items]] </div>
+            <div class="mainpage-explore-links-link"> [[File:JoystickEmote.PNG|54px|link=Mini-Games]] [[Mini-Games]] </div>
+            <div class="mainpage-explore-links-link"> [[File:Map.PNG|51px|link=Rooms]] [[Rooms]] </div>
+            <div class="mainpage-explore-links-link"> [[File:Sitenotice.png|60px|link=Club_Penguin_Times]] [[Club Penguin Times|Newspapers]] </div>
+          </div>
+          <div class="mainpage-explore-links">
+            <div class="mainpage-explore-links-link"> [[File:Parties.png|46px|link=Parties_&_Events]] [[Parties & Events]] </div>
+            <div class="mainpage-explore-links-link"> [[File:MailIcon.PNG|44px|link=Postcards]] [[Postcards]] </div>
+            <div class="mainpage-explore-links-link"> [[File:SpeakerPin.PNG|60px|link=]] [https://drive.google.com/drive/u/0/folders/18p2IPJsz7qk3Wf08Fzsta46xBW_GDxMC?| Music] </div>
+            <div class="mainpage-explore-links-link"> [[File:Stamp.png|60px|link=Stamps]] [[Stamps]] </div>
+            <div class="mainpage-explore-links-link"> [[File:Map-Lighthouse.png|29px|link=Website]] [[Website]] </div>
+            <div class="mainpage-explore-links-link"> [[File:Other.png|60px|link=Other]] [[Other]] </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--  RIGHT  -->
+    <div class="mainpage-left">
+      <div class="mainpage-box">
+        <div class="mainpage-box-heading">[[File:QuestionMark.PNG|23px|link=|alt=FAQ|align=left]] Frequently Asked Questions</div>
+        <div class="mainpage-box-content">
+          <table style="clear: both; width: 100%; margin: 3px 0px;" border="0">
+            <tr>
+              <td style="background:transparent;">
+                              <div style="background-color:transparent;border:0px solid #AAA;height:400px;overflow:auto;padding-left:0.5em;width:100%;">
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>1. Why is the original site down?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            <span style="font-family:trebuchet ms;">The Club Penguin Wiki Network servers are known to be unstable and frequently go down for unknown reasons. The Network's tech staff are unresponsive and unlikely to bring the site back up again.</span>
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>2. Is there a compressed .ZIP download (or equivalent) of every Club Penguin file on this site?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            <span style="font-family:trebuchet ms;"> Yep. [https://drive.google.com/drive/folders/12OJCc-pHT-CZB4wInO1gN9df8oVjKr8G?usp=drive_link| Here's the link]. Whilst it's very much unsorted, if you want to keep a local copy, feel free.</span>
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>3. A file is missing from a page! Can you please upload it?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            That is a lot easier said than done. While it is true some files were uploaded and are absent from pages, generally if a file is missing from a page, it was never archived or uploaded at all. If a file has been archived, but isn't on a page, your best bet of finding it is in [https://drive.google.com/drive/folders/14XgRKhd6fb6pCl1rAXCttUTOxBvma4os?| this Google Drive folder].
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>4. Is there a Club Penguin Archives Discord?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            <span style="font-family:trebuchet ms;">Whilst there's no official Discord server, [https://discord.gg/ser2KbyCwU?| this server], coincidentally also called ‘Club Penguin Archives’, is a great place to talk with community members.</span>
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>5. Does Club Penguin Archives host custom files from Club Penguin Private Servers (CPPS)?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            <span style="font-family:trebuchet ms;">Club Penguin Archives is only intended to host files from the official Club Penguin game. It's possible that every so often a fan-made file is passed off as an official one, though ideally this should not happen. There is also not any consideration for this becoming a possibility in the future.</span>
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                      <p>
+                                        <span style="font-family:trebuchet ms;">
+                                          <strong>6. Can I help contribute to Club Penguin Archives?</strong>
+                                        </span>
+                                      </p>
+                                      <dl>
+                                        <dd>
+                                          <p>
+                                            <span style="font-family:trebuchet ms;">If you believe you are in possession of genuine Club Penguin files that aren't on Archives yet and wish to upload them, please make a pull request at [https://github.com/sky-is-winning/cparchives.git| the mirror's repo] and include the file you want uploaded.</span>
+                                          </p>
+                                        </dd>
+                                      </dl>
+                                    </div>
+              </td>
+              <td style="width: 8px;"></td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>

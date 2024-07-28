@@ -1,0 +1,44 @@
+Below are SWF files from issue #422 (November 21, 2013) of the Club Penguin Times:
+
+<center>
+{|class="wikitable" border="1"
+!Header (front)
+!Navigation
+!Feature Story
+!Support Story
+!Upcoming Events
+!News Flash
+!Ask Aunt Arctic (front)
+!Header (back)
+!Navigation (back)
+|-
+|[[Media:ENNews422HeaderFront.swf|English]]||[[Media:ENNews422NavigationFront.swf|English]]||[[Media:ENNews422FeatureStory.swf|English]]||[[Media:ENNews422SupportStory.swf|English]]||[[Media:ENNews422UpcomingEvents.swf|English]]||[[Media:ENNews422NewsFlash.swf|English]]||[[Media:ENNews422AskAuntArctic.swf|English]]||[[Media:ENNews422HeaderBack.swf|English]]||[[Media:ENNews422NavigationBack.swf|English]]
+|-
+|[[Media:PTNews422HeaderFront.swf|Português]]||[[Media:PTNews422NavigationFront.swf|Português]]||[[Media:PTNews422FeatureStory.swf|Português]]||[[Media:PTNews422SupportStory.swf|Português]]||[[Media:PTNews422UpcomingEvents.swf|Português]]||[[Media:PTNews422NewsFlash.swf|Português]]||[[Media:PTNews422AskAuntArctic.swf|Português]]||[[Media:PTNews422HeaderBack.swf|Português]]||[[Media:PTNews422NavigationBack.swf|Português]]
+|-
+|[[Media:FRNews422HeaderFront.swf|Français]]||[[Media:FRNews422NavigationFront.swf|Français]]||[[Media:FRNews422FeatureStory.swf|Français]]||[[Media:FRNews422SupportStory.swf|Français]]||[[Media:FRNews422UpcomingEvents.swf|Français]]||[[Media:FRNews422NewsFlash.swf|Français]]||[[Media:FRNews422AskAuntArctic.swf|Français]]||[[Media:FRNews422HeaderBack.swf|Français]]||[[Media:FRNews422NavigationBack.swf|Français]]
+|-
+|[[Media:ESNews422HeaderFront.swf|Español]]||[[Media:ESNews422NavigationFront.swf|Español]]||[[Media:ESNews422FeatureStory.swf|Español]]||[[Media:ESNews422SupportStory.swf|Español]]||[[Media:ESNews422UpcomingEvents.swf|Español]]||[[Media:ESNews422NewsFlash.swf|Español]]||[[Media:ESNews422AskAuntArctic.swf|Español]]||[[Media:ESNews422HeaderBack.swf|Español]]||[[Media:ESNews422NavigationBack.swf|Español]]
+|-
+|[[Media:DENews422HeaderFront.swf|Deutsch]]||[[Media:DENews422NavigationFront.swf|Deutsch]]||[[Media:DENews422FeatureStory.swf|Deutsch]]||[[Media:DENews422SupportStory.swf|Deutsch]]||[[Media:DENews422UpcomingEvents.swf|Deutsch]]||[[Media:DENews422NewsFlash.swf|Deutsch]]||[[Media:DENews422AskAuntArctic.swf|Deutsch]]||[[Media:DENews422HeaderBack.swf|Deutsch]]||[[Media:DENews422NavigationBack.swf|Deutsch]]
+|-
+!Ask Aunt Arctic (back)
+!Jokes and Riddles
+!Secrets
+!Secrets (overlay)
+!Feature More
+!Dividers (front)
+!Dividers (back)
+!Submit Your Content
+|-
+|[[Media:ENNews422AskAuntArcticBack.swf|English]]||[[Media:ENNews422JokesAndRiddles.swf|English]]||[[Media:ENNews422Secrets.swf|English]]||[[Media:ENNews422SecretsOverlay.swf|English]]||[[Media:ENNews422FeatureMore.swf|English]]||[[Media:ENNews422Dividers.swf|English]]||[[Media:ENNews422DividersBack.swf|English]]||[[Media:ENNews422SubmitYourContent.swf|English]]
+|-
+||[[Media:PTNews422AskAuntArcticBack.swf|Português]]||[[Media:PTNews422JokesandRiddles.swf|Português]]||[[Media:PTNews422Secrets.swf|Português]]||[[Media:PTNews422SecretsOverlay.swf|Português]]||[[Media:PTNews422FeatureMore.swf|Português]]||[[Media:PTNews422Dividers.swf|Português]]||[[Media:PTNews422DividersBack.swf|Português]]||[[Media:PTNews422SubmitYourContent.swf|Português]]
+|-
+||[[Media:FRNews422AskAuntArcticBack.swf|Français]]||[[Media:FRNews422JokesandRiddles.swf|Français]]||[[Media:FRNews422Secrets.swf|Français]]||[[Media:FRNews422SecretsOverlay.swf|Français]]||[[Media:FRNews422FeatureMore.swf|Français]]||[[Media:FRNews422Dividers.swf|Français]]||[[Media:FRNews422DividersBack.swf|Français]]||[[Media:FRNews422SubmitYourContent.swf|Français]]
+|-
+||[[Media:ESNews422AskAuntArcticBack.swf|Español]]||[[Media:ESNews422JokesandRiddles.swf|Español]]||[[Media:ESNews422Secrets.swf|Español]]||[[Media:ESNews422SecretsOverlay.swf|Español]]||[[Media:ESNews422FeatureMore.swf|Español]]||[[Media:ESNews422Dividers.swf|Español]]||[[Media:ESNews422DividersBack.swf|Español]]||[[Media:ESNews422SubmitYourContent.swf|Español]]
+|-
+||[[Media:DENews422AskAuntArcticBack.swf|Deutsch]]||[[Media:DENews422JokesandRiddles.swf|Deutsch]]||[[Media:DENews422Secrets.swf|Deutsch]]||[[Media:DENews422SecretsOverlay.swf|Deutsch]]||[[Media:DENews422FeatureMore.swf|Deutsch]]||[[Media:DENews422Dividers.swf|Deutsch]]||[[Media:DENews422DividersBack.swf|Deutsch]]||[[Media:DENews422SubmitYourContent.swf|Deutsch]]
+|}
+</center>

@@ -1,0 +1,77 @@
+Medieval Party 2009:
+
+[/static/images/archives/f/f7/Rooms0508Party2.swf Ye Nights Quest Challenge 1]
+
+[/static/images/archives/1/14/Rooms0508Party3.swf Ye Nights Quest Challenge 2]
+
+[/static/images/archives/b/b5/Rooms0508Party4.swf Ye Nights Quest Challenge 3]
+
+[/static/images/archives/2/2b/Rooms0508Party5.swf Maze Room 1]
+
+[/static/images/archives/f/f6/Rooms0508Party6.swf Maze Room 2]
+
+[/static/images/archives/4/4a/Rooms0508Party8.swf Maze Room 3]
+
+[/static/images/archives/a/ab/Rooms0508Party9.swf Maze Room 4]
+
+[/static/images/archives/8/84/Rooms0508Party10.swf Maze Room 5]
+
+[/static/images/archives/5/52/Rooms0508Party11.swf Maze Room 6]
+
+[/static/images/archives/6/69/Rooms0508Party12.swf Maze Room 7]
+
+[/static/images/archives/7/7a/Rooms0508Party7.swf Maze Room Lost]
+
+[/static/images/archives/2/23/Rooms0508Party13.swf Prize Room]
+
+Medieval Party 2011:
+
+[/static/images/archives/4/47/MedievalParty2011Party2.swf Ye Nights Quest Challenge 1]
+
+[/static/images/archives/8/8e/MedievalParty2011Party3.swf Ye Nights Quest Challenge 2]
+
+[/static/images/archives/b/b3/MedievalParty2011Party4.swf Maze Room 1]
+
+[/static/images/archives/f/f7/MedievalParty2011Party5.swf Maze Room 2]
+
+[/static/images/archives/c/c0/MedievalParty2011Party6.swf Maze Room 3]
+
+[/static/images/archives/9/9a/MedievalParty2011Party8.swf Maze Room 4]
+
+[/static/images/archives/2/28/MedievalParty2011Party9.swf Maze Room 5]
+
+[/static/images/archives/e/e6/MedievalParty2011Party10.swf Maze Room 6]
+
+[/static/images/archives/2/26/MedievalParty2011Party11.swf Maze Room 7]
+
+[/static/images/archives/c/c8/MedievalParty2011Party12.swf Maze Room 8]
+
+[/static/images/archives/8/85/MedievalParty2011Party7.swf Maze Room Lost]
+
+[/static/images/archives/7/7c/MedievalParty2011Party13.swf Prize Room]
+
+Medieval Party 2012:
+
+[/static/images/archives/3/3f/MedievalParty2012arty2.swf Ye Nights Quest Challenge 1]
+
+[/static/images/archives/1/18/MedievalParty2012Party3.swf Ye Nights Quest Challenge 2]
+
+[/static/images/archives/c/c0/MedievalParty2012Party4.swf Maze Entrance]
+
+[/static/images/archives/6/69/MedievalParty2012Party5.swf Maze Room 1]
+
+[/static/images/archives/3/32/MedievalParty2012Party6.swf Maze Room 2]
+
+[/static/images/archives/e/e5/MedievalParty2012Party7.swf Maze Room 3]
+
+[/static/images/archives/0/0c/MedievalParty2012Party8.swf Maze Room 4]
+
+[/static/images/archives/b/b6/MedievalParty2012Party9.swf Maze Room 5]
+
+[/static/images/archives/f/f5/MedievalParty2012Party10.swf Maze Room 6]
+
+[/static/images/archives/0/0f/MedievalParty2012Party11.swf Maze Room 7]
+
+[/static/images/archives/9/94/MedievalParty2012Party12.swf Maze Room 8]
+
+[/static/images/archives/f/fd/MedievalParty2012Party13.swf Prize Room]

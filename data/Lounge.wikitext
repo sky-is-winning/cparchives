@@ -1,0 +1,66 @@
+
+
+==Normal==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Date!!Music
+|-
+|[[Media:ArtworkRoomsLounge4.swf|Lounge4]]||2006||[[Media:Music6.swf|6]]
+|-
+|[[Media:ArtworkRoomsLounge10.swf|Lounge10]]||2006||[[Media:Music6.swf|6]]
+|-
+|[[Media:RoomsLounge.swf|Lounge]]||2009||[[Media:Music6.swf|6]]
+|-
+|[[Media:RoomsLounge 2.swf|Lounge]]||March 2011||[[Media:Music6.swf|6]]
+|-
+|[[Media:RoomsLounge 3.swf|Lounge]]||August 2011||[[Media:Music6.swf|6]]
+|-
+|[[Media:RoomsLounge 4.swf|Lounge]]||November 2012||[[Media:Music6.swf|6]]
+|-
+|[[Media:RoomsLounge-Feb2013.swf|Lounge]]||February 2013||{{n/a|???}}
+|-
+|[[Media:RoomsLounge 5.swf|Lounge]]||Late 2013||[[Media:Music6.swf|6]]
+|-
+|[[Media:RoomsLounge 6.swf|Lounge]]||Early 2015||[[Media:Music674.swf|674]]
+|-
+|[[Media:RoomsLounge 7.swf|Lounge]]||May 2015||[[Media:Music674.swf|674]]
+|-
+|[[Media:RoomsLounge 8.swf|Lounge]]||2017||[[Media:Music674.swf|674]]
+|}
+
+==Parties and Events==
+{|class="wikitable" border="1" style="margin: auto;"
+!{{n/a|<!--BLANK-->}}!!colspan="2"|2006!!rowspan="99"| !!colspan="2"|2007!!rowspan="99"| !!colspan="2"|2008!!rowspan="99"| !!colspan="2"|2009
+|-
+!Month!!Party/Event!!Music!!Party/Event!!Music!!Party/Event!!Music!!Party/Event!!Music
+|-
+|align="center"|'''January'''||colspan="2" {{n/a}}||colspan="2" rowspan="2" {{n/a}}||colspan="2" {{n/a}}||[[Media:RoomsLounge-DanceAThon.swf|Dance-A-Thon]]||[[Media:Music258.swf|258]]
+|-
+|align="center"|'''February'''||[[Media:ArtworkRooms0214Lounge.swf|Valentine's Day Celebration]]||{{n/a|?}}||[[Media:RoomsLounge-SubMarine.swf|Sub-Marine Party]]||[[Media:Music203.swf|203]]||colspan="2" rowspan="3" {{n/a}}
+|-
+|align="center"|'''March'''||colspan="2" {{n/a}}||{{n/a|Shrimp pin}}||[[Media:Music6.swf|6]]||colspan="2" {{n/a}}
+|-
+|align="center"|'''April'''||[[Media:ArtworkRoomsLounge11.swf|House Plant pin]]||[[Media:Music6.swf|6]]||colspan="2" rowspan="4" {{n/a}}||[[Media:ArtworkRooms0328Lounge44.swf|April Fools' Party]]||[[Media:Music231.swf|231]]
+|-
+|align="center"|'''May'''||colspan="2" rowspan="9" {{n/a}}||[[Media:Rooms0516Lounge50.swf|Medieval Party]]||[[Media:Music234.swf|234]]||[[Media:Rooms0508Lounge.swf|Medieval Party]]||[[Media:Music234.swf|234]]
+|-
+|rowspan="2" align="center"|'''June'''||[[Media:RoomsLounge-Water2008.swf|Water Party]]||{{n/a|?}}||colspan="2" rowspan="2" {{n/a}}
+|-
+|{{n/a|Earthquake}}||[[Media:Music6.swf|6]]
+|-
+|align="center"|'''July'''||{{n/a|Water Party}}||[[Media:Music217.swf|217]]||[[Media:RoomsLounge-MusicJam2008.swf|Music Jam]]||[[Media:Music240.swf|240]]||[[Media:RoomsLounge-MusicJam2009.swf|Music Jam]]||[[Media:Music242.swf|242]]
+|-
+|align="center"|'''August'''||colspan="2" {{n/a}}||colspan="2" {{n/a}}||colspan="2" {{n/a}}
+|-
+|align="center"|'''September'''||[[Media:RoomsLounge-FallFair2007.swf|Fall Fair]]||{{n/a|?}}||[[Media:RoomsLounge-FallFair2008.swf|Fall Fair]]||[[Media:Music221.swf|221]]||[[Media:RoomsLounge-Fair2009.swf|The Fair]]||{{n/a|?}}
+|-
+|rowspan="2" align="center"|'''October'''||colspan="2" rowspan="2" {{n/a}}||{{n/a|3rd Anniversary Cake pin}}||{{n/a|?}}||rowspan="2"|[[Media:RoomsLounge-HalloweenParty2009.swf|Halloween Party]]||rowspan="2"|[[Media:Music224.swf|224]]
+|-
+|[[Media:RoomsLounge-Halloween2008.swf|Halloween Party]]||[[Media:Music224.swf|224]]
+|-
+|align="center"|'''November'''||{{n/a|UFO pin}}||[[Media:Music6.swf|6]]||colspan="2" {{n/a}}||colspan="2" {{n/a}}
+|-
+|align="center"|'''December'''||colspan="2" {{n/a}}||colspan="2" {{n/a}}||[[Media:RoomsLounge-ChristmasParty2008.swf|Christmas Party]]||[[Media:Music226.swf|226]]||[[Media:RoomsLounge-HolidayParty2009.swf|Holiday Party]] <small>([[Media:RoomsLounge-HolidayParty2009Pre.swf|pre]])</small>||[[Media:Music226.swf|226]] <small>([[Media:Music6.swf|6]])</small>
+|}
+
+
+{{Places}}

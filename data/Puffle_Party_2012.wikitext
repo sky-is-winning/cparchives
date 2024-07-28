@@ -1,0 +1,78 @@
+
+
+==Rooms==
+===Construction===
+*[[Media:PuffleParty2012ConstBeacon.swf|Beacon]]
+*[[Media:PuffleParty2012ConstCave.swf|Cave]]
+*[[Media:PuffleParty2012ConstCove.swf|Cove]]
+*[[Media:PuffleParty2012ConstLounge.swf|Dance Lounge]]
+*[[Media:PuffleParty2012ConstForest.swf|Forest]]
+*[[Media:PuffleParty2012ConstBerg.swf|Iceberg]]
+*[[Media:PuffleParty2012ConstLight.swf|Lighthouse]]
+*[[Media:PuffleParty2012ConstDance.swf|Night Club]]
+*[[Media:PuffleParty2012ConstMtn.swf|Ski Hill]]
+
+===Party===
+*[[Media:PuffleParty2012Beach.swf|Beach]]
+*[[Media:PuffleParty2012Beacon.swf|Beacon]]
+*[[Media:PuffleParty2012Box.swf|Box Dimension]]
+*[[Media:PuffleParty2012Cave.swf|Cave]]
+*[[Media:PuffleParty2012Cove.swf|Cove]]
+*[[Media:PuffleParty2012Lounge.swf|Dance Lounge]]
+*[[Media:PuffleParty2012Dock.swf|Dock]]
+*[[Media:PuffleParty2012Forest.swf|Forest]]
+*[[Media:PuffleParty2012Berg.swf|Iceberg]]
+*[[Media:PuffleParty2012Light.swf|Lighthouse]]
+*[[Media:PuffleParty2012Shack.swf|Mine Shack]]
+*[[Media:PuffleParty2012Dance.swf|Night Club]]
+*[[Media:PuffleParty2012Party3.swf|Night Club Rooftop]]
+*[[Media:PuffleParty2012Plaza.swf|Plaza]]
+*[[Media:PuffleParty2012Party1.swf|Puffle Feeding Area]]
+*[[Media:PuffleParty2012Party4.swf|Puffle Play Zone]]
+*[[Media:PuffleParty2012Party2.swf|Puffle Show]]
+*[[Media:PuffleParty2012Mtn.swf|Ski Hill]]
+*[[Media:PuffleParty2012Lodge.swf|Ski Lodge]]
+*[[Media:PuffleParty2012Village.swf|Ski Village]]
+*[[Media:PuffleParty2012Forts.swf|Snow Forts]]
+*[[Media:RoomsTown-PuffleParty2012.swf|Town]]
+
+==Music==
+*[[Media:Music261.swf|Main Theme]]
+*[[Media:Music208.swf|Mine Shack]]
+*[[Media:Music260.swf|Night Club and Dance Lounge]]
+*[[Media:Music31.swf|Lighthouse]]
+*[[Media:Music213.swf|Iceberg]]
+*[[Media:Music36.swf|Cave]]
+*[[Media:Music291.swf|Cove]]
+*[[Media:Music264.swf|Box Dimension]]
+*[[Media:Music282.swf|Puffle Show]]
+*[[Media:Music216.swf|Ski Lodge and Puffle Spa]]
+*[[Media:Music272.swf|Night Club Rooftop]]
+*[[Media:Music249.swf|Night Club Rooftop]]
+*[[Media:Music275.swf|Night Club Rooftop]]
+*[[Media:Music258.swf|Night Club Rooftop]]
+
+==Notes==
+*[[Media:PuffleParty2012Party_map_note.swf|Map Note]]
+
+==Poster==
+*[[Media:PuffleParty2012Poster.swf|Playzone Poster (EN)]]
+*[[Media:PuffleParty2012PosterPT.swf|Playzone Poster (PT)]]
+*[[Media:PuffleParty2012PosterES.swf|Playzone Poster (ES)]]
+*[[Media:PuffleParty2012PosterDE.swf|Playzone Poster (DE)]]
+
+==Login Screens==
+*[[Media:PuffleParty2012PreStartBillboards.swf|Login Screen #1]]
+
+==Membership Notes==
+*[[Media:PuffleParty20121Membership.swf|Notice when trying to enter in Night Club Rooftop]]
+*[[Media:PuffleParty20122Membership.swf|Notice when trying to enter in Puffle Play Zone]]
+
+==Catalogs==
+*[[Media:PuffleParty2012Catalog.swf|Puffle Costume Catalog]]
+
+==Misc==
+*[[Media:CommunityFlashWidget-PuffleParty2012.swf|Widget]]
+
+{{Parties}}
+

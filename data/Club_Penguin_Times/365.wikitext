@@ -1,0 +1,13 @@
+Below are SWF files from issue #365 (October 18, 2012) of the Club Penguin Times:
+
+*[[Media:News365HeaderFront.swf|Header (front)]]
+*[[Media:News365FeatureStory.swf|Feature Story]]
+*[[Media:News365SupportStory.swf|Support Story]]
+*[[Media:News365UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News365NewsFlash.swf|News Flash]]
+*[[Media:News365AskAuntArcticFront.swf|Ask Gary (front)]]
+*[[Media:News365HeaderBack.swf|Header (back)]]
+*[[Media:News365AskAuntArcticBack.swf|Ask Gary (back)]]
+*[[Media:News365JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News365SecretOverlay.swf|Secret Overlay]]
+*[[Media:News365FeatureMore.swf|Feature More]]

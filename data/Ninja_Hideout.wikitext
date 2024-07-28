@@ -1,0 +1,60 @@
+{{NeedSWFs}}
+
+
+
+==Normal==
+{|class="wikitable" border="1" style="margin: 1em auto;"
+!Year(s)
+!Music
+|-
+|[[Media:RoomsDojohide 2.swf|2009]]||None
+|-
+|[[Media:RoomsDojohide 3.swf|2010-2011]]||None
+|-
+|[[Media:RoomsDojohide 4.swf|2011]]||None
+|-
+|[[Media:RoomsDojohide 5.swf|2012-2013]]||None
+|}
+
+==Parties and Events==
+{|class="wikitable" border="1" style="margin: 1em auto;"
+!Event
+!Music
+!Year
+|-
+|[[Media:RoomsDojohide-FireCelebratePre.swf|Fire Dojo construction]]||||2009
+|-
+|[[Media:HalloweenParty2010DojoHide.swf|Halloween Party]]||||2010
+|-
+|[[Media:StormDojohide.swf|Storm: Part 1]]||||2010
+|-
+|[[Media:RainDojohide.swf|Storm: Part 2]]||||2010
+|-
+|[[Media:WaterHuntDojohide.swf|Water Hunt]]||||2010
+|-
+|[[Media:WaterCelebrationDojohide.swf|Celebration of Water]]||||2010
+|-
+|[[Media:HolidayParty2010DojoHide.swf|Holiday Party]]||||2010
+|-
+|[[Media:HalloweenParty2011Dojohide.swf|Halloween Party]]||||2011
+|-
+|[[Media:HolidayParty2011DojoHide.swf|Holiday Party]]||||2011
+|-
+|[[Media:UnderwaterExpeditionDojoHide.swf|Underwater Expedition]]||||2012
+|-
+|[[Media:UltimateJamDojoHide.swf|Make Your Mark: Ultimate Jam]]||||2012
+|-
+|[[Media:HalloweenParty2012Dojohide.swf|Halloween Party]]||||2012
+|-
+|[[Media:RoomsDojohide-OperationBlackout.swf|Operation: Blackout]]||||2012
+|-
+|[[Media:HolidayParty2012DojoHide.swf|Holiday Party]]||||2012
+|-
+|[[Media:HollywoodPartyRoomsDojohide.swf|Hollywood Party]]||||2013
+|-
+|[[Media:RoomsDojohide-CardJitsuParty2013.swf|Pre-Card Jitsu Party (1)]]||[[Media:Music399.swf|399]]||2013
+|-
+|[[Media:RoomsDojohide2-CardJitsuParty2013.swf|Pre-Card Jitsu Party (2)]]||[[Media:MusicNew402.swf|402]]||2013
+|}
+
+{{Places}}

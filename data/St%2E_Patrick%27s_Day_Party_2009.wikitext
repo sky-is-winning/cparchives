@@ -1,0 +1,46 @@
+
+
+==Rooms==
+===Construction===
+{|class="wikitable plainlinks" style="margin: 1em auto;"
+!Room
+|-
+|[[Media:RoomsCove-StPatricksDay2009Pre.swf|Cove]]
+|-
+|[[Media:RoomsForest-StPatricksDay2009Pre.swf|Forest]]
+|-
+|[[Media:RoomsVillage-StPatricksDay2009Pre.swf|Ski Village]]
+|}
+
+===Party===
+{|class="wikitable plainlinks" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/town.swf Town]||[[Media:Music262.swf|262]]
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/coffee.swf Coffee Shop]||[[Media:Music1.swf|1]]
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/dance.swf Night Club]||[[Media:Music263.swf|263]]
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/forts.swf Snow Forts]||[[Media:Music262.swf|262]]
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/plaza.swf Plaza]||[[Media:Music262.swf|262]]
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/stage.swf Stage]||{{n/a}}
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/forest.swf Forest]||[[Media:Music208.swf|208]]
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/party.swf Leprechaun House]||[[Media:Music208.swf|208]]
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/dock.swf Dock]||[[Media:Music262.swf|262]]
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/berg.swf Iceberg]||{{n/a}}
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/attic.swf Lodge Attic]||{{n/a}}
+|-
+|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/20090313_mtn.swf Ski Hill]||[[Media:Music262.swf|262]]
+|-
+|[/static/images/archives/b/b9/Stpatricksparty2009village.swf Ski Village]||[[Media:Music262.swf|262]]
+|}
+{{Parties}}
+

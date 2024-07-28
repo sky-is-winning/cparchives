@@ -1,0 +1,69 @@
+
+
+==Instructions==
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!SWF
+|-
+|SenseiWidget||[[Media:GamesSenseiSenseiWidget.swf|Sensei Widget (1)]]<br>[[Media:GamesSenseiSenseiWidget 2.swf|Sensei Widget (2)]]
+|}
+</center>
+
+==Locale==
+*[[Media:GamesSenseiLangEnLocale.swf|English]]
+*[[Media:GamesSenseiLangPtLocale.swf|Portuguese]]
+*[[Media:GamesSenseiLangEsLocale.swf|Spanish]]
+*[[Media:GamesSenseiLangFrLocale.swf|French]]
+*[[Media:GamesSenseiLangDeLocale.swf|German]]
+
+==Bootstrap==
+*[[Media:CardJitsuBootstrap2009.swf|Bootstrap 1]] (2009)
+*[[Media:CardJitsuBootstrap20092.swf|Bootstrap 2]] (2009)
+
+==Game==
+<center>
+{|class="wikitable" border="1"
+!Card ID
+!SWF
+|-
+|N/A||[[Media:GamesCardBattlesTie.swf|Tie]]
+|-
+|N/A||[[Media:GamesCardBattlesWalk.swf|Walk]]
+|-
+|N/A||[[Media:GamesCardBattlesAmbient.swf|Ambient]]
+|}
+</center>
+
+===Attack===
+<center>
+{|class="wikitable" border="1"
+!Card ID
+!Element
+!Card Name
+|-
+|N/A||Any Fire||[[Media:GamesCardBattlesFAttack.swf|Fire]]
+|-
+|N/A||Any Water||[[Media:GamesCardBattlesWAttack.swf|Water]]
+|-
+|N/A||Any Snow||[[Media:GamesCardBattlesSAttack.swf|Snow]]
+|-
+|572||Fire||[[Media:GamesCardBattlesPow_572_attack.swf|Orange Puffle]]
+|}
+</center>
+===React===
+When getting hit from an attack of a particular element.
+*[[Media:GamesCardBattlesFReact.swf|Fire]]
+*[[Media:GamesCardBattlesWReact.swf|Water]]
+*[[Media:GamesCardBattlesSReact.swf|Snow]]
+
+==Instructions==
+*[[Media:ENInstructionsCardJitsu.swf|English]]
+*[[Media:PTInstructionsCardJitsu.swf|Portuguese]]
+*[[Media:FRInstructionsCardJitsu.swf|French]]
+*[[Media:ESInstructionsCardJitsu.swf|Spanish]]
+*[[Media:DEInstructionsCardJitsu.swf|German]]
+*[[Media:RUInstructionsCardJitsu.swf|Russian]]
+==Others==
+*[[Media:CARDJITSU TUTORIAL.swf|Card-Jitsu tutorial]]
+*[[Media:card.swf|Game Engine]] (2009)

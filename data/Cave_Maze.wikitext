@@ -1,0 +1,52 @@
+
+==Rooms==
+===Event===
+<center>
+{|class="wikitable" border="1"
+!Room
+!Music
+|-
+|[[Media:RoomsDock-CaveMaze.swf|Dock]]||[[Media:Music898.swf|898]]
+|-
+|[[Media:RoomsParty1-CaveMaze.swf|Cave Maze]]||[[Media:Music899.swf|899]]
+|-
+|[[Media:RoomsParty2-CaveMaze.swf|Cave Maze]]||[[Media:Music899.swf|899]]
+|-
+|[[Media:RoomsParty3-CaveMaze.swf|Cave Maze]]||[[Media:Music899.swf|899]]
+|-
+|[[Media:RoomsParty4-CaveMaze.swf|Cave Maze]]||[[Media:Music899.swf|899]]
+|-
+|[[Media:RoomsParty5-CaveMaze.swf|Cave Maze]]||[[Media:Music899.swf|899]]
+|-
+|[[Media:RoomsParty6-CaveMaze.swf|Cave Maze]]||[[Media:Music899.swf|899]]
+|-
+|[[Media:RoomsParty7-CaveMaze.swf|Cave Maze]]||[[Media:Music899.swf|899]]
+|-
+|[[Media:RoomsParty8-CaveMaze.swf|Cave Maze]]||[[Media:Music899.swf|899]]
+|-
+|[[Media:RoomsParty9-CaveMaze.swf|Cave Maze]]||[[Media:Music899.swf|899]]
+|-
+|[[Media:RoomsParty10-CaveMaze.swf|Cave Maze]]||[[Media:Music899.swf|899]]
+|-
+|[[Media:RoomsParty11-CaveMaze.swf|Cave Maze]]||[[Media:Music900.swf|900]]
+|-
+|[[Media:RoomsParty12-CaveMaze.swf|Cave Maze]]||[[Media:Music901.swf|901]]
+|-
+|[[Media:RoomsPlaza-CaveMaze.swf|Plaza]]||[[Media:Music677.swf|677]]
+|-
+|[[Media:RoomsForts-CaveMaze.swf|Snow Forts]]||[[Media:Music587.swf|587]]
+|-
+|[[Media:RoomsTown-CaveMaze.swf|Town]]||[[Media:Music581.swf|581]]
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable" border="1"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)!!Deutsch (German)!!Русский (Russian)
+|-
+|[[Media:Close upsENMaze Map-CaveMaze.swf|Maze Map]]||[[Media:Close upsPTMaze Map-CaveMaze.swf|Maze Map]]||[[Media:Close upsFRMaze Map-CaveMaze.swf|Maze Map]]||[[Media:Close upsESMaze Map-CaveMaze.swf|Maze Map]]||[[Media:Close upsDEMaze Map-CaveMaze.swf|Maze Map]]||[[Media:Close upsRUMaze Map-CaveMaze.swf|Maze Map]]
+|}
+</center>
+{{Events}}
+

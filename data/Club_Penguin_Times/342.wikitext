@@ -1,0 +1,13 @@
+Below are SWF files from issue #342 (May 10, 2012) of the Club Penguin Times:
+
+*[[Media:News342HeaderFront.swf|Header (front)]]
+*[[Media:News342FeatureStory.swf|Feature Story]]
+*[[Media:News342SupportStory.swf|Support Story]]
+*[[Media:News342UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News342NewsFlash.swf|News Flash]]
+*[[Media:News342AskAuntArcticFront.swf|Ask Gary The Wizard (front)]]
+*[[Media:News342HeaderBack.swf|Header (back)]]
+*[[Media:News342AskAuntArcticBack.swf|Ask Gary The Wizard (back)]]
+*[[Media:News342JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News342SecretOverlay.swf|Secret Overlay]]
+*[[Media:News342FeatureMore.swf|Feature More]]

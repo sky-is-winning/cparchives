@@ -1,0 +1,21 @@
+
+==Rooms==
+<center>
+{|class="wikitable" border="1"
+!Room
+|-
+|[[Media:RoomsBook-4thAnniversary.swf|Book Room]]
+|-
+|[/swf.cpcheats.info/rooms/2009/4th_year_party_october_2009/coffee.swf Coffee Shop]
+|-
+|[/swf.cpcheats.info/rooms/2009/4th_year_party_october_2009/town.swf Town]
+|}
+</center>
+
+==Music==
+*[[Media:Music250.swf|Main theme]]
+
+==Login Screen==
+*[[Media:EN4thAnniversaryLoginScreen.swf|Login Screen]]
+{{Parties}}
+

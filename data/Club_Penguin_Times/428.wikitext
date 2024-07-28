@@ -1,0 +1,49 @@
+Below are SWF files from issue #428 (January 2, 2014) of the Club Penguin Times:
+
+==Front==
+<center>
+{|class="wikitable" border="1"
+!Header
+!Navigation
+!Feature Story
+!Feature More
+!Support Story
+!Upcoming Events
+!News Flash
+!Ask Aunt Arctic
+!Dividers
+|-
+|[[Media:ENNews428HeaderFront.swf|English]]||[[Media:ENNews428NavigationFront.swf|English]]||[[Media:ENNews428FeatureStory.swf|English]]||[[Media:ENNews428FeatureMore.swf|English]]||[[Media:ENNews428SupportStory.swf|English]]||[[Media:ENNews428UpcomingEvents.swf|English]]||[[Media:ENNews428NewsFlash.swf|English]]||[[Media:ENNews428AskAuntArctic.swf|English]]||[[Media:ENNews428Dividers.swf|English]]
+|-
+|[[Media:PTNews428HeaderFront.swf|Português]]||[[Media:PTNews428NavigationFront.swf|Português]]||[[Media:PTNews428FeatureStory.swf|Português]]||[[Media:PTNews428FeatureMore.swf|Português]]||[[Media:PTNews428SupportStory.swf|Português]]||[[Media:PTNews428UpcomingEvents.swf|Português]]||[[Media:PTNews428NewsFlash.swf|Português]]||[[Media:PTNews428AskAuntArctic.swf|Português]]||[[Media:PTNews428Dividers.swf|Português]]
+|-
+|[[Media:FRNews428HeaderFront.swf|Français]]||[[Media:FRNews428NavigationFront.swf|Français]]||[[Media:FRNews428FeatureStory.swf|Français]]||[[Media:FRNews428FeatureMore.swf|Français]]||[[Media:FRNews428SupportStory.swf|Français]]||[[Media:FRNews428UpcomingEvents.swf|Français]]||[[Media:FRNews428NewsFlash.swf|Français]]||[[Media:FRNews428AskAuntArctic.swf|Français]]||[[Media:FRNews428Dividers.swf|Français]]
+|-
+|[[Media:ESNews428HeaderFront.swf|Español]]||[[Media:ESNews428NavigationFront.swf|Español]]||[[Media:ESNews428FeatureStory.swf|Español]]||[[Media:ESNews428FeatureMore.swf|Español]]||[[Media:ESNews428SupportStory.swf|Español]]||[[Media:ESNews428UpcomingEvents.swf|Español]]||[[Media:ESNews428NewsFlash.swf|Español]]||[[Media:ESNews428AskAuntArctic.swf|Español]]||[[Media:ESNews428Dividers.swf|Español]]
+|-
+|[[Media:DENews428HeaderFront.swf|Deutsch]]||[[Media:DENews428NavigationFront.swf|Deutsch]]||[[Media:DENews428FeatureStory.swf|Deutsch]]||[[Media:DENews428FeatureMore.swf|Deutsch]]||[[Media:DENews428SupportStory.swf|Deutsch]]||[[Media:DENews428UpcomingEvents.swf|Deutsch]]||[[Media:DENews428NewsFlash.swf|Deutsch]]||[[Media:DENews428AskAuntArctic.swf|Deutsch]]||[[Media:DENews428Dividers.swf|Deutsch]]
+|}
+</center>
+==Back==
+<center>
+{|class="wikitable" border="1"
+!Header
+!Navigation
+!Comics
+!Jokes and Riddles
+!Secrets
+!Secrets (overlay)
+!Dividers
+!Submit Your Content
+|-
+|[[Media:ENNews428HeaderBack.swf|English]]||[[Media:ENNews428NavigationBack.swf|English]]||[[Media:ENNews428Comics.swf|English]]||[[Media:ENNews428JokesAndRiddles.swf|English]]||[[Media:ENNews428Secrets.swf|English]]||[[Media:ENNews428SecretsOverlay.swf|English]]||[[Media:ENNews428DividersBack.swf|English]]||[[Media:ENNews428SubmitYourContent.swf|English]]
+|-
+|[[Media:PTNews428HeaderBack.swf|Português]]||[[Media:PTNews428NavigationBack.swf|Português]]||[[Media:PTNews428Comics.swf|Português]]||[[Media:PTNews428JokesandRiddles.swf|Português]]||[[Media:PTNews428Secrets.swf|Português]]||[[Media:PTNews428SecretsOverlay.swf|Português]]||[[Media:PTNews428DividersBack.swf|Português]]||[[Media:PTNews428SubmitYourContent.swf|Português]]
+|-
+|[[Media:FRNews428HeaderBack.swf|Français]]||[[Media:FRNews428NavigationBack.swf|Français]]||[[Media:FRNews428Comics.swf|Français]]||[[Media:FRNews428JokesandRiddles.swf|Français]]||[[Media:FRNews428Secrets.swf|Français]]||[[Media:FRNews428SecretsOverlay.swf|Français]]||[[Media:FRNews428DividersBack.swf|Français]]||[[Media:FRNews428SubmitYourContent.swf|Français]]
+|-
+|[[Media:ESNews428HeaderBack.swf|Español]]||[[Media:ESNews428NavigationBack.swf|Español]]||[[Media:ESNews428Comics.swf|Español]]||[[Media:ESNews428JokesandRiddles.swf|Español]]||[[Media:ESNews428Secrets.swf|Español]]||[[Media:ESNews428SecretsOverlay.swf|Español]]||[[Media:ESNews428DividersBack.swf|Español]]||[[Media:ESNews428SubmitYourContent.swf|Español]]
+|-
+|[[Media:DENews428HeaderBack.swf|Deutsch]]||[[Media:DENews428NavigationBack.swf|Deutsch]]||[[Media:DENews428Comics.swf|Deutsch]]||[[Media:DENews428JokesandRiddles.swf|Deutsch]]||[[Media:DENews428Secrets.swf|Deutsch]]||[[Media:DENews428SecretsOverlay.swf|Deutsch]]||[[Media:DENews428DividersBack.swf|Deutsch]]||[[Media:DENews428SubmitYourContent.swf|Deutsch]]
+|}
+</center>

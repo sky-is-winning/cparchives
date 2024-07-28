@@ -1,0 +1,38 @@
+<!-- Please list in numerical order by (by ID) and not in alphabetical order. -->
+
+==List==
+:''This is a list of every Clothing SWF. Because Club Penguin has too many items to be displayed on one page, it was split into subpages:''
+<center>
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+!'''ID range'''
+|-
+|[[Clothing/1-499|1-499]]
+|-
+|[[Clothing/500-999|500-999]]
+|-
+|[[Clothing/1,000-1,499|1,000-1,499]]
+|-
+|[[Clothing/1,500-1,999|1,500-1,999]]
+|-
+|[[Clothing/2,000-3,999|2,000-3,999]]
+|-
+|[[Clothing/4,000-4,499|4,000-4,499]]
+|-
+|[[Clothing/4,500-4,999|4,500-4,999]]
+|-
+|[[Clothing/5,000-5,999|5,000-5,999]]
+|-
+|[[Clothing/6,000-7,999|6,000-7,999]]
+|-
+|[[Clothing/8,000-9,999|8,000-9,999]]
+|-
+|[[Clothing/10,000-13,999|10,000-13,999]]
+|-
+|[[Clothing/14,000-19,999|14,000-19,999]]
+|-
+|[[Clothing/20,000-99,999|20,000-99,999]]
+|}
+</center>
+
+==See also==
+*[[Awards]]

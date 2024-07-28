@@ -1,0 +1,23 @@
+
+
+==Rooms==
+{|class="wikitable" border="1" style="margin: auto;"
+!Room!!Music
+|-
+|[[Media:RoomsCove-SurpriseParty.swf|Cove]]||{{n/a|?}}
+|-
+|[[Media:RoomsDock-SurpriseParty.swf|Dock]]||{{n/a|?}}
+|-
+|[[Media:RoomsForest-SurpriseParty.swf|Forest]]||{{n/a|?}}
+|-
+|[[Media:RoomsDance-SurpriseParty.swf|Night Club]]||{{n/a|?}}
+|-
+|[[Media:RoomsPlaza-SurpriseParty.swf|Plaza]]||{{n/a|?}}
+|-
+|[[Media:RoomsForts-SurpriseParty.swf|Snow Forts]]||{{n/a|?}}
+|-
+|[[Media:RoomsTown-SurpriseParty.swf|Town]]||[[Media:MusicSurpriseParty.swf|Music]]
+|}
+
+
+{{Parties}}

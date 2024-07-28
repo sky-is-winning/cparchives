@@ -1,0 +1,113 @@
+
+
+== Rooms ==
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsBeach-PirateParty2014.swf|Beach]]||[[Media:Music790.swf|790]]
+|-
+|[[Media:RoomsCove-PirateParty2014.swf|Cove]]||[[Media:Music795.swf|795]]
+|-
+|[[Media:RoomsDock-PirateParty2014.swf|Dock]]||[[Media:Music791.swf|791]]
+|-
+|[[Media:RoomsForest-PirateParty2014.swf|Forest]]||[[Media:Music797.swf|797]]
+|-
+|[[Media:RoomsPlaza-PirateParty2014.swf|Plaza]]||[[Media:Music794.swf|794]]
+|-
+|[[Media:RoomsForts-PirateParty2014.swf|Snow Forts]]||[[Media:Music793.swf|793]]
+|-
+|[[Media:RoomsTown-PirateParty2014.swf|Town]]||[[Media:Music792.swf|792]]
+|-
+|[[Media:RoomsPartysolo1-PirateParty2014.swf|Crab Battle]]||[[Media:Music796.swf|796]]
+|}
+</center>
+
+==Login Screen==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+!Русский (Russian)
+|-
+|[[Media:LoginScreen-ENPirateParty2014-november-party-pp.swf|Pirate Party 2014]]||[[Media:LoginScreen-PTPirateParty2014-november-party-pp.swf|Pirate Party 2014]]||[[Media:LoginScreen-FRPirateParty2014-november-party-pp.swf|Pirate Party 2014]]||[[Media:LoginScreen-ESPirateParty2014-november-party-pp.swf|Pirate Party 2014]]||[[Media:LoginScreen-DEPirateParty2014-november-party-pp.swf|Pirate Party 2014]]||[[Media:LoginScreen-RUPirateParty2014-november-party-pp.swf|Pirate Party 2014]]
+|}
+</center>
+
+==Telescope==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:PirateParty2014TelescopeComingClose.swf|Telescope (pre-party)]]
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:ContentMap-PirateParty2014.swf|Map]]
+|}
+</center>
+
+== Close ups ==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+!Русский (Russian)
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsCharacter dialogue login-PirateParty2014.swf|Character dialogue login]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsCharacter dialogue crabfight-PirateParty2014.swf|Character dialogue crabfight]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsCharacter dialogue swordfight-PirateParty2014.swf|Character dialogue swordfight]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsCharacter dialogue congratulations-PirateParty2014.swf|Character dialogue congratulations]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsFinale comic-PirateParty2014.swf|Finale comic]]
+
+|-
+|[[Media:ENClose_upsQuest interface-PirateParty2014.swf|Quest interface]]||[[Media:PTClose_upsQuest interface-PirateParty2014.swf|Quest interface]]||[[Media:FRClose_upsQuest interface-PirateParty2014.swf|Quest interface]]||[[Media:ESClose_upsQuest interface-PirateParty2014.swf|Quest interface]]||[[Media:DEClose_upsQuest interface-PirateParty2014.swf|Quest interface]]||[[Media:RUClose_upsQuest interface-PirateParty2014.swf|Quest interface]]
+|}
+</center>
+
+== Membership Notice ==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:MembershipParty1-PirateParty2014.swf|Member Costumes]]
+|}
+</center>
+
+== Crab Battle ==
+=== Crab with a Hat ===
+* [[Media:AvatarSpritesCrabHatA.swf|Variant A]]
+* [[Media:AvatarSpritesCrabHatB.swf|Variant B]]
+* [[Media:AvatarSpritesCrabHatC.swf|Variant C]]
+* [[Media:AvatarSpritesCrabHatD.swf|Variant D]]
+* [[Media:AvatarSpritesCrabHatE.swf|Variant E]]
+
+=== Crab with a Bandana ===
+* [[Media:AvatarSpritesCrabBandanaA.swf|Variant A]]
+* [[Media:AvatarSpritesCrabBandanaB.swf|Variant B]]
+* [[Media:AvatarSpritesCrabBandanaC.swf|Variant C]]
+* [[Media:AvatarSpritesCrabBandanaD.swf|Variant D]]
+
+=== Crab with an Eye Patch and a Hook ===
+* [[Media:AvatarSpritesCrabEyePatchHookA.swf|Variant A]]
+* [[Media:AvatarSpritesCrabEyePatchHookB.swf|Variant B]]
+* [[Media:AvatarSpritesCrabEyePatchHookC.swf|Variant C]]
+* [[Media:AvatarSpritesCrabEyePatchHookD.swf|Variant D]]
+{{Parties}}
+

@@ -1,0 +1,20 @@
+
+
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|bootstrap||[[Media:GamesIceFishingBootstrap.swf|All]]
+|-
+|can o worms||[[Media:GamesIceFishingLangENCanOWorms.swf|English]]<br>[[Media:GamesIceFishingLangESCanOWorms.swf|Portuguese]]<br>[[Media:GamesIceFishingLangENCanOWorms.swf|French]]<br>[[Media:GamesIceFishingLangESCanOWorms.swf|Spanish]]<br>[[Media:GamesIceFishingLangDECanOWorms.swf|German]]<br>[[Media:GamesIceFishingLangENCanOWorms.swf|Russian]]
+|-
+|locale||[[Media:GamesIceFishingLangENLocale.swf|English]]<br>[[Media:GamesIceFishingLangPTLocale.swf|Portuguese]]<br>[[Media:GamesIceFishingLangFRLocale.swf|French]]<br>[[Media:GamesIceFishingLangESLocale.swf|Spanish]]<br>[[Media:GamesIceFishingLangDELocale.swf|German]]<br>[[Media:GamesIceFishingLangRULocale.swf|Russian]]
+|-
+|Main||[[Media:GamesIceFishingMain.swf|All]]<br>[[Media:IceFishing2006.swf|Ice Fishing (2006)]]<br>[[Media:IceFishing2008.swf|Ice Fishing (2008)]]
+|-
+|music||[[Media:Music103.swf|All]]
+|-
+|title||[[Media:GamesIceFishingLangDETitle.swf|English]]<br>[[Media:GamesIceFishingLangFRTitle.swf|Portuguese]]<br>[[Media:GamesIceFishingLangFRTitle.swf|French]]<br>[[Media:GamesIceFishingLangESTitle.swf|Spanish]]<br>[[Media:GamesIceFishingLangDETitle.swf|German]]<br>[[Media:GamesIceFishingLangRUTitle.swf|Russian]]
+|}
+</center>

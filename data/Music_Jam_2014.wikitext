@@ -1,0 +1,94 @@
+
+==Rooms==
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsParty4-MusicJam2014.swf|Bridge]]||[[Media:Music727.swf|727]]
+|-
+|[[Media:RoomsDock-MusicJam2014.swf|Dock]]||[[Media:Music722.swf|722]]
+|-
+|[[Media:RoomsParty6-MusicJam2014.swf|Engine Room]]||[[Media:Music729.swf|729]]
+|-
+|[[Media:RoomsParty5-MusicJam2014.swf|Pool Deck]]||[[Media:Music728.swf|728]]
+|-
+|[[Media:RoomsParty3-MusicJam2014.swf|Ship's Buffet]]||[[Media:Music726.swf|726]]
+|-
+|[[Media:RoomsParty1-MusicJam2014.swf|Ship's Lobby]]||[[Media:Music724.swf|724]]
+|-
+|[[Media:RoomsParty2-MusicJam2014.swf|Main Stage]]||[[Media:Music725.swf|725]]
+|-
+|[[Media:RoomsTown-MusicJam2014.swf|Town]]||[[Media:Music723.swf|723]]
+|}
+</center>
+
+====Concerts====
+<center>
+{|class="wikitable" border="1"
+!Performer
+|-
+|[[Media:RoomsConcertsConcert cadence.swf|Cadence]]
+|-
+|[[Media:RoomsConcertsConcert violetta.swf|Violetta]]
+|-
+|[[Media:RoomsConcertsConcert djcole.swf|Cole Plante]]
+|-
+|[[Media:RoomsConcertsConcert sabrina.swf|Sabrina]]
+|-
+|[[Media:RoomsConcertsConcert zendaya.swf|Zendaya]]
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:ContentMap-MusicJam2014.swf|Map]]
+|-
+|[[Media:ContentParty icon-MusicJam2014.swf|Party Icon]]
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable" border="1"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)!!Deutsch (German)!!Русский (Russian)
+|-
+|[[Media:ENClose upsQuest interface-MusicJam2014.swf|Quest Interface]]||[[Media:PTClose upsQuest interface-MusicJam2014.swf|Quest Interface]]||[[Media:FRClose upsQuest interface-MusicJam2014.swf|Quest Interface]]||[[Media:ESClose upsQuest interface-MusicJam2014.swf|Quest Interface]]||[[Media:DEClose upsQuest interface-MusicJam2014.swf|Quest Interface]]||[[Media:RUClose upsQuest interface-MusicJam2014.swf|Quest Interface]]
+|-
+|[[Media:ENClose upsParty map note-MusicJam2014.swf|Party Note]]||[[Media:PTClose upsParty map note-MusicJam2014.swf|Party Note]]||[[Media:FRClose upsParty map note-MusicJam2014.swf|Party Note]]||[[Media:ESClose upsParty map note-MusicJam2014.swf|Party Note]]||[[Media:DEClose upsParty map note-MusicJam2014.swf|Party Note]]||[[Media:RUClose upsParty map note-MusicJam2014.swf|Party Note]]
+|-
+|[[Media:ENClose upsParty igloo list-MusicJam2014.swf|Tour Bus Igloos]]||[[Media:PTClose upsParty igloo list-MusicJam2014.swf|Tour Bus Igloos]]||[[Media:FRClose upsParty igloo list-MusicJam2014.swf|Tour Bus Igloos]]||[[Media:ESClose upsParty igloo list-MusicJam2014.swf|Tour Bus Igloos]]||[[Media:DEClose upsParty igloo list-MusicJam2014.swf|Tour Bus Igloos]]||[[Media:RUClose upsParty igloo list-MusicJam2014.swf|Tour Bus Igloos]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close upsParty map-MusicJam2014.swf|Music Cruise Map]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close upsCharacter dialogue login-MusicJam2014.swf|Login Dialogue]]
+|}
+</center>
+
+==Membership Notice==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:MembershipParty1-MusicJam2014.swf|Clothing]]
+|}
+</center>
+
+==Login Screen==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+!Русский (Russian)
+|-
+|[[Media:LoginScreen-ENMusicJam20141.swf|Music Jam 2014]]||[[Media:LoginScreen-PTMusicJam20141.swf|Music Jam 2014]]||[[Media:LoginScreen-FRMusicJam20141.swf|Music Jam 2014]]||[[Media:LoginScreen-ESMusicJam20141.swf|Music Jam 2014]]||[[Media:LoginScreen-DEMusicJam20141.swf|Music Jam 2014]]||[[Media:LoginScreen-RUMusicJam20141.swf|Music Jam 2014]]
+|}
+</center>
+{{Parties}}
+

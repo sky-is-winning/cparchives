@@ -1,0 +1,50 @@
+<noinclude><!--</noinclude>
+Below are SWF files from issue #{{{issue|0}}} ({{{date|January 1, 2000}}}) of the Club Penguin Times:
+==Front==
+{|class="wikitable" border="1" style="margin: auto;"
+!Header
+!{{{feature|Feature Story}}}
+!Feature More
+!{{{support|Support Story}}}
+!{{{events|Upcoming Events}}}
+!News Flash
+!Navigation
+!Ask {{{ask|Aunt Arctic}}}
+!Dividers
+|-
+|[[Media:ENNews{{{issue|}}}HeaderFront.swf|English]]||[[Media:ENNews{{{issue|}}}FeatureStory.swf|English]]||[[Media:ENNews{{{issue|}}}FeatureMore.swf|English]]||[[Media:ENNews{{{issue|}}}SupportStory.swf|English]]||[[Media:ENNews{{{issue|}}}UpcomingEvents.swf|English]]||[[Media:ENNews{{{issue|}}}NewsFlash.swf|English]]||[[Media:ENNews{{{issue|}}}NavigationFront.swf|English]]||[[Media:ENNews{{{issue|}}}AskAuntArctic.swf|English]]||[[Media:ENNews{{{issue|}}}Dividers.swf|English]]
+|-
+|[[Media:PTNews{{{issue|}}}HeaderFront.swf|Português]]||[[Media:PTNews{{{issue|}}}FeatureStory.swf|Português]]||[[Media:PTNews{{{issue|}}}FeatureMore.swf|Português]]||[[Media:PTNews{{{issue|}}}SupportStory.swf|Português]]||[[Media:PTNews{{{issue|}}}UpcomingEvents.swf|Português]]||[[Media:PTNews{{{issue|}}}NewsFlash.swf|Português]]||[[Media:PTNews{{{issue|}}}NavigationFront.swf|Português]]||[[Media:PTNews{{{issue|}}}AskAuntArctic.swf|Português]]||[[Media:PTNews{{{issue|}}}Dividers.swf|Português]]
+|-
+|[[Media:FRNews{{{issue|}}}HeaderFront.swf|Français]]||[[Media:FRNews{{{issue|}}}FeatureStory.swf|Français]]||[[Media:FRNews{{{issue|}}}FeatureMore.swf|Français]]||[[Media:FRNews{{{issue|}}}SupportStory.swf|Français]]||[[Media:FRNews{{{issue|}}}UpcomingEvents.swf|Français]]||[[Media:FRNews{{{issue|}}}NewsFlash.swf|Français]]||[[Media:FRNews{{{issue|}}}NavigationFront.swf|Français]]||[[Media:FRNews{{{issue|}}}AskAuntArctic.swf|Français]]||[[Media:FRNews{{{issue|}}}Dividers.swf|Français]]
+|-
+|[[Media:ESNews{{{issue|}}}HeaderFront.swf|Español]]||[[Media:ESNews{{{issue|}}}FeatureStory.swf|Español]]||[[Media:ESNews{{{issue|}}}FeatureMore.swf|Español]]||[[Media:ESNews{{{issue|}}}SupportStory.swf|Español]]||[[Media:ESNews{{{issue|}}}UpcomingEvents.swf|Español]]||[[Media:ESNews{{{issue|}}}NewsFlash.swf|Español]]||[[Media:ESNews{{{issue|}}}NavigationFront.swf|Español]]||[[Media:ESNews{{{issue|}}}AskAuntArctic.swf|Español]]||[[Media:ESNews{{{issue|}}}Dividers.swf|Español]]
+|-
+|[[Media:DENews{{{issue|}}}HeaderFront.swf|Deutsch]]||[[Media:DENews{{{issue|}}}FeatureStory.swf|Deutsch]]||[[Media:DENews{{{issue|}}}FeatureMore.swf|Deutsch]]||[[Media:DENews{{{issue|}}}SupportStory.swf|Deutsch]]||[[Media:DENews{{{issue|}}}UpcomingEvents.swf|Deutsch]]||[[Media:DENews{{{issue|}}}NewsFlash.swf|Deutsch]]||[[Media:DENews{{{issue|}}}NavigationFront.swf|Deutsch]]||[[Media:DENews{{{issue|}}}AskAuntArctic.swf|Deutsch]]||[[Media:DENews{{{issue|}}}Dividers.swf|Deutsch]]
+|-
+|[[Media:RUNews{{{issue|}}}HeaderFront.swf|Русский]]||[[Media:RUNews{{{issue|}}}FeatureStory.swf|Русский]]||[[Media:RUNews{{{issue|}}}FeatureMore.swf|Русский]]||[[Media:RUNews{{{issue|}}}SupportStory.swf|Русский]]||[[Media:RUNews{{{issue|}}}UpcomingEvents.swf|Русский]]||[[Media:RUNews{{{issue|}}}NewsFlash.swf|Русский]]||[[Media:RUNews{{{issue|}}}NavigationFront.swf|Русский]]||[[Media:RUNews{{{issue|}}}AskAuntArctic.swf|Русский]]||[[Media:RUNews{{{issue|}}}Dividers.swf|Русский]]
+|}
+==Back==
+{|class="wikitable" border="1" style="margin: auto;"
+!Header
+!{{{backstory|Ask {{{ask|Aunt Arctic}}}}}}
+!Secrets
+!Secret (overlay)
+!Submit Your Content
+!Navigation
+!Jokes and Riddles
+!Dividers
+|-
+|[[Media:ENNews{{{issue|}}}HeaderBack.swf|English]]||[[Media:ENNews{{{issue|}}}AskAuntArcticBack.swf|English]]||[[Media:ENNews{{{issue|}}}Secrets.swf|English]]||[[Media:ENNews{{{issue|}}}SecretOverlay.swf|English]]||[[Media:ENNews{{{issue|}}}SubmitYourContent.swf|English]]||[[Media:ENNews{{{issue|}}}NavigationBack.swf|English]]||[[Media:ENNews{{{issue|}}}JokesandRiddles.swf|English]]||[[Media:ENNews{{{issue|}}}DividersBack.swf|English]]
+|-
+|[[Media:PTNews{{{issue|}}}HeaderBack.swf|Português]]||[[Media:PTNews{{{issue|}}}AskAuntArcticBack.swf|Português]]||[[Media:PTNews{{{issue|}}}Secrets.swf|Português]]||[[Media:PTNews{{{issue|}}}SecretOverlay.swf|Português]]||[[Media:PTNews{{{issue|}}}SubmitYourContent.swf|Português]]||[[Media:PTNews{{{issue|}}}NavigationBack.swf|Português]]||[[Media:PTNews{{{issue|}}}JokesandRiddles.swf|Português]]||[[Media:PTNews{{{issue|}}}DividersBack.swf|Português]]
+|-
+|[[Media:FRNews{{{issue|}}}HeaderBack.swf|Français]]||[[Media:FRNews{{{issue|}}}AskAuntArcticBack.swf|Français]]||[[Media:FRNews{{{issue|}}}Secrets.swf|Français]]||[[Media:FRNews{{{issue|}}}SecretOverlay.swf|Français]]||[[Media:FRNews{{{issue|}}}SubmitYourContent.swf|Français]]||[[Media:FRNews{{{issue|}}}NavigationBack.swf|Français]]||[[Media:FRNews{{{issue|}}}JokesandRiddles.swf|Français]]||[[Media:FRNews{{{issue|}}}DividersBack.swf|Français]]
+|-
+|[[Media:ESNews{{{issue|}}}HeaderBack.swf|Español]]||[[Media:ESNews{{{issue|}}}AskAuntArcticBack.swf|Español]]||[[Media:ESNews{{{issue|}}}Secrets.swf|Español]]||[[Media:ESNews{{{issue|}}}SecretOverlay.swf|Español]]||[[Media:ESNews{{{issue|}}}SubmitYourContent.swf|Español]]||[[Media:ESNews{{{issue|}}}NavigationBack.swf|Español]]||[[Media:ESNews{{{issue|}}}JokesandRiddles.swf|Español]]||[[Media:ESNews{{{issue|}}}DividersBack.swf|Español]]
+|-
+|[[Media:DENews{{{issue|}}}HeaderBack.swf|Deutsch]]||[[Media:DENews{{{issue|}}}AskAuntArcticBack.swf|Deutsch]]||[[Media:DENews{{{issue|}}}Secrets.swf|Deutsch]]||[[Media:DENews{{{issue|}}}SecretOverlay.swf|Deutsch]]||[[Media:DENews{{{issue|}}}SubmitYourContent.swf|Deutsch]]||[[Media:DENews{{{issue|}}}NavigationBack.swf|Deutsch]]||[[Media:DENews{{{issue|}}}JokesandRiddles.swf|Deutsch]]||[[Media:DENews{{{issue|}}}DividersBack.swf|Deutsch]]
+|-
+|[[Media:RUNews{{{issue|}}}HeaderBack.swf|Русский]]||[[Media:RUNews{{{issue|}}}AskAuntArcticBack.swf|Русский]]||[[Media:RUNews{{{issue|}}}Secrets.swf|Русский]]||[[Media:RUNews{{{issue|}}}SecretOverlay.swf|Русский]]||[[Media:RUNews{{{issue|}}}SubmitYourContent.swf|Русский]]||[[Media:RUNews{{{issue|}}}NavigationBack.swf|Русский]]||[[Media:RUNews{{{issue|}}}JokesandRiddles.swf|Русский]]||[[Media:RUNews{{{issue|}}}DividersBack.swf|Русский]]
+|}
+<noinclude>--></noinclude>

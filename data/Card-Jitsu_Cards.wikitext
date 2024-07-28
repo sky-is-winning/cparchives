@@ -1,0 +1,1072 @@
+
+
+
+==Cards JSON/JSONP==
+{|class="wikitable" style="margin: 1em auto;"
+!File Name!!JSON!!JSONP
+|-
+|cards||[[Media:ENWeb serviceGame configsCards.json|English]] {{·}} [[Media:PTWeb serviceGame configsCards.json|Português]] {{·}} [[Media:FRWeb serviceGame configsCards.json|Français]] {{·}} [[Media:ESWeb serviceGame configsCards.json|Español]] {{·}} [[Media:RUWeb serviceGame configsCards.json|Русский]]||[[Media:GameConfigsEN2015May06cards.jsonp|English]] {{·}} [[Media:GameConfigsPT2015May06cards.jsonp|Português]] {{·}} [[Media:FRWeb serviceGame configsCards.jsonp|Français]] {{·}} [[Media:ESWeb serviceGame configsCards.jsonp|Español]] {{·}} [[Media:RUWeb serviceGame configsCards.jsonp|Русский]]
+|}
+
+==1-99==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Name
+|-
+|[[Media:GamesCardIcons1.swf|1]]||CART SURFER
+|-
+|[[Media:GamesCardIcons2.swf|2]]||COFFEE SHOP
+|-
+|[[Media:GamesCardIcons3.swf|3]]||ASTRO-BARRIER
+|-
+|[[Media:GamesCardIcons4.swf|4]]||HOT CHOCOLATE
+|-
+|[[Media:GamesCardIcons5.swf|5]]||LANDING PAD
+|-
+|[[Media:GamesCardIcons6.swf|6]]||PIZZA CHEF
+|-
+|[[Media:GamesCardIcons7.swf|7]]||PAINT BY LETTERS
+|-
+|[[Media:GamesCardIcons8.swf|8]]||MINE
+|-
+|[[Media:GamesCardIcons9.swf|9]]||CONSTRUCTION WORKER
+|-
+|[[Media:GamesCardIcons10.swf|10]]||JET PACK ADVENTURE
+|-
+|[[Media:GamesCardIcons11.swf|11]]||GIFT SHOP
+|-
+|[[Media:GamesCardIcons12.swf|12]]||HIKING IN THE FOREST
+|-
+|[[Media:GamesCardIcons13.swf|13]]||RESCUE SQUAD
+|-
+|[[Media:GamesCardIcons14.swf|14]]||PET SHOP
+|-
+|[[Media:GamesCardIcons15.swf|15]]||SKI VILLAGE
+|-
+|[[Media:GamesCardIcons16.swf|16]]||ICE HOCKEY
+|-
+|[[Media:GamesCardIcons17.swf|17]]||SKI HILL
+|-
+|[[Media:GamesCardIcons18.swf|18]]||SNOWBALL FIGHT
+|-
+|[[Media:GamesCardIcons19.swf|19]]||SNOW FORTS
+|-
+|[[Media:GamesCardIcons20.swf|20]]||SOCCER
+|-
+|[[Media:GamesCardIcons21.swf|21]]||BEACH
+|-
+|[[Media:GamesCardIcons22.swf|22]]||FOOTBALL
+|-
+|[[Media:GamesCardIcons23.swf|23]]||BASEBALL
+|-
+|[[Media:GamesCardIcons24.swf|24]]||EMERALD PRINCESS
+|-
+|[[Media:GamesCardIcons25.swf|25]]||BEAN COUNTERS
+|-
+|[[Media:GamesCardIcons26.swf|26]]||MANHOLE COVER
+|-
+|[[Media:GamesCardIcons27.swf|27]]||NEWSPAPER ARCHIVES
+|-
+|[[Media:GamesCardIcons28.swf|28]]||UNDERGROUND POOL
+|-
+|[[Media:GamesCardIcons29.swf|29]]||SCUBA DIVING
+|-
+|[[Media:GamesCardIcons30.swf|30]]||ICE FISHING
+|-
+|[[Media:GamesCardIcons31.swf|31]]||CASE OF THE MISSING COINS
+|-
+|[[Media:GamesCardIcons32.swf|32]]||CRATES AND BOXES
+|-
+|[[Media:GamesCardIcons33.swf|33]]||ANVIL SMITH
+|-
+|[[Media:GamesCardIcons34.swf|34]]||HALLOWEEN
+|-
+|[[Media:GamesCardIcons35.swf|35]]||KNIGHT
+|-
+|[[Media:GamesCardIcons36.swf|36]]||BLACK PUFFLE
+|-
+|[[Media:GamesCardIcons37.swf|37]]||MEDIEVAL PARTY
+|-
+|[[Media:GamesCardIcons38.swf|38]]||BLUE PUFFLE
+|-
+|[[Media:GamesCardIcons39.swf|39]]||PINK PUFFLE
+|-
+|[[Media:GamesCardIcons40.swf|40]]||GREEN PUFFLE
+|-
+|[[Media:GamesCardIcons41.swf|41]]||PUFFLE FURNITURE
+|-
+|[[Media:GamesCardIcons42.swf|42]]||PURPLE PUFFLE
+|-
+|[[Media:GamesCardIcons43.swf|43]]||RED PUFFLE
+|-
+|[[Media:GamesCardIcons44.swf|44]]||YELLOW PUFFLE
+|-
+|[[Media:GamesCardIcons45.swf|45]]||SUMMER PARTY
+|-
+|[[Media:GamesCardIcons46.swf|46]]||GRAY FISH
+|-
+|[[Media:GamesCardIcons47.swf|47]]||O BERRY
+|-
+|[[Media:GamesCardIcons48.swf|48]]||LIFE RING
+|-
+|[[Media:GamesCardIcons49.swf|49]]||JOLLY ROGER FLAG
+|-
+|[[Media:GamesCardIcons50.swf|50]]||COINS
+|-
+|[[Media:GamesCardIcons51.swf|51]]||GARY THE GADGET GUY
+|-
+|[[Media:GamesCardIcons52.swf|52]]||BUOYS
+|-
+|[[Media:GamesCardIcons53.swf|53]]||YARR
+|-
+|[[Media:GamesCardIcons54.swf|54]]||KLUTZY
+|-
+|[[Media:GamesCardIcons55.swf|55]]||HERBERT P. BEAR
+|-
+|[[Media:GamesCardIcons56.swf|56]]||HOT SAUCE
+|-
+|[[Media:GamesCardIcons57.swf|57]]||SNOW CASTLE
+|-
+|[[Media:GamesCardIcons58.swf|58]]||AUNT ARCTIC
+|-
+|[[Media:GamesCardIcons59.swf|59]]||CHRISTMAS CAROLS
+|-
+|[[Media:GamesCardIcons60.swf|60]]||BETA PARTY
+|-
+|[[Media:GamesCardIcons61.swf|61]]||HIDDEN ITEMS
+|-
+|[[Media:GamesCardIcons62.swf|62]]||SECRET AGENT
+|-
+|[[Media:GamesCardIcons63.swf|63]]||SNOW SHOVEL
+|-
+|[[Media:GamesCardIcons64.swf|64]]||THE MIGRATOR
+|-
+|[[Media:GamesCardIcons65.swf|65]]||CAPTAIN ROCKHOPPER
+|-
+|[[Media:GamesCardIcons66.swf|66]]||ICE CREAM
+|-
+|[[Media:GamesCardIcons67.swf|67]]||MULLET
+|-
+|[[Media:GamesCardIcons68.swf|68]]||UNDERGROUND FLOOD
+|-
+|[[Media:GamesCardIcons69.swf|69]]||FLUFFY THE FISH
+|-
+|[[Media:GamesCardIcons70.swf|70]]||SHARK
+|-
+|[[Media:GamesCardIcons71.swf|71]]||FLOORING UPGRADE
+|-
+|[[Media:GamesCardIcons72.swf|72]]||GADGET ROOM
+|-
+|[[Media:GamesCardIcons73.swf|73]]||JACKHAMMER
+|-
+|[[Media:GamesCardIcons74.swf|74]]||JET PACK
+|-
+|[[Media:GamesCardIcons75.swf|75]]||THIN ICE
+|-
+|[[Media:GamesCardIcons76.swf|76]]||NIGHT VISION GOGGLES
+|-
+|[[Media:GamesCardIcons77.swf|77]]||MIGHTY PLUNGER
+|-
+|[[Media:GamesCardIcons78.swf|78]]||DRAGON
+|-
+|[[Media:GamesCardIcons79.swf|79]]||SPACE ADVENTURE
+|-
+|[[Media:GamesCardIcons80.swf|80]]||TOUR GUIDE
+|-
+|[[Media:GamesCardIcons81.swf|81]]||SLED RACING
+|-
+|[[Media:GamesCardIcons82.swf|82]]||PUFFLE ROUND-UP
+|-
+|[[Media:GamesCardIcons83.swf|83]]||AC3000
+|-
+|[[Media:GamesCardIcons84.swf|84]]||SNOW GLOBE IGLOO
+|-
+|[[Media:GamesCardIcons85.swf|85]]||SHADOW GUY & GAMMA GAL
+|-
+|[[Media:GamesCardIcons86.swf|86]]||AVALANCHE
+|-
+|[[Media:GamesCardIcons87.swf|87]]||WATER PARTY
+|-
+|[[Media:GamesCardIcons88.swf|88]]||CATCHIN' WAVES
+|-
+|[[Media:GamesCardIcons89.swf|89]]||FIREFIGHTER
+|-
+|[[Media:GamesCardIcons90.swf|90]]||AQUA GRABBER
+|-
+|[[Media:GamesCardIcons91.swf|91]]||OCTOPUS
+|-
+|[[Media:GamesCardIcons92.swf|92]]||CACTUS
+|-
+|[[Media:GamesCardIcons93.swf|93]]||TIPPING THE ICEBERG
+|-
+|[[Media:GamesCardIcons94.swf|94]]||NINJA
+|-
+|[[Media:GamesCardIcons95.swf|95]]||WHITE PUFFLE
+|-
+|[[Media:GamesCardIcons96.swf|96]]||Yarr
+|-
+|[[Media:GamesCardIcons97.swf|97]]||KEEPER OF THE BOILER ROOM
+|-
+|[[Media:GamesCardIcons98.swf|98]]||BLAST
+|-
+|[[Media:GamesCardIcons99.swf|99]]||FLARE
+|}
+
+==100-199==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Name
+|-
+|[[Media:GamesCardIcons100.swf|100]]||CHIRP
+|-
+|[[Media:GamesCardIcons101.swf|101]]||POP
+|-
+|[[Media:GamesCardIcons102.swf|102]]||LOOP
+|-
+|[[Media:GamesCardIcons103.swf|103]]||FLIT
+|-
+|[[Media:GamesCardIcons104.swf|104]]||BOUNCER
+|-
+|[[Media:GamesCardIcons105.swf|105]]||ED MCCOOL AND DESTRUCTO
+|-
+|[[Media:GamesCardIcons106.swf|106]]||NIBLET
+|-
+|[[Media:GamesCardIcons107.swf|107]]||SNOWY NIGHT
+|-
+|[[Media:GamesCardIcons108.swf|108]]||PUFFLES ON THE LOOSE
+|-
+|[[Media:GamesCardIcons109.swf|109]]||CADENCE AND THE KEEPER
+|-
+|[[Media:GamesCardIcons110.swf|110]]||GOLDEN PUFFLE
+|-
+|[[Media:GamesCardIcons111.swf|111]]||METEOR PUFFLE
+|-
+|[[Media:GamesCardIcons112.swf|112]]||RAINBOW PUFFLE
+|-
+|[[Media:GamesCardIcons113.swf|113]]||ABOMINABLE SNOW PUFFLE
+|}
+
+==200-299==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Name
+|-
+|[[Media:GamesCardIcons201.swf|201]]||Club Penguin Times
+|-
+|[[Media:GamesCardIcons202.swf|202]]||Can of Worms
+|-
+|[[Media:GamesCardIcons203.swf|203]]||Winter Fiesta Party
+|-
+|[[Media:GamesCardIcons204.swf|204]]||Invisible Ninja Suit
+|-
+|[[Media:GamesCardIcons205.swf|205]]||Penguin Mail
+|-
+|[[Media:GamesCardIcons206.swf|206]]||Bumble Bee
+|-
+|[[Media:GamesCardIcons207.swf|207]]||Pizzatron 3000
+|-
+|[[Media:GamesCardIcons208.swf|208]]||Card-Jitsu
+|-
+|[[Media:GamesCardIcons209.swf|209]]||Adopt-A-Puffle
+|-
+|[[Media:GamesCardIcons210.swf|210]]||Rock & Roll Suit
+|-
+|[[Media:GamesCardIcons211.swf|211]]||Construction
+|-
+|[[Media:GamesCardIcons212.swf|212]]||Hidden Pins
+|-
+|[[Media:GamesCardIcons213.swf|213]]||Treasure Hunt Game
+|-
+|[[Media:GamesCardIcons214.swf|214]]||DJ3K
+|-
+|[[Media:GamesCardIcons215.swf|215]]||Surf Boards
+|-
+|[[Media:GamesCardIcons216.swf|216]]||Beach Chair Chilling
+|-
+|[[Media:GamesCardIcons217.swf|217]]||Telescope
+|-
+|[[Media:GamesCardIcons218.swf|218]]||Fish Costume
+|-
+|[[Media:GamesCardIcons219.swf|219]]||Crow's Nest
+|-
+|[[Media:GamesCardIcons220.swf|220]]||The Cove
+|-
+|[[Media:GamesCardIcons221.swf|221]]||Captain's Quarters
+|-
+|[[Media:GamesCardIcons222.swf|222]]||Iceberg
+|-
+|[[Media:GamesCardIcons223.swf|223]]||The Lounge
+|-
+|[[Media:GamesCardIcons224.swf|224]]||Rockhopper's Key
+|-
+|[[Media:GamesCardIcons225.swf|225]]||Penguins That Time Forgot
+|-
+|[[Media:GamesCardIcons226.swf|226]]||Team Blue Rally
+|-
+|[[Media:GamesCardIcons227.swf|227]]||Jet Pack Adventure
+|-
+|[[Media:GamesCardIcons228.swf|228]]||Ruby and the Ruby
+|-
+|[[Media:GamesCardIcons229.swf|229]]||Snowball Fight
+|-
+|[[Media:GamesCardIcons230.swf|230]]||Snowball Press
+|-
+|[[Media:GamesCardIcons231.swf|231]]||Music Jam
+|-
+|[[Media:GamesCardIcons232.swf|232]]||Puffle Chew-Chew
+|-
+|[[Media:GamesCardIcons233.swf|233]]||Fairy Fables
+|-
+|[[Media:GamesCardIcons234.swf|234]]||Jelly Fish
+|-
+|[[Media:GamesCardIcons235.swf|235]]||Pirate
+|-
+|[[Media:GamesCardIcons236.swf|236]]||Fish Bait
+|-
+|[[Media:GamesCardIcons237.swf|237]]||Hydro Hopper
+|-
+|[[Media:GamesCardIcons238.swf|238]]||Puffle O's
+|-
+|[[Media:GamesCardIcons239.swf|239]]||Fall Fair Games
+|-
+|[[Media:GamesCardIcons240.swf|240]]||Thinga-ma-jig 3000
+|-
+|[[Media:GamesCardIcons241.swf|241]]||Rad Scientist
+|-
+|[[Media:GamesCardIcons242.swf|242]]||Quip and Qua
+|-
+|[[Media:GamesCardIcons243.swf|243]]||Twee
+|-
+|[[Media:GamesCardIcons244.swf|244]]||Coins For Change
+|-
+|[[Media:GamesCardIcons245.swf|245]]||Surfing with the Sharks
+|-
+|[[Media:GamesCardIcons246.swf|246]]||Dance Contest
+|-
+|[[Media:GamesCardIcons247.swf|247]]||Purple Octopus
+|-
+|[[Media:GamesCardIcons248.swf|248]]||Giant Squid
+|-
+|[[Media:GamesCardIcons249.swf|249]]||Penguin Band
+|-
+|[[Media:GamesCardIcons250.swf|250]]||Dojo Sketch
+|-
+|[[Media:GamesCardIcons251.swf|251]]||Flare Flinger 3000
+|-
+|[[Media:GamesCardIcons252.swf|252]]||Herbert & Klutzy
+|-
+|[[Media:GamesCardIcons253.swf|253]]||Coffee Delivery Truck
+|-
+|[[Media:GamesCardIcons254.swf|254]]||Anniversary Party
+|-
+|[[Media:GamesCardIcons255.swf|255]]||Halloween Party
+|-
+|[[Media:GamesCardIcons256.swf|256]]||Sensei
+|-
+|[[Media:GamesCardIcons257.swf|257]]||Jackhammers
+|-
+|[[Media:GamesCardIcons258.swf|258]]||Quest for the Golden Puffle
+|-
+|[[Media:GamesCardIcons259.swf|259]]||Storm
+|-
+|[[Media:GamesCardIcons260.swf|260]]||Rockhopper
+|}
+
+==300-399==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Name
+|-
+|[[Media:GamesCardIcons301.swf|301]]||Camera
+|-
+|[[Media:GamesCardIcons302.swf|302]]||Wigs
+|-
+|[[Media:GamesCardIcons303.swf|303]]||Pizza Parlor
+|-
+|[[Media:GamesCardIcons304.swf|304]]||Coffee Machine
+|-
+|[[Media:GamesCardIcons305.swf|305]]||Costume Trunk
+|-
+|[[Media:GamesCardIcons306.swf|306]]||Pet Shop Staff
+|-
+|[[Media:GamesCardIcons307.swf|307]]||Stompin' Bob
+|-
+|[[Media:GamesCardIcons308.swf|308]]||G Billy
+|-
+|[[Media:GamesCardIcons309.swf|309]]||Outdoor Igloo
+|-
+|[[Media:GamesCardIcons310.swf|310]]||Ticket Booth
+|-
+|[[Media:GamesCardIcons311.swf|311]]||Ridge Run
+|-
+|[[Media:GamesCardIcons312.swf|312]]||Clock Tower
+|-
+|[[Media:GamesCardIcons313.swf|313]]||White Puffles
+|-
+|[[Media:GamesCardIcons314.swf|314]]||Dojo Courtyard
+|-
+|[[Media:GamesCardIcons315.swf|315]]||Rocking Horse
+|-
+|[[Media:GamesCardIcons316.swf|316]]||Penguin Style
+|-
+|[[Media:GamesCardIcons317.swf|317]]||Stage Director
+|-
+|[[Media:GamesCardIcons318.swf|318]]||Conductor
+|-
+|[[Media:GamesCardIcons319.swf|319]]||Beacon
+|-
+|[[Media:GamesCardIcons320.swf|320]]||Discovering The Underground
+|-
+|[[Media:GamesCardIcons321.swf|321]]||Franky
+|-
+|[[Media:GamesCardIcons322.swf|322]]||Petey K.
+|-
+|[[Media:GamesCardIcons323.swf|323]]||Boombox
+|-
+|[[Media:GamesCardIcons324.swf|324]]||Mild Mannered Reporter
+|-
+|[[Media:GamesCardIcons325.swf|325]]||The Twelfth Fish
+|-
+|[[Media:GamesCardIcons326.swf|326]]||April Fool's Day Party
+|-
+|[[Media:GamesCardIcons327.swf|327]]||Plasma Glow Wave
+|-
+|[[Media:GamesCardIcons328.swf|328]]||Cowbell
+|-
+|[[Media:GamesCardIcons329.swf|329]]||O Berry Bush
+|-
+|[[Media:GamesCardIcons330.swf|330]]||Chester The Time Traveler
+|-
+|[[Media:GamesCardIcons331.swf|331]]||101 Days of Fun
+|-
+|[[Media:GamesCardIcons332.swf|332]]||Color Vote
+|-
+|[[Media:GamesCardIcons333.swf|333]]||Christmas Party
+|-
+|[[Media:GamesCardIcons334.swf|334]]||Viking Opera
+|-
+|[[Media:GamesCardIcons335.swf|335]]||Water Balloons
+|-
+|[[Media:GamesCardIcons336.swf|336]]||Tuba
+|-
+|[[Media:GamesCardIcons337.swf|337]]||Rockhopper's Plants
+|-
+|[[Media:GamesCardIcons338.swf|338]]||Adventure Party
+|-
+|[[Media:GamesCardIcons339.swf|339]]||Penguin Play Awards
+|-
+|[[Media:GamesCardIcons340.swf|340]]||All-Access Pass
+|-
+|[[Media:GamesCardIcons341.swf|341]]||Cadence's Autograph
+|-
+|[[Media:GamesCardIcons342.swf|342]]||Treasure Book
+|-
+|[[Media:GamesCardIcons343.swf|343]]||Black Hoodie
+|-
+|[[Media:GamesCardIcons344.swf|344]]||Propellor Cap
+|-
+|[[Media:GamesCardIcons345.swf|345]]||Dessert Pizza
+|-
+|[[Media:GamesCardIcons346.swf|346]]||Black Electric Guitar
+|-
+|[[Media:GamesCardIcons347.swf|347]]||Mastering The Elements
+|-
+|[[Media:GamesCardIcons348.swf|348]]||Elite Penguin Force
+|-
+|[[Media:GamesCardIcons349.swf|349]]||Switchbox 3000
+|-
+|[[Media:GamesCardIcons350.swf|350]]||Medieval Party
+|-
+|[[Media:GamesCardIcons351.swf|351]]||Cadence
+|-
+|[[Media:GamesCardIcons352.swf|352]]||Cloud Wave
+|-
+|[[Media:GamesCardIcons353.swf|353]]||Ghost Sheet
+|-
+|[[Media:GamesCardIcons354.swf|354]]||Cart Surfer
+|-
+|[[Media:GamesCardIcons355.swf|355]]||Keytar
+|-
+|[[Media:GamesCardIcons356.swf|356]]||X-treme Jetpack
+|-
+|[[Media:GamesCardIcons357.swf|357]]||Box Dimension
+|-
+|[[Media:GamesCardIcons358.swf|358]]||Gold Viking Helmet
+|-
+|[[Media:GamesCardIcons359.swf|359]]||Gary The Gadget Guy
+|-
+|[[Media:GamesCardIcons360.swf|360]]||Rockhopper's Cannon
+|}
+
+==400-499==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Name
+|-
+|[[Media:GamesCardIcons401.swf|401]]||Multi-Player
+|-
+|[[Media:GamesCardIcons402.swf|402]]||Fire Battle
+|-
+|[[Media:GamesCardIcons403.swf|403]]||Fired Up
+|-
+|[[Media:GamesCardIcons404.swf|404]]||Goldsmith
+|-
+|[[Media:GamesCardIcons405.swf|405]]||Scroll
+|-
+|[[Media:GamesCardIcons406.swf|406]]||Volcano
+|-
+|[[Media:GamesCardIcons407.swf|407]]||Ready For Battle
+|-
+|[[Media:GamesCardIcons408.swf|408]]||Flying Flippers Emporium
+|-
+|[[Media:GamesCardIcons409.swf|409]]||Duel
+|-
+|[[Media:GamesCardIcons410.swf|410]]||Concentrate
+|-
+|[[Media:GamesCardIcons411.swf|411]]||Interior Construction
+|-
+|[[Media:GamesCardIcons412.swf|412]]||Elements Hideout
+|-
+|[[Media:GamesCardIcons413.swf|413]]||Scavenger Hunt
+|-
+|[[Media:GamesCardIcons414.swf|414]]||Fire Wheel
+|-
+|[[Media:GamesCardIcons415.swf|415]]||Amulet Construction
+|-
+|[[Media:GamesCardIcons416.swf|416]]||Fire Dance
+|-
+|[[Media:GamesCardIcons417.swf|417]]||Sketched Action
+|-
+|[[Media:GamesCardIcons418.swf|418]]||Fire Guardian
+|-
+|[[Media:GamesCardIcons419.swf|419]]||Hot Sauce Reserve
+|-
+|[[Media:GamesCardIcons420.swf|420]]||Sketched: Volcano
+|-
+|[[Media:GamesCardIcons421.swf|421]]||Orange Sky
+|-
+|[[Media:GamesCardIcons422.swf|422]]||Sketched: Enter
+|-
+|[[Media:GamesCardIcons423.swf|423]]||Amulet
+|-
+|[[Media:GamesCardIcons424.swf|424]]||A New Journey
+|-
+|[[Media:GamesCardIcons425.swf|425]]||Fire Door & Key
+|-
+|[[Media:GamesCardIcons426.swf|426]]||Sensei Fire
+|-
+|[[Media:GamesCardIcons427.swf|427]]||Fire Ninja
+|}
+
+==500-599==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Name
+|-
+|[[Media:GamesCardIcons501.swf|501]]||Monkey King
+|-
+|[[Media:GamesCardIcons502.swf|502]]||Jet Pack Pilot
+|-
+|[[Media:GamesCardIcons503.swf|503]]||Fairy Princess
+|-
+|[[Media:GamesCardIcons504.swf|504]]||Puffle Grooming
+|-
+|[[Media:GamesCardIcons505.swf|505]]||Halloween Costumes
+|-
+|[[Media:GamesCardIcons506.swf|506]]||Costume Show
+|-
+|[[Media:GamesCardIcons507.swf|507]]||Soccer Match
+|-
+|[[Media:GamesCardIcons508.swf|508]]||Bean Counters
+|-
+|[[Media:GamesCardIcons509.swf|509]]||Earth Day Recycling
+|-
+|[[Media:GamesCardIcons510.swf|510]]||Penguin Play Awards
+|-
+|[[Media:GamesCardIcons511.swf|511]]||Goal!
+|-
+|[[Media:GamesCardIcons512.swf|512]]||Bamboo Forest Sketch
+|-
+|[[Media:GamesCardIcons513.swf|513]]||The Mine Cave is Safe!
+|-
+|[[Media:GamesCardIcons514.swf|514]]||Mine Cave Construction
+|-
+|[[Media:GamesCardIcons515.swf|515]]||Guardian Dog
+|-
+|[[Media:GamesCardIcons516.swf|516]]||The Fair
+|-
+|[[Media:GamesCardIcons517.swf|517]]||Hockey Gear
+|-
+|[[Media:GamesCardIcons518.swf|518]]||Puffle Show
+|-
+|[[Media:GamesCardIcons519.swf|519]]||Holiday Gifts
+|-
+|[[Media:GamesCardIcons520.swf|520]]||Holiday Activities
+|-
+|[[Media:GamesCardIcons521.swf|521]]||Stadium
+|-
+|[[Media:GamesCardIcons522.swf|522]]||Igloo Items
+|-
+|[[Media:GamesCardIcons523.swf|523]]||Music Jam
+|-
+|[[Media:GamesCardIcons524.swf|524]]||Elite Penguin Sketch
+|-
+|[[Media:GamesCardIcons525.swf|525]]||Festival of Flight
+|-
+|[[Media:GamesCardIcons526.swf|526]]||Test Glider
+|-
+|[[Media:GamesCardIcons527.swf|527]]||Puffle Paddle
+|-
+|[[Media:GamesCardIcons528.swf|528]]||Fancy Formal Wear
+|-
+|[[Media:GamesCardIcons529.swf|529]]||The Docks
+|-
+|[[Media:GamesCardIcons530.swf|530]]||Orange Puffle
+|-
+|[[Media:GamesCardIcons531.swf|531]]||Community Tree
+|-
+|[[Media:GamesCardIcons532.swf|532]]||Community Garden
+|-
+|[[Media:GamesCardIcons533.swf|533]]||Island Adventure Party
+|-
+|[[Media:GamesCardIcons534.swf|534]]||Shops in Igloos
+|-
+|[[Media:GamesCardIcons535.swf|535]]||Seafarer's Gown
+|-
+|[[Media:GamesCardIcons536.swf|536]]||Music Jam Dancers
+|-
+|[[Media:GamesCardIcons537.swf|537]]||Music Jam Rock Stage
+|-
+|[[Media:GamesCardIcons538.swf|538]]||Music Jam Pop Stage
+|-
+|[[Media:GamesCardIcons539.swf|539]]||Underwater Adventure
+|-
+|[[Media:GamesCardIcons540.swf|540]]||Norman Swarm
+|-
+|[[Media:GamesCardIcons541.swf|541]]||Puffle Rescuer
+|-
+|[[Media:GamesCardIcons542.swf|542]]||Everyday Phoning Facility
+|-
+|[[Media:GamesCardIcons543.swf|543]]||Jet Packs
+|-
+|[[Media:GamesCardIcons544.swf|544]]||Pumpkin Igloo
+|-
+|[[Media:GamesCardIcons545.swf|545]]||Treasure Hunt Adventure
+|-
+|[[Media:GamesCardIcons546.swf|546]]||Destroyed PSA HQ
+|-
+|[[Media:GamesCardIcons547.swf|547]]||Captains
+|-
+|[[Media:GamesCardIcons548.swf|548]]||April Fools
+|-
+|[[Media:GamesCardIcons549.swf|549]]||The Great Snow Maze
+|-
+|[[Media:GamesCardIcons550.swf|550]]||Jacques Hammer
+|-
+|[[Media:GamesCardIcons551.swf|551]]||Throne of April Fools
+|-
+|[[Media:GamesCardIcons552.swf|552]]||The Test
+|-
+|[[Media:GamesCardIcons553.swf|553]]||Cloud Maker 3000
+|-
+|[[Media:GamesCardIcons554.swf|554]]||Super Exclusives
+|-
+|[[Media:GamesCardIcons555.swf|555]]||Rockslide at the Mine
+|-
+|[[Media:GamesCardIcons556.swf|556]]||Mer-penguins
+|-
+|[[Media:GamesCardIcons557.swf|557]]||Puffer Fish
+|-
+|[[Media:GamesCardIcons558.swf|558]]||Garden Hose
+|-
+|[[Media:GamesCardIcons559.swf|559]]||Fixing the Mine Shack
+|-
+|[[Media:GamesCardIcons560.swf|560]]||Puffle Circus
+|-
+|[[Media:GamesCardIcons561.swf|561]]||Puffle Play Sketch
+|-
+|[[Media:GamesCardIcons562.swf|562]]||Dragon Statue
+|-
+|[[Media:GamesCardIcons563.swf|563]]||Popcorn Party
+|-
+|[[Media:GamesCardIcons564.swf|564]]||White Puffle Room
+|-
+|[[Media:GamesCardIcons565.swf|565]]||Green Puffle Sketch
+|-
+|[[Media:GamesCardIcons566.swf|566]]||Fishbowl Igloo
+|-
+|[[Media:GamesCardIcons567.swf|567]]||Ship Battle Adventure
+|-
+|[[Media:GamesCardIcons568.swf|568]]||Elite Penguin Force
+|-
+|[[Media:GamesCardIcons569.swf|569]]||Rockhopper's Notice Board
+|-
+|[[Media:GamesCardIcons570.swf|570]]||Squid Lid
+|-
+|[[Media:GamesCardIcons571.swf|571]]||Hidden Lake
+|-
+|[[Media:GamesCardIcons572.swf|572]]||Orange Puffle Wagon
+|-
+|[[Media:GamesCardIcons573.swf|573]]||Haunted House
+|-
+|[[Media:GamesCardIcons574.swf|574]]||Fire Dragon
+|-
+|[[Media:GamesCardIcons575.swf|575]]||Puffle Rescue: Underground
+|-
+|[[Media:GamesCardIcons576.swf|576]]||Double Necked Guitar
+|-
+|[[Media:GamesCardIcons577.swf|577]]||Puffle Rescue: Ice Floes
+|-
+|[[Media:GamesCardIcons578.swf|578]]||Spy Phone
+|-
+|[[Media:GamesCardIcons579.swf|579]]||Dance Contest
+|-
+|[[Media:GamesCardIcons580.swf|580]]||Crab Costume
+|-
+|[[Media:GamesCardIcons581.swf|581]]||Puffle Washer
+|-
+|[[Media:GamesCardIcons582.swf|582]]||Green Jackhammer
+|-
+|[[Media:GamesCardIcons583.swf|583]]||The Veggie Villain
+|-
+|[[Media:GamesCardIcons584.swf|584]]||Island Lifter 3000
+|-
+|[[Media:GamesCardIcons585.swf|585]]||Flare
+|-
+|[[Media:GamesCardIcons586.swf|586]]||Popcorn Device
+|-
+|[[Media:GamesCardIcons587.swf|587]]||Field-Ops
+|-
+|[[Media:GamesCardIcons588.swf|588]]||Recipe for Disaster
+|-
+|[[Media:GamesCardIcons589.swf|589]]||Elite Agent
+|-
+|[[Media:GamesCardIcons590.swf|590]]||Aunt Arctic Sketch
+|-
+|[[Media:GamesCardIcons591.swf|591]]||Yeti Cave
+|-
+|[[Media:GamesCardIcons592.swf|592]]||Shocktopus
+|-
+|[[Media:GamesCardIcons593.swf|593]]||Puffle Rescue: Underwater
+|-
+|[[Media:GamesCardIcons594.swf|594]]||Hidden Lake Lock
+|-
+|[[Media:GamesCardIcons595.swf|595]]||Knight's Quest
+|}
+
+==600-699==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Name
+|-
+|[[Media:GamesCardIcons601.swf|601]]||Spooky Igloo Contest
+|-
+|[[Media:GamesCardIcons602.swf|602]]||Halloween Countdown!
+|-
+|[[Media:GamesCardIcons603.swf|603]]||Stormy Skies
+|-
+|[[Media:GamesCardIcons604.swf|604]]||5th Anniversary Party
+|-
+|[[Media:GamesCardIcons605.swf|605]]||5th Anniversary Cake
+|-
+|[[Media:GamesCardIcons606.swf|606]]||5th Anniversary Yearbook
+|-
+|[[Media:GamesCardIcons607.swf|607]]||Snowball Fight!
+|-
+|[[Media:GamesCardIcons608.swf|608]]||Find Four
+|-
+|[[Media:GamesCardIcons609.swf|609]]||Cozy Ski Lodge
+|-
+|[[Media:GamesCardIcons610.swf|610]]||Holiday Decorations!
+|-
+|[[Media:GamesCardIcons611.swf|611]]||Book Room Adventures
+|-
+|[[Media:GamesCardIcons612.swf|612]]||Halloween Forest
+|-
+|[[Media:GamesCardIcons613.swf|613]]||Brown Puffle Rocket
+|-
+|[[Media:GamesCardIcons614.swf|614]]||Fun at the Fair!
+|-
+|[[Media:GamesCardIcons615.swf|615]]||Ski Hill Challenge
+|-
+|[[Media:GamesCardIcons616.swf|616]]||Holiday Party Skating
+|-
+|[[Media:GamesCardIcons617.swf|617]]||Treasure!
+|-
+|[[Media:GamesCardIcons618.swf|618]]||Lumberjack Look
+|-
+|[[Media:GamesCardIcons619.swf|619]]||Pink Sparkle Snowshoes
+|-
+|[[Media:GamesCardIcons620.swf|620]]||Holiday Tree 2010
+|-
+|[[Media:GamesCardIcons621.swf|621]]||Fill the Lighthouse!
+|-
+|[[Media:GamesCardIcons622.swf|622]]||Wilderness Machine
+|-
+|[[Media:GamesCardIcons623.swf|623]]||Expedition Boat
+|-
+|[[Media:GamesCardIcons624.swf|624]]||Wilderness Expedition Cave
+|-
+|[[Media:GamesCardIcons625.swf|625]]||Water Party Prep
+|-
+|[[Media:GamesCardIcons626.swf|626]]||Water Dance
+|-
+|[[Media:GamesCardIcons627.swf|627]]||Stamp Collectors
+|-
+|[[Media:GamesCardIcons628.swf|628]]||Explore the Wilderness
+|-
+|[[Media:GamesCardIcons629.swf|629]]||Coins for Change 2010!
+|-
+|[[Media:GamesCardIcons630.swf|630]]||Penguin Colors
+|-
+|[[Media:GamesCardIcons631.swf|631]]||Fairy Fables
+|-
+|[[Media:GamesCardIcons632.swf|632]]||Penguins That Time Forgot
+|-
+|[[Media:GamesCardIcons633.swf|633]]||EPF Sketch
+|-
+|[[Media:GamesCardIcons634.swf|634]]||Cove Stories
+|-
+|[[Media:GamesCardIcons635.swf|635]]||Orange Circus Puffle
+|-
+|[[Media:GamesCardIcons636.swf|636]]||Hydro Hopper
+|-
+|[[Media:GamesCardIcons637.swf|637]]||Igloo Party!
+|-
+|[[Media:GamesCardIcons638.swf|638]]||Life Underwater
+|-
+|[[Media:GamesCardIcons639.swf|639]]||Herbert's Monologue
+|-
+|[[Media:GamesCardIcons640.swf|640]]||Enemy Bots
+|-
+|[[Media:GamesCardIcons641.swf|641]]||Paint By Letters
+|-
+|[[Media:GamesCardIcons642.swf|642]]||Secret Agent
+|-
+|[[Media:GamesCardIcons643.swf|643]]||Fireworks
+|-
+|[[Media:GamesCardIcons644.swf|644]]||EPF Tech Agent
+|-
+|[[Media:GamesCardIcons645.swf|645]]||Popcorn Explosion
+|-
+|[[Media:GamesCardIcons646.swf|646]]||Walk Your Puffle
+|-
+|[[Media:GamesCardIcons647.swf|647]]||Sumo Smash
+|-
+|[[Media:GamesCardIcons648.swf|648]]||inventive Brown Puffle
+|-
+|[[Media:GamesCardIcons649.swf|649]]||Holiday Party Tree
+|-
+|[[Media:GamesCardIcons650.swf|650]]||EPF Enemies
+|-
+|[[Media:GamesCardIcons651.swf|651]]||Tall Tree Maze
+|-
+|[[Media:GamesCardIcons652.swf|652]]||Sled 'n Slide
+|-
+|[[Media:GamesCardIcons653.swf|653]]||Underwater at the Stage
+|-
+|[[Media:GamesCardIcons654.swf|654]]||Wilderness Expedition Travel
+|-
+|[[Media:GamesCardIcons655.swf|655]]||Catch the Mullet!
+|-
+|[[Media:GamesCardIcons656.swf|656]]||Great Puffle Circus
+|-
+|[[Media:GamesCardIcons657.swf|657]]||Intense Black Puffle
+|-
+|[[Media:GamesCardIcons658.swf|658]]||Brown Puffle Storyboard
+|-
+|[[Media:GamesCardIcons659.swf|659]]||Java Jump
+|-
+|[[Media:GamesCardIcons660.swf|660]]||Master the Elements
+|-
+|[[Media:GamesCardIcons661.swf|661]]||Fairy Fables Stage
+|-
+|[[Media:GamesCardIcons662.swf|662]]||Creative Puffles
+|-
+|[[Media:GamesCardIcons663.swf|663]]||Goofy Green Puffle
+|-
+|[[Media:GamesCardIcons664.swf|664]]||EPF Test Room
+|-
+|[[Media:GamesCardIcons665.swf|665]]||Snowball Battle
+|-
+|[[Media:GamesCardIcons666.swf|666]]||Fabulous Purple Puffle
+|-
+|[[Media:GamesCardIcons667.swf|667]]||Water Party Sketch
+|-
+|[[Media:GamesCardIcons668.swf|668]]||Zany Orange Puffle
+|-
+|[[Media:GamesCardIcons669.swf|669]]||Sporty Pink Puffle
+|-
+|[[Media:GamesCardIcons670.swf|670]]||Wii Game Day "Goal!"
+|-
+|[[Media:GamesCardIcons671.swf|671]]||Epic White Puffle
+|-
+|[[Media:GamesCardIcons672.swf|672]]||Awesome Blue Puffle
+|-
+|[[Media:GamesCardIcons673.swf|673]]||"Feed a Puffle"
+|-
+|[[Media:GamesCardIcons674.swf|674]]||Ninja Battle
+|-
+|[[Media:GamesCardIcons675.swf|675]]||The Mystery of Sensei
+|-
+|[[Media:GamesCardIcons676.swf|676]]||Master the Elements
+|-
+|[[Media:GamesCardIcons677.swf|677]]||Brown Puffle
+|-
+|[[Media:GamesCardIcons678.swf|678]]||Fire Wave
+|-
+|[[Media:GamesCardIcons679.swf|679]]||Black Puffles in Cart Surfer
+|-
+|[[Media:GamesCardIcons680.swf|680]]||Mountain Expedition
+|-
+|[[Media:GamesCardIcons681.swf|681]]||Climbing the Mountain
+|-
+|[[Media:GamesCardIcons682.swf|682]]||Top of Toughest Mountain
+|-
+|[[Media:GamesCardIcons683.swf|683]]||Cart Surfer Stamps
+|-
+|[[Media:GamesCardIcons684.swf|684]]||Stamp Book
+|-
+|[[Media:GamesCardIcons685.swf|685]]||Stormy Sky 
+|-
+|[[Media:GamesCardIcons686.swf|686]]||Water Wave Sketches
+|-
+|[[Media:GamesCardIcons687.swf|687]]||Storm Baffles Gary
+|-
+|[[Media:GamesCardIcons688.swf|688]]||Water Ninja
+|-
+|[[Media:GamesCardIcons689.swf|689]]||The First Rainstorm
+|-
+|[[Media:GamesCardIcons690.swf|690]]||Ninja Face-off
+|-
+|[[Media:GamesCardIcons691.swf|691]]||Earning the Water Suit
+|-
+|[[Media:GamesCardIcons692.swf|692]]||Water Pumping Gadget
+|-
+|[[Media:GamesCardIcons693.swf|693]]||Preparing the Water Dojo
+|-
+|[[Media:GamesCardIcons694.swf|694]]||Gate to the Water Dojo
+|-
+|[[Media:GamesCardIcons695.swf|695]]||Water Suit
+|-
+|[[Media:GamesCardIcons696.swf|696]]||Sign From The Elements
+|-
+|[[Media:GamesCardIcons697.swf|697]]||Sensei - Master of Water
+|-
+|[[Media:GamesCardIcons698.swf|698]]||Water Ninja Poster Sketch
+|-
+|[[Media:GamesCardIcons699.swf|699]]||Water Ninja Sketch
+|}
+
+==700-799==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Name
+|-
+|[[Media:GamesCardIcons700.swf|700]]||Water Beats Fire Sketch
+|-
+|[[Media:GamesCardIcons701.swf|701]]||Blast
+|-
+|[[Media:GamesCardIcons702.swf|702]]||Flare
+|-
+|[[Media:GamesCardIcons703.swf|703]]||Chirp
+|-
+|[[Media:GamesCardIcons704.swf|704]]||Pop
+|-
+|[[Media:GamesCardIcons705.swf|705]]||Loop
+|-
+|[[Media:GamesCardIcons706.swf|706]]||Flit
+|-
+|[[Media:GamesCardIcons707.swf|707]]||Bouncer
+|-
+|[[Media:GamesCardIcons708.swf|708]]||Ed McCool and Destructo
+|-
+|[[Media:GamesCardIcons709.swf|709]]||Niblet
+|-
+|[[Media:GamesCardIcons710.swf|710]]||Snowy Night
+|-
+|[[Media:GamesCardIcons711.swf|711]]||Puffles on the Loose
+|-
+|[[Media:GamesCardIcons712.swf|712]]||Cadence and the Keeper
+|-
+|[[Media:GamesCardIcons713.swf|713]]||Golden puffle
+|-
+|[[Media:GamesCardIcons714.swf|714]]||Meteor puffle
+|-
+|[[Media:GamesCardIcons715.swf|715]]||Rainbow puffle
+|-
+|[[Media:GamesCardIcons716.swf|716]]||Abominable snow puffle
+|-
+|[[Media:GamesCardIcons717.swf|717]]||Black Puffle
+|-
+|[[Media:GamesCardIcons718.swf|718]]||Blue Puffle
+|-
+|[[Media:GamesCardIcons719.swf|719]]||Pink Puffle
+|-
+|[[Media:GamesCardIcons720.swf|720]]||Green Puffle
+|-
+|[[Media:GamesCardIcons721.swf|721]]||Purple Puffle
+|-
+|[[Media:GamesCardIcons722.swf|722]]||Red Puffle
+|-
+|[[Media:GamesCardIcons723.swf|723]]||Yellow Puffle
+|-
+|[[Media:GamesCardIcons724.swf|724]]||Puffle Round Up
+|-
+|[[Media:GamesCardIcons725.swf|725]]||Fire Ninja Force
+|-
+|[[Media:GamesCardIcons726.swf|726]]||Halloween Swamp
+|-
+|[[Media:GamesCardIcons727.swf|727]]||Prepare for Pumpkins
+|-
+|[[Media:GamesCardIcons728.swf|728]]||Finding Rockhopper
+|-
+|[[Media:GamesCardIcons729.swf|729]]||Elite Puffle: Flare
+|-
+|[[Media:GamesCardIcons730.swf|730]]||Giant Pearl
+|-
+|[[Media:GamesCardIcons731.swf|731]]||Water Stamps
+|-
+|[[Media:GamesCardIcons732.swf|732]]||EPF Agents
+|-
+|[[Media:GamesCardIcons733.swf|733]]||Puffle Rescue
+|-
+|[[Media:GamesCardIcons734.swf|734]]||Fire Dojo Challenge
+|-
+|[[Media:GamesCardIcons735.swf|735]]||System Defender
+|-
+|[[Media:GamesCardIcons736.swf|736]]||Adventurous Red Puffle
+|-
+|[[Media:GamesCardIcons737.swf|737]]||G and the Machine
+|-
+|[[Media:GamesCardIcons738.swf|738]]||Enemies of the System
+|-
+|[[Media:GamesCardIcons739.swf|739]]||Holiday Dojo Lights
+|-
+|[[Media:GamesCardIcons740.swf|740]]||Wii Rollin' Riot
+|-
+|[[Media:GamesCardIcons741.swf|741]]||EPF Under Attack
+|-
+|[[Media:GamesCardIcons742.swf|742]]||Elite Comm Class Agents
+|-
+|[[Media:GamesCardIcons743.swf|743]]||Brown Puffle Cliff
+|-
+|[[Media:GamesCardIcons744.swf|744]]||Coins for Change Goal!
+|-
+|[[Media:GamesCardIcons745.swf|745]]||Sensei Water Battle 
+|-
+|[[Media:GamesCardIcons746.swf|746]]||Green Puffles in Jet Pack Adve
+|-
+|[[Media:GamesCardIcons747.swf|747]]||Water Dojo
+|-
+|[[Media:GamesCardIcons748.swf|748]]||White Puffle
+|-
+|[[Media:GamesCardIcons749.swf|749]]||Yarr
+|-
+|[[Media:GamesCardIcons750.swf|750]]||Keeper of the Boiler Room
+|}
+
+==800-899==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Name
+|-
+|[[Media:GamesCardIcons801.swf|801]]||Mobile Fire 1
+|-
+|[[Media:GamesCardIcons802.swf|802]]||Mobile Snow 1
+|-
+|[[Media:GamesCardIcons803.swf|803]]||Mobile Water 1
+|-
+|[[Media:GamesCardIcons804.swf|804]]||Mobile Fire Power Card 1
+|}

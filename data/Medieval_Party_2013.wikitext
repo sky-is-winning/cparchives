@@ -1,0 +1,107 @@
+
+
+==Rooms==
+===Construction===
+{|class="wikitable" style="margin:auto;"
+!Room!!Music
+|-
+|[[Media:RoomsDock-MedievalParty2013Construction.swf|Dock]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:RoomsForest-MedievalParty2013Construction.swf|Forest]]||[[Media:Music382.swf|382]]
+|-
+|[[Media:RoomsShack-MedievalParty2013Construction.swf|Mine Shack]]||[[Media:Music383.swf|383]]
+|-
+|[[Media:RoomsSchool-MedievalParty2013Construction.swf|School]]||[[Media:Music436.swf|436]]
+|-
+|[[Media:RoomsForts-MedievalParty2013Construction.swf|Snow Forts]]||[[Media:Music383.swf|383]]
+|-
+|[[Media:RoomsTown-MedievalParty2013Construction.swf|Town]]||[[Media:Music383.swf|383]]
+|}
+
+===Party===
+{|class="wikitable" style="margin:auto;"
+!Room!!Music
+|-
+|[[Media:RoomsCoffee-MedievalParty2013.swf|Coffee Shop]]||[[Media:Music480.swf|480]]
+|-
+|[[Media:RoomsParty1-MedievalParty2013.swf|Dining Hall]]||[[Media:Music484.swf|484]]
+|-
+|[[Media:RoomsDock-MedievalParty2013.swf|Dock]]||[[Media:Music481.swf|481]]
+|-
+|[[Media:RoomsForest-MedievalParty2013.swf|Forest]]||[[Media:Music482.swf|482]]
+|-
+|[[Media:RoomsShack-MedievalParty2013.swf|Mine Shack]]||[[Media:Music489.swf|489]]
+|-
+|[[Media:RoomsDance-MedievalParty2013.swf|Night Club]]||[[Media:Music493.swf|493]]
+|-
+|[[Media:RoomsPizza-MedievalParty2013.swf|Pizza Parlor]]||[[Media:Music485.swf|485]]
+|-
+|[[Media:RoomsPlaza-MedievalParty2013.swf|Plaza]]||[[Media:Music486.swf|486]]
+|-
+|[[Media:RoomsSchool-MedievalParty2013.swf|School]]||[[Media:Music436.swf|436]]
+|-
+|[[Media:RoomsForts-MedievalParty2013.swf|Snow Forts]]||[[Media:Music483.swf|483]]
+|-
+|[[Media:RoomsRink-MedievalParty2013.swf|Stadium]]||[[Media:Music487.swf|487]]
+|-
+|[[Media:RoomsTown-MedievalParty2013.swf|Town]]||[[Media:Music490.swf|490]]
+|-
+|[[Media:RoomsParty2-MedievalParty2013.swf|Wizard Library]]||[[Media:Music494.swf|494]]
+|}
+
+==Catalogs/Books==
+{|class="wikitable" style="margin:auto;"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)!!Deutsch (German)
+|-
+|[[Media:ENClose upsQuest book-MedievalParty2013.swf|Book of Potions]]||[[Media:PTClose upsQuest book-MedievalParty2013.swf|Book of Potions]]||[[Media:FRClose upsQuest book-MedievalParty2013.swf|Book of Potions]]||[[Media:ESClose upsQuest book-MedievalParty2013.swf|Book of Potions]]||[[Media:DEClose upsQuest book-MedievalParty2013.swf|Book of Potions]]
+|-
+|[[Media:ENCataloguesParty-MedievalParty2013.swf|Medieval Catalog]]||[[Media:PTCataloguesParty-MedievalParty2013.swf|Medieval Catalog]]||[[Media:FRCataloguesParty-MedievalParty2013.swf|Medieval Catalog]]||[[Media:ESCataloguesParty-MedievalParty2013.swf|Medieval Catalog]]||[[Media:DECataloguesParty-MedievalParty2013.swf|Medieval Catalog]]
+|}
+
+==Dialogue==
+{|class="wikitable" style="margin:auto;"
+!Dialogue
+|-
+|[[Media:Close upsCharacter dialogue soloroom-MedievalParty2013.swf|Soloroom]]
+|-
+|[[Media:Close upsCharacter dialogue reminder-MedievalParty2013.swf|New Potion Reminder]]
+|-
+|[[Media:Close upsCharacter dialogue final ingredient-MedievalParty2013.swf|Final Ingredient]]
+|-
+|[[Media:Close upsCharacter dialogue game success-MedievalParty2013.swf|Game Success]]
+|-
+|[[Media:Close upsCharacter dialogue game fail-MedievalParty2013.swf|Game Failure]]
+|}
+
+==Membership Notices==
+{|class="wikitable" style="margin:auto;"
+!Name!!colspan=5|SWF
+|-
+|party1||[[Media:ENMembershipParty1-Medieval2013.swf|English]]||[[Media:PTMembershipParty1-Medieval2013.swf|Português]]||[[Media:FRMembershipParty1-Medieval2013.swf|Français]]||[[Media:ESMembershipParty1-Medieval2013.swf|Español]]||[[Media:DEMembershipParty1-Medieval2013.swf|Deutsch]]
+|-
+|party2||[[Media:ENMembershipParty2-Medieval2013.swf|English]]||[[Media:PTMembershipParty2-Medieval2013.swf|Português]]||[[Media:FRMembershipParty2-Medieval2013.swf|Français]]||[[Media:ESMembershipParty2-Medieval2013.swf|Español]]||[[Media:DEMembershipParty2-Medieval2013.swf|Deutsch]]
+|}
+
+==Login Screen==
+{|class="wikitable" style="margin:auto;"
+!Name!!colspan=5|SWF
+|-
+|medieval-preawareness||[[Media:LoginScreen-ENMedieval-preawareness.swf|English]]||[[Media:LoginScreen-PTMedieval-preawareness.swf|Português]]||[[Media:LoginScreen-FRMedieval-preawareness.swf|Français]]||[[Media:LoginScreen-ESMedieval-preawareness.swf|Español]]||[[Media:LoginScreen-DEMedieval-preawareness.swf|Deutsch]]
+|-
+|medieval-onnow-1||[[Media:LoginScreen-ENMedieval-onnow-1.swf|English]]||[[Media:LoginScreen-PTMedieval-onnow-1.swf|Português]]||[[Media:LoginScreen-FRMedieval-onnow-1.swf|Français]]||[[Media:LoginScreen-ESMedieval-onnow-1.swf|Español]]||[[Media:LoginScreen-DEMedieval-onnow-1.swf|Deutsch]]
+|-
+|medieval-onnow-2||[[Media:LoginScreen-ENMedieval-onnow-2.swf|English]]||<span class="plainlinks">[http://web.archive.org/web/20150518203655/http://www.clubpenguin.com/pt/swf/medieval-onnow-2?response_type=embed Português]</span>*||[[Media:LoginScreen-FRMedieval-onnow-2.swf|Français]]||[[Media:LoginScreen-ESMedieval-onnow-2.swf|Español]]||[[Media:LoginScreen-DEMedieval-onnow-2.swf|Deutsch]]
+|}
+<small>*The file exists, however, cannot be uploaded to the wiki for unknown reasons.</small>
+
+==Content==
+{|class="wikitable" style="margin:auto;"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)!!Deutsch (German)
+|-
+| colspan="5" rowspan="1"|[[Media:ContentParty icon-MedievalParty2013.swf|Party Icon (any)]]
+|-
+|[[Media:ENClose upsParty map note-MedievalParty2013.swf|Map Note]]||[[Media:PTClose upsParty map note-MedievalParty2013.swf|Map Note]]||[[Media:FRClose upsParty map note-MedievalParty2013.swf|Map Note]]||[[Media:ESClose upsParty map note-MedievalParty2013.swf|Map Note]]||[[Media:DEClose upsParty map note-MedievalParty2013.swf|Map Note]]
+|}
+
+
+{{Parties}}

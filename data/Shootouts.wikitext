@@ -1,0 +1,11 @@
+
+
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:GamesSoccerSoccer.swf|soccer]]
+|-
+|[[Media:ClientGame_launcher 2.swf|game_launcher]]
+|}
+</center>

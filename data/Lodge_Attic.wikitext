@@ -1,0 +1,60 @@
+
+{{needSWFs}}
+
+==Normal==
+{|class="wikitable" border="1" style="margin: auto;"
+!SWF!!Year(s)
+|-
+|[[Media:ArtworkRoomsAttic12.swf|attic12]]||2006
+|-
+|[[Media:RoomsAttic_1.swf|attic]]||2006-2015
+|-
+|[[Media:RoomsAttic.swf|attic]]||???
+|-
+|[[Media:RoomsAttic_2.swf|attic]]||March 2015-April 2015
+|-
+|[[Media:RoomsAttic-May2015.swf|attic]]||April 2015-March 2017
+|}
+
+==Parties and Events==
+{|class="wikitable" border="1" style="margin: auto;"
+!Event
+!Music
+!Year
+|-
+|[[Media:RoomsAttic-ChristmasParty2007.swf|Christmas Party]]||||2007
+|-
+|[[Media:ArtworkRooms0328Attic42.swf|April Fools' Party]]||[[Media:Music201.swf|201]]||2008
+|-
+|[[Media:Rooms0516Attic50.swf|Medieval Party]]||[[Media:Music234.swf|234]]||2008
+|-
+|[[Media:HalloweenParty2009RoomsAttic.swf|Halloween Party]]||[[Media:Music252.swf|252]]||2009
+|-
+|[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/attic.swf Holiday Party]||||2009
+|-
+|[/swf.cpcheats.info/rooms/2010/medieval_party_may/attic.swf Medieval Party]||||2010
+|-
+|[[Media:HalloweenParty2010Attic.swf|Halloween Party]]||||2010
+|-
+|[[Media:RoomsAttic-February2011.swf|Blue Puffle Pin]]||||2011
+|-
+|[[Media:MedievalParty2011Attic.swf|Medieval Party]]||||2011
+|-
+|[[Media:HalloweenParty2011Attic.swf|Halloween Party]]||||2011
+|-
+|[[Media:HolidayParty2011Attic.swf|Holiday Party]]||||2011
+|-
+|[[Media:MedievalParty2012attic.swf|Medieval Party]]||||2012
+|-
+|[[Media:UltimateJamAttic.swf|Make Your Mark: Ultimate Jam]]||||2012
+|-
+|[[Media:HalloweenParty2012Attic.swf|Halloween Party]]||||2012
+|-
+|[[Media:RoomsLodge-HalloweenParty2013.swf|Halloween Party 2013]]||||2013
+|-
+|[[Media:OperationPuffleRoomsAttic.swf|Operation Puffle]]||||2013
+|-
+|[[Media:RoomsAttic-HolidayParty2013.swf|Holiday Party]]||||2013
+|}
+
+{{Places}}

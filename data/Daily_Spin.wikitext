@@ -1,0 +1,24 @@
+
+
+==Grab and Spin==
+*[[Media:Grab&Spin.swf|Grab and Spin]]
+
+==Daily Spin==
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|bootstrap||[[Media:GamesSpinBootstrap.swf|All]]
+|-
+|locale||[[Media:GamesSpinLangENLocale.swf|English]]<br>[[Media:GamesSpinLangPTLocale.swf|Portuguese]]<br>[[Media:GamesSpinLangFRLocale.swf|French]]<br>[[Media:GamesSpinLangESLocale.swf|Spanish]]<br>[[Media:GamesSpinLangDELocale.swf|German]]<br>[[Media:GamesSpinLangRULocale.swf|Russian]]
+|-
+|Main||[[Media:GamesSpinMain.swf|All]]
+|-
+|music||[[Media:Music618.swf|All]]
+|-
+|spin||[[Media:GamesSpinLangENSpin.swf|English]]<br>[[Media:GamesSpinLangPTSpin.swf|Portuguese]]<br>[[Media:GamesSpinLangFRSpin.swf|French]]<br>[[Media:GamesSpinLangESSpin.swf|Spanish]]<br>[[Media:GamesSpinLangDESpin.swf|German]]<br>[[Media:GamesSpinLangRUSpin.swf|Russian]]
+|-
+|title||[[Media:GamesSpinLangENTitle.swf|English]]<br>[[Media:GamesSpinLangPTTitle.swf|Portuguese]]<br>[[Media:GamesSpinLangFRTitle.swf|French]]<br>[[Media:GamesSpinLangESTitle.swf|Spanish]]<br>[[Media:GamesSpinLangDETitle.swf|German]]<br>[[Media:GamesSpinLangRUTitle.swf|Russian]]
+|}
+</center>

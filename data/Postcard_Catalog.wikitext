@@ -1,0 +1,25 @@
+
+
+==Penguin Mail Postcards (2008-2017)==
+{|class="wikitable" border="1" style="margin: auto;"
+!Date!!SWF
+|-
+|2014||[[Media:ClientBook.swf|book]]
+|}
+
+==Post Card Catalog (2006 — 2008)==
+{|class="wikitable" border="1" style="margin: auto;"
+!Month!!SWF
+|-
+|June 2006||[[Media:ArtworkCatalogueCards 0606.swf|cards 0606]]
+|-
+|July 2006||[[Media:ArtworkCatalogueCards 0607.swf|cards 0607]]
+|-
+|August 2006||[[Media:ArtworkCatalogueCards 0608.swf|cards 0608]]
+|-
+|September 2006||[[Media:ArtworkCatalogueCards 0609.swf|cards 0609]]
+|-
+|October 2007||[[Media:ArtworkCatalogueCards 0710.swf|cards 0710]]
+|-
+|December 2007||[[Media:ArtworkCatalogueCards 0712.swf|cards 0712]]
+|}

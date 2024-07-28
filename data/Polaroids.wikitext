@@ -1,0 +1,10 @@
+==Current==
+{| class="wikitable sortable plainlinks"
+! File Name
+! JSON
+! JSONP
+|-
+| polaroids || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/polaroids.json en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/polaroids.json pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/polaroids.json fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/polaroids.json es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/polaroids.json de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/polaroids.json ru] || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/polaroids.jsonp en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/polaroids.jsonp pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/polaroids.jsonp fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/polaroids.jsonp es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/polaroids.jsonp de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/polaroids.jsonp ru]
+|}
+==2015==
+{{2015GameConfigs|title=polaroids}}

@@ -1,0 +1,10 @@
+==Current==
+{| class="wikitable sortable plainlinks"
+! File Name
+! JSON
+! JSONP
+|-
+| igloo_locations || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/igloo_locations.json en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/igloo_locations.json pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/igloo_locations.json fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/igloo_locations.json es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/igloo_locations.json de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/igloo_locations.json ru] || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/igloo_locations.jsonp en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/igloo_locations.jsonp pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/igloo_locations.jsonp fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/igloo_locations.jsonp es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/igloo_locations.jsonp de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/igloo_locations.jsonp ru]
+|}
+==2015==
+{{2015GameConfigs|title=igloo_locations}}

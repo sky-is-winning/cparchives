@@ -1,0 +1,43 @@
+
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[[Media:FFBeach.swf|Beach]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFBeacon.swf|Beacon]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFCave.swf|Cave]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFCoffeeShop.swf|Coffee Shop]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFCove.swf|Cove]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFDanceClub.swf|Dance Club]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:RoomsLounge-FallFair2008.swf|Dance Lounge]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFDock.swf|Dock]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFForest.swf|Forest]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFIceBerg.swf|Ice Berg]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFMine.swf|Mine]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFParty.swf|Party]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFPizzaParlor.swf|Pizza Parlor]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFSkiHill.swf|Ski Hill]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFSkiVillage.swf|Ski Village]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFSnowForts.swf|Snow Forts]]||[[Media:Music221.swf|221]]
+|-
+|[[Media:FFTown.swf|Town]]||[[Media:Music221.swf|221]]
+|}
+
+{{Parties}}
+

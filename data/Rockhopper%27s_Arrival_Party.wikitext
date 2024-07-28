@@ -1,0 +1,31 @@
+{{NeedSWFs|Music for Coffee Shop, Night Club, Ship & Ship Hold}}
+
+
+==Rooms & Music==
+{|class="wikitable" border="1" style="margin: auto;"
+!Room!!Music
+|-
+|[[Media:ArtworkRooms0425Beach50.swf|Beach]]||[[Media:Music212.swf|212]]
+|-
+|[[Media:ArtworkRooms0425Coffee51.swf|Coffee Shop]]||{{n/a|?}}
+|-
+|[[Media:ArtworkRooms0425Dock50.swf|Dock]]||[[Media:Music212.swf|212]]
+|-
+|[[Media:ArtworkRooms0425Dance50.swf|Night Club]]||{{n/a|?}}
+|-
+|[[Media:ArtworkRooms0425Plaza50.swf|Plaza]]||[[Media:Music212.swf|212]]
+|-
+|[[Media:ArtworkRooms0425Ship50.swf|Ship]]||{{n/a|?}}
+|-
+|[[Media:ArtworkRooms0425Shiphold50.swf|Ship Hold]]||{{n/a|?}}
+|-
+|[[Media:ArtworkRooms0425Village50.swf|Ski Village]]||[[Media:Music212.swf|212]]
+|-
+|[[Media:ArtworkRooms0425Forts50.swf|Snow Forts]]||[[Media:Music212.swf|212]]
+|-
+|[[Media:ArtworkRooms0425Town50.swf|Town]]||[[Media:Music212.swf|212]]
+|}
+
+
+{{Parties}}
+

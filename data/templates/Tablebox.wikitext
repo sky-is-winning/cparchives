@@ -1,0 +1,1 @@
+<td {{{2}}} style="background: {{{1}}}; width: 1em; height: 1em"></td>

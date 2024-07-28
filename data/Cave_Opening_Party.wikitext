@@ -1,0 +1,19 @@
+{{NoSWFs}}
+
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|{{n/a|Boiler Room}}||[[Media:Music203.swf|203]]
+|-
+|{{n/a|Cave}}||[[Media:Music202.swf|202]]
+|-
+|[[Media:ArtworkRoomsMine12.swf|Mine]]||[[Media:Music203.swf|203]]
+|-
+|{{n/a|Night Club}}||[[Media:Music2.swf|2]]
+|-
+|{{n/a|Plaza}}||[[Media:Music203.swf|203]]
+|}
+
+{{Parties}}

@@ -1,0 +1,46 @@
+
+
+==Rooms==
+===Construction===
+*[[Media:RoomsBeacon-PuffleParty2009Pre.swf|Beacon]]
+*[[Media:RoomsCave-PuffleParty2009Pre.swf|Cave]]
+*[[Media:RoomsCove-PuffleParty2009Pre.swf|Cove]]
+*[[Media:RoomsForest-PuffleParty2009Pre.swf|Forest]]
+*[[Media:RoomsBerg-PuffleParty2009Pre.swf|Iceberg]]
+*[[Media:RoomsLight-PuffleParty2009Pre.swf|Lighthouse]]
+*[[Media:RoomsDance-PuffleParty2009Pre.swf|Night Club]]
+*[[Media:RoomsPlaza-PuffleParty2009Pre.swf|Plaza]]
+*[[Media:RoomsVillage-PuffleParty2009Pre.swf|Ski Village]]
+*[[Media:RoomsTown-PuffleParty2009Pre.swf|Town]]
+
+===Party===
+<div class="plainlinks">
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220beach.swf Beach]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220beacon.swf Beacon]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220cave.swf Cave]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220cove.swf Cove]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220dance.swf Dance Club]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220dock.swf Dock]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220dojoext.swf Dojo Courtyard]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220forest.swf Forest]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220berg.swf Iceberg]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220light.swf Lighthouse]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220mtn.swf Mountain]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220pet.swf Pet Shop]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220plaza.swf Plaza]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220party.swf Puffle Feeding Area]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/1229attic.swf Ski Attic]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220village.swf Ski Village]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220forts.swf Snow Forts]
+*[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220town.swf Town]
+</div>
+
+==Music==
+*[[Media:Music259.swf|Main Music]]
+*[[Media:Music260.swf|Other Areas]]
+*[[Media:Music261.swf|Pet Shop and Puffle Feeding Area]]
+*[[Media:Music240.swf|Cave]]
+*[[Media:Music243.swf|Night Club]]
+*[[Media:Music31.swf|Lighthouse]]
+{{Parties}}
+

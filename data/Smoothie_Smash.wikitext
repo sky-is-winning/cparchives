@@ -1,0 +1,6 @@
+
+
+*[[Media:SmoothieSmash.swf|Smoothie Smash]]
+*[[Media:SmoothieSmashMenu.swf|Smoothie Smash (Menu Screen)]]
+*[[Media:SplashBGM.swf|Smoothie Smash Music]]
+*[[Media:MainBGM.swf|Smoothie Smash (While Playing) Music]]

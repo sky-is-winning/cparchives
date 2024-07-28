@@ -1,0 +1,88 @@
+
+
+==Rooms==
+<center>
+{|class="wikitable"
+!Room!!Music
+|-
+|[[Media:RoomsDock-WildernessExpedition2016.swf|Dock]]||[[Media:Music1115.swf|1115]]
+|-
+|[[Media:RoomsParty1-WildernessExpedition2016.swf|Wilderness room 1]]||[[Media:Music1114.swf|1114]]
+|-
+|[[Media:RoomsParty2-WildernessExpedition2016.swf|Wilderness room 2]]||[[Media:Music1114.swf|1114]]
+|-
+|[[Media:RoomsParty3-WildernessExpedition2016.swf|Wilderness room 3]]||[[Media:Music1114.swf|1114]]
+|-
+|[[Media:RoomsParty4-WildernessExpedition2016.swf|Wilderness room 4]]||[[Media:Music1113.swf|1113]]
+|-
+|[[Media:RoomsParty5-WildernessExpedition2016.swf|Wilderness room 5]]||[[Media:Music1113.swf|1113]]
+|-
+|[[Media:RoomsParty6-WildernessExpedition2016.swf|Wilderness room 6]]||[[Media:Music1113.swf|1113]]
+|-
+|[[Media:RoomsParty7-WildernessExpedition2016.swf|Wilderness room 7]]||[[Media:Music1112.swf|1112]]
+|-
+|[[Media:RoomsParty8-WildernessExpedition2016.swf|Wilderness room 8]]||[[Media:Music1112.swf|1112]]
+|-
+|[[Media:RoomsParty9-WildernessExpedition2016.swf|Sasquatch Village]]||[[Media:Music1111.swf|1111]]
+|}
+</center>
+
+==Client==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:ClientInterface-WildernessExpedition2016.swf|Interface]]
+|-
+|[[Media:ClientParty-WildernessExpedition2016.swf|Party]]
+|}
+</center>
+
+==Close Ups==
+===Character Dialogue===
+<center>
+{|class="wikitable" style="text-align: center;"
+!colspan="4"|SWF
+|-
+|colspan="4"|[[Media:Close ups160420 character dialogue login-WildernessExpedition2016.swf|Login]]
+|-
+|[[Media:Close ups160420 character dialogue fishing start-WildernessExpedition2016.swf|Fishing start]]||[[Media:Close ups160420 character dialogue music start-WildernessExpedition2016.swf|Music start]]||[[Media:Close ups160420 character dialogue camo start-WildernessExpedition2016.swf|Camo start]]||[[Media:Close ups160420 character dialogue wood start-WildernessExpedition2016.swf|Wood start]]
+|-
+|colspan="4"|[[Media:Close ups160420 character dialogue tracking congrats-WildernessExpedition2016.swf|Tracking congrats]]
+|-
+|[[Media:Close ups160420 character dialogue fishing congrats-WildernessExpedition2016.swf|Fishing congrats]]||[[Media:Close ups160420 character dialogue music congrats-WildernessExpedition2016.swf|Music congrats]]||[[Media:Close ups160420 character dialogue camo congrats-WildernessExpedition2016.swf|Camo congrats]]||[[Media:Close ups160420 character dialogue wood congrats-WildernessExpedition2016.swf|Wood congrats]]
+|-
+|colspan="2"|[[Media:Close ups160420 character dialogue village congrats-WildernessExpedition2016.swf|Village congrats]]||colspan="2"|[[Media:Close ups160420 character dialogue final congrats-WildernessExpedition2016.swf|Final congrats]]
+|}
+</center>
+===Other===
+<center>
+{|class="wikitable" style="text-align: center;"
+!SWF
+|-
+|[[Media:Close ups160420 mazenote-WildernessExpedition2016.swf|Maze note]]
+|-
+|[[Media:Close upsQuest interface-WildernessExpedition2016.swf|Quest interface]]
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable"
+!colspan="5"|SWF
+|-
+|[[Media:ContentFeatures-WildernessExpedition2016.swf|Features]]||[[Media:ContentInterface-WildernessExpedition2016.swf|Interface]]||[[Media:ContentLogo-WildernessExpedition2016.swf|Logo]]||[[Media:ContentParty icon-WildernessExpedition2016.swf|Party icon]]||[[Media:ContentPrompts-WildernessExpedition2016.swf|Prompts]]
+|}
+</center>
+
+==Membership==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:MembershipParty1-WildernessExpedition2016.swf|Member item]]
+|}
+</center>
+
+{{Parties}}
+

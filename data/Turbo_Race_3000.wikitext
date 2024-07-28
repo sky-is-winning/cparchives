@@ -1,0 +1,36 @@
+
+==Rooms==
+<center>
+{|class="wikitable" border="1"
+!Room
+!Music
+|-
+|[[Media:RoomsRink-TurboRace3000.swf|Stadium]]||[[Media:Music733.swf|733]]
+|}
+</center>
+
+== Go-Karts ==
+<center>
+{|class="wikitable" border="1"
+!Blue
+!Green
+!Pink
+!Black
+!Yellow
+!Dark Purple
+!Brown
+!Peach
+!Red
+!Orange
+!Dark Green
+!Light Blue
+!Lime Green
+!Aqua
+!Arctic White
+|-
+|[[Media:TurboRace3000-KartsBlueFront.swf|Front]]||[[Media:TurboRace3000-KartsGreenFront.swf|Front]]||[[Media:TurboRace3000-KartsPinkFront.swf|Front]]||[[Media:TurboRace3000-KartsBlackFront.swf|Front]]||[[Media:TurboRace3000-KartsYellowFront.swf|Front]]||[[Media:TurboRace3000-KartsDarkPurpleFront.swf|Front]]||[[Media:TurboRace3000-KartsBrownFront.swf|Front]]||[[Media:TurboRace3000-KartsPeachFront.swf|Front]]||[[Media:TurboRace3000-KartsRedFront.swf|Front]]||[[Media:TurboRace3000-KartsOrangeFront.swf|Front]]||[[Media:TurboRace3000-KartsDarkGreenFront.swf|Front]]||[[Media:TurboRace3000-KartsLightBlueFront.swf|Front]]||[[Media:TurboRace3000-KartsLimeGreenFront.swf|Front]]||[[Media:TurboRace3000-KartsAquaFront.swf|Front]]||[[Media:TurboRace3000-KartsArcticWhiteFront.swf|Front]]
+|-
+|[[Media:TurboRace3000-KartsBlueBack.swf|Back]]||[[Media:TurboRace3000-KartsGreenBack.swf|Back]]||[[Media:TurboRace3000-KartsPinkBack.swf|Back]]||[[Media:TurboRace3000-KartsBlackBack.swf|Back]]||[[Media:TurboRace3000-KartsYellowBack.swf|Back]]||[[Media:TurboRace3000-KartsDarkPurpleBack.swf|Back]]||[[Media:TurboRace3000-KartsBrownBack.swf|Back]]||[[Media:TurboRace3000-KartsPeachBack.swf|Back]]||[[Media:TurboRace3000-KartsRedBack.swf|Back]]||[[Media:TurboRace3000-KartsOrangeBack.swf|Back]]||[[Media:TurboRace3000-KartsDarkGreenBack.swf|Back]]||[[Media:TurboRace3000-KartsLightBlueBack.swf|Back]]||[[Media:TurboRace3000-KartsLimeGreenBack.swf|Back]]||[[Media:TurboRace3000-KartsAquaBack.swf|Back]]||[[Media:TurboRace3000-KartsArcticWhiteBack.swf|Back]]
+|}
+
+{{Events}}

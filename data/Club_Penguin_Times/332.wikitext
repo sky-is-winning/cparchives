@@ -1,0 +1,12 @@
+Below are SWF files from issue #332 (March 1, 2012) of the Club Penguin Times:
+*[[Media:News332HeaderFront.swf|Header (front)]]
+*[[Media:News332FeatureStory.swf|Feature Story]]
+*[[Media:News332SupportStory.swf|Support Story]]
+*[[Media:News332UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News332NewsFlash.swf|News Flash]]
+*[[Media:News332AskAuntArcticFront.swf|Ask Captain Rockhopper (front)]]
+*[[Media:News332HeaderBack.swf|Header (back)]]
+*[[Media:News332AskAuntArcticBack.swf|Ask Captain Rockhopper (back)]]
+*[[Media:News332JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News332SecretOverlay.swf|Secret Overlay]]
+*[[Media:News332FeatureMore.swf|Feature More]]

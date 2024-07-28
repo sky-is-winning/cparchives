@@ -1,0 +1,28 @@
+Below are SWF files from issue #421 (November 14, 2013) of the Club Penguin Times:
+
+<center>
+{|class="wikitable" border="1"
+!Header (front)
+!Feature Story
+!Gold Puffle
+!Upcoming Events
+!News Flash
+!Ask P.H. (front)
+!Header (back)
+!Ask P.H. (back)
+!Jokes and Riddles
+!Secrets
+!Feature More
+!Riddle Answer Key
+|-
+|[[Media:ENNews421HeaderFront.swf|English]]||[[Media:ENNews421FeatureStory.swf|English]]||[[Media:ENNews421SupportStory.swf|English]]||[[Media:ENNews421UpcomingEvents.swf|English]]||[[Media:ENNews421NewsFlash.swf|English]]||[[Media:ENNews421AskAuntArcticFront.swf|English]]||[[Media:ENNews421HeaderBack.swf|English]]||[[Media:ENNews421AskAuntArcticBack.swf|English]]||[[Media:ENNews421JokesAndRiddles.swf|English]]||[[Media:ENNews421Secrets.swf|English]]||[[Media:ENNews421FeatureMore.swf|English]]||[[Media:ENNews421RiddleAnswers.swf|English]]
+|-
+|[[Media:PTNews421HeaderFront.swf|Português]]||[[Media:PTNews421FeatureStory.swf|Português]]||[[Media:PTNews421SupportStory.swf|Português]]||[[Media:PTNews421UpcomingEvents.swf|Português]]||[[Media:PTNews421NewsFlash.swf|Português]]||[[Media:PTNews421AskAuntArcticFront.swf|Português]]||[[Media:PTNews421HeaderBack.swf|Português]]||[[Media:PTNews421AskAuntArcticBack.swf|Português]]||[[Media:PTNews421JokesAndRiddles.swf|Português]]||[[Media:PTNews421Secrets.swf|Português]]||[[Media:PTNews421FeatureMore.swf|Português]]||[[Media:PTNews421RiddleAnswers.swf|Português]]
+|-
+|[[Media:FRNews421HeaderFront.swf|Français]]||[[Media:FRNews421FeatureStory.swf|Français]]||[[Media:FRNews421SupportStory.swf|Français]]||[[Media:FRNews421UpcomingEvents.swf|Français]]||[[Media:FRNews421NewsFlash.swf|Français]]||[[Media:FRNews421AskAuntArcticFront.swf|Français]]||[[Media:FRNews421HeaderBack.swf|Français]]||[[Media:FRNews421AskAuntArcticBack.swf|Français]]||[[Media:FRNews421JokesAndRiddles.swf|Français]]||[[Media:FRNews421Secrets.swf|Français]]||[[Media:FRNews421FeatureMore.swf|Français]]||[[Media:FRNews421RiddleAnswers.swf|Français]]
+|-
+|[[Media:ESNews421HeaderFront.swf|Español]]||[[Media:ESNews421FeatureStory.swf|Español]]||[[Media:ESNews421SupportStory.swf|Español]]||[[Media:ESNews421UpcomingEvents.swf|Español]]||[[Media:ESNews421NewsFlash.swf|Español]]||[[Media:ESNews421AskAuntArcticFront.swf|Español]]||[[Media:ESNews421HeaderBack.swf|Español]]||[[Media:ESNews421AskAuntArcticBack.swf|Español]]||[[Media:ESNews421JokesAndRiddles.swf|Español]]||[[Media:ESNews421Secrets.swf|Español]]||[[Media:ESNews421FeatureMore.swf|Español]]||[[Media:ESNews421RiddleAnswers.swf|Español]]
+|-
+|[[Media:DENews421HeaderFront.swf|Deutsch]]||[[Media:DENews421FeatureStory.swf|Deutsch]]||[[Media:DENews421SupportStory.swf|Deutsch]]||[[Media:DENews421UpcomingEvents.swf|Deutsch]]||[[Media:DENews421NewsFlash.swf|Deutsch]]||[[Media:DENews421AskAuntArcticFront.swf|Deutsch]]||[[Media:DENews421HeaderBack.swf|Deutsch]]||[[Media:DENews421AskAuntArcticBack.swf|Deutsch]]||[[Media:DENews421JokesAndRiddles.swf|Deutsch]]||[[Media:DENews421Secrets.swf|Deutsch]]||[[Media:DENews421FeatureMore.swf|Deutsch]]||[[Media:DENews421RiddleAnswers.swf|Deutsch]]
+|}
+</center>

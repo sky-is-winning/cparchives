@@ -1,0 +1,22 @@
+
+==Rooms==
+===Event===
+<center>
+{|class="wikitable" border="1"
+!Room
+!Music
+|-
+|[[Media:PiDayForest.swf|Forest]]||N/A
+|-
+|[[Media:PiDayShack.swf|Mine Shack]]||[[Media:Music876.swf|876]]
+|-
+|[[Media:PiDayPlaza.swf|Plaza]]||N/A
+|-
+|[[Media:PiDayForts.swf|Snow Forts]]||N/A
+|-
+|[[Media:RoomsTown-PiDay.swf|Town]]||N/A
+|}
+</center>
+
+{{Events}}
+

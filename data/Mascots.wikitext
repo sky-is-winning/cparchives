@@ -1,0 +1,31 @@
+==Current==
+{| class="wikitable sortable plainlinks"
+! File Name
+! JSON
+! JSONP
+|-
+| mascots || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/mascots.json en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/mascots.json pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/mascots.json fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/mascots.json es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/mascots.json de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/mascots.json ru] || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/mascots.jsonp en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/mascots.jsonp pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/mascots.jsonp fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/mascots.jsonp es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/mascots.jsonp de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/mascots.jsonp ru]
+|}
+==2011==
+{| class="wikitable sortable plainlinks"
+! File Name
+! Date
+! JSON
+! JSONP
+|-
+| mascots || May 17, 2011||[[Media:GameConfigsEN2011May17mascots.json|English]]||{{n/a}}
+|-
+| mascots || Aug 30, 2011||[[Media:GameConfigsEN2011Aug30mascots.json|English]]||{{n/a}}
+|}
+==2014==
+{| class="wikitable sortable plainlinks"
+! File Name
+! Date
+! JSON
+! JSONP
+|-
+| mascots || June 06, 2014||[[Media:GameConfigsEN2014Jun06mascots.json|English]]||{{n/a}}
+|}
+
+==2015==
+{{2015GameConfigs|title=mascots}}

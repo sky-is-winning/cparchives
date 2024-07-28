@@ -1,0 +1,15 @@
+{{NeedSWFs}}
+
+
+==Rooms==
+===Pre-Party===
+{|class="wikitable" style="margin: 1em auto;"
+!Room
+|-
+|[[Media:RoomsForest-CoveOpeningPartyPre 1.swf|Forest (during construction)]]
+|-
+|[[Media:RoomsForest-CoveOpeningPartyPre 2.swf|Forest (after completion)]]
+|}
+
+{{Parties}}
+

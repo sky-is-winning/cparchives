@@ -1,0 +1,233 @@
+
+==Original Design==
+
+===Homepage===
+{|class="wikitable" border="1" style="margin: auto;"
+!Date!!Header!!Button!!Video
+|-
+|October 2005||[[Media:FlashHeader-06.swf|header-06]]||[[Media:FlashButton-01.swf|button-01]]||rowspan="3"|[[Media:FlashHome-04.swf|home-04]]
+|-
+|rowspan="2"|November 2005||rowspan="2"|[[Media:FlashHeader-07.swf|header-07]]||{{n/a|button-join-01}}
+|-
+|{{n/a|button-play-01}}
+|}
+
+==February 2006 Design==
+===Homepage===
+{|class="wikitable" border="1" style="margin: auto;"
+!Date!!Header!!Video
+|-
+|February 2006||rowspan="4"|[[Media:FlashHeaderHomepage02.swf|HeaderHomepage02]]||[[Media:FlashVideo2.swf|video2]]
+|-
+|June 2006||[[Media:FlashVideo3.swf|video3]]
+|-
+|July 7, 2006||[[Media:FlashVideo4.swf|video4]]
+|-
+|August 2006||rowspan="3"|[[Media:FlashVideo5.swf|video5]]
+|-
+|February 2007||[[Media:FlashHeaderHomepage04.swf|HeaderHomepage04]]
+|-
+|April 2007||rowspan="2"|[[Media:FlashHeaderHomepageTM.swf|HeaderHomepageTM]]
+|-
+|June 2007||rowspan="2"|[[Media:FlashVideo6.swf|video6]]
+|-
+|December 2007||rowspan="2"|[[Media:FlashHeaderHomepage.swf|HeaderHomepage]]
+|-
+|March 13, 2008||{{n/a|video7}}
+|}
+
+===Blog===
+{|class="wikitable" border="1" style="margin: auto;"
+!Date!!Header
+|-
+|February 2006||[[Media:FlashHeaderBlog.swf|HeaderBlog]]
+|-
+|April 2007||[[Media:FlashHeaderBlog TM.swf|HeaderBlog TM]]
+|}
+
+==April 2008 Design==
+===Homepage===
+{|class="wikitable" style="margin: auto;"
+!Date / Event!!Scene!!Navigation!!Loader
+|-
+|April 14, 2008||{{n/a|scene}}||rowspan=3 {{n/a|cp mainNav}}||rowspan=25 {{n/a}}
+|-
+|May 2008||[[Media:WwwFlashScene-default.swf|scene-default]]
+|-
+|[[Music Jam 2008]]||{{n/a|scene-2008musicjam}}
+|-
+|[[Penguin Games]]||[[Media:HomepageScene-PenguinGames.swf|''Filename unknown'']]||rowspan=2|[[Media:WwwFlashCp mainNavHomeOnly.swf|cp mainNavHomeOnly]]
+|-
+|[[Fall Fair 2008]]||[[Media:WwwFlashScene-fallfair.swf|scene-fallfair]]
+|-
+|[[3rd Anniversary Party]]||[[Media:WwwFlashScene-anniversary.swf|scene-anniversary]]||{{n/a|cp mainNav}}
+|-
+|[[Halloween Party 2008]]||[[Media:WwwFlashScene-halloween.swf|scene-halloween]]||[[Media:WwwFlashCp mainNav halloween.swf|cp mainNav halloween]]
+|-
+|November 3, 2008||[[Media:WwwFlashScene-default-new.swf|scene-default-new]]||rowspan=3|[[Media:WwwFlashCp mainNav.swf|cp mainNav]]
+|-
+|Coins for Change 2008||[[Media:WwwFlashChristmas2008.swf|coins08]]
+|-
+|[[Christmas Party 2008]]||[[Media:WwwFlashChristmas2008.swf|christmas2008]]
+|-
+|[[Puffle Party 2009]]||{{n/a|scene puffle party 2009 02-20}}||rowspan=4|[[Media:WwwFlashCp mainNav 2.swf|cp mainNav]]
+|-
+|[[St. Patrick's Day Party 2009]]||[[Media:WwwFlashScene-stpats09.swf|scene-stpats09]]
+|-
+|[[Music Jam 2009]]||{{n/a|scene-musicjam09}}
+|-
+|[[Adventure Party 2009]] construction||[[Media:WwwFlashScene-adventure-p1.swf|scene-adventure-p1]]
+|-
+|[[Festival of Flight]] construction||{{n/a|scene-flight1}}||rowspan=5|[[Media:WwwFlashCp mainNav 3.swf|cp mainNav]]
+|-
+|Festival of Flight||{{n/a|scene-flight2}}
+|-
+|[[The Fair 2009]]||{{n/a|scene-the-fair}}
+|-
+|[[Fire Scavenger Hunt]]||{{n/a|homepage-scene}}
+|-
+|September 29, 2009||[[Media:WwwSwfHomepage-scene-default.swf|homepage-scene-default]]
+|-
+|[[Celebration of Fire]] construction||[[Media:WwwSwfHomepage-scene-fire-path.swf|homepage-scene-fire-path]]||rowspan=5|[[Media:WwwFlashCp mainNav 4.swf|cp mainNav]]
+|-
+|Celebration of Fire||{{n/a|homepage-scene-november}}
+|-
+|Coins for Change 2009||{{n/a|homepage-scene-cfc}}
+|-
+|rowspan=2|[[Holiday Party 2009]]||[[Media:WwwSwfHomepage-scene-cfc-xmas.swf|homepage-scene-cfc-xmas]]
+|-
+|{{n/a|homepage-scene-holiday}}
+|-
+|Unknown||{{n/a|''Unknown''}}||rowspan=2"|[[Media:FlashCp mainNav.swf|cp mainNav]]
+|-
+|February 2010||[[Media:WwwSwfHomepage-scene-default 2.swf|homepage-scene-default]]||rowspan=6|[[Media:WwwSwfMain-navigation.swf|main-navigation]]||rowspan=14|[[Media:WwwSwfHomepage-loader.swf|homepage-loader]]
+|-
+|[[Puffle Party 2010]]||{{n/a|homepage-scene-puffle}}
+|-
+|[[Popcorn Explosion]]||{{n/a|homepage-scene-epf-popcorn}}
+|-
+|May 27, 2010||[[Media:WwwSwfHomepage-scene-default 3.swf|homepage-scene-default]]
+|-
+|[[Island Adventure Party 2010]]||{{n/a|homepage-scene-island-adventure}}
+|-
+|[[Music Jam 2010]]||{{n/a|homepage-scene-music-jam}}
+|-
+|August 2010||[[Media:WwwSwfHomepage-scene-default 3.swf|homepage-scene-default]]||rowspan=7|[[Media:WwwSwfMain-navigation 2.swf|main-navigation]]
+|-
+|[[The Fair 2010]]||[[Media:WwwSwfHomepage-scene-fall-fair.swf|homepage-scene-fall-fair]]
+|-
+|[[Halloween Party 2010]]||{{n/a|homepage-scene-halloween}}
+|-
+|[[Water Celebration]]||{{n/a|homepage-scene-water}}
+|-
+|December 2010||[[Media:WwwSwfHomepage-scene-default 4.swf|homepage-scene-default]]
+|-
+|[[Holiday Party 2010]]||[[Media:WwwSwfHomepage-scene-holiday.swf|homepage-scene-holiday]]
+|-
+|[[Puffle Party 2011]]||[[Media:WwwSwfHomepage-scene-default-PuffleParty2011.swf|homepage-scene-default]]
+|-
+|March 2011||[[Media:WwwSwfHomepage-scene-default 4.swf|homepage-scene-default]]||rowspan=5|[[Media:WwwSwfMain-navigation 3.swf|main-navigation]]
+|-
+|April 2011||[[Media:WwwSceneSwfHomepageScene.swf|HomepageScene]]||rowspan=3|[[Media:WwwSwfHomepage-loader.swf|HomepageLoader]]
+|-
+|[[Medieval Party 2011]]||[[Media:WwwSceneSwfHomepageScene-MedievalParty2011.swf|HomepageScene]]
+|-
+|June 2011||[[Media:WwwSceneSwfHomepageScene 2.swf|HomepageScene]]
+|-
+|August 16, 2011||[[Media:WwwSceneSwfHomepageScene 3.swf|HomepageScene]]||rowspan=10 {{n/a}}
+|-
+|[[clubpenguinwiki:Puffle Launch (application)|Puffle Launch]] promotion||[[Media:WwwSceneSwfHomepageScene-PuffleLaunch.swf|HomepageScene]]||rowspan=3|[[Media:WwwSwfMain-navigation 4.swf|main-navigation]]
+|-
+|[[Holiday Party 2011]] construction||[[Media:WwwSceneSwfHomepageScene-Holiday2011Pre.swf|HomepageScene]]
+|-
+|[[Underwater Expedition]]||[[Media:WwwSceneSwfHomepageScene-UnderwaterExpedition.swf|HomepageScene]]
+|-
+|[[Rockhopper's Quest]]||[[Media:WwwSceneSwfHomepageScene-RockhoppersQuest.swf|HomepageScene]]||[[Media:WwwSwfMain-navigation 5.swf|main-navigation]]
+|-
+|[[Puffle Party 2012]]||[[Media:WwwESSceneSwfHomepageScene-PuffleParty2012.swf|HomepageScene]] <small>(ES)</small>||rowspan=3|[[Media:WwwSwfMain-navigation 6.swf|main-navigation]]<ref name=main-navigation>Despite main-navigation's discontinuation on the homepage in December 2011, the file proceeded to be updated for use in other areas across the website.</ref>
+|-
+|rowspan=2|[[Marvel Super Hero Takeover 2012]]||[[Media:WwwSceneSwfHomepageScene-Marvel2012.swf|HomepageScene]]
+|-
+|[[Media:WwwSceneSwfHomepageScene-Marvel2012 2.swf|HomepageScene]]
+|-
+|October 2012||{{n/a}}||[[Media:WwwSwfMain-navigation 7.swf|main-navigation]]<ref name=main-navigation></ref>
+|}
+
+===July 2012 Homepage Revamp===
+:''Scenes listed in the same cell are duplicates''
+{|class="wikitable" style="margin: auto;"
+!Date/Event!!SWF!!Duplicate ID
+|-
+|rowspan=6|[[Make Your Mark: Ultimate Jam]]||[[Media:FilesHomepageScene.swf|HomepageScene]]||align=center|29 · 30 · 31 · 32 · 33 · 34<br>35
+|-
+|[[Media:FilesHomepageScene 0.swf|HomepageScene 0]]||{{n/a}}
+|-
+|[[Media:FilesHomepageScene 1.swf|HomepageScene 1]]||align=center|2 · 3
+|-
+|[[Media:FilesHomepageScene 4.swf|HomepageScene 4]]||{{n/a}}
+|-
+|[[Media:FilesHomepageScene 5.swf|HomepageScene 5]]||{{n/a}}
+|-
+|[[Media:FilesHomepageScene 6.swf|HomepageScene 6]]||{{n/a}}
+|-
+|rowspan=3|[[clubpenguinwiki:Rockhopper vs. Mighty Squid!!|Rockhopper vs. Mighty Squid!!]] promotion||[[Media:FilesHomepageScene 7.swf|HomepageScene 7]]||align=center|8 · 9 · 10 · 11 · 12 · 13
+|-
+|[[Media:FilesHomepageScene 14.swf|HomepageScene 14]]||{{n/a}}
+|-
+|[[Media:FilesHomepageScene 15.swf|HomepageScene 15]]||{{n/a}}
+|-
+|rowspan=6|[[Adventure Party: Temple of Fruit]]||[[Media:FilesHomepageScene 16.swf|HomepageScene 16]]||align=center|17 · 18 · 19 · 20 · 21 · 22<br>23 · 24 · 25 · 26 · 27
+|-
+|[[Media:FilesHomepageScene 28.swf|HomepageScene 28]]||align=center|36 · 37 · 38 · 39 · 40 · 41
+|-
+|[[Media:FilesHomepageScene 31.swf|HomepageScene 31]]||align=center|42 · 43 · 44 · 45 · 46
+|-
+|[[Media:FilesHomepageScene 60.swf|HomepageScene 60]]||align=center|61
+|-
+|[[Media:FilesHomepageScene 62.swf|HomepageScene 62]]||align=center|63 · 64 · 65 · 66
+|-
+|[[Media:FilesHomepageScene 67.swf|HomepageScene 67]]||align=center|68 · 69 · 70 · 71
+|-
+|rowspan=11|[[clubpenguinwiki:Anchors Aweigh|Anchors Aweigh]] music video promotion||[[Media:FilesHomepageScene 47.swf|HomepageScene 47]]||align=center|48 · 49 · 50 · 51 · 52 · 88<br>89 · 90 · 91 · 92 · 93 · 94<br>95 · 96 · 97
+|-
+|[[Media:FilesHomepageScene 53.swf|HomepageScene 53]]||align=center|54
+|-
+|[[Media:FilesHomepageScene 55.swf|HomepageScene 55]]||align=center|56 · 57 · 58 · 59
+|-
+|[[Media:FilesHomepageScene 72.swf|HomepageScene 72]]||align=center|73 · 74 · 75 · 76
+|-
+|[[Media:FilesHomepageScene 77.swf|HomepageScene 77]]||align=center|78 · 79 · 80 · 81 · 82
+|-
+|[[Media:FilesHomepageScene 83.swf|HomepageScene 83]]||align=center|84 · 85 · 86 · 87
+|-
+|[[Media:FilesHomepageScene 98.swf|HomepageScene 98]]||align=center|99 · 100 · 101 · 102
+|-
+|[[Media:FilesHomepageScene 103.swf|HomepageScene 103]]||align=center|104 · 105 · 106 · 107
+|-
+|[[Media:FilesHomepageScene 108.swf|HomepageScene 108]]||align=center|109 · 110 · 111 · 112
+|-
+|[[Media:FilesHomepageScene 113.swf|HomepageScene 113]]||align=center|114 · 115 · 116 · 117
+|-
+|[[Media:FilesHomepageScene 118.swf|HomepageScene 118]]||align=center|119 · 120 · 121 · 122
+|-
+|rowspan=8|[[The Fair 2012]]||[[Media:FilesHomepageScene 123.swf|HomepageScene 123]]||{{n/a}}
+|-
+|[[Media:FilesHomepageScene 124.swf|HomepageScene 124]]||{{n/a}}
+|-
+|[[Media:FilesHomepageScene 125.swf|HomepageScene 125]]||align=center|126 · 127 · 128 · 129 · 130
+|-
+|[[Media:FilesHomepageScene 131.swf|HomepageScene 131]]||align=center|132 · 133 · 134 · 135
+|-
+|[[Media:FilesHomepageScene 136.swf|HomepageScene 136]]||{{n/a}}
+|-
+|[[Media:FilesHomepageScene 137.swf|HomepageScene 137]]||align=center|138 · 139 · 140 · 141
+|-
+|[[Media:FilesHomepageScene 142.swf|HomepageScene 142]]||{{n/a}}
+|-
+|[[Media:FilesHomepageScene 143.swf|HomepageScene 143]]||align=center|144 · 145 · 146 · 147
+|-
+|rowspan=2|[[Halloween Party 2012]]||[[Media:FilesHomepageScene 148.swf|HomepageScene 148]]||
+|}
+
+==Notes==
+<references />

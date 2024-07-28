@@ -1,0 +1,15 @@
+{| class="wikitable sortable plainlinks"
+! Name
+|-
+|[[Lands]]
+|-
+|[[Characters]]
+|-
+|[[Text]]
+|-
+|[[Worlds]]
+|-
+|[[Markup]]
+|-
+|[[Image Links]]
+|}

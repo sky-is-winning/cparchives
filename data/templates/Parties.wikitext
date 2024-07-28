@@ -1,0 +1,43 @@
+{{Navbox
+
+| name  = Party
+| title = Parties of ''Club Penguin'' <small>([[templates/Events|Click here to see events]])</small>
+| group1 = 2005
+| list1  = [[Beta Test Party]]{{·}}[[Halloween Party 2005|Halloween Party]]{{·}}[[Christmas Party 2005|Christmas Party]]
+
+| group2 = 2006
+| list2  = [[Winter Luau]]{{·}}[[Pizza Party]]{{·}}[[St. Patrick's Day Party 2006|St. Patrick's Day Party]]{{·}}[[April Fool's Party 2006|April Fool's Party]]{{·}}[[Cave Opening Party]]{{·}}[[Summer Party 2006|Summer Party]]{{·}}[[Wild West Party]]{{·}}[[Sports Party]]{{·}}[[Lighthouse Party]]{{·}}[[1st Anniversary Party]]{{·}}[[Halloween Party 2006|Halloween Party]]{{·}}[[Lime Green Party]]{{·}}[[Christmas Party 2006|Christmas Party]]
+
+| group3 = 2007
+| list3  = [[Winter Fiesta 2007|Winter Fiesta]]{{·}}[[Festival of Snow 2007|Festival of Snow]]{{·}}[[St. Patrick's Day Party 2007|St. Patrick's Day Party]]{{·}}[[April Fools' Party 2007|April Fools' Party]]{{·}}[[Pirate Party 2007|Pirate Party]]{{·}}[[Cove Opening Party]]{{·}}[[Summer Kickoff Party]]{{·}}[[Water Party 2007|Water Party]]{{·}}[[Camp Penguin]]{{·}}[[Fall Fair 2007|Fall Fair]]{{·}}[[2nd Anniversary Party]]{{·}}[[Halloween Party 2007|Halloween Party]]{{·}}[[Surprise Party]]{{·}}[[Christmas Party 2007|Christmas Party]]
+
+| group4 = 2008
+| list4  = [[Winter Fiesta 2008|Winter Fiesta]]{{·}}[[Sub-Marine Party]]{{·}}[[St. Patrick's Day Party 2008|St. Patrick's Day Party]]{{·}}[[April Fools' Party 2008|April Fools' Party]]{{·}}[[Rockhopper's Arrival Party]]{{·}}[[Medieval Party 2008|Medieval Party]]{{·}}[[Water Party 2008|Water Party]]{{·}}[[Music Jam 2008|Music Jam]]{{·}}[[Penguin Games]]{{·}}[[Fall Fair 2008|Fall Fair]]{{·}}[[3rd Anniversary Party]]{{·}}[[Halloween Party 2008|Halloween Party]]{{·}}[[Christmas Party 2008|Christmas Party]]
+
+| group5 = 2009
+| list5  = [[Dance-A-Thon]]{{·}}[[Winter Fiesta 2009|Winter Fiesta]]{{·}}[[Puffle Party 2009|Puffle Party]]{{·}}[[St. Patrick's Day Party 2009|St. Patrick's Day Party]]{{·}}[[Penguin Play Awards 2009|Penguin Play Awards]]{{·}}[[April Fools' Party 2009|April Fools' Party]]{{·}}[[Medieval Party 2009|Medieval Party]]{{·}}[[Adventure Party 2009|Adventure Party]]{{·}}[[Music Jam 2009|Music Jam]]{{·}}[[Festival of Flight]]{{·}}[[The Fair 2009|The Fair]]{{·}}[[4th Anniversary Party]]{{·}}[[Halloween Party 2009|Halloween Party]]{{·}}[[Winter Party]]{{·}}[[Holiday Party 2009|Holiday Party]]
+
+|group6 = 2010
+|list6  = [[Cave Expedition]]{{·}}[[Puffle Party 2010|Puffle Party]]{{·}}[[Penguin Play Awards 2010|Penguin Play Awards]]{{·}}[[April Fools' Party 2010|April Fools' Party]]{{·}}[[Earth Day 2010|Earth Day]]{{·}}[[Medieval Party 2010|Medieval Party]]{{·}}[[Island Adventure Party 2010|Island Adventure Party]]{{·}}[[Music Jam 2010|Music Jam]]{{·}}[[Mountain Expedition]]{{·}}[[The Fair 2010|The Fair]]{{·}}[[5th Anniversary Party]]{{·}}[[Halloween Party 2010|Halloween Party]]{{·}}[[Holiday Party 2010|Holiday Party]]
+
+|group7 = 2011
+|list7 = [[Wilderness Expedition 2011|Wilderness Expedition]]{{·}}[[Puffle Party 2011|Puffle Party]]{{·}}[[April Fools' Party 2011|April Fools' Party]]{{·}}[[Earth Day 2011|Earth Day]]{{·}}[[Medieval Party 2011|Medieval Party]]{{·}}[[Music Jam 2011|Music Jam]]{{·}}[[Island Adventure Party 2011|Island Adventure Party]]{{·}}[[The Great Snow Race]]{{·}}[[The Fair 2011|The Fair]]{{·}}[[Halloween Party 2011|Halloween Party]]{{·}}[[6th Anniversary Party]]{{·}}[[Card-Jitsu Party 2011|Card-Jitsu Party‎]]{{·}}[[Holiday Party 2011|Holiday Party‎]]
+
+|group8 = 2012
+|list8 = [[Underwater Expedition]]{{·}}[[Rockhopper's Quest]]{{·}}[[Puffle Party 2012|Puffle Party]]{{·}}[[April Fools' Party 2012|April Fools' Party]]{{·}}[[Earth Day 2012|Earth Day]]{{·}}[[Medieval Party 2012|Medieval Party]]{{·}}[[Marvel Super Hero Takeover 2012|Marvel Super Hero Takeover]]{{·}}[[Make Your Mark: Ultimate Jam]]{{·}}[[Adventure Party: Temple of Fruit]]{{·}}[[The Fair 2012|The Fair]]{{·}}[[Halloween Party 2012|Halloween Party]]{{·}}[[7th Anniversary Party]]{{·}}[[Operation: Blackout]]{{·}}[[Holiday Party 2012|Holiday Party]]
+
+|group9 = 2013
+|list9 = [[Prehistoric Party 2013|Prehistoric Party]]{{·}}[[Hollywood Party]]{{·}}[[Puffle Party 2013|Puffle Party]]{{·}}[[Marvel Super Hero Takeover 2013|Marvel Super Hero Takeover]]{{·}}[[Card-Jitsu Party 2013|Card-Jitsu Party]]{{·}}[[Monsters University Takeover]]{{·}}[[Star Wars Takeover]]{{·}}[[Teen Beach Movie Summer Jam]]{{·}}[[Medieval Party 2013|Medieval Party]]{{·}}[[Halloween Party 2013|Halloween Party]]{{·}}[[8th Anniversary Party]]{{·}}[[Operation: Puffle]]{{·}}[[Holiday Party 2013|Holiday Party]]
+
+|group10 = 2014
+|list10 = [[Prehistoric Party 2014|Prehistoric Party]]{{·}}[[The Fair 2014|The Fair]]{{·}}[[Muppets World Tour]]{{·}}[[Puffle Party 2014|Puffle Party]]{{·}}[[Future Party|Future Party]]{{·}}[[Penguin Cup]]{{·}}[[Music Jam 2014|Music Jam]]{{·}}[[Frozen Party]]{{·}}[[School & Skate Party]]{{·}}[[9th Anniversary Party]]{{·}}[[Halloween Party 2014|Halloween Party]]{{·}}[[Pirate Party 2014|Pirate Party]]{{·}}[[Merry Walrus Party]]
+
+|group11 = 2015
+|list11 = [[Star Wars Rebels Takeover]]{{·}}[[SoundStudio Party]]{{·}}[[Puffle Party 2015|Puffle Party]]{{·}}[[Frozen Fever Party 2015|Frozen Fever Party]]{{·}}[[The Fair 2015|The Fair]]{{·}}[[Rainbow Puffle Party]]{{·}}[[Festival of Snow 2015|Festival of Snow]]{{·}}[[Inside Out Party]]{{·}}[[Fashion Festival]]{{·}}[[Descendants Party]]{{·}}[[10th Anniversary Party]]{{·}}[[Halloween Party 2015|Halloween Party]]{{·}}[[Operation: Crustacean]]{{·}}[[Holiday Party 2015|Holiday Party]]
+
+|group12 = 2016
+|list12 = [[Prehistoric Party 2016|Prehistoric Party]]{{·}}[[Operation: Tri-umph]]{{·}}[[Puffle Party 2016|Puffle Party]]{{·}}[[Wilderness Expedition 2016|Wilderness Expedition]]{{·}}[[Zootopia Party]]{{·}}[[Finding Dory Party]]{{·}}[[Frozen Fever Party 2016|Frozen Fever Party]]{{·}}[[Halloween Party 2016|Halloween Party]]{{·}}[[11th Anniversary Party]]{{·}}[[Music Jam 2016|Music Jam]]{{·}}[[Holiday Party 2016|Holiday Party]]
+
+|group13 = 2017
+|list13 = [[Club Penguin Island Party]]{{·}}[[Waddle On Party]]
+}}

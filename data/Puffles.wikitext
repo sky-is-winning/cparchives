@@ -1,0 +1,28 @@
+<center>
+{|class="wikitable" border="1"
+!ID
+!Page (SWFs)
+|-
+|750 || [[Blue Puffle]]
+|-
+|751 || [[Pink Puffle]]
+|-
+|752 || [[Black Puffle]]
+|-
+|753 || [[Green Puffle]]
+|-
+|754 || [[Purple Puffle]]
+|-
+|755 || [[Red Puffle]]
+|-
+|756 || [[Yellow Puffle]]
+|-
+|757 || [[White Puffle]]
+|-
+|758 || [[Orange Puffle]]
+|-
+|759 || [[Brown Puffle]]
+|-
+|5230 || [[Rainbow Puffle]]
+|}
+</center>

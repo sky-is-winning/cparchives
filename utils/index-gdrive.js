@@ -1,6 +1,6 @@
-const fs = require('fs');
-const { google } = require('googleapis');
-const path = require('path');
+import fs from 'fs';
+import { google } from 'googleapis';
+import readline from 'readline';
 
 // Load client secrets from a local file.
 fs.readFile('credentials.json', (err, content) => {
@@ -32,7 +32,7 @@ function getAccessToken(oAuth2Client, callback) {
     scope: ['https://www.googleapis.com/auth/drive.metadata.readonly'],
   });
   console.log('Authorize this app by visiting this url:', authUrl);
-  const rl = require('readline').createInterface({
+  const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
   });
@@ -80,12 +80,12 @@ function listFiles(auth) {
     }
   }
 
-  const rootFolderId = '1CYBaqMueZmGt0G2vk5UmsE9EPHeXlnOw';
+  const rootFolderId = '12WTs22qZleUlugQwUxGNqI242N5xNs6C';
   let driveTree = { };
 
   buildTree(rootFolderId, driveTree)
     .then(() => {
-      fs.writeFileSync('drive_structure.json', JSON.stringify(driveTree, null, 2));
+      fs.writeFileSync('drive_structure2.json', JSON.stringify(driveTree, null, 2));
       console.log('Drive structure saved to drive_structure.json');
     })
     .catch((error) => console.error(error));

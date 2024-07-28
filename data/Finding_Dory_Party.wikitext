@@ -1,0 +1,62 @@
+
+
+==Rooms==
+<center>
+{|class="wikitable"
+!Room!!Music
+|-
+|[[Media:RoomsBeach-FindingDoryParty.swf|Beach]]||[[Media:Music1124.swf|1124]]
+|-
+|[[Media:RoomsCove-FindingDoryParty.swf|Cove]]||[[Media:Music1129.swf|1129]]
+|-
+|[[Media:RoomsDock-FindingDoryParty.swf|Dock]]||[[Media:Music1126.swf|1126]]
+|-
+|[[Media:RoomsBerg-FindingDoryParty.swf|Iceberg]]||[[Media:Music1125.swf|1125]]
+|-
+|[[Media:RoomsParty1-FindingDoryParty.swf|Reef]]||[[Media:Music1127.swf|1127]]
+|-
+|[[Media:RoomsTown-FindingDoryParty.swf|Town]]||[[Media:Music1128.swf|1128]]
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable" style="text-align: center;"
+!colspan="4"|SWF
+|-
+|colspan="4"|[[Media:Close ups160706 character dialogue login.swf-FindingDoryParty.swf|Login]]
+|-
+|[[Media:Close ups160706 character dialogue task0 start-FindingDoryParty.swf|Task 0 start]]||[[Media:Close ups160706 character dialogue task0 congrats-FindingDoryParty.swf|Task 0 congrats]]||[[Media:Close ups160706 character dialogue task1 start-FindingDoryParty.swf|Task 1 start]]||[[Media:Close ups160706 character dialogue task1 congrats-FindingDoryParty.swf|Task 1 congrats]]
+|-
+|[[Media:Close ups160706 character dialogue task2 start-FindingDoryParty.swf|Task 2 start]]||[[Media:Close ups160706 character dialogue task2 congrats-FindingDoryParty.swf|Task 2 congrats]]||[[Media:Close ups160706 character dialogue task3 start-FindingDoryParty.swf|Task 3 start]]||[[Media:Close ups160706 character dialogue task3 congrats-FindingDoryParty.swf|Task 3 congrats]]
+|-
+|[[Media:Close ups160706 character dialogue task4 start-FindingDoryParty.swf|Task 4 start]]||[[Media:Close ups160706 character dialogue task4 congrats-FindingDoryParty.swf|Task 4 congrats]]||[[Media:Close ups160706 character dialogue task5 start-FindingDoryParty.swf|Task 5 start]]||[[Media:Close ups160706 character dialogue task5 congrats-FindingDoryParty.swf|Task 5 congrats]]
+|-
+|[[Media:Close ups160706 character dialogue task6 start-FindingDoryParty.swf|Task 6 start]]||[[Media:Close ups160706 character dialogue task6 congrats-FindingDoryParty.swf|Task 6 congrats]]||[[Media:Close ups160706 character dialogue task7 start-FindingDoryParty.swf|Task 7 start]]||[[Media:Close ups160706 character dialogue task7 congrats-FindingDoryParty.swf|Task 7 congrats]]
+|-
+|colspan="4"|[[Media:Close ups160706 character dialogue final congrats.swf-FindingDoryParty.swf|Final congrats]]
+|-
+|colspan="4"|[[Media:Close upsQuest interface-FindingDoryParty.swf|Quest interface]]
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable"
+!colspan="6"|SWF
+|-
+|[[Media:ContentFeatures-FindingDoryParty.swf|Features]]||[[Media:ContentInterface-FindingDoryParty.swf|Interface]]||[[Media:ContentLogo-FindingDoryParty.swf|Logo]]||[[Media:ContentParty-FindingDoryParty.swf|Party]]||[[Media:ContentParty icon-FindingDoryParty.swf|Party icon]]||[[Media:ContentPrompts-FindingDoryParty.swf|Prompts]]
+|}
+</center>
+
+==Membership==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:MembershipParty1-FindingDoryParty.swf|Member item]]
+|}
+</center>
+
+{{Parties}}
+

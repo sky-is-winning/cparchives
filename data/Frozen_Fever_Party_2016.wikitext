@@ -1,0 +1,93 @@
+
+
+==Rooms==
+===Party===
+<center>
+{|class="wikitable"
+!Room!!Music
+|-
+|[[Media:RoomsBeach-FrozenFeverParty.swf|Beach]]||[[Media:Music1133.swf|1133]]
+|-
+|[[Media:RoomsCove-FrozenFeverParty.swf|Cove]]||[[Media:Music909.swf|909]]
+|-
+|[[Media:RoomsDock-FrozenFeverParty2016.swf|Dock]]||[[Media:Music1131.swf|1131]]
+|-
+|[[Media:RoomsForest-FrozenFeverParty.swf|Forest]]||[[Media:Music908.swf|908]]
+|-
+|[[Media:RoomsParty1-FrozenFeverParty.swf|Elsa's Ice Palace]]||[[Media:Music739.swf|739]]
+|-
+|[[Media:RoomsParty2-FrozenFeverParty.swf|Anna's Room]]||[[Media:Music1134.swf|1134]]
+|-
+|[[Media:RoomsPlaza-FrozenFeverParty2016.swf|Plaza]] ([[Media:RoomsPlaza-FrozenFeverParty2016 2.swf|alternate]]) ||[[Media:Music1130.swf|1130]]
+|-
+|[[Media:RoomsForts-FrozenFeverParty2016.swf|Snow Forts]]||[[Media:Music1135.swf|1135]]
+|-
+|[[Media:RoomsTown-FrozenFeverParty2016.swf|Town]]||[[Media:Music1132.swf|1132]]
+|}
+</center>
+
+===Concerts===
+<center>
+{|class="wikitable"
+!Performer
+|-
+|[[Media:RoomsConcertElsaconcert-FrozenFeverParty.swf|Elsa]]
+|}
+</center>
+
+==Avatar==
+===Sprites===
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:AvatarSpritesOlaf.swf|Olaf]]
+|-
+|[[Media:AvatarSpritesMarshmallow.swf|Marshmallow]]
+|}
+</center>
+
+===Effects===
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:RoomsEffectsAvatar-FrozenFeverParty2016.swf|Rooms]]
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable" style="text-align: center;"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)
+|-
+|colspan="4"|[[Media:Close upsCharacter dialogue login-FrozenFeverParty2016.swf|Character dialogue login]]
+|-
+|colspan="4"|[[Media:Close upsCharacter dialogue elsa-FrozenFeverParty.swf|Character dialogue Elsa]]
+|-
+|colspan="4"|[[Media:Close upsIce palace locked-FrozenFeverParty2016.swf|Ice Palace locked]]
+|-
+|[[Media:ENClose upsQuest interface-FrozenFeverParty2016.swf|Quest interface]]||[[Media:PTClose upsQuest interface-FrozenFeverParty2016.swf|Quest interface]]||[[Media:FRClose upsQuest interface-FrozenFeverParty2016.swf|Quest Interface]]||[[Media:ESClose upsQuest interface-FrozenFeverParty2016.swf|Quest Interface]]
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable"
+!colspan="7"|SWF
+|-
+|[[Media:ContentInterface-FrozenFeverParty2016.swf|Interface]]||[[Media:ContentLogo-FrozenFeverParty.swf|Logo]]||[[Media:ContentMap-FrozenFeverParty2016.swf|Map]]||[[Media:ContentParty-FrozenFeverParty2016.swf|Party]]||[[Media:ContentParty icon-FrozenFeverParty.swf|Party icon]]
+|}
+</center>
+
+==Membership==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:MembershipParty1-FrozenFeverParty.swf|Member item]]
+|}
+</center>
+
+{{Parties}}
+

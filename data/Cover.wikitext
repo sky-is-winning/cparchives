@@ -1,0 +1,10 @@
+==Current==
+{| class="wikitable sortable plainlinks"
+! File Name
+! JSON
+! JSONP
+|-
+| cover || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/cover.json en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/cover.json pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/cover.json fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/cover.json es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/cover.json de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/cover.json ru] || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/cover.jsonp en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/cover.jsonp pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/cover.jsonp fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/cover.jsonp es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/cover.jsonp de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/cover.jsonp ru]
+|}
+==2015==
+{{2015GameConfigs|title=cover}}

@@ -1,0 +1,12 @@
+
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[[Media:ArtworkRoomsCoffee6.swf|Coffee Shop]]||{{n/a|?}}
+|-
+|[[Media:ArtworkRooms0401Village.swf|Ski Village]]||{{n/a|?}}
+|}
+
+{{Parties}}

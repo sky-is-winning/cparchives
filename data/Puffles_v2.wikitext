@@ -1,0 +1,12 @@
+{|class="wikitable" style="margin: 1em auto; font-size:9pt;" 
+!colspan="2" style="center"|Legend
+|-
+|'''+'''||File was identical across languages not listed.
+|}
+
+==Files==
+{| class="wikitable" style="margin: auto;"
+!Filename!!Date!!colspan=2|JSON!!colspan=2|JSONP
+|-
+|rowspan=2|puffles_v2||May 2015||[[Media:GameConfigsEN2015May13puffles_v2.json|EN]]||[[Media:GameConfigsFR2015May06puffles_v2.json|Other]]'''+'''||[[Media:GameConfigsEN2015May06puffles_v2.jsonp|EN]]||[[Media:GameConfigsPT2015May06puffles_v2.jsonp|Other]]'''+'''
+|}

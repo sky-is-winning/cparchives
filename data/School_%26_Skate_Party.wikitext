@@ -1,0 +1,76 @@
+
+
+==Rooms==
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsParty1-School&SkateParty.swf|Classroom]]||[[Media:Music751.swf|751]]
+|-
+|[[Media:RoomsForest-School&SkateParty.swf|Forest]]||[[Media:Music757.swf|757]]
+|-
+|[[Media:RoomsParty2-School&SkateParty.swf|Gym]]||[[Media:Music753.swf|753]]
+|-
+|[[Media:RoomsShack-School&SkateParty.swf|Mine Shack]]||[[Media:Music752.swf|752]]
+|-
+|[[Media:RoomsPizzaParlor-School&SkateParty.swf|Pizza Parlor]]||[[Media:Music756.swf|756]]
+|-
+|[[Media:RoomsPlaza-School&SkateParty.swf|Plaza]]||[[Media:Music748.swf|748]]
+|-
+|[[Media:RoomsSchool-School&SkateParty.swf|School]]||[[Media:Music750.swf|750]]
+|-
+|[[Media:RoomsStage-School&SkateParty.swf|Stage]]||[[Media:Music749.swf|749]]
+|-
+|[[Media:RoomsSkatepark.swf|Skatepark]]||[[Media:Music754.swf|754]]
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:ContentMap-School&SkateParty.swf|Map]]
+|-
+|[[Media:ContentParty icon-School&SkateParty.swf|Party Icon]]
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable" border="1"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)!!Deutsch (German)!!Русский (Russian)
+|-
+|[[Media:ENClose_upsQuest_interface-School&SkateParty.swf|Quest Interface]]||[[Media:PTClose_upsQuest_interface-School&SkateParty.swf|Quest Interface]]||[[Media:FRClose_upsQuest_interface-School&SkateParty.swf|Quest Interface]]||[[Media:ESClose_upsQuest_interface-School&SkateParty.swf|Quest Interface]]||[[Media:DEClose_upsQuest_interface-School&SkateParty.swf|Quest Interface]]||[[Media:RUClose_upsQuest_interface-School&SkateParty.swf|Quest Interface]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsCharacter_dialogue_login-School&SkateParty.swf|Login Dialogue]]
+|-
+|colspan="6" rowspan="1" align="center" |[[Media:Close_upsCharacter_dialogue_success-School&SkateParty.swf|Success Dialogue]]
+|}
+</center>
+
+==Membership Notice==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:MembershipParty1-School&SkateParty.swf|Clothing]]
+|}
+</center>
+
+==Login Screen==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+!Русский (Russian)
+|-
+|[[Media:LoginScreen-ENSchoolSkate-september-party-pp.swf|School & Skate Party]]||[[Media:LoginScreen-PTSchoolSkate-september-party-pp.swf|School & Skate Party]]||[[Media:LoginScreen-FRSchoolSkate-september-party-pp.swf|School & Skate Party]]||[[Media:LoginScreen-ESSchoolSkate-september-party-pp.swf|School & Skate Party]]||[[Media:LoginScreen-DESchoolSkate-september-party-pp.swf|School & Skate Party]]||[[Media:LoginScreen-RUSchoolSkate-september-party-pp.swf|School & Skate Party]]
+|}
+</center>
+{{Parties}}
+

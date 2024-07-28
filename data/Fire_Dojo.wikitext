@@ -1,0 +1,40 @@
+
+
+==Normal==
+{|class="wikitable" border="1" style="margin: auto;"
+!Year(s)
+|-
+|[[Media:RoomsFireDojo_1.swf|2009-2011]]
+|-
+|[[Media:RoomsDojoFire-2009.swf|2009]]
+|-
+|[[Media:RoomsFireDojo_2.swf|2012]]
+|-
+|[[Media:RoomsFireDojo_3.swf|2012-2013]]
+|-
+|[[Media:RoomsFireDojo_4.swf|2014-2015]]
+|-
+|[[Media:RoomsDojofire-May2015.swf|May 2015]]
+|-
+|[[Media:RoomsDojofire-June2015.swf|June 2015]]
+|}
+
+==Parties and Events==
+{|class="wikitable" border="1" style="margin: auto;"
+!Event
+!Music
+!Year
+|-
+|[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/dojofire.swf Holiday Party 2009]||||2009
+|-
+|[[Media:HalloweenParty2010DojoFire.swf|Halloween Party 2010]]||||2010
+|-
+|[[Media:HolidayParty2010DojoFire.swf|Holiday Party 2010]]||||2010
+|-
+|[[Media:HalloweenParty2011Dojofire.swf|Halloween Party 2011]]||||2011
+|-
+|[/static/images/archives/e/e8/HolidayParty2011DojoFire.swf Holiday Party 2011]||||2011
+|}
+
+
+{{Places}}

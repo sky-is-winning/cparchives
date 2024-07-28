@@ -1,0 +1,17 @@
+
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[[Media:ArtworkRoomsDance15.swf|Night Club]]||{{n/a|?}}
+|-
+|[[Media:ArtworkRoomsPlaza20.swf|Plaza]]||{{n/a|?}}
+|-
+|[[Media:ArtworkRoomsForts14.swf|Snow Forts]]||{{n/a|?}}
+|-
+|[[Media:ArtworkRoomsTown14.swf|Town]]||{{n/a|?}}
+|}
+
+
+{{Parties}}

@@ -1,0 +1,242 @@
+{{NeedSWFs}}
+
+
+==Normal==
+<center>
+{|class="wikitable" border="1"
+!SWF!!Year(s)!!Change!!Music
+|-
+|[[Media:ArtworkRoomsPlaza10.swf|plaza10]]||2006||colspan="1" rowspan="3" style="background: #ececec; color: grey;" class="table-na" | <small>N/A</small>||colspan="1" rowspan="10" style="background: #ececec; color: grey;" class="table-na" | <small>N/A</small>
+|-
+|[[Media:ArtworkRoomsPlaza11.swf|plaza11]]||2006
+|-
+|[[Media:ArtworkRoomsPlaza12.swf|plaza12]]||2006
+|-
+|[[Media:ArtworkRoomsPlaza13.swf|plaza13]]||2006
+|-
+|[[Media:ArtworkRoomsPlaza17.swf|plaza17]]||2006
+|-
+|[[Media:ArtworkRoomsPlaza40.swf|plaza40]]||2007
+|-
+|[[Media:ArtworkRoomsPlaza41.swf|plaza41]]||2007
+|-
+|[[Media:ArtworkRoomsPlaza44.swf|plaza44]]||2007
+|-
+|[[Media:ArtworkRoomsPlaza45.swf|plaza45]]||2007
+|-
+|[[Media:ArtworkRoomsPlaza47.swf|plaza47]]||2007||Space Adventure
+|-
+|[[Media:RoomsPlaza-Play10.swf|plaza]]||2008-2011||Fairy Fables
+|-
+|[[Media:RoomsPlaza 2-Play8.swf|plaza]]||colspan="1" rowspan="3"|2011-2012||Ruby and the Ruby
+|-
+|[[media:RoomsPlaza-August2011.swf|plaza]]||Secrets Of The Bamboo Forest
+|-
+|[[Media:RoomsPlaza 2-Play18.swf|plaza]]||A Humbug Holiday
+|-
+|[[Media:RoomsPlaza 3-Play6.swf|plaza]]||2012-2013||The Penguins That Time Forgot
+|-
+|[[Media:RoomsPlaza_3.swf|plaza]]||2012-2013||A Humbug Holiday
+|-
+|[[Media:RoomsPlaza 4-Play12.swf|plaza]]||2013-2014||The Haunting of the Viking Opera||[[Media:Music383.swf|383]]
+|-
+|[[Media:RoomsPlaza_4.swf|plaza]]||2013-2014||Squidzoid vs. Shadow Guy and Gamma Gal||[[Media:Music383.swf|383]]
+|-
+|[[Media:RoomsPlaza 5-Play9.swf|plaza]]||colspan="1" rowspan="3"|May 2014-Jul 2014||Space Adventure: Planet Y||rowspan="5"|[[Media:Music677.swf|677]]
+|-
+|[[Media:RoomsPlaza 5-Play10.swf|plaza]]||Fairy Fables
+|-
+|[[Media:RoomsPlaza 5-Play17.swf|plaza]]||Battle of the Ancient Shadows
+|-
+|[[Media:RoomsPlaza 6-Play19.swf|plaza]]||Jul 2014-May 2015||The Vikings That Time Forgot
+|-
+|[[Media:RoomsPlaza-May2015.swf|plaza]]||May 2015||Squidzoid vs. Shadow Guy and Gamma Gal
+|-
+|[[Media:RoomsPlaza-June2015.swf|plaza]]||June 2015||Puffle Berry Mall||rowspan="3"|[[Media:Music587.swf|587]]
+|-
+|[[Media:RoomsPlaza-July2015.swf|plaza]]||July 2015||Stadium
+|-
+|[[Media:RoomsPlaza-November2015.swf|plaza]]||November 2015||Ice Rink
+|}
+</center>
+
+==Parties and Events==
+===2007===
+<center>
+{|class="wikitable" border="1"
+!Event
+!Year
+|-
+|[[Media:RoomsPlaza-FallFair2007.swf|Fall Fair]]||2007
+|-
+|[[Media:RoomsPlaza-HalloweenParty2007.swf|Halloween Party]]||2007
+|-
+|[[Media:RoomsPlaza-StageConstruction 1.swf|Stage construction 1]]||2007
+|-
+|[[Media:RoomsPlaza-StageConstruction 2.swf|Stage construction 2]]||2007
+|-
+|[[Media:RoomsPlaza-SurpriseParty.swf|Surprise Party]]||2007
+|-
+|[[Media:RoomsPlaza-ChristmasParty2007.swf|Christmas Party]]||2007
+|}
+</center>
+
+===2008===
+<center>
+{|class="wikitable" border="1"
+!Event
+!Year
+|-
+|[[Media:RoomsPlaza-SubMarine.swf|Submarine Party]]||2008
+|-
+|[[Media:ArtworkRooms0314Plaza47.swf|St. Patrick's Day Party]]||2008
+|-
+|[[Media:ArtworkRooms0328Plaza47.swf|April Fools' Party]]||2008
+|}
+</center>
+
+===2009===
+<center>
+{|class="wikitable" border="1"
+!Event
+!Year
+|-
+|[[Media:WinterFiesta2009Plaza.swf|Winter Fiesta]]||2009
+|-
+|[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220plaza.swf Puffle Party]||2009
+|-
+|[[Media:RoomsPlaza-PenguinPlayAwards2009.swf|Penguin Play Awards]]||2009
+|-
+|[[Media:Rooms0508Plaza.swf|Medieval Party]]||2009
+|-
+|[[Media:RoomsPlaza-AdventureParty2009Const.swf|Adventure Party (construction)]]||2009
+|-
+|[[Media:RoomsPlaza-AdventureParty2009.swf|Adventure Party]]||2009
+|-
+|[[Media:RoomsPlaza-MusicJam2009.swf|Music Jam]]||2009
+|-
+|[[Media:FestivalOfFlightConstPlaza.swf|Festival of Flight (construction)]]||2009
+|-
+|[[Media:FestivalOfFlightPlaza.swf|Festival of Flight]]||2009
+|-
+|[[Media:RoomsPlaza-FireScavengerHunt.swf|Fire Scavenger Hunt]]||2009
+|-
+|[[Media:RoomsPlaza-TheFair2009.swf|The Fair]]||2009
+|-
+|[[Media:RoomsPlaza-HalloweenParty2009.swf|Halloween Party]]||2009
+|-
+|[[Media:RoomsPlaza-HolidayParty2009.swf|Holiday Party]]||2009
+|}
+</center>
+
+===2010===
+<center>
+{|class="wikitable" border="1"
+!Event
+!Year
+|-
+|[[Media:RoomsPlaza-PuffleParty2010.swf|Puffle Party]]||2010
+|-
+|[[Media:RoomsPlaza-PenguinPlayAwards2010.swf|Penguin Play Awards]]||2010
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/plaza.swf Earth Day]||2010
+|-
+|[[Media:RoomsPlaza-MtnExpedition.swf|Mountain Expedition]]||2010
+|-
+|[[Media:RoomsPlaza-MedievalParty2010.swf|Medieval Party]]||2010
+|-
+|[[Media:RoomsPlaza-IslandAdventureParty2010.swf|Island Adventure Party]]||2010
+|-
+|[[Media:RoomsPlaza-MusicJam2010.swf|Music Jam]]||2010
+|-
+|[[Media:StormPlaza.swf|The Great Storm (before rain)]]||2010
+|-
+|[[Media:RainPlaza.swf|The Great Storm (during rain)]]||2010
+|-
+|[[Media:RoomsPlaza-Fair2010.swf|The Fair]]||2010
+|-
+|[[Media:HalloweenParty2010Plaza.swf|Halloween Party]]||2010
+|-
+|[[Media:WaterHuntPlaza.swf|Water Scavenger Hunt]]||2010
+|-
+|[[Media:HolidayParty2010Plaza.swf|Holiday Party]]||2010
+|}
+</center>
+
+===2011===
+<center>
+{|class="wikitable" border="1"
+!Event
+!Year
+|-
+|[[Media:WildernessExpeditionPlaza.swf|Wilderness Expedition]]||2011
+|-
+|[[Media:PuffleParty2011Plaza%281%29.swf|Puffle Party]]||2011
+|-
+|[[Media:EarthDay2011Plaza.swf|Earth Day]]||2011
+|-
+|[[Media:MedievalParty2011ConstPlaza.swf|Medieval Party (construction)]]||2011
+|-
+|[[Media:MedievalParty2011Plaza.swf|Medieval Party]]||2011
+|-
+|[[Media:MusicJam2011Plaza.swf|Music Jam]]||2011
+|-
+|[[Media:IslandAdventureParty2011ConstPlaza.swf|Island Adventure Party (construction)]]||2011
+|-
+|[[Media:IslandAdventureParty2011Plaza.swf|Island Adventure Party]]||2011
+|-
+|[[Media:PlazaConstructionMar2011.swf|Pet Shop Renovation]]||2011
+|-
+|[[Media:TheGreatSnowRacePlaza.swf|The Great Snow Race]]||2011
+|-
+|[[Media:TheFair2011Plaza.swf|The Fair]]||2011
+|-
+|[[Media:HalloweenParty2011Plaza.swf|Halloween Party]]||2011
+|-
+|[[Media:Card-JitsuPartyPlaza.swf|Card-Jitsu Party]]||2011
+|-
+|[[Media:HolidayParty2011Plaza.swf|Holiday Party]]||2011
+|}
+</center>
+
+===2012===
+<center>
+{|class="wikitable" border="1"
+!Event
+!Year
+|-
+|[[Media:UnderwaterExpeditionPlaza.swf|Underwater Expedition]]||2012
+|-
+|[[Media:RockhoppersQuestPlaza.swf|Rockhopper's Quest]]||2012
+|-
+|[[Media:PuffleParty2012Plaza.swf|Puffle Party]]||2012
+|-
+|[[Media:AprilFools2012Plaza.swf|April Fools' Party]]||2012
+|-
+|[[Media:EarthDay2012Plaza.swf|Earth Day]]||2012
+|-
+|[[Media:MedievalParty2012ConsPlaza.swf|Medieval Party (construction)]]||2012
+|-
+|[[Media:MedievalParty2012plaza.swf|Medieval Party]]||2012
+|-
+|[[Media:MarvelSuperheroTakeoverPlaza.swf|Marvel Super Hero Takeover]]||2012
+|-
+|[[Media:UltimateJamConsPlaza.swf|Make Your Mark: Ultimate Jam (construction)]]||2012
+|-
+|[[Media:UltimateJamPlaza.swf|Make Your Mark: Ultimate Jam]]||2012
+|-
+|[[Media:APToFPlaza.swf|Adventure Party: Temple of Fruit]]||2012
+|-
+|[[Media:Fair2012Plaza.swf|The Fair]]||2012
+|-
+|[[Media:HalloweenParty2012PrePlaza.swf|Halloween Party (construction)]]||2012
+|-
+|[[Media:HalloweenParty2012Plaza.swf|Halloween Party]]||2012
+|-
+|[[Media:BlackoutPlaza.swf|Operation: Blackout]]||2012
+|-
+|[[Media:HolidayParty2012Plaza.swf|Holiday Party]]||2012
+|}
+</center>
+
+{{Places}}

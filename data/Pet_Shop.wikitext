@@ -1,0 +1,81 @@
+
+{{NeedSWFs}}
+
+==Normal==
+<center>
+{|class="wikitable" border="1"
+!SWF!!Year(s)!!Music
+|-
+|[[Media:ArtworkRoomsPet10.swf|pet10]]||March 2006||{{n/a}}
+|-
+|[[Media:ArtworkRoomsPet11.swf|pet11]]||2006||{{n/a}}
+|-
+|[[Media:ArtworkRoomsPet12.swf|pet12]]||August 2006||{{n/a}}
+|-
+|[[Media:ArtworkRoomsPet40.swf|pet40]]||2006||{{n/a}}
+|-
+|[[Media:ArtworkRoomsPet43.swf|pet43]]||December 2006||{{n/a}}
+|-
+|[[Media:ArtworkRoomsPet44.swf|pet44]]||February 2007||{{n/a}}
+|-
+|{{n/a|pet}}||November 2007||{{n/a}}
+|-
+|[[Media:RoomsPet_4.swf|pet]]||March 2009||{{n/a}}
+|-
+|[[Media:RoomsPet-Early2011.swf|pet]]||February 2010||{{n/a}}
+|-
+|[[Media:RoomsPet_5.swf|pet]]||March 2011||{{n/a}}
+|-
+|[[Media:RoomsPet_6.swf|pet]]||May 2011||{{n/a}}
+|-
+|[[Media:RoomsPet_7.swf|pet]]||November 2011||{{n/a}}
+|-
+|[[Media:RoomsPet-PuffleParty2013.swf|pet]]||2013-November 2013||{{n/a}}
+|-
+|[[Media:RoomsPet-May2015.swf|pet]]||November 2013-March 2017||[[Media:Music659.swf|659]]
+|}
+</center>
+
+==Parties and Events==
+<center>
+{|class="wikitable" border="1"
+!Event
+!Year
+|-
+|[[Media:Rooms0516Pet50.swf|Medieval Party]]||2008
+|-
+|[[Media:PuffleParty2009-0220pet.swf|Puffle Party]]||2009
+|-
+|[[Media:Rooms0508Pet.swf|Medieval Party]]||2009
+|-
+|[[Media:HalloweenParty2009RoomsPet.swf|Halloween Party]]||2009
+|-
+|[/swf.cpcheats.info/rooms/2010/puffle_party_febuary/pet.swf Puffle Party]||2010
+|-
+|[/swf.cpcheats.info/rooms/2010/earth_day_april/pet.swf Earth Day]||2010
+|-
+|[/swf.cpcheats.info/rooms/2010/medieval_party_may/pet.swf Medieval Party]||2010
+|-
+|[[Media:WaterHuntPet.swf|Water Scavenger Hunt]]||2010
+|-
+|[[Media:PuffleParty2011Pet.swf|Puffle Party]]||2011
+|-
+|[[Media:PetConstructionMar2011.swf|Construction - March 2011]]||2011
+|-
+|[[Media:Mar07.2011Pet.swf|Puffle Launch Construction]]||2011
+|-
+|[[Media:HalloweenParty2011Pet.swf|Halloween Party]]||2011
+|-
+|[[Media:HalloweenParty2012Pet.swf|Halloween Party]]||2012
+|-
+|[[Media:BlackoutPet.swf|Operation: Blackout]]||2012
+|-
+|[[Media:HolidayParty2012Pet.swf|Holiday Party]]||2012
+|-
+|[[Media:HollywoodPartyRoomsPet.swf|Hollywood Party]]||2013
+|-
+|[[Media:PuffleParty2013Construction-Pet.swf|Puffle Party (Construction)]]||2013
+|}
+</center>
+
+{{Places}}

@@ -1,0 +1,49 @@
+Below are SWF files from issue #429 (January 9, 2014) of the Club Penguin Times:
+
+==Front==
+<center>
+{|class="wikitable" border="1"
+!Header
+!Navigation
+!Feature Story
+!Feature More
+!Support Story
+!Upcoming Events
+!News Flash
+!Ask Gary
+!Dividers
+|-
+|[[Media:ENNews429HeaderFront.swf|English]]||[[Media:ENNews429NavigationFront.swf|English]]||[[Media:ENNews429FeatureStory.swf|English]]||[[Media:ENNews429FeatureMore.swf|English]]||[[Media:ENNews429SupportStory.swf|English]]||[[Media:ENNews429UpcomingEvents.swf|English]]||[[Media:ENNews429NewsFlash.swf|English]]||[[Media:ENNews429AskAuntArctic.swf|English]]||[[Media:ENNews429Dividers.swf|English]]
+|-
+|[[Media:PTNews429HeaderFront.swf|Português]]||[[Media:PTNews429NavigationFront.swf|Português]]||[[Media:PTNews429FeatureStory.swf|Português]]||[[Media:PTNews429FeatureMore.swf|Português]]||[[Media:PTNews429SupportStory.swf|Português]]||[[Media:PTNews429UpcomingEvents.swf|Português]]||[[Media:PTNews429NewsFlash.swf|Português]]||[[Media:PTNews429AskAuntArctic.swf|Português]]||[[Media:PTNews429Dividers.swf|Português]]
+|-
+|[[Media:FRNews429HeaderFront.swf|Français]]||[[Media:FRNews429NavigationFront.swf|Français]]||[[Media:FRNews429FeatureStory.swf|Français]]||[[Media:FRNews429FeatureMore.swf|Français]]||[[Media:FRNews429SupportStory.swf|Français]]||[[Media:FRNews429UpcomingEvents.swf|Français]]||[[Media:FRNews429NewsFlash.swf|Français]]||[[Media:FRNews429AskAuntArctic.swf|Français]]||[[Media:FRNews429Dividers.swf|Français]]
+|-
+|[[Media:ESNews429HeaderFront.swf|Español]]||[[Media:ESNews429NavigationFront.swf|Español]]||[[Media:ESNews429FeatureStory.swf|Español]]||[[Media:ESNews429FeatureMore.swf|Español]]||[[Media:ESNews429SupportStory.swf|Español]]||[[Media:ESNews429UpcomingEvents.swf|Español]]||[[Media:ESNews429NewsFlash.swf|Español]]||[[Media:ESNews429AskAuntArctic.swf|Español]]||[[Media:ESNews429Dividers.swf|Español]]
+|-
+|[[Media:DENews429HeaderFront.swf|Deutsch]]||[[Media:DENews429NavigationFront.swf|Deutsch]]||[[Media:DENews429FeatureStory.swf|Deutsch]]||[[Media:DENews429FeatureMore.swf|Deutsch]]||[[Media:DENews429SupportStory.swf|Deutsch]]||[[Media:DENews429UpcomingEvents.swf|Deutsch]]||[[Media:DENews429NewsFlash.swf|Deutsch]]||[[Media:DENews429AskAuntArctic.swf|Deutsch]]||[[Media:DENews429Dividers.swf|Deutsch]]
+|}
+</center>
+==Back==
+<center>
+{|class="wikitable" border="1"
+!Header
+!Navigation
+!Comics
+!Jokes and Riddles
+!Secrets
+!Secrets (overlay)
+!Dividers
+!Submit Your Content
+|-
+|[[Media:ENNews429HeaderBack.swf|English]]||[[Media:ENNews429NavigationBack.swf|English]]||[[Media:ENNews429Comics.swf|English]]||[[Media:ENNews429JokesAndRiddles.swf|English]]||[[Media:ENNews429Secrets.swf|English]]||[[Media:ENNews429SecretsOverlay.swf|English]]||[[Media:ENNews429DividersBack.swf|English]]||[[Media:ENNews429SubmitYourContent.swf|English]]
+|-
+|[[Media:PTNews429HeaderBack.swf|Português]]||[[Media:PTNews429NavigationBack.swf|Português]]||[[Media:PTNews429Comics.swf|Português]]||[[Media:PTNews429JokesandRiddles.swf|Português]]||[[Media:PTNews429Secrets.swf|Português]]||[[Media:PTNews429SecretsOverlay.swf|Português]]||[[Media:PTNews429DividersBack.swf|Português]]||[[Media:PTNews429SubmitYourContent.swf|Português]]
+|-
+|[[Media:FRNews429HeaderBack.swf|Français]]||[[Media:FRNews429NavigationBack.swf|Français]]||[[Media:FRNews429Comics.swf|Français]]||[[Media:FRNews429JokesandRiddles.swf|Français]]||[[Media:FRNews429Secrets.swf|Français]]||[[Media:FRNews429SecretsOverlay.swf|Français]]||[[Media:FRNews429DividersBack.swf|Français]]||[[Media:FRNews429SubmitYourContent.swf|Français]]
+|-
+|[[Media:ESNews429HeaderBack.swf|Español]]||[[Media:ESNews429NavigationBack.swf|Español]]||[[Media:ESNews429Comics.swf|Español]]||[[Media:ESNews429JokesandRiddles.swf|Español]]||[[Media:ESNews429Secrets.swf|Español]]||[[Media:ESNews429SecretsOverlay.swf|Español]]||[[Media:ESNews429DividersBack.swf|Español]]||[[Media:ESNews429SubmitYourContent.swf|Español]]
+|-
+|[[Media:DENews429HeaderBack.swf|Deutsch]]||[[Media:DENews429NavigationBack.swf|Deutsch]]||[[Media:DENews429Comics.swf|Deutsch]]||[[Media:DENews429JokesandRiddles.swf|Deutsch]]||[[Media:DENews429Secrets.swf|Deutsch]]||[[Media:DENews429SecretsOverlay.swf|Deutsch]]||[[Media:DENews429DividersBack.swf|Deutsch]]||[[Media:DENews429SubmitYourContent.swf|Deutsch]]
+|}
+</center>

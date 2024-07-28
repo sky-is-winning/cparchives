@@ -1,0 +1,35 @@
+
+<center>
+{|class="wikitable" border="1"
+!Current
+|-
+|<span class="plainlinks">[http://icer.ink/media1.clubpenguin.com/play/v2/content/global/rooms/hotellobby.swf Room]</span>
+|}
+</center>
+
+==Normal==
+<center>
+{|class="wikitable" border="1"
+!Year
+|-
+|[[Media:RoomsHotelLobby-PuffleParty2013.swf|2013]]
+|-
+|[[Media:RoomsHotelLobby_2.swf|2013-Present]]
+|}
+</center>
+==Parties and events==
+<center>
+{|class="wikitable" border="1"
+!Event
+!Music
+!Year
+|-
+|[[Media:RoomsHotelLobby-PuffleParty2013.swf|Puffle Party]]||||2013
+|-
+|[[Media:RoomsHotellobby-HalloweenParty2013.swf|Halloween Party]]||||2013
+|-
+|[[Media:OperationPuffleRoomsHotelLobby.swf|Operation: Puffle]]||||2013
+|-
+|[[Media:RoomsHotellobby-HolidayParty2013.swf|Holiday Party]]||||2013
+|}
+</center>

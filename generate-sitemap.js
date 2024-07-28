@@ -3,7 +3,7 @@ import path from "path";
 
 async function getFiles(dir) {
     let results = [];
-    const list = await fs.readdir(dir, { withFileTypes: true });
+    const list = await fs.readdir(dir, {withFileTypes: true});
 
     for (const dirent of list) {
         const filePath = path.resolve(dir, dirent.name);

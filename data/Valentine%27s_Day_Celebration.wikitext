@@ -1,0 +1,12 @@
+
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[[Media:ArtworkRooms0214Lounge.swf|Dance Lounge]]||{{n/a|?}}
+|-
+|[[Media:ArtworkRooms0214Dance.swf|Night Club]]||[[Media:Music2.swf|2]]
+|}
+
+{{Events}}

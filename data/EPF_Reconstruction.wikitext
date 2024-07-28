@@ -1,0 +1,27 @@
+
+
+==Rooms==
+<center>
+{|class="wikitable" border="1"
+!Room
+!Music
+!Time
+|-
+|[[Media:RoomsAgentLobbyEPFConstruction.swf|Everyday Phoning Facility]]||{{n/a}}||February 28, 2013 - June 20, 2013
+|-
+|[[Media:RoomsAgentcomEPFConstruction.swf|EPF Command Room]]||[[Media:Music23.swf|23]]||April 5, 2013 - May 9, 2013
+|-
+|[[Media:RoomsAgentcom-April2013.swf|EPF Command Room]]||[[Media:Music378.swf|378]]||May 9, 2013 - June 20, 2013
+|-
+|[[Media:RoomsAgentcom-May2013.swf|EPF Command Room]]||[[Media:Music378.swf|378]]||February 13, 2014 - March 6, 2014
+|-
+|[[Media:RoomsVillageEPFConstruction.swf|Ski Village]]||[[Media:Music591.swf|591]]||February 28 - April 5, 2013
+|-
+|[[Media:RoomsVillage-April2013.swf|Ski Village]]||[[Media:Music591.swf|591]]||April 5, 2013 - June 20, 2013
+|-
+|[[Media:RoomsAgentLobbyEPFConstruction2.swf|Everyday Phoning Facility]]||{{n/a}}||June 20, 2013 - August 8, 2013
+|-
+|[[Media:RoomsAgentLobbyMulti_2.swf|Everyday Phoning Facility]]||{{n/a}}||August 8, 2013 - Present
+|}
+
+{{Events}}

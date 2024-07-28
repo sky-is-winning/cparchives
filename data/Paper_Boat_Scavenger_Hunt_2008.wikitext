@@ -1,0 +1,33 @@
+
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room
+|-
+|[[Media:RoomsBeach-PaperBoatScavengerHunt2008.swf|Beach]]
+|-
+|[[Media:RoomsCave-PaperBoatScavengerHunt2008.swf|Cave]]
+|-
+|[[Media:RoomsCoffee-PaperBoatScavengerHunt2008.swf|Coffee Shop]]
+|-
+|[[Media:RoomsCove-PaperBoatScavengerHunt2008.swf|Cove]]
+|-
+|[[Media:RoomsDock-PaperBoatScavengerHunt2008.swf|Dock]]
+|-
+|[[Media:RoomsBerg-PaperBoatScavengerHunt2008.swf|Iceberg]]
+|-
+|[[Media:RoomsShack-PaperBoatScavengerHunt2008.swf|Mine Shack]]
+|-
+|[[Media:RoomsPet-PaperBoatScavengerHunt2008.swf|Pet Shop]]
+|}
+
+==Other==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF
+|-
+|[[Media:BoatIcon-PaperBoatScavengerHunt2008.swf|Boat icon]]
+|-
+|[[Media:Boats-PaperBoatScavengerHunt2008.swf|Boats]]
+|}
+
+{{Events}}

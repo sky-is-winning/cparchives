@@ -1,0 +1,54 @@
+Below are SWF files from issue #449 (June 5, 2014) of the Club Penguin Times:
+
+==Front==
+<center>
+{|class="wikitable" border="1"
+!Header
+!Navigation
+!Feature Story
+!Feature More
+!Support Story
+!Upcoming Events
+!News Flash
+!Ask Gary 3000
+!Dividers
+|-
+|[[Media:ENNews449HeaderFront.swf|English]]||[[Media:ENNews449NavigationFront.swf|English]]||[[Media:ENNews449FeatureStory.swf|English]]||[[Media:ENNews449FeatureMore.swf|English]]||[[Media:ENNews449SupportStory.swf|English]]||[[Media:ENNews449UpcomingEvents.swf|English]]||[[Media:ENNews449NewsFlash.swf|English]]||[[Media:ENNews449AskAuntArcticFront.swf|English]]||[[Media:ENNews449Dividers.swf|English]]
+|-
+|[[Media:PTNews449HeaderFront.swf|Português]]||[[Media:PTNews449NavigationFront.swf|Português]]||[[Media:PTNews449FeatureStory.swf|Português]]||[[Media:PTNews449FeatureMore.swf|Português]]||[[Media:PTNews449SupportStory.swf|Português]]||[[Media:PTNews449UpcomingEvents.swf|Português]]||[[Media:PTNews449NewsFlash.swf|Português]]||[[Media:PTNews449AskAuntArctic.swf|Português]]||[[Media:ENNews449Dividers.swf|Português]]
+|-
+|[[Media:FRNews449HeaderFront.swf|Français]]||[[Media:FRNews449NavigationFront.swf|Français]]||[[Media:FRNews449FeatureStory.swf|Français]]||[[Media:FRNews449FeatureMore.swf|Français]]||[[Media:FRNews449SupportStory.swf|Français]]||[[Media:FRNews449UpcomingEvents.swf|Français]]||[[Media:FRNews449NewsFlash.swf|Français]]||[[Media:FRNews449AskAuntArctic.swf|Français]]||[[Media:ENNews449Dividers.swf|Français]]
+|-
+|[[Media:ESNews449HeaderFront.swf|Español]]||[[Media:ESNews449NavigationFront.swf|Español]]||[[Media:ESNews449FeatureStory.swf|Español]]||[[Media:ESNews449FeatureMore.swf|Español]]||[[Media:ESNews449SupportStory.swf|Español]]||[[Media:ESNews449UpcomingEvents.swf|Español]]||[[Media:ESNews449NewsFlash.swf|Español]]||[[Media:ESNews449AskAuntArctic.swf|Español]]||[[Media:ENNews449Dividers.swf|Español]]
+|-
+|[[Media:DENews449HeaderFront.swf|Deutsch]]||[[Media:DENews449NavigationFront.swf|Deutsch]]||[[Media:DENews449FeatureStory.swf|Deutsch]]||[[Media:DENews449FeatureMore.swf|Deutsch]]||[[Media:DENews449SupportStory.swf|Deutsch]]||[[Media:DENews449UpcomingEvents.swf|Deutsch]]||[[Media:DENews449NewsFlash.swf|Deutsch]]||[[Media:DENews449AskAuntArctic.swf|Deutsch]]||[[Media:ENNews449Dividers.swf|Deutsch]]
+|-
+|[[Media:RUNews449HeaderFront.swf|Русский]]||[[Media:RUNews449NavigationFront.swf|Русский]]||[[Media:RUNews449FeatureStory.swf|Русский]]||[[Media:RUNews449FeatureMore.swf|Русский]]||[[Media:RUNews449SupportStory.swf|Русский]]||[[Media:RUNews449UpcomingEvents.swf|Русский]]||[[Media:RUNews449NewsFlash.swf|Русский]]||[[Media:RUNews449AskAuntArctic.swf|Русский]]||[[Media:ENNews449Dividers.swf|Русский]]
+|}
+</center>
+
+==Back==
+<center>
+{|class="wikitable" border="1"
+!Header
+!Navigation
+!Comics
+!Jokes and Riddles
+!Secrets
+!Secret (overlay)
+!Dividers
+!Submit Your Content
+|-
+|[[Media:ENNews449HeaderBack.swf|English]]||[[Media:ENNews449NavigationBack.swf|English]]||[[Media:ENNews449AskAuntArcticBack.swf|English]]||[[Media:ENNews449JokesandRiddles.swf|English]]||[[Media:ENNews449Secrets.swf|English]]||[[Media:ENNews449SecretOverlay.swf|English]]||[[Media:ENNews449DividersBack.swf|English]]||[[Media:ENNews449SubmitYourContent.swf|English]]
+|-
+|[[Media:PTNews449HeaderBack.swf|Português]]||[[Media:PTNews449NavigationBack.swf|Português]]||[[Media:PTNews449AskAuntArcticBack.swf|Português]]||[[Media:PTNews449JokesandRiddles.swf|Português]]||[[Media:PTNews449Secrets.swf|Português]]||[[Media:PTNews449SecretOverlay.swf|Português]]||[[Media:ENNews449DividersBack.swf|Português]]||[[Media:PTNews449SubmitYourContent.swf|Português]]
+|-
+|[[Media:FRNews449HeaderBack.swf|Français]]||[[Media:FRNews449NavigationBack.swf|Français]]||[[Media:FRNews449AskAuntArcticBack.swf|Français]]||[[Media:FRNews449JokesandRiddles.swf|Français]]||[[Media:FRNews449Secrets.swf|Français]]||[[Media:FRNews449SecretOverlay.swf|Français]]||[[Media:ENNews449DividersBack.swf|Français]]||[[Media:FRNews449SubmitYourContent.swf|Français]]
+|-
+|[[Media:ESNews449HeaderBack.swf|Español]]||[[Media:ESNews449NavigationBack.swf|Español]]||[[Media:ESNews449AskAuntArcticBack.swf|Español]]||[[Media:ESNews449JokesandRiddles.swf|Español]]||[[Media:ESNews449Secrets.swf|Español]]||[[Media:ESNews449SecretOverlay.swf|Español]]||[[Media:ENNews449DividersBack.swf|Español]]||[[Media:ESNews449SubmitYourContent.swf|Español]]
+|-
+|[[Media:DENews449HeaderBack.swf|Deutsch]]||[[Media:DENews449NavigationBack.swf|Deutsch]]||[[Media:DENews449AskAuntArcticBack.swf|Deutsch]]||[[Media:DENews449JokesandRiddles.swf|Deutsch]]||[[Media:DENews449Secrets.swf|Deutsch]]||[[Media:DENews449SecretOverlay.swf|Deutsch]]||[[Media:ENNews449DividersBack.swf|Deutsch]]||[[Media:DENews449SubmitYourContent.swf|Deutsch]]
+|-
+|[[Media:RUNews449HeaderBack.swf|Русский]]||[[Media:RUNews449NavigationBack.swf|Русский]]||[[Media:RUNews449AskAuntArcticBack.swf|Русский]]||[[Media:RUNews449JokesandRiddles.swf|Русский]]||[[Media:RUNews449Secrets.swf|Русский]]||[[Media:RUNews449SecretOverlay.swf|Русский]]||[[Media:ENNews449DividersBack.swf|Русский]]||[[Media:RUNews449SubmitYourContent.swf|Русский]]
+|}
+</center>

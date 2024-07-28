@@ -1,0 +1,807 @@
+<!-- Note, that the stamps are listed in alphabetical order - there's a reason for that - I (Misabr) used a script to get the stamps list from the JSON, and they're listed there in the alphabetical order... you can re-order the stuff if you want -->
+==Activities==
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|14||[[Media:StampbookStamps14.swf|183 days! ]]
+|-
+|488||[[Media:StampbookStamps488.swf|3 Gems]]
+|-
+|20||[[Media:StampbookStamps20.swf|365 days!]]
+|-
+|26||[[Media:StampbookStamps26.swf|Berg Drill!]]
+|-
+|493||[[Media:StampbookStamps493.swf|Big Dig]]
+|-
+|13||[[Media:StampbookStamps13.swf|Clock Target]]
+|-
+|18||[[Media:StampbookStamps18.swf|Coffee Server]]
+|-
+|16||[[Media:StampbookStamps16.swf|Dance Party]]
+|-
+|492||[[Media:StampbookStamps492.swf|Dig All Day]]
+|-
+|200||[[Media:StampbookStamps200.swf|Elite Protector]]
+|-
+|491||[[Media:StampbookStamps491.swf|Every Color]]
+|-
+|197||[[Media:StampbookStamps197.swf|Field Agent]]
+|-
+|490||[[Media:StampbookStamps490.swf|First Dig]]
+|-
+|22||[[Media:StampbookStamps22.swf|Floor Filler]]
+|-
+|27||[[Media:StampbookStamps27.swf|Fort Battle]]
+|-
+|23||[[Media:StampbookStamps23.swf|Full House]]
+|-
+|12||[[Media:StampbookStamps12.swf|Go Swimming]]
+|-
+|15||[[Media:StampbookStamps15.swf|Going Places]]
+|-
+|29||[[Media:StampbookStamps29.swf|Hockey Team]]
+|-
+|17||[[Media:StampbookStamps17.swf|Igloo Party]]
+|-
+|201||[[Media:StampbookStamps201.swf|Island Guardian]]
+|-
+|30||[[Media:StampbookStamps30.swf|Ninja Meeting]]
+|-
+|28||[[Media:StampbookStamps28.swf|Party Host ]]
+|-
+|19||[[Media:StampbookStamps19.swf|Pizza Waiter]]
+|-
+|24||[[Media:StampbookStamps24.swf|Play It Loud! ]]
+|-
+|489||[[Media:StampbookStamps489.swf|Puffle Dig]]
+|-
+|21||[[Media:StampbookStamps21.swf|Puffle Owner]]
+|-
+|11||[[Media:StampbookStamps11.swf|Snapshot]]
+|-
+|25||[[Media:StampbookStamps25.swf|Soccer Team ]]
+|-
+|198||[[Media:StampbookStamps198.swf|Special Agent]]
+|-
+|199||[[Media:StampbookStamps199.swf|Special Forces]]
+|-
+|9||[[Media:StampbookStamps9.swf|Stage Crew]]
+|-
+|495||[[Media:StampbookStamps495.swf|Tasty Treasure]]
+|-
+|494||[[Media:StampbookStamps494.swf|Treasure Box]]
+|-
+|10||[[Media:StampbookStamps10.swf|Underground]]
+|}
+==Events==
+===Characters===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|33||[[Media:StampbookStamps33.swf|Aunt Arctic]]
+|-
+|31||[[Media:StampbookStamps31.swf|Cadence ]]
+|-
+|32||[[Media:StampbookStamps32.swf|Franky]]
+|-
+|34||[[Media:StampbookStamps34.swf|G Billy]]
+|-
+|8||[[Media:StampbookStamps8.swf|Gary]]
+|-
+|466||[[Media:StampbookStamps466.swf|Herbert]]
+|-
+|448||[[Media:StampbookStamps448.swf|PH]]
+|-
+|35||[[Media:StampbookStamps35.swf|Petey K]]
+|-
+|7||[[Media:StampbookStamps7.swf|Rockhopper ]]
+|-
+|358||[[Media:StampbookStamps358.swf|Rookie]]
+|-
+|290||[[Media:StampbookStamps290.swf|Sensei]]
+|-
+|36||[[Media:StampbookStamps36.swf|Stompin' Bob]]
+|}
+===Party===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|186||[[Media:StampbookStamps186.swf|Celebration]]
+|-
+|189||[[Media:StampbookStamps189.swf|Construction]]
+|-
+|296||[[Media:StampbookStamps296.swf|Epic Volunteer]]
+|-
+|190||[[Media:StampbookStamps190.swf|Explorer]]
+|-
+|332||[[Media:StampbookStamps332.swf|Food Fight]]
+|-
+|362||[[Media:StampbookStamps362.swf|Go Green]]
+|-
+|182||[[Media:StampbookStamps182.swf|Happy Room]]
+|-
+|187||[[Media:StampbookStamps187.swf|Monster Mash]]
+|-
+|439||[[Media:StampbookStamps439.swf|Mountaineer]]
+|-
+|426||[[Media:StampbookStamps426.swf|Music Maestro ]]
+|-
+|360||[[Media:StampbookStamps360.swf|Noble Knight]]
+|-
+|292||[[Media:StampbookStamps292.swf|Out At Sea]]
+|-
+|330||[[Media:StampbookStamps330.swf|Party Puffle]]
+|-
+|183||[[Media:StampbookStamps183.swf|Party Puzzle]]
+|-
+|193||[[Media:StampbookStamps193.swf|Path Finder]]
+|-
+|188||[[Media:StampbookStamps188.swf|Scavenger Hunt]]
+|-
+|184||[[Media:StampbookStamps184.swf|Snack Shack]]
+|-
+|440||[[Media:StampbookStamps440.swf|Snowboarder]]
+|-
+|438||[[Media:StampbookStamps438.swf|Stunt Penguin]]
+|-
+|185||[[Media:StampbookStamps185.swf|Target Champion]]
+|-
+|294||[[Media:StampbookStamps294.swf|Top Volunteer]]
+|-
+|364||[[Media:StampbookStamps364.swf|Tree Mob]]
+|-
+|444||[[Media:StampbookStamps444.swf|Trick-or-treat]]
+|-
+|191||[[Media:StampbookStamps191.swf|Volunteer]]
+|}
+==Games==
+===Aqua Grabber===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|73||[[Media:StampbookStamps73.swf|Aqua Puffle]]
+|-
+|80||[[Media:StampbookStamps80.swf|Bubble Catch]]
+|-
+|84||[[Media:StampbookStamps84.swf|Clam Compress]]
+|-
+|77||[[Media:StampbookStamps77.swf|Clam Master]]
+|-
+|86||[[Media:StampbookStamps86.swf|Clam Pressure]]
+|-
+|75||[[Media:StampbookStamps75.swf|Clam Success]]
+|-
+|88||[[Media:StampbookStamps88.swf|Clam Timer]]
+|-
+|82||[[Media:StampbookStamps82.swf|Clam Treasure]]
+|-
+|91||[[Media:StampbookStamps91.swf|Crab's Treasure]]
+|-
+|78||[[Media:StampbookStamps78.swf|Get Fluffy]]
+|-
+|79||[[Media:StampbookStamps79.swf|Get the Worm]]
+|-
+|92||[[Media:StampbookStamps92.swf|Mullet Capture]]
+|-
+|81||[[Media:StampbookStamps81.swf|Pearl Capture]]
+|-
+|85||[[Media:StampbookStamps85.swf|Soda Compress]]
+|-
+|76||[[Media:StampbookStamps76.swf|Soda Master]]
+|-
+|87||[[Media:StampbookStamps87.swf|Soda Pressure]]
+|-
+|74||[[Media:StampbookStamps74.swf|Soda Success]]
+|-
+|89||[[Media:StampbookStamps89.swf|Soda Timer]]
+|-
+|83||[[Media:StampbookStamps83.swf|Soda Treasure]]
+|-
+|72||[[Media:StampbookStamps72.swf|Squid Spotter]]
+|}
+===Astro Barrier===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|55||[[Media:StampbookStamps55.swf|1-up Blast]]
+|-
+|61||[[Media:StampbookStamps61.swf|Astro 1-up]]
+|-
+|59||[[Media:StampbookStamps59.swf|Astro Expert]]
+|-
+|62||[[Media:StampbookStamps62.swf|Astro Master]]
+|-
+|56||[[Media:StampbookStamps56.swf|Astro Secret]]
+|-
+|57||[[Media:StampbookStamps57.swf|Astro10 Max]]
+|-
+|58||[[Media:StampbookStamps58.swf|Astro20 Max]]
+|-
+|60||[[Media:StampbookStamps60.swf|Astro30 Max]]
+|-
+|53||[[Media:StampbookStamps53.swf|Astro40]]
+|-
+|51||[[Media:StampbookStamps51.swf|Astro5]]
+|-
+|52||[[Media:StampbookStamps52.swf|Astro5 Max]]
+|-
+|54||[[Media:StampbookStamps54.swf|Ship Blast]]
+|}
+===Card-Jitsu===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|242||[[Media:StampbookStamps242.swf|Elemental Win]]
+|-
+|232||[[Media:StampbookStamps232.swf|Fine Student ]]
+|-
+|238||[[Media:StampbookStamps238.swf|Flawless Victory ]]
+|-
+|248||[[Media:StampbookStamps248.swf|Full Dojo]]
+|-
+|230||[[Media:StampbookStamps230.swf|Grasshopper]]
+|-
+|240||[[Media:StampbookStamps240.swf|Match Master]]
+|-
+|236||[[Media:StampbookStamps236.swf|Ninja Master ]]
+|-
+|244||[[Media:StampbookStamps244.swf|One Element ]]
+|-
+|246||[[Media:StampbookStamps246.swf|Sensei Card]]
+|-
+|234||[[Media:StampbookStamps234.swf|True Ninja ]]
+|}
+===Card-Jitsu : Fire===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|268||[[Media:StampbookStamps268.swf|Fire Expert ]]
+|-
+|256||[[Media:StampbookStamps256.swf|Fire Midway]]
+|-
+|264||[[Media:StampbookStamps264.swf|Fire Ninja]]
+|-
+|262||[[Media:StampbookStamps262.swf|Fire Suit]]
+|-
+|266||[[Media:StampbookStamps266.swf|Max Energy]]
+|-
+|254||[[Media:StampbookStamps254.swf|Score Fire ]]
+|-
+|260||[[Media:StampbookStamps260.swf|Strong Defence]]
+|-
+|252||[[Media:StampbookStamps252.swf|Warm Up]]
+|}
+===Card-Jitsu : Snow===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|485||[[Media:StampbookStamps485.swf|3 Combos]]
+|-
+|467||[[Media:StampbookStamps467.swf|3 Ninja Combo]]
+|-
+|468||[[Media:StampbookStamps468.swf|4 Ninja Combo]]
+|-
+|473||[[Media:StampbookStamps473.swf|Bonus Win]]
+|-
+|486||[[Media:StampbookStamps486.swf|Final Battle]]
+|-
+|482||[[Media:StampbookStamps482.swf|Fire Blast]]
+|-
+|483||[[Media:StampbookStamps483.swf|Fire Blast Combo]]
+|-
+|470||[[Media:StampbookStamps470.swf|Fire Ninja]]
+|-
+|472||[[Media:StampbookStamps472.swf|Full Health]]
+|-
+|477||[[Media:StampbookStamps477.swf|Heal 15]]
+|-
+|478||[[Media:StampbookStamps478.swf|Huge Heal]]
+|-
+|484||[[Media:StampbookStamps484.swf|Power Card Pro]]
+|-
+|474||[[Media:StampbookStamps474.swf|Revive]]
+|-
+|469||[[Media:StampbookStamps469.swf|Snow Ninja]]
+|-
+|487||[[Media:StampbookStamps487.swf|Snow Pro]]
+|-
+|479||[[Media:StampbookStamps479.swf|Snow Shield]]
+|-
+|476||[[Media:StampbookStamps476.swf|Team Revival]]
+|-
+|480||[[Media:StampbookStamps480.swf|Tidal Wave]]
+|-
+|475||[[Media:StampbookStamps475.swf|Up and at 'em]]
+|-
+|471||[[Media:StampbookStamps471.swf|Water Ninja]]
+|-
+|481||[[Media:StampbookStamps481.swf|Wave Boost]]
+|}
+===Card-Jitsu : Water===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|270||[[Media:StampbookStamps270.swf|Gong!]]
+|-
+|288||[[Media:StampbookStamps288.swf|Skipping Stones]]
+|-
+|286||[[Media:StampbookStamps286.swf|Two Close]]
+|-
+|276||[[Media:StampbookStamps276.swf|Water Expert]]
+|-
+|278||[[Media:StampbookStamps278.swf|Water Midway]]
+|-
+|284||[[Media:StampbookStamps284.swf|Water Ninja]]
+|-
+|282||[[Media:StampbookStamps282.swf|Water Suit]]
+|-
+|274||[[Media:StampbookStamps274.swf|Watery Fall]]
+|}
+===Cart Surfer===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|208||[[Media:StampbookStamps208.swf|Cart Expert]]
+|-
+|210||[[Media:StampbookStamps210.swf|Cart Master]]
+|-
+|206||[[Media:StampbookStamps206.swf|Cart Pro]]
+|-
+|224||[[Media:StampbookStamps224.swf|Flip Mania]]
+|-
+|212||[[Media:StampbookStamps212.swf|Great Balance]]
+|-
+|220||[[Media:StampbookStamps220.swf|Mine Grind]]
+|-
+|214||[[Media:StampbookStamps214.swf|Mine Marvel]]
+|-
+|216||[[Media:StampbookStamps216.swf|Mine Mission]]
+|-
+|228||[[Media:StampbookStamps228.swf|Puffle Power]]
+|-
+|222||[[Media:StampbookStamps222.swf|Surf's Up]]
+|-
+|218||[[Media:StampbookStamps218.swf|Trick Master]]
+|-
+|226||[[Media:StampbookStamps226.swf|Ultimate Duo]]
+|}
+===Catchin' Waves===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|95||[[Media:StampbookStamps95.swf|Easy Flip]]
+|-
+|97||[[Media:StampbookStamps97.swf|Easy Grind]]
+|-
+|102||[[Media:StampbookStamps102.swf|Easy Jump]]
+|-
+|104||[[Media:StampbookStamps104.swf|Easy Spin]]
+|-
+|96||[[Media:StampbookStamps96.swf|Easy Tube]]
+|-
+|108||[[Media:StampbookStamps108.swf|First Place]]
+|-
+|93||[[Media:StampbookStamps93.swf|First Trick]]
+|-
+|101||[[Media:StampbookStamps101.swf|Flip Star]]
+|-
+|98||[[Media:StampbookStamps98.swf|Graduate]]
+|-
+|110||[[Media:StampbookStamps110.swf|High Jump]]
+|-
+|109||[[Media:StampbookStamps109.swf|Max Flips]]
+|-
+|107||[[Media:StampbookStamps107.swf|Max Grind]]
+|-
+|112||[[Media:StampbookStamps112.swf|Max Spin]]
+|-
+|111||[[Media:StampbookStamps111.swf|Max Tube]]
+|-
+|100||[[Media:StampbookStamps100.swf|Podium Puffle]]
+|-
+|94||[[Media:StampbookStamps94.swf|Puffle Surfin']]
+|-
+|113||[[Media:StampbookStamps113.swf|Shark!]]
+|-
+|106||[[Media:StampbookStamps106.swf|Super Grind]]
+|-
+|105||[[Media:StampbookStamps105.swf|Super Spin]]
+|-
+|103||[[Media:StampbookStamps103.swf|Super Tube]]
+|-
+|114||[[Media:StampbookStamps114.swf|Survivor]]
+|-
+|99||[[Media:StampbookStamps99.swf|Trick Star]]
+|}
+===Ice Fishing===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|390||[[Media:StampbookStamps390.swf|Ace Angler]]
+|-
+|382||[[Media:StampbookStamps382.swf|Afishionado]]
+|-
+|380||[[Media:StampbookStamps380.swf|Crab Cuts]]
+|-
+|376||[[Media:StampbookStamps376.swf|Fishtastic]]
+|-
+|388||[[Media:StampbookStamps388.swf|Fly Fisher]]
+|-
+|384||[[Media:StampbookStamps384.swf|Gray Goodies]]
+|-
+|386||[[Media:StampbookStamps386.swf|Prize Mullet]]
+|-
+|374||[[Media:StampbookStamps374.swf|Shock King]]
+|-
+|372||[[Media:StampbookStamps372.swf|Snack Attack]]
+|-
+|378||[[Media:StampbookStamps378.swf|Worm Win]]
+|}
+===Jet Pack Adventure===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|49||[[Media:StampbookStamps49.swf|1-up Captain]]
+|-
+|45||[[Media:StampbookStamps45.swf|1-up Leader]]
+|-
+|50||[[Media:StampbookStamps50.swf|Ace Pilot ]]
+|-
+|40||[[Media:StampbookStamps40.swf|Crash!]]
+|-
+|47||[[Media:StampbookStamps47.swf|Fuel Command]]
+|-
+|38||[[Media:StampbookStamps38.swf|Fuel Rank 1]]
+|-
+|41||[[Media:StampbookStamps41.swf|Fuel Rank 2]]
+|-
+|42||[[Media:StampbookStamps42.swf|Fuel Rank 3]]
+|-
+|43||[[Media:StampbookStamps43.swf|Fuel Rank 4]]
+|-
+|44||[[Media:StampbookStamps44.swf|Fuel Rank 5]]
+|-
+|48||[[Media:StampbookStamps48.swf|Fuel Wings]]
+|-
+|39||[[Media:StampbookStamps39.swf|Jet Pack 5]]
+|-
+|46||[[Media:StampbookStamps46.swf|Kerching!]]
+|-
+|37||[[Media:StampbookStamps37.swf|Lift Off!]]
+|-
+|203||[[Media:StampbookStamps203.swf|Puffle Bonus ]]
+|-
+|205||[[Media:StampbookStamps205.swf|Puffle Boost]]
+|-
+|202||[[Media:StampbookStamps202.swf|Puffle Pilot ]]
+|-
+|204||[[Media:StampbookStamps204.swf|Puffle Plus ]]
+|}
+===Missions===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|160||[[Media:StampbookStamps160.swf|Aunt Arctic Letter]]
+|-
+|170||[[Media:StampbookStamps170.swf|Blueprint]]
+|-
+|176||[[Media:StampbookStamps176.swf|Chocolate Box]]
+|-
+|174||[[Media:StampbookStamps174.swf|Cool Gift]]
+|-
+|178||[[Media:StampbookStamps178.swf|Employee Award]]
+|-
+|162||[[Media:StampbookStamps162.swf|G's Letter]]
+|-
+|166||[[Media:StampbookStamps166.swf|Handy Award]]
+|-
+|159||[[Media:StampbookStamps159.swf|Mission 1 Medal]]
+|-
+|177||[[Media:StampbookStamps177.swf|Mission 10 Medal]]
+|-
+|179||[[Media:StampbookStamps179.swf|Mission 11 Medal]]
+|-
+|161||[[Media:StampbookStamps161.swf|Mission 2 Medal]]
+|-
+|163||[[Media:StampbookStamps163.swf|Mission 3 Medal]]
+|-
+|165||[[Media:StampbookStamps165.swf|Mission 4 Medal]]
+|-
+|167||[[Media:StampbookStamps167.swf|Mission 5 Medal]]
+|-
+|169||[[Media:StampbookStamps169.swf|Mission 6 Medal]]
+|-
+|171||[[Media:StampbookStamps171.swf|Mission 7 Medal]]
+|-
+|173||[[Media:StampbookStamps173.swf|Mission 8 Medal]]
+|-
+|175||[[Media:StampbookStamps175.swf|Mission 9 Medal]]
+|-
+|172||[[Media:StampbookStamps172.swf|Pennant]]
+|-
+|168||[[Media:StampbookStamps168.swf|Pizza Box]]
+|-
+|180||[[Media:StampbookStamps180.swf|Snow Globe]]
+|-
+|164||[[Media:StampbookStamps164.swf|Thank You Card]]
+|}
+===Pizzatron 3000===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|404||[[Media:StampbookStamps404.swf|Candy Land]]
+|-
+|396||[[Media:StampbookStamps396.swf|Chef's Hat]]
+|-
+|400||[[Media:StampbookStamps400.swf|Cocoa Beans]]
+|-
+|410||[[Media:StampbookStamps410.swf|Dessert Chef]]
+|-
+|402||[[Media:StampbookStamps402.swf|Fiery Squids]]
+|-
+|392||[[Media:StampbookStamps392.swf|Food Fiasco]]
+|-
+|394||[[Media:StampbookStamps394.swf|Just Dessert]]
+|-
+|406||[[Media:StampbookStamps406.swf|Pizza Chef]]
+|-
+|408||[[Media:StampbookStamps408.swf|Pizza Master]]
+|-
+|398||[[Media:StampbookStamps398.swf|Spice Sea]]
+|}
+===Puffle Launch===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|334||[[Media:StampbookStamps334.swf|Begin Build]]
+|-
+|340||[[Media:StampbookStamps340.swf|Crab Attack]]
+|-
+|344||[[Media:StampbookStamps344.swf|Crab Battle]]
+|-
+|342||[[Media:StampbookStamps342.swf|Crab Crash]]
+|-
+|338||[[Media:StampbookStamps338.swf|Epic Cannon ]]
+|-
+|336||[[Media:StampbookStamps336.swf|Launch Ready]]
+|-
+|350||[[Media:StampbookStamps350.swf|Light Speed Launch]]
+|-
+|346||[[Media:StampbookStamps346.swf|Quick Launch]]
+|-
+|348||[[Media:StampbookStamps348.swf|Supersonic Launch]]
+|-
+|354||[[Media:StampbookStamps354.swf|Turbo Battle]]
+|-
+|356||[[Media:StampbookStamps356.swf|Turbo Master]]
+|-
+|352||[[Media:StampbookStamps352.swf|Turbo Time]]
+|}
+===Puffle Rescue===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|132||[[Media:StampbookStamps132.swf|1 Coin Bag]]
+|-
+|155||[[Media:StampbookStamps155.swf|1 Coin Bubble]]
+|-
+|152||[[Media:StampbookStamps152.swf|10 Sea Levels]]
+|-
+|133||[[Media:StampbookStamps133.swf|2 Coin Bags ]]
+|-
+|156||[[Media:StampbookStamps156.swf|2 Coin Bubbles]]
+|-
+|153||[[Media:StampbookStamps153.swf|20 Sea Levels]]
+|-
+|134||[[Media:StampbookStamps134.swf|3 Coin Bags]]
+|-
+|157||[[Media:StampbookStamps157.swf|3 Coin Bubbles]]
+|-
+|154||[[Media:StampbookStamps154.swf|30 Sea Levels]]
+|-
+|138||[[Media:StampbookStamps138.swf|Cave Coins]]
+|-
+|140||[[Media:StampbookStamps140.swf|Cave Coins Max]]
+|-
+|139||[[Media:StampbookStamps139.swf|Cave Coins Plus]]
+|-
+|148||[[Media:StampbookStamps148.swf|Close Call]]
+|-
+|145||[[Media:StampbookStamps145.swf|Easy Cannon]]
+|-
+|144||[[Media:StampbookStamps144.swf|Expert Catch]]
+|-
+|150||[[Media:StampbookStamps150.swf|Express Rescue]]
+|-
+|147||[[Media:StampbookStamps147.swf|Extreme Cannon]]
+|-
+|151||[[Media:StampbookStamps151.swf|Extreme Rescue]]
+|-
+|141||[[Media:StampbookStamps141.swf|Quick Catch]]
+|-
+|149||[[Media:StampbookStamps149.swf|Rapid Rescue]]
+|-
+|130||[[Media:StampbookStamps130.swf|SOS 30]]
+|-
+|131||[[Media:StampbookStamps131.swf|SOS 60]]
+|-
+|137||[[Media:StampbookStamps137.swf|Snow Hero]]
+|-
+|136||[[Media:StampbookStamps136.swf|Snow Master]]
+|-
+|135||[[Media:StampbookStamps135.swf|Snow Student]]
+|-
+|146||[[Media:StampbookStamps146.swf|Super Cannon]]
+|-
+|142||[[Media:StampbookStamps142.swf|Super Catch]]
+|}
+===Pufflescape===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|429||[[Media:StampbookStamps429.swf|Bite in Time]]
+|-
+|427||[[Media:StampbookStamps427.swf|Bonus Snack]]
+|-
+|436||[[Media:StampbookStamps436.swf|Epic Roller]]
+|-
+|434||[[Media:StampbookStamps434.swf|Extreme Puzzler]]
+|-
+|431||[[Media:StampbookStamps431.swf|Fast Food]]
+|-
+|437||[[Media:StampbookStamps437.swf|Ice Master]]
+|-
+|435||[[Media:StampbookStamps435.swf|Master Roller]]
+|-
+|432||[[Media:StampbookStamps432.swf|On a Roll]]
+|-
+|428||[[Media:StampbookStamps428.swf|Puffle O Feast]]
+|-
+|433||[[Media:StampbookStamps433.swf|Puzzle Pro]]
+|-
+|430||[[Media:StampbookStamps430.swf|Quick Snack]]
+|}
+===Smoothie Smash===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|453||[[Media:StampbookStamps453.swf|Beary Berry]]
+|-
+|452||[[Media:StampbookStamps452.swf|Berry Smart]]
+|-
+|457||[[Media:StampbookStamps457.swf|Deflector]]
+|-
+|458||[[Media:StampbookStamps458.swf|Energizer]]
+|-
+|456||[[Media:StampbookStamps456.swf|Fruit Power]]
+|-
+|463||[[Media:StampbookStamps463.swf|Fruit Smasher]]
+|-
+|455||[[Media:StampbookStamps455.swf|Fruit Splatter]]
+|-
+|450||[[Media:StampbookStamps450.swf|Fruit Squeeze]]
+|-
+|459||[[Media:StampbookStamps459.swf|Fruit Stomper]]
+|-
+|451||[[Media:StampbookStamps451.swf|Shipshake]]
+|-
+|465||[[Media:StampbookStamps465.swf|Smoothie Hero]]
+|-
+|464||[[Media:StampbookStamps464.swf|Smoothie Master]]
+|-
+|461||[[Media:StampbookStamps461.swf|Smoothie Survivor ]]
+|-
+|460||[[Media:StampbookStamps460.swf|Smoothie Warrior]]
+|-
+|462||[[Media:StampbookStamps462.swf|Smoothie Zing]]
+|-
+|454||[[Media:StampbookStamps454.swf|Tasty Treat]]
+|}
+===System Defender===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|320||[[Media:StampbookStamps320.swf|Bug Overload]]
+|-
+|300||[[Media:StampbookStamps300.swf|Garbage Disposal]]
+|-
+|322||[[Media:StampbookStamps322.swf|Herbert Attacks]]
+|-
+|324||[[Media:StampbookStamps324.swf|Klutzy Attack]]
+|-
+|308||[[Media:StampbookStamps308.swf|Master Mechanic]]
+|-
+|304||[[Media:StampbookStamps304.swf|Mono Mechanic]]
+|-
+|328||[[Media:StampbookStamps328.swf|Protobot Attack]]
+|-
+|298||[[Media:StampbookStamps298.swf|Ready For Duty]]
+|-
+|310||[[Media:StampbookStamps310.swf|Strategic Master]]
+|-
+|302||[[Media:StampbookStamps302.swf|Strategic Success]]
+|-
+|312||[[Media:StampbookStamps312.swf|Tactical Ace]]
+|-
+|306||[[Media:StampbookStamps306.swf|Tactical Pro]]
+|-
+|326||[[Media:StampbookStamps326.swf|Test Bot Trio]]
+|-
+|314||[[Media:StampbookStamps314.swf|Energy 9999]]<br>(unreleased)
+|-
+|316||[[Media:StampbookStamps316.swf|Strategic Expert]]<br>(unreleased)
+|-
+|318||[[Media:StampbookStamps318.swf|Elite Mechanic]]<br>(unreleased)
+|-
+|443||[[Media:StampbookStamps443.swf|Track Herbert]]
+|}
+
+===Thin Ice===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|63||[[Media:StampbookStamps63.swf|1 Coin Bag]]
+|-
+|67||[[Media:StampbookStamps67.swf|10 Coin Bags]]
+|-
+|64||[[Media:StampbookStamps64.swf|3 Coin Bags]]
+|-
+|65||[[Media:StampbookStamps65.swf|6 Coin Bags]]
+|-
+|70||[[Media:StampbookStamps70.swf|All Coin Bags]]
+|-
+|68||[[Media:StampbookStamps68.swf|Ice Bonus]]
+|-
+|71||[[Media:StampbookStamps71.swf|Ice Master]]
+|-
+|69||[[Media:StampbookStamps69.swf|Ice Trekker]]
+|-
+|66||[[Media:StampbookStamps66.swf|Iced Treasure]]
+|}
+===Treasure Hunt===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|416||[[Media:StampbookStamps416.swf|Collector]]
+|-
+|420||[[Media:StampbookStamps420.swf|Gem Expert]]
+|-
+|422||[[Media:StampbookStamps422.swf|Gem Pro]]
+|-
+|414||[[Media:StampbookStamps414.swf|Gem Skills]]
+|-
+|418||[[Media:StampbookStamps418.swf|In the Rough]]
+|}
+==Video Games==
+===Game Day===
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Stamp name'''
+|-
+|125||[[Media:StampbookStamps125.swf|2 Vs. 2]]
+|-
+|126||[[Media:StampbookStamps126.swf|2 Vs. 2 Max]]
+|-
+|124||[[Media:StampbookStamps124.swf|Bean Balance]]
+|-
+|116||[[Media:StampbookStamps116.swf|Blue Win]]
+|-
+|120||[[Media:StampbookStamps120.swf|Collector]]
+|-
+|119||[[Media:StampbookStamps119.swf|Conquer the Island]]
+|-
+|128||[[Media:StampbookStamps128.swf|Goalie]]
+|-
+|117||[[Media:StampbookStamps117.swf|Green Win]]
+|-
+|123||[[Media:StampbookStamps123.swf|Puffle Paddle]]
+|-
+|115||[[Media:StampbookStamps115.swf|Red Win]]
+|-
+|121||[[Media:StampbookStamps121.swf|Remote Upload]]
+|-
+|122||[[Media:StampbookStamps122.swf|Sumo Smash]]
+|-
+|127||[[Media:StampbookStamps127.swf|White Puffle]]
+|-
+|118||[[Media:StampbookStamps118.swf|Yellow Win]]
+|}

@@ -1,0 +1,10 @@
+==Current==
+{| class="wikitable sortable plainlinks"
+! File Name
+! JSON
+! JSONP
+|-
+| puffles || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/puffles.json en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/puffles.json pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/puffles.json fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/puffles.json es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/puffles.json de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/puffles.json ru] || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/puffles.jsonp en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/puffles.jsonp pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/puffles.jsonp fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/puffles.jsonp es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/puffles.jsonp de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/puffles.jsonp ru]
+|}
+==2015==
+{{2015GameConfigs|title=puffles}}

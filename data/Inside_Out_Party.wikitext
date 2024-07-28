@@ -1,0 +1,129 @@
+
+
+==Rooms==
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsDock-InsideOutParty.swf|Dock]]||[[Media:Music935.swf|935]]
+|-
+|[[Media:RoomsParty1-InsideOutParty.swf|Headquarters]]||[[Media:Music929.swf|929]]
+|-
+|[[Media:RoomsParty2-InsideOutParty.swf|Food Island]]||[[Media:Music930.swf|930]]
+|-
+|[[Media:RoomsParty3-InsideOutParty.swf|Imaginationland]]||[[Media:Music931.swf|931]]
+|-
+|[[Media:RoomsParty4-InsideOutParty.swf|Dream Productions]]||[[Media:Music932.swf|932]]
+|-
+|[[Media:RoomsParty5-InsideOutParty.swf|Subconscious]]||[[Media:Music933.swf|933]]
+|-
+|[[Media:RoomsParty6-InsideOutParty.swf|Loot Island]]||[[Media:Music934.swf|934]]
+|}
+</center>
+
+==Avatar==
+===Sprites===
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:AvatarBingBong.swf|Bing Bong]]
+|-
+|[[Media:AvatarRainbowUnicorn.swf|Rainbow Unicorn]]
+|}
+</center>
+
+===Effects===
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:RoomsEffectsAvatar-InsideOutParty.swf|Rooms]]
+|}
+</center>
+
+==Client==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:ClientInterface-InsideOutParty.swf|Interface]]
+|}
+</center>
+
+==Close Ups==
+===Pre-Party===
+<center>
+{|class="wikitable" border="1"
+!SWF (Global)
+|-
+|[[Media:Close upsCharacter dialogue leadup-InsideOutPartyPre.swf|Character dialogue leadup]]
+|}
+</center>
+
+===Party===
+====Local====
+<center>
+{|class="wikitable" border="1"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)!!Deutsch (German)!!Русский (Russian)
+|-
+|[[Media:ENCloseUpsQuestInterface-InsideOutParty.swf|Quest Interface]]||[[Media:PTCloseUpsQuestInterface-InsideOutParty.swf|Quest Interface]]||[[Media:FRCloseUpsQuestInterface-InsideOutParty.swf|Quest Interface]]||[[Media:ESCloseUpsQuestInterface-InsideOutParty.swf|Quest Interface]]||[[Media:DECloseUpsQuestInterface-InsideOutParty.swf|Quest Interface]]||[[Media:RUCloseUpsQuestInterface-InsideOutParty.swf|Quest Interface]]
+|-
+|[[Media:ENCloseUpsMindMap-InsideOutParty.swf|Mind Map]]||[[Media:PTCloseUpsMindMap-InsideOutParty.swf|Mind Map]]||[[Media:FRCloseUpsMindMap-InsideOutParty.swf|Mind Map]]||[[Media:ESCloseUpsMindMap-InsideOutParty.swf|Mind Map]]||[[Media:DECloseUpsMindMap-InsideOutParty.swf|Mind Map]]||[[Media:RUCloseUpsMindMap-InsideOutParty.swf|Mind Map]]
+|}
+</center>
+
+====Global====
+<center>
+{|class="wikitable" border="1"
+!colspan="4"|SWF
+|-
+|colspan="2" align="center"|[[Media:Close upsCharacter dialogue login-InsideOutParty.swf|Character dialogue login]]||colspan="2" align="center"|[[Media:Close upsCharacter dialogue welcome-InsideOutParty.swf|Character dialogue welcome]]
+|-
+|[[Media:Close upsJoy dialogue start-InsideOutParty.swf|Joy dialogue start]]||[[Media:Close upsJoy dialogue collect-InsideOutParty.swf|Joy dialogue collect]]||[[Media:Close upsJoy dialogue memory-InsideOutParty.swf|Joy dialogue memory]]||[[Media:Close upsJoy dialogue complete-InsideOutParty.swf|Joy dialogue complete]]
+|-
+|[[Media:Close upsSadness dialogue start-InsideOutParty.swf|Sadness dialogue start]]||[[Media:Close upsSadness dialogue collect-InsideOutParty.swf|Sadness dialogue collect]]||[[Media:Close upsSadness dialogue memory-InsideOutParty.swf|Sadness dialogue memory]]||[[Media:Close upsSadness dialogue complete-InsideOutParty.swf|Sadness dialogue complete]]
+|-
+|[[Media:Close upsAnger dialogue start-InsideOutParty.swf|Anger dialogue start]]||[[Media:Close upsAnger dialogue collect-InsideOutParty.swf|Anger dialogue collect]]||[[Media:Close upsAnger dialogue memory-InsideOutParty.swf|Anger dialogue memory]]||[[Media:Close upsAnger dialogue complete-InsideOutParty.swf|Anger dialogue complete]]
+|-
+|[[Media:Close upsDisgust dialogue start-InsideOutParty.swf|Disgust dialogue start]]||[[Media:Close upsDisgust dialogue collect-InsideOutParty.swf|Disgust dialogue collect]]||[[Media:Close upsDisgust dialogue memory-InsideOutParty.swf|Disgust dialogue memory]]||[[Media:Close upsDisgust dialogue complete-InsideOutParty.swf|Disgust dialogue complete]]
+|-
+|[[Media:Close upsFear dialogue start-InsideOutParty.swf|Fear dialogue start]]||[[Media:Close upsFear dialogue collect-InsideOutParty.swf|Fear dialogue collect]]||[[Media:Close upsFear dialogue memory-InsideOutParty.swf|Fear dialogue memory]]||[[Media:Close upsFear dialogue complete-InsideOutParty.swf|Fear dialogue complete]]
+|-
+|colspan="4" align="center"|[[Media:Close upsJoy dialogue thanks-InsideOutParty.swf|Joy dialogue thanks]]
+|-
+|colspan="2" align="center"|[[Media:Close upsCharacter dialogue thanks gary-InsideOutParty.swf|Character dialogue thanks Gary]]||colspan="2" align="center"|[[Media:Close upsCharacter dialogue thanks rh-InsideOutParty.swf|Character dialogue thanks RH]]
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:ContentLogo-InsideOutParty.swf|Logo]]
+|-
+|[[Media:ContentParty icon-InsideOutParty.swf|Party Icon]]
+|}
+</center>
+
+==Membership Notice==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:MembershipParty1-InsideOutParty.swf|Clothing]]
+|}
+</center>
+
+==Minigame==
+<center>
+{|class="wikitable" border="1"
+!Page
+|-
+|[[Ice Jam#Inside Out Party|Ice Jam]]
+|}
+</center>
+
+{{Parties}}
+

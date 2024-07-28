@@ -1,0 +1,11 @@
+{{NeedSWFs}}
+
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[[Media:Village40.swf|Ski Village]]||[[Media:Music206.swf|206]]
+|}
+
+{{Parties}}

@@ -1,0 +1,27 @@
+Below are SWF files from issue #419 (November 1, 2013) of the Club Penguin Times:
+
+<center>
+{|class="wikitable" border="1"
+!Header (front)
+!Feature Story
+!Support Story
+!Upcoming Events
+!News Flash
+!Ask Aunt Arctic (front)
+!Header (back)
+!Ask Aunt Arctic (back)
+!Jokes and Riddles
+!Secrets
+!Feature More
+|-
+|[[Media:CPT419EN-headerfront.swf|English]]||[[Media:CPT419EN-featurestory.swf|English]]||[[Media:CPT419EN-supportstory.swf|English]]||[[Media:CPT419EN-upcomingevents.swf|English]]||[[Media:CPT419EN-newsflash.swf|English]]||[[Media:CPT419EN-askauntarcticfront.swf|English]]||[[Media:CPT419EN-headerback.swf|English]]||[[Media:CPT419EN-askauntarcticback.swf|English]]||[[Media:CPT419EN-jokesandriddles.swf|English]]||[[Media:CPT419EN-secretoverlay.swf|English]]||[[Media:CPT419EN-featuremore.swf|English]]
+|-
+|[[Media:CPT419PT-headerfront.swf|Português]]||[[Media:CPT419PT-featurestory.swf|Português]]||[[Media:CPT419PT-supportstory.swf|Português]]||[[Media:CPT419PT-upcomingevents.swf|Português]]||[[Media:CPT419PT-newsflash.swf|Português]]||[[Media:CPT419PT-askauntarcticfront.swf|Português]]||[[Media:CPT419PT-headerback.swf|Português]]||[[Media:CPT419PT-askauntarcticback.swf|Português]]||[[Media:CPT419PT-jokesandriddles.swf|Português]]||[[Media:CPT419PT-secretoverlay.swf|Português]]||[[Media:CPT419PT-featuremore.swf|Português]]
+|-
+|[[Media:CPT419FR-headerfront.swf|Français]]||[[Media:CPT419FR-featurestory.swf|Français]]||[[Media:CPT419FR-supportstory.swf|Français]]||[[Media:CPT419FR-upcomingevents.swf|Français]]||[[Media:CPT419FR-newsflash.swf|Français]]||[[Media:CPT419FR-askauntarcticfront.swf|Français]]||[[Media:CPT419FR-headerback.swf|Français]]||[[Media:CPT419FR-askauntarcticback.swf|Français]]||[[Media:CPT419FR-jokesandriddles.swf|Français]]||[[Media:CPT419FR-secretoverlay.swf|Français]]||[[Media:CPT419FR-featuremore.swf|Français]]
+|-
+|[[Media:CPT419ES-headerfront.swf|Español]]||[[Media:CPT419ES-featurestory.swf|Español]]||[[Media:CPT419ES-supportstory.swf|Español]]||[[Media:CPT419ES-upcomingevents.swf|Español]]||[[Media:CPT419ES-newsflash.swf|Español]]||[[Media:CPT419ES-askauntarcticfront.swf|Español]]||[[Media:CPT419ES-headerback.swf|Español]]||[[Media:CPT419ES-askauntarcticback.swf|Español]]||[[Media:CPT419ES-jokesandriddles.swf|Español]]||[[Media:CPT419ES-secretoverlay.swf|Español]]||[[Media:CPT419ES-featuremore.swf|Español]]
+|-
+|[[Media:CPT419DE-headerfront.swf|Deutsch]]||[[Media:CPT419DE-featurestory.swf|Deutsch]]||[[Media:CPT419DE-supportstory.swf|Deutsch]]||[[Media:CPT419DE-upcomingevents.swf|Deutsch]]||[[Media:CPT419DE-newsflash.swf|Deutsch]]||[[Media:CPT419DE-askauntarcticfront.swf|Deutsch]]||[[Media:CPT419DE-headerback.swf|Deutsch]]||[[Media:CPT419DE-askauntarcticback.swf|Deutsch]]||[[Media:CPT419DE-jokesandriddles.swf|Deutsch]]||[[Media:CPT419DE-secretoverlay.swf|Deutsch]]||[[Media:CPT419DE-featuremore.swf|Deutsch]]
+|}
+</center>

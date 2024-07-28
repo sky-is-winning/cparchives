@@ -1,0 +1,12 @@
+
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:PuffleSpritesWalkPuffle_gold_walk.swf|Walking Sprites]]
+|-
+|[[Media:ClientPuffleCareAssetLibraryGold.swf|Puffle Care]]
+|-
+|[[Media:PuffleSpritesDigPuffle gold dig.swf|Digging Animation]]
+|}
+</center>

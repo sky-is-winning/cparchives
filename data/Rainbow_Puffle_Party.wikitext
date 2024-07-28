@@ -1,0 +1,167 @@
+{{needSWFs}}
+
+==Rooms==
+:''Please note that only some room files were added/changed; the files that were not changed are not listed here.''
+===Town===
+====Android====
+{|class="wikitable sortable"
+!File name!!File
+|-
+|rm_background_cachedbackground.jpg||[[media:RoomsTown-Android-CachedBackground-RainbowPuffleParty.jpg|Cached Background]]
+|-
+|rm_object_arrow2.mmt||[[media:RoomsTown-ObjectArrow2-RainbowPuffleParty.mmt|Object Arrow2]]
+|-
+|rm_object_arrow2.mmf||[[media:RoomsTown-Android-ObjectArrow2-RainbowPuffleParty.mmf|Object Arrow2]]
+|-
+|rm_object_cannon.mmt||[[media:RoomsTown-Android-ObjectCannon-RainbowPuffleParty.mmf|Object Cannon]]
+|-
+|rm_object_cannon.mmf||[[media:RoomsTown-Android-ObjectCannon-RainbowPuffleParty.mmf|Object Cannon]]
+|-
+|rm_object_doorareaclothing.mmt||[[media:RoomsTown-Android-ObjectDoorAreaClothing-RainbowPuffleParty.mmt|Door Area Clothing]]
+|-
+|rm_object_doorareaclothing.mmf||[[media:RoomsTown-Android-ObjectDoorAreaClothing-RainbowPuffleParty.mmf|Door Area Clothing]]
+|-
+|rm_object_doorareaclothing.mma||[[media:RoomsTown-Android-ObjectDoorAreaClothing-RainbowPuffleParty.mma|Door Area Clothing]]
+|-
+|rm_object_doorareacoffee.mmt||[[media:RoomsTown-Android-ObjectDoorAreaCoffee-RainbowPuffleParty.mmt|Door Area Coffee]]
+|-
+|rm_object_doorareacoffee.mmf||[[media:RoomsTown-Android-ObjectDoorAreaCoffee-RainbowPuffleParty.mmf|Door Area Coffee]]
+|-
+|rm_object_doorareacoffee.mma||[[media:RoomsTown-Android-ObjectDoorAreaCoffee-RainbowPuffleParty.mma|Door Area Coffee]]
+|-
+|rm_object_doorareadance.mmt||[[media:RoomsTown-Android-ObjectDoorAreaDance-RainbowPuffleParty.mmt|Door Area Dance]]
+|-
+|rm_object_doorareadance.mmf||[[media:RoomsTown-Android-ObjectDoorAreaDance-RainbowPuffleParty.mmf|Door Area Dance]]
+|-
+|rm_object_doorareadance.mma||[[media:RoomsTown-Android-ObjectDoorAreaDance-RainbowPuffleParty.mma|Door Area Dance]]
+|-
+|rm_object_railing.mmt||[[media:RoomsTown-Android-ObjectRailing-RainbowPuffleParty.mmt|Object Railing]]
+|-
+|rm_object_railing.mmf||[[media:RoomsTown-Android-ObjectRailing-RainbowPuffleParty.mmf|Object Railing]]
+|-
+|rm_object_thundertrees.mmt||[[media:RoomsTown-Android-ObjectThunderTrees-RainbowPuffleParty.mmt|Object Thunder Trees]]
+|-
+|rm_object_thundertrees.mmf||[[media:RoomsTown-Android-ObjectThunderTrees-RainbowPuffleParty.mmf|Object Thunder Trees]]
+|-
+|rm_trigger_touchtriggerclothing.mmt||[[media:RoomsTown-Android-TouchTriggerClothing-RainbowPuffleParty.mmt|Touch Trigger Clothing]]
+|-
+|rm_trigger_touchtriggerclothing.mmf||[[media:RoomsTown-Android-TouchTriggerClothing-RainbowPuffleParty.mmf|Touch Trigger Clothing]]
+|-
+|rm_trigger_touchtriggercloudforest.mmt||[[media:RoomsTown-Android-TouchTriggerCloudForest-RainbowPuffleParty.mmt|Touch Trigger Cloud Forest]]
+|-
+|rm_trigger_touchtriggercloudforest.mmf||[[media:RoomsTown-Android-TouchTriggerCloudForest-RainbowPuffleParty.mmf|Touch Trigger Cloud Forest]]
+|-
+|rm_trigger_touchtriggercoffee.mmt||[[media:RoomsTown-Android-TouchTriggerCoffee-RainbowPuffleParty.mmt|Touch Trigger Coffee]]
+|-
+|rm_trigger_touchtriggercoffee.mmf||[[media:RoomsTown-Android-TouchTriggerCoffee-RainbowPuffleParty.mmf|Touch Trigger Coffee]]
+|-
+|rm_trigger_touchtriggerdance.mmt||[[media:RoomsTown-Android-TouchTriggerDance-RainbowPuffleParty.mmt|Touch Trigger Dance]]
+|-
+|rm_trigger_touchtriggerdance.mmf||[[media:RoomsTown-Android-TouchTriggerDance-RainbowPuffleParty.mmf|Touch Trigger Dance]]
+|-
+|rm_trigger_touchtriggerdock.mmt||[[media:RoomsTown-Android-TouchTriggerDock-RainbowPuffleParty.mmt|Touch Trigger Dock]]
+|-
+|rm_trigger_touchtriggerdock.mmf||[[media:RoomsTown-Android-TouchTriggerDock-RainbowPuffleParty.mmf|Touch Trigger Dock]]
+|-
+|rm_trigger_touchtriggerforts.mmt||[[media:RoomsTown-Android-TouchTriggerForts-RainbowPuffleParty.mmt|Touch Trigger Forts]]
+|-
+|rm_trigger_touchtriggerforts.mmf||[[media:RoomsTown-Android-TouchTriggerForts-RainbowPuffleParty.mmf|Touch Trigger Forts]]
+|}
+
+===Plaza===
+====Android====
+{|class="wikitable sortable"
+!File name!!File
+|-
+|rm_background_cachedbackground.jpg||[[media:RoomsPlaza-Android-CachedBackground-RainbowPuffleParty.jpg|Cached Background]]
+|-
+|rm_object_arrow2.mmt||[[media:RoomsPlaza-Android-ObjectArrow2-RainbowPuffleParty.mmt|Object Arrow2]]
+|-
+|rm_object_arrow2.mmf||[[media:RoomsPlaza-Android-ObjectArrow2-RainbowPuffleParty.mmf|Object Arrow2]]
+|-
+|rm_object_cannon.mmt||[[media:RoomsPlaza-Android-ObjectCannon-RainbowPuffleParty.mmt|Object Cannon]]
+|-
+|rm_object_cannon.mmf||[[media:RoomsPlaza-Android-ObjectCannon-RainbowPuffleParty.mmf|Object Cannon]]
+|-
+|rm_trigger_touchtriggerpark.mmt||[[media:RoomsPlaza-Android-TouchTriggerPark-RainbowPuffleParty.mmt|Touch Trigger Park]]
+|-
+|rm_trigger_touchtriggerpark.mmf||[[media:RoomsPlaza-Android-TouchTriggerPark-RainbowPuffleParty.mmf|Touch Trigger Park]]
+|-
+|rm_trigger_touchtriggerhotellobby.mmt||[[media:RoomsPlaza-Android-TouchTriggerHotelLobby-RainbowPuffleParty.mmt|Touch Trigger Hotel Lobby]]
+|-
+|rm_trigger_touchtriggerhotellobby.mmf||[[media:RoomsPlaza-Android-TouchTriggerHotelLobby-RainbowPuffleParty.mmf|Touch Trigger Hotel Lobby]]
+|-
+|rm_trigger_touchtriggerforts.mmt||[[media:RoomsPlaza-Android-TouchTriggerForts-RainbowPuffleParty.mmt|Touch Trigger Forts]]
+|-
+|rm_trigger_touchtriggerforts.mmf||[[media:RoomsPlaza-Android-TouchTriggerForts-RainbowPuffleParty.mmf|Touch Trigger Forts]]
+|-
+|rm_trigger_touchtriggerpizza.mmt||[[media:RoomsPlaza-Android-TouchTriggerPizza-RainbowPuffleParty.mmt|Touch Trigger Pizza]]
+|-
+|rm_trigger_touchtriggerpizza.mmf||[[media:RoomsPlaza-Android-TouchTriggerPizza-RainbowPuffleParty.mmf|Touch Trigger Pizza]]
+|-
+|rm_object_doorareahotellobby.mmt||[[media:RoomsPlaza-Android-DoorAreaHotelLobby-RainbowPuffleParty.mmt|Door Area Hotel Lobby]]
+|-
+|rm_object_doorareahotellobby.mmf||[[media:RoomsPlaza-Android-DoorAreaHotelLobby-RainbowPuffleParty.mmf|Door Area Hotel Lobby]]
+|-
+|rm_object_doorareahotellobby.mma||[[media:RoomsPlaza-Android-DoorAreaHotelLobby-RainbowPuffleParty.mma|Door Area Hotel Lobby]]
+|-
+|rm_object_doorareapizza.mmt||[[media:RoomsPlaza-Android-DoorAreaPizza-RainbowPuffleParty.mmt|Door Area Pizza]]
+|-
+|rm_object_doorareapizza.mmf||[[media:RoomsPlaza-Android-DoorAreaPizza-RainbowPuffleParty.mmf|Door Area Pizza]]
+|-
+|rm_object_doorareapizza.mma||[[media:RoomsPlaza-Android-DoorAreaPizza-RainbowPuffleParty.mma|Door Area Pizza]]
+|-
+|rm_trigger_touchtriggerforest.mmt||[[media:RoomsPlaza-Android-TouchTriggerForest-RainbowPuffleParty.mmt|Touch Trigger Forest]]
+|-
+|rm_trigger_touchtriggerforest.mmf||[[media:RoomsPlaza-Android-TouchTriggerForest-RainbowPuffleParty.mmf|Touch Trigger Forest]]
+|-
+|rm_object_doorareapetshop.mmt||[[media:RoomsPlaza-Android-DoorAreaPetShop-RainbowPuffleParty.mmt|Door Area Pet Shop]]
+|-
+|rm_object_doorareapetshop.mmf||[[media:RoomsPlaza-Android-DoorAreaPetShop-RainbowPuffleParty.mmf|Door Area Pet Shop]]
+|-
+|rm_object_doorareapetshop.mma||[[media:RoomsPlaza-Android-DoorAreaPetShop-RainbowPuffleParty.mma|Door Area Pet Shop]]
+|-
+|rm_object_arrow1.mmt||[[media:RoomsPlaza-Android-ObjectArrow1-RainbowPuffleParty.mmt|Object Arrow1]]
+|-
+|rm_object_arrow1.mmf||[[media:RoomsPlaza-Android-ObjectArrow1-RainbowPuffleParty.mmf|Object Arrow1]]
+|-
+|rm_trigger_touchtriggercloudforest.mmt||[[media:RoomsPlaza-Android-TouchTriggerCloudForest-RainbowPuffleParty.mmt|Touch Trigger Cloud Forest]]
+|-
+|rm_trigger_touchtriggercloudforest.mmf||[[media:RoomsPlaza-Android-TouchTriggerCloudForest-RainbowPuffleParty.mmf|Touch Trigger Cloud Forest]]
+|-
+|rm_trigger_touchtriggerpetshop.mmt||[[media:RoomsPlaza-Android-TouchTriggerPetShop-RainbowPuffleParty.mmt|Touch Trigger Pet Shop]]
+|-
+|rm_trigger_touchtriggerpetshop.mmf||[[media:RoomsPlaza-Android-TouchTriggerPetShop-RainbowPuffleParty.mmf|Touch Trigger Pet Shop]]
+|}
+
+===Snow Forts===
+====Android====
+{|class="wikitable sortable"
+!File name!!File
+|-
+|rm_background_cachedbackground.jpg||[[media:RoomsForts-Android-CachedBackground-RainbowPuffleParty.jpg|Cached Background]]
+|}
+===Stadium===
+====Android====
+{|class="wikitable sortable"
+!File name!!File
+|-
+|rm_object_rainbowrink.mmt||[[media:RoomsStadium-Android-ObjectRainbowRink-RainbowPuffleParty.mmt|Rainbow Rink]]
+|-
+|rm_object_rainbowrink.mmf||[[media:RoomsStadium-Android-ObjectRainbowRink-RainbowPuffleParty.mmf|Rainbow Rink]]
+|}
+==Music==
+===All Platforms===
+{|class="wikitable"
+!File name!!File
+|-
+|room_song_150520_may_cloudforest.mp3||[[Media:RoomSong-Cloudforest-RainbowPuffleParty.mp3|Cloud Forest Music]]
+|-
+|room_song_150520_may_plaza.mp3||[[Media:RoomSong-Plaza-RainbowPuffleParty.mp3|Plaza Music]]
+|-
+|room_song_150520_may_forts.mp3||[[Media:RoomSong-Forts-RainbowPuffleParty.mp3|Snow Forts Music]]
+|-
+|room_song_150520_may_town.mp3||[[Media:RoomSong-Town-RainbowPuffleParty.mp3|Town Music]]
+|}
+{{Parties}}
+
