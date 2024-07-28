@@ -341,7 +341,7 @@ export default class GeneratePageData {
 
         if (title.includes("templates/")) {
             title = title.replace("templates/", "");
-            return `{{${title}}}`
+            return `{{${title}}}`;
         }
 
         try {

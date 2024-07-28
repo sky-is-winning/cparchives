@@ -70,11 +70,11 @@ export default class GenerateTemplate {
     async parseLine(line) {
         const templateRegex = /\{\{([^{}]*?)\}\}(?!\})/g;
         let match;
-            while ((match = templateRegex.exec(line)) !== null) {
+        while ((match = templateRegex.exec(line)) !== null) {
             const replacement = await this.generateTemplate(match[1]);
             line = line.replace(match[0], replacement);
         }
-        
+
         if (line.startsWith("*")) {
             line = `<li>${line.replace("*", "").trim()}</li>`;
         }
@@ -116,8 +116,8 @@ export default class GenerateTemplate {
     async generateWikitable(wt) {
         function containsPipeOutsideBrackets(inputString) {
             // Step 1: Remove all content within square brackets along with the brackets
-            const stringWithoutBrackets = inputString.replace(/\[[^\]]*\]/g, '').replace(/\{\{[^\}]*\}\}/g, '');
-            
+            const stringWithoutBrackets = inputString.replace(/\[[^\]]*\]/g, "").replace(/\{\{[^\}]*\}\}/g, "");
+
             // Step 2: Test for presence of | in the remaining string
             return /\|/.test(stringWithoutBrackets);
         }
@@ -143,7 +143,7 @@ export default class GenerateTemplate {
                         if (containsPipeOutsideBrackets(header)) {
                             let parts = splitString(header);
                             let filteredParts = parts.filter(Boolean);
-                    
+
                             let rowspan = filteredParts.shift();
                             let data = filteredParts.join("");
                             let parsedLine = await this.parseLine(data);
@@ -176,7 +176,7 @@ export default class GenerateTemplate {
                         if (containsPipeOutsideBrackets(header)) {
                             let parts = splitString(header);
                             let filteredParts = parts.filter(Boolean);
-                    
+
                             let rowspan = filteredParts.shift();
                             let data = filteredParts.join("");
                             let parsedLine = await this.parseLine(data);
@@ -208,7 +208,7 @@ export default class GenerateTemplate {
                         if (containsPipeOutsideBrackets(parsedLine)) {
                             let wikiCell = await parseStyledWikicell(parsedLine, this);
                             wikitable += wikiCell;
-                        } else if (parsedLine.includes("</td>")){
+                        } else if (parsedLine.includes("</td>")) {
                             parsedLine = parsedLine.replace("</td>", "</td><td>");
                             wikitable += `${parsedLine}</td>`;
                         } else {
@@ -224,7 +224,7 @@ export default class GenerateTemplate {
 
         async function parseStyledWikicell(cell, scope) {
             let parts = splitString(cell);
-            let filteredParts = parts.filter(part => part !== undefined && part !== "" && part !== "|");
+            let filteredParts = parts.filter((part) => part !== undefined && part !== "" && part !== "|");
             let rowspan = filteredParts.shift();
             let data = filteredParts.join("");
             let parsedLine = await scope.parseLine(data);
@@ -233,28 +233,28 @@ export default class GenerateTemplate {
 
         function splitString(cell) {
             let result = [];
-            let temp = '';
+            let temp = "";
             let curlyBraceLevel = 0;
             let squareBracketLevel = 0;
 
             for (let i = 0; i < cell.length; i++) {
                 let char = cell[i];
 
-                if (char === '{' && cell[i + 1] === '{') {
+                if (char === "{" && cell[i + 1] === "{") {
                     curlyBraceLevel++;
                     temp += char;
-                } else if (char === '}' && cell[i + 1] === '}') {
+                } else if (char === "}" && cell[i + 1] === "}") {
                     curlyBraceLevel--;
                     temp += char;
-                } else if (char === '[' && cell[i + 1] === '[') {
+                } else if (char === "[" && cell[i + 1] === "[") {
                     squareBracketLevel++;
                     temp += char;
-                } else if (char === ']' && cell[i + 1] === ']') {
+                } else if (char === "]" && cell[i + 1] === "]") {
                     squareBracketLevel--;
                     temp += char;
-                } else if (char === '|' && curlyBraceLevel === 0 && squareBracketLevel === 0) {
+                } else if (char === "|" && curlyBraceLevel === 0 && squareBracketLevel === 0) {
                     result.push(temp);
-                    temp = '';
+                    temp = "";
                 } else {
                     temp += char;
                 }
@@ -336,7 +336,7 @@ export default class GenerateTemplate {
         template = template.replaceAll("n/a", "NA");
 
         let templateName = template.split("|")[0];
-        const templateData = template.split("|").slice(1)
+        const templateData = template.split("|").slice(1);
 
         templateName = templateName.replace("\n", "").trim();
 
@@ -344,7 +344,8 @@ export default class GenerateTemplate {
         try {
             wikitext = await fs.readFile(`./data/templates/${templateName}.wikitext`, "utf-8");
         } catch (error) {
-            console.error(`Error reading template file: ${templateName}${error}`);``
+            console.error(`Error reading template file: ${templateName}${error}`);
+            ``;
             return `Template:${templateName}`;
         }
 
@@ -365,9 +366,7 @@ export default class GenerateTemplate {
             }
         });
 
-        console.log(dataSwappers);
-
-        while (wikitext.includes('{{{')) {
+        while (wikitext.includes("{{{")) {
             let match = wikitext.match(/{{{(.*?)\|([^}]*)}}}/);
             if (match) {
                 const wholeMatch = match[0];
@@ -393,9 +392,6 @@ export default class GenerateTemplate {
             template = await this.wikiParser.getContentFromWikiText(wikitext);
         }
 
-        
-
         return template;
     }
-
 }
