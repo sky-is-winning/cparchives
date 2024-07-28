@@ -203,6 +203,7 @@ export default class GeneratePageData {
         let inTable = false;
         let tableLines = "";
         for (let line of wt.split("\n")) {
+            line = line.trim();
             if (inTable) {
                 tableLines += `\n${line}`;
                 if (line == "|}") {

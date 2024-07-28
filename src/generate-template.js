@@ -23,7 +23,7 @@ export default class GenerateTemplate {
             boxData.image = this.generateImage(boxData.image);
         }
 
-        let ambox = `<table class="metadata plainlinks ambox ambox-content" style="">`;
+        let ambox = `<table class="metadata plainlinks ambox ambox-${boxData.type}" style="">`;
         ambox += `<tbody><tr>`;
         ambox += `<td class="mbox-image><div style="width:${boxData.image.size}"><span typeof="mw:File"><span><img src="${boxData.image.address}" width="${boxData.image.size}" height="auto" class="mw-file-element"/></span></span></span></div></td>`;
         ambox += `<td class="mbox-text" style="">${boxData.text}</td>`;
@@ -112,7 +112,7 @@ export default class GenerateTemplate {
         line = line.replace(/'''(.*?)'''/g, "<strong>$1</strong>");
         line = line.replace(/''(.*?)''/g, "<i>$1</i>");
 
-        line = line.replaceAll("|", "");
+        //line = line.replaceAll("|", "");
         return line;
     }
 
@@ -142,21 +142,20 @@ export default class GenerateTemplate {
                     }
 
                     if (containsPipeOutsideBrackets(header)){
-                        // Use a regular expression to split only on vertical bars outside of curly braces
-                        let parts = header.split(/(\{\{[^{}]*\}\})|\[\[[^\[\]]*\]\]|([^|]+)/g);
+                        let parts = splitString(header);
                         let filteredParts = parts.filter(Boolean);
                     
                         let rowspan = filteredParts.shift();
                         let data = filteredParts.join("");
                         let parsedLine = await this.parseLine(data);
-                        wikitable += `<td ${rowspan}>${parsedLine}</td>`;
+                        wikitable += `<th ${rowspan}>${parsedLine}</th>`;
                     } else {
                         let parsedLine = await this.parseLine(header);
-                        if (parsedLine.includes("</td>")){
-                            parsedLine = parsedLine.replace("</td>", "</td><td>");
-                            wikitable += `${parsedLine}</td>`;
+                        if (parsedLine.includes("</th>")){
+                            parsedLine = parsedLine.replace("</th>", "</th><th>");
+                            wikitable += `${parsedLine}</th>`;
                         } else {
-                            wikitable += `<td>${parsedLine}</td>`;
+                            wikitable += `<th>${parsedLine}</th>`;
                         }
                     }
                 }
@@ -166,18 +165,17 @@ export default class GenerateTemplate {
                 line = line.substring(1);
                 let cells = line.split("||");
                 for (let cell of cells) {
+                    cell = cell.trim();
                     if (containsPipeOutsideBrackets(cell)) {
-                        // Use a regular expression to split only on vertical bars outside of curly braces
-                        let parts = cell.split(/(\{\{[^{}]*\}\})|\[\[[^\[\]]*\]\]|([^|]+)/g);
-                        let filteredParts = parts.filter(Boolean);
-                    
-                        let rowspan = filteredParts.shift();
-                        let data = filteredParts.join("");
-                        let parsedLine = await this.parseLine(data);
-                        wikitable += `<td ${rowspan}>${parsedLine}</td>`;
+                        let wikiCell = await parseStyledWikicell(cell, this);
+                        wikitable += wikiCell;
                     } else {
                         let parsedLine = await this.parseLine(cell);
-                        if (parsedLine.includes("</td>")){
+
+                        if (containsPipeOutsideBrackets(parsedLine)) {
+                            let wikiCell = await parseStyledWikicell(parsedLine, this);
+                            wikitable += wikiCell;
+                        } else if (parsedLine.includes("</td>")){
                             parsedLine = parsedLine.replace("</td>", "</td><td>");
                             wikitable += `${parsedLine}</td>`;
                         } else {
@@ -190,6 +188,51 @@ export default class GenerateTemplate {
         }
         wikitable += "</tbody></table>";
         return wikitable;
+
+        async function parseStyledWikicell(cell, scope) {
+            let parts = splitString(cell);
+            let filteredParts = parts.filter(part => part !== undefined && part !== "" && part !== "|");
+            let rowspan = filteredParts.shift();
+            let data = filteredParts.join("");
+            let parsedLine = await scope.parseLine(data);
+            return `<td ${rowspan}>${parsedLine}</td>`;
+        }
+
+        function splitString(cell) {
+            let result = [];
+            let temp = '';
+            let curlyBraceLevel = 0;
+            let squareBracketLevel = 0;
+
+            for (let i = 0; i < cell.length; i++) {
+                let char = cell[i];
+
+                if (char === '{' && cell[i + 1] === '{') {
+                    curlyBraceLevel++;
+                    temp += char;
+                } else if (char === '}' && cell[i + 1] === '}') {
+                    curlyBraceLevel--;
+                    temp += char;
+                } else if (char === '[' && cell[i + 1] === '[') {
+                    squareBracketLevel++;
+                    temp += char;
+                } else if (char === ']' && cell[i + 1] === ']') {
+                    squareBracketLevel--;
+                    temp += char;
+                } else if (char === '|' && curlyBraceLevel === 0 && squareBracketLevel === 0) {
+                    result.push(temp);
+                    temp = '';
+                } else {
+                    temp += char;
+                }
+            }
+
+            if (temp) {
+                result.push(temp);
+            }
+
+            return result;
+        }
     }
 
     generateImage(imageData) {
@@ -257,6 +300,9 @@ export default class GenerateTemplate {
     }
 
     async generateTemplate(template) {
+        template = template.replaceAll("n/a", "NA");
+        console.log(template);
+
         const templateName = template.split("|")[0];
         const templateData = template.split("|").slice(1)
 
@@ -271,6 +317,8 @@ export default class GenerateTemplate {
     }
 
     async generateTemplateFromWikitext(wikitext, data) {
+        
+
         let template;
         if (wikitext.includes("{{Ambox")) {
             template = this.generateAmbox(wikitext);
@@ -283,6 +331,24 @@ export default class GenerateTemplate {
         data.forEach((item, index) => {
             template = template.replace(`{{{${index + 1}}}}`, item);
         });
+
+        while (template.includes('{{{')) {
+            let match = template.match(/\{\{\{(\d+)\|([^}]+)\}\}\}/);
+            if (match) {
+                const wholeMatch = match[0];
+                const dataIndex = parseInt(match[1]);
+                const defaultValue = match[2];
+                console.log(data, dataIndex, data[dataIndex - 1]);
+
+                if (!data[dataIndex - 1]) {
+                    template = template.replace(wholeMatch, defaultValue);
+                } else {
+                    template = template.replace(wholeMatch, data[dataIndex - 1]);
+                }
+            } else {
+                break; // Break the loop if no match is found to avoid an infinite loop
+            }
+        }
 
         return template;
     }
