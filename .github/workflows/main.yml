@@ -14,9 +14,9 @@ jobs:
 
             - uses: actions/setup-node@v2
               with:
-                  node-version: '16'
+                  node-version: "16"
 
-            - name: SSH into server and deploy 
+            - name: SSH into server and deploy
               uses: appleboy/ssh-action@v0.1.9
               with:
                   host: ${{ secrets.SERVER_HOST }}
@@ -24,8 +24,9 @@ jobs:
                   key: ${{ secrets.SSH_PRIVATE_KEY }}
                   port: 22
                   script: |
-                    cd cparchives
-                    git pull
-                    npm install
-                    screen -XS cparchives quit
-                    screen -dmS cparchives sudo npm run start
+                      cd cparchives
+                      git checkout .
+                      git pull
+                      npm install
+                      screen -XS cparchives quit
+                      screen -dmS cparchives sudo npm run start
