@@ -2,31 +2,7 @@ import {promises as fs} from "fs";
 import CryptoJS from "crypto-js";
 import GenerateTemplate from "./generate-template.js";
 
-export default class GeneratePageData {
-    constructor(webserver) {
-        this.webserver = webserver;
-        this.wikitextCache = new Map();
-        this.cache = new Map();
-        this.templateGenerator = new GenerateTemplate(this);
-    }
-
-    async generatePageData(page) {
-        if (page.startsWith("/wiki/")) {
-            page = page.replace("/wiki/", "/");
-        }
-
-        let wikitext = await this.getWikiText(page);
-        if (this.wikitextCache.has(page)) {
-            if (this.wikitextCache.get(page) === wikitext) {
-                if (this.cache.has(page)) {
-                    console.log("Cache hit for", page);
-                    return this.cache.get(page);
-                }
-            }
-        }
-
-        let pageName = page.split("/").pop();
-        const replacers = [
+const REPLACERS = [
             [":", "%3A"],
             ["?", "%3F"],
             ["#", "%23"],
@@ -55,13 +31,38 @@ export default class GeneratePageData {
             ["}", "%7D"],
             ["~", "%7E"]
         ];
-        for (const replacer of replacers) {
+
+export default class GeneratePageData {
+    constructor(webserver) {
+        this.webserver = webserver;
+        this.wikitextCache = new Map();
+        this.cache = new Map();
+        this.templateGenerator = new GenerateTemplate(this);
+    }
+
+    async generatePageData(page) {
+        if (page.startsWith("/wiki/")) {
+            page = page.replace("/wiki/", "/");
+        }
+
+        let wikitext = await this.getWikiText(page);
+        if (this.wikitextCache.has(page)) {
+            if (this.wikitextCache.get(page) === wikitext) {
+                if (this.cache.has(page)) {
+                    console.log("Cache hit for", page);
+                    return this.cache.get(page);
+                }
+            }
+        }
+
+        let truePageName = page.slice(1)
+        let pageName = truePageName.replaceAll("_", " ");
+        for (const replacer of REPLACERS) {
             pageName = pageName.replaceAll(replacer[1], replacer[0]);
         }
-        pageName = pageName.replaceAll("_", " ");
 
         let headData = await this.getHeadData(page, pageName);
-        let body = await this.getBody(page, pageName);
+        let body = await this.getBody(page, pageName, truePageName);
 
         let pageData = `<html>
             <head>
@@ -115,6 +116,11 @@ export default class GeneratePageData {
 <meta property="article:published_time" content="2022-02-03T03:11:01Z">
 <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","name":"${pageName} - Club Penguin Archives Wiki","headline":"${pageName} - Club Penguin Archives Wiki","mainEntityOfPage":"${pageName}","identifier":"https:\/\/cparchives.miraheze.org\/wiki\/${pageName}","url":"https:\/\/cparchives.miraheze.org\/wiki\/${pageName}","dateModified":"2022-02-03T03:11:01Z","datePublished":"2022-02-03T03:11:01Z","image":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png"},"author":{"@type":"Organization","name":"Club Penguin Archives Wiki","url":"https:\/\/cparchives.miraheze.org","logo":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png","caption":"Club Penguin Archives Wiki"}},"publisher":{"@type":"Organization","name":"Club Penguin Archives Wiki","url":"https:\/\/cparchives.miraheze.org","logo":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png","caption":"Club Penguin Archives Wiki"}},"potentialAction":{"@type":"SearchAction","target":"https:\/\/cparchives.miraheze.org\/wiki\/Special:Search?search={search_term}","query-input":"required name=search_term"}}</script>
 <link rel="dns-prefetch" href="//login.miraheze.org">
+<script>
+function hideNav() {
+    document.getElementById("mw-panel-toc").style.display = "none";
+}
+</script>
 </head>
         `;
     }
@@ -158,7 +164,7 @@ export default class GeneratePageData {
         <div class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned" data-feature-name="toc-pinned" data-pinnable-element-id="vector-toc">
                         <h2 class="vector-pinnable-header-label">Contents</h2>
                         <button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
-                        <button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+                        <button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin" onclick="hideNav()">hide</button>
                     </div>
           <ul class="vector-toc-contents" id="mw-panel-toc-list">
           <li id="toc-mw-content-text" class="vector-toc-list-item vector-toc-level-1">
@@ -182,6 +188,24 @@ export default class GeneratePageData {
         }
         nav += `</ul></div></div></nav>`;
         return nav;
+    }
+
+    getFooter() {
+        return `
+        <div class="mw-footer-container">
+<footer id="footer" class="mw-footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This site is a mirror of the original Club Penguin Archives Wiki. Hosted and maintained by <a href="https://github.com/sky-is-winning/">sky</a>.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-coffee"><a href="https://buymeacoffee.com/sky.is.winning">Buy me a coffee <3</a></li>
+<li id="footer-spacer"> </li>
+<li id="footer-places-repo"><a href="https://github.com/sky-is-winning/cparchives">View source on GitHub</a></li>
+</ul>
+<ul id="footer-icons" class="noprint"></ul>
+</footer>
+</div>
+`;
     }
 
     getPageContainer(wt, pageName) {
@@ -232,9 +256,9 @@ export default class GeneratePageData {
                     templateLines += line.replace("{{", "");
                     continue;
                 } else if (line.startsWith("===")) {
-                    content += `<h3 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h3>`;
+                    content += `<h3 id="${line.replace(/ /g, "_").replace(/=/g, "").trim()}">${line.replace(/=/g, "").trim()}</h3>`;
                 } else if (line.startsWith("==")) {
-                    content += `<h2 id="${line.replace(/ /g, "_")}">${line.replace(/=/g, "").trim()}</h2>`;
+                    content += `<h2 id="${line.replace(/ /g, "_").replace(/=/g, "").trim()}">${line.replace(/=/g, "").trim()}</h2>`;
                 } else {
                     const templateRegex = /\{\{([^{}]*?)\}\}(?!\})/g;
                     let match;
@@ -284,7 +308,7 @@ export default class GeneratePageData {
         return content;
     }
 
-    async getContentContainer(wt, pageName) {
+    async getContentContainer(wt, pageName, truePageName) {
         let contentContainer = "";
         contentContainer += `<div class="mw-content-container">`;
         contentContainer += `<main id="content" class="mw-body" role="main">`;
@@ -312,8 +336,27 @@ export default class GeneratePageData {
                     </h1>
                 </header>
         `;
+        contentContainer += `<div class="vector-page-toolbar">`;
+        if (pageName !== "Main Page") {
+            contentContainer += `
+            <div class="vector-page-toolbar-container">
+                <div id="left-navigation"></div>
+                <div id="right-navigation">
+                <nav aria-label="Views">
+                <div id="p-views" style="height: 3.65vh;" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views">
+                <div class="vector-menu-content">
+                <ul class="vector-menu-content-list">
+                <li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="https://raw.githubusercontent.com/sky-is-winning/cparchives/master/data/${truePageName}.wikitext" title="View page source" accesskey="v"><span>View source</span></a></li>
+                <li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="https://github.com/sky-is-winning/cparchives/edit/master/data/${truePageName}.wikitext" title="Suggest page edit" accesskey="e"><span>Suggest edit</span></a></li>
+                </ul>
+                </div>
+                </div>
+                </nav>
+                </div>
+                </div>
+                `;
+        }
         contentContainer += `
-        <div class="vector-page-toolbar"></div>
                 <div class="vector-column-end">
                     <nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
                         <div id="vector-page-tools-pinned-container" class="vector-pinned-container"></div>
@@ -332,7 +375,9 @@ export default class GeneratePageData {
                        <meta property="mw:PageProp/toc">
         `;
         contentContainer += await this.getContentFromWikiText(wt, pageName);
-        contentContainer += `</div></main></div></div></div>`;
+        contentContainer += `</div></main>`;
+        contentContainer += this.getFooter();
+        contentContainer += `</div></div></div>`;
         return contentContainer;
     }
 
@@ -350,15 +395,16 @@ export default class GeneratePageData {
             wikitext = await fs.readFile(`./data/404.wikitext`, "utf-8");
         }
 
+        this.wikitextCache.set(title, wikitext);
         return wikitext;
     }
 
-    async getBody(page, pageName) {
+    async getBody(page, pageName, truePageName) {
         let wt = await this.getWikiText(page);
         let body = "";
         body += this.getHeader();
         body += this.getPageContainer(wt, pageName);
-        body += await this.getContentContainer(wt, pageName);
+        body += await this.getContentContainer(wt, pageName, truePageName);
         body += `</div></div>`;
         return body;
     }
