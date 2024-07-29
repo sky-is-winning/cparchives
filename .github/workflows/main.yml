@@ -29,4 +29,4 @@ jobs:
                       cd cparchives
                       npm install
                       screen -XS cparchives quit
-                      screen -dmS cparchives sudo npm run start
+                      screen -dmS cparchives -L -Logfile log.txt sudo npm run start

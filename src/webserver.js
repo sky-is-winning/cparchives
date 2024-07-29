@@ -150,6 +150,12 @@ export default class WebServer {
         const url = request.url.split(domainKey)[1];
         const gdriveUrl = this.getFileURLFromGDrive(url, REDIRECT_DOMAINS[domainKey]);
 
+        if (!gdriveUrl) {
+            response.writeHead(404, {"Content-Type": "text/html"});
+            response.end("File not found", "utf-8");
+            return;
+        }
+
         this.cache[request.url] = {status: 302, location: gdriveUrl};
         response.writeHead(302, {
             "Content-Type": contentType,
@@ -220,11 +226,17 @@ export default class WebServer {
         let jsonObject = this.fileStructure[originalDomain];
         for (let i = 0; i < fileArr.length; i++) {
             if (!fileArr[i]) continue;
-            if (!jsonObject) return console.log("Error: " + filePath + " not found in file structure");
+            if (!jsonObject) {
+                console.log("Error: " + filePath + " not found in file structure");
+                return null;
+            }
             if (!jsonObject.children) return jsonObject.id;
             jsonObject = jsonObject.children[fileArr[i]];
         }
-        if (!jsonObject) return console.log("Error: " + filePath + " not found in file structure");
+        if (!jsonObject) {
+            console.log("Error: " + filePath + " not found in file structure");
+            return null;
+        }
         return `https://drive.usercontent.google.com/download?id=${jsonObject.id}&export=download&authuser=0`;
     }
 
