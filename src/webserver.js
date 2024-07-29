@@ -147,7 +147,7 @@ export default class WebServer {
 
     handleRedirect(request, response, contentType) {
         const domainKey = Object.keys(REDIRECT_DOMAINS).find((key) => request.url.startsWith(key));
-        const url = request.url.split(domainKey)[1];
+        const url = domainKey == "/static/" ? request.url : request.url.split(domainKey)[1];
         const gdriveUrl = this.getFileURLFromGDrive(url, REDIRECT_DOMAINS[domainKey]);
 
         if (!gdriveUrl) {
