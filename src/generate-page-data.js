@@ -344,7 +344,7 @@ function hideNav() {
                 <div id="left-navigation"></div>
                 <div id="right-navigation">
                 <nav aria-label="Views">
-                <div id="p-views" style="height: 3.65vh;" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views">
+                <div id="p-views" style="height: 2.7em;" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views">
                 <div class="vector-menu-content">
                 <ul class="vector-menu-content-list">
                 <li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="https://raw.githubusercontent.com/sky-is-winning/cparchives/master/data/${truePageName}.wikitext" title="View page source" accesskey="v"><span>View source</span></a></li>
