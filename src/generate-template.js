@@ -7,7 +7,15 @@ export default class GenerateTemplate {
         this.webserver = wikiParser.webserver;
     }
 
-    generateAmbox(wt) {
+    setPageName(pageName) {
+        this.pageName = pageName;
+    }
+    
+    getPageName() {
+        return this.pageName;
+    }
+
+    async generateAmbox(wt) {
         let boxContent = this.extractTemplate(wt, "Ambox")[0];
 
         // Use a regex to split the content into key-value pairs
@@ -26,7 +34,7 @@ export default class GenerateTemplate {
         let ambox = `<table class="metadata plainlinks ambox ambox-${boxData.type}" style="">`;
         ambox += `<tbody><tr>`;
         ambox += `<td class="mbox-image><div style="width:${boxData.image.size}"><span typeof="mw:File"><span><img src="${boxData.image.address}" width="${boxData.image.size}" height="auto" class="mw-file-element"/></span></span></span></div></td>`;
-        ambox += `<td class="mbox-text" style="">${boxData.text}</td>`;
+        ambox += `<td class="mbox-text" style="">${await this.parseLine(boxData.text)}</td>`;
         ambox += `</tr></tbody></table>`;
         return ambox;
     }
@@ -335,6 +343,10 @@ export default class GenerateTemplate {
 
     async generateTemplate(template, bypassNoInclude = false) {
         template = template.replaceAll("n/a", "NA");
+
+        if (template === "BASEPAGENAME") {
+            return this.getPageName();
+        }
 
         let templateName = template.split("|")[0];
         const templateData = template.split("|").slice(1);

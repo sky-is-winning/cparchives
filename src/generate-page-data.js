@@ -57,6 +57,7 @@ export default class GeneratePageData {
 
         let truePageName = page.slice(1)
         let pageName = truePageName.replaceAll("_", " ");
+        this.templateGenerator.setPageName(pageName);
         for (const replacer of REPLACERS) {
             pageName = pageName.replaceAll(replacer[1], replacer[0]);
         }
@@ -232,7 +233,7 @@ function hideNav() {
             line = line.trim();
             if (inTable) {
                 tableLines += `\n${line}`;
-                if (line == "|}") {
+                if (line.endsWith("|}")) {
                     inTable = false;
                     let wikitable = await this.templateGenerator.generateWikitable(tableLines);
                     content += wikitable;
@@ -240,7 +241,7 @@ function hideNav() {
                 }
             } else if (inTemplate) {
                 templateLines += `\n${line}`;
-                if (line == "}}") {
+                if (line.endsWith("}}")) {
                     inTemplate = false;
                     let template = await this.templateGenerator.generateTemplate(templateLines);
                     content += template;
