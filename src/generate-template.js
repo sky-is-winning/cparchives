@@ -63,6 +63,7 @@ export default class GenerateTemplate {
             let listContent = boxData[list];
             navbox += `<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-${id % 2 == 0 ? "even" : "odd"}"><div style="padding:0em 0.25em">${listContent}</div></td>`;
         }
+        navbox += `</tbody></table></td></tr></tbody></table>`;
 
         return navbox;
     }
@@ -353,7 +354,7 @@ export default class GenerateTemplate {
     }
 
     async generateTemplateFromWikitext(wikitext, data, bypassNoInclude) {
-        if (!bypassNoInclude) wikitext = wikitext.replace(/<noinclude>[\s\S]*?<\/noinclude>|<noinclude>[\s\S]*?(?=<noinclude>|$)/g, "");
+        if (!bypassNoInclude) wikitext = wikitext.replace(/<noinclude>[\s\S]*?<\/noinclude>|<noinclude>[\s\S]*?(?=<\/noinclude>|$)/g, "");
 
         var dataSwappers = {};
         data.forEach((item, index) => {

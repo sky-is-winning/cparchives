@@ -374,7 +374,7 @@ function hideNav() {
                         <div class="mw-parser-output">
                        <meta property="mw:PageProp/toc">
         `;
-        contentContainer += await this.getContentFromWikiText(wt, pageName);
+        contentContainer += pageName.startsWith("templates/") ? await this.getTemplate(pageName.split("templates/")[1], pageName, true) : await this.getContentFromWikiText(wt, pageName);
         contentContainer += `</div></main>`;
         contentContainer += this.getFooter();
         contentContainer += `</div></div></div>`;
@@ -409,10 +409,10 @@ function hideNav() {
         return body;
     }
 
-    async getTemplate(template, pageName) {
+    async getTemplate(template, pageName, bypassNoInclude = false) {
         if (template == "BASEPAGENAME") {
             return pageName;
         }
-        return await this.templateGenerator.generateTemplate(template, true);
+        return await this.templateGenerator.generateTemplate(template, bypassNoInclude);
     }
 }
