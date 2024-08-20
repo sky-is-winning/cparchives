@@ -25,7 +25,7 @@ jobs:
                   port: 22
                   script: |
                       screen -XS cparchives quit
-                      rm -rf cparchives
+                      sudo rm -rf cparchives
                       git clone https://github.com/sky-is-winning/cparchives
                       cd cparchives
                       npm install
