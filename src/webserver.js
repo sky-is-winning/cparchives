@@ -2,10 +2,7 @@ import http from "http";
 import https from "https"; // To make HTTPS requests
 import fs from "fs"; // To write to disk
 import { EventEmitter } from "events";
-<<<<<<< HEAD
 import mime from "mime-types";
-=======
->>>>>>> bc340b8e0923dfbcb0807c296465f318ba398cbf
 
 const PORT = process.argv[2] || 80;
 const ARCHIVES_WIKI_URL = "https://archives-mw.skyiswinni.ng/";
