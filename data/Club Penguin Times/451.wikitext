@@ -1,0 +1,6 @@
+{{Newspaper2
+|issue=451
+|date=June 12, 2014
+|ask=Franky
+|backstory=Comic
+}}

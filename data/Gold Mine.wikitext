@@ -1,0 +1,15 @@
+{{NeedSWFs}}
+{{CPW|Gold Mine|Mina de Ouro}}
+
+==Normal==
+<center>
+{|class="wikitable"
+!Year(s)!!Music
+|-
+|[[Media:RoomsCavemine-OperationPuffleConstruction.swf|2013 - May 2015]]||{{n/a}}
+|-
+|[[media:RoomsCavemine-May2015.swf|May 2015]]||{{n/a}}
+|}
+</center>
+
+{{Places}}

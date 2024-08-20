@@ -38,7 +38,7 @@ files.forEach(file => {
     pagestoGrab.push(file);
 });
 
-pagestoGrab.forEach(async (page) =>  {
+pagestoGrab.forEach(async (page) => {
     const replacers = [
         [":", "%3A"],
         ["?", "%3F"],
@@ -73,9 +73,29 @@ pagestoGrab.forEach(async (page) =>  {
         page = page.replaceAll(replacer[1], replacer[0]);
     }
 
+    const windowsFileReplacers = [
+        ["<", "%3C"],
+        [">", "%3E"],
+        [":", "%3A"],
+        ["\"", "%22"],
+        ["\\", "%5C"],
+        ["|", "%7C"],
+        ["?", "%3F"],
+        ["*", "%2A"]
+    ];
+
+    for (const replacer of windowsFileReplacers) {
+        originalPage = originalPage.replaceAll(replacer[0], replacer[1]);
+    }
+
     if (fs.existsSync(`./data/${page}.wikitext`)) return;
     let wikitext = await fetchWikitext(page);
     if (!wikitext) return;
-    if (originalPage.includes("/") && !fs.existsSync(`./data/${originalPage.split("/")[0]}`)) fs.mkdirSync(`./data/${originalPage.split("/")[0]}`);
+    let pageDir = originalPage.split("/");
+    pageDir.pop();
+    pageDir = pageDir.join("/");
+    if (!fs.existsSync(`./data/${pageDir}`)) {
+        fs.mkdirSync(`./data/${pageDir}`, { recursive: true });
+    }
     fs.writeFileSync(`./data/${originalPage}.wikitext`, wikitext);
 });

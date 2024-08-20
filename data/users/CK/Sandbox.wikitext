@@ -1,0 +1,775 @@
+{{NeedSWFs}}
+
+This table lists every party room since Club Penguin's creation. They are listed in order of their creation. ''Please note that any plain black text in the "event(s)" column indicates a missing SWF.''
+
+<center>
+{|class="wikitable" border="1"
+!Name
+!Event(s)
+!Music
+|-
+|[[clubpenguinwiki:Treetop Fort|Treetop Fort]]<br>[[ptwiki:Copa das Árvores|Copa das Árvores]]||Medieval Party 2008<br>Medieval Party 2009<br>Medieval Party 2010<br>[[Media:MedievalParty2011Party1.swf|Medieval Party 2011]]<br>[[Media:MedievalParty2012party1.swf|Medieval Party 2012]]||Unknown
+|-
+|[[clubpenguinwiki:Mega Whale|Mega Whale]]<br>[[ptwiki:Mega Baleia|Mega Baleia]]||Water Party 2008||[[Media:Music218.swf|218]]
+|-
+|[[clubpenguinwiki:Back Stage|Back Stage]]<br>[[ptwiki:Camarim VIP|Camarim VIP]]||Music Jam 2008<br>Music Jam 2009<br>[[Media:RoomsParty3-MusicJam2010.swf|Music Jam 2010]]<br>[[Media:RoomsParty3-MusicJam2011.swf|Music Jam 2011]]||[[Media:Music242.swf|242]] (2008)<br>[[Media:Music271.swf|271]] (2009)<br>[[Media:Music293.swf|293]] (2010/2011)
+|-
+|[[clubpenguinwiki:Bonus Game Room|Arcade Circle<br>Bonus Game Room]]<br>[[ptwiki:Jogolândia|Jogolândia]]||Fall Fair 2008<br>The Fair 2009<br>The Fair 2010<br>The Fair 2011<br>The Fair 2012||Unknown
+|-
+|[[clubpenguinwiki:Secret Laboratory|Secret Laboratory]]<br>[[ptwiki:Laboratório Secreto|Laboratório Secreto]]||Halloween Party 2008<br>Halloween Party 2009<br>Halloween Party 2011||Unknown
+|-
+|[[clubpenguinwiki:Night Club Rooftop|Night Club Rooftop]]<br>[[ptwiki:Cobertura do Dance Club|Cobertura do Dance Club]]||Dance-A-Thon<br>Music Jam 2009<br>Music Jam 2010<br>Puffle Party 2011<br>Music Jam 2011<br>Puffle Party 2012<br>Make Your Mark: Ultimate Jam||Unknown
+|-
+|[[clubpenguinwiki:Puffle Feeding Area|Puffle Feeding Area]]<br>[[ptwiki:Praça de Alimentação|Praça de Alimentação]]||Puffle Party 2009<br>Puffle Party 2010<br>Puffle Party 2011<br>Puffle Party 2012<br>Puffle Party 2013||Unknown
+|-
+|[[clubpenguinwiki:Leprechaun House|Leprechaun House]]<br>[[ptwiki:Casa do Leprechaun|Casa do Leprechaun]]||St. Patrick's Day Party 2009||[[Media:Music208.swf|208]]
+|-
+|[[clubpenguinwiki:Backstage|Backstage]]<br>[[ptwiki:Camarim (2009)|Camarim]]||Penguin Play Awards 2009<br>Penguin Play Awards 2010||
+|-
+|[[clubpenguinwiki:Box Store|Box Store]]<br>[[ptwiki:Loja das Caixas|Loja das Caixas]]|| ||
+|-
+|[[clubpenguinwiki:Ye Knight's Quest|Ye Knight's Quest]]<br>[[ptwiki:A Jornada do Cavaleiro I|A Jornada do Cavaleiro I]]||[[Ye Knight's Quest|Medieval Party 2009<br>Medieval Party 2010<br>Medieval Party 2011<br>Medieval Party 2012]]||
+|-
+|[[clubpenguinwiki:Tree Forts|Tree Forts]]<br>[[ptwiki:Forte das Árvores|Forte das Árvores]]||Adventure Party 2009<br>Island Adventure Party 2010<br>Island Adventure Party 2011||
+|-
+|[[clubpenguinwiki:Music Maker 3000|Music Maker 3000]]<br>[[ptwiki:Musicatron 3000|Musicatron 3000]]||Music Jam 2008<br>Music Jam 2009<br>Music Jam 2010<br>Music Jam 2011||
+|-
+|[[clubpenguinwiki:|clubpenguinwiki:]]<br>[[ptwiki:|ptwiki:]]|| ||
+|-
+|[[clubpenguinwiki:|clubpenguinwiki:]]<br>[[ptwiki:|ptwiki:]]|| ||
+|-
+|[[clubpenguinwiki:|clubpenguinwiki:]]<br>[[ptwiki:|ptwiki:]]|| ||
+|-
+|[[clubpenguinwiki:|clubpenguinwiki:]]<br>[[ptwiki:|ptwiki:]]|| ||
+|-
+|[[clubpenguinwiki:|clubpenguinwiki:]]<br>[[ptwiki:|ptwiki:]]|| ||
+|-
+|[[clubpenguinwiki:|clubpenguinwiki:]]<br>[[ptwiki:|ptwiki:]]|| ||
+|}
+
+
+----
+
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Item name'''
+|-
+|6001||[[Media:ClothingIcons6001.swf|Sunset Dress Shoes]]
+|-
+|6002||[[Media:ClothingIcons6002.swf|Green Running Shoes]]
+|-
+|6003||[[Media:ClothingIcons6003.swf|Pink Checkered Shoes]]
+|-
+|6004||[[Media:ClothingIcons6004.swf|Black Checkered Shoes]]
+|-
+|6005||[[Media:ClothingIcons6005.swf|Blue Cuckoo Ka-Shoes]]
+|-
+|6006||[[Media:ClothingIcons6006.swf|Purple Cuckoo Ka-Shoes]]
+|-
+|6007||[[Media:ClothingIcons6007.swf|Brown Pirate Boots]]
+|-
+|6008||[[Media:ClothingIcons6008.swf|Black Zoot Shoes]]
+|-
+|6009||[[Media:ClothingIcons6009.swf|Green Bunny Slippers (Unlockable)]]
+|-
+|6010||[[Media:ClothingIcons6010.swf|Big Bad Wool Hooves]]
+|-
+|6011||[[Media:ClothingIcons6011.swf|Figure Skates]]
+|-
+|6012||[[Media:ClothingIcons6012.swf|Geta Sandals]]
+|-
+|6013||[[Media:ClothingIcons6013.swf|Hockey Skates]]
+|-
+|6014||None
+|-
+|6015||[[Media:ClothingIcons6015.swf|White Dress Shoes]]
+|-
+|6016||[[Media:ClothingIcons6016.swf|Blue Stardust Slippers]]
+|-
+|6017||[[Media:ClothingIcons6017.swf|Tennis Shoes]]
+|-
+|6018||None
+|-
+|6019||[[Media:ClothingIcons6019.swf|Plated Shoes]]
+|-
+|6020||[[Media:ClothingIcons6020.swf|Pointy Shoes]]
+|-
+|6021||[[Media:ClothingIcons6021.swf|Green Hiking Boots]]
+|-
+|6022||[[Media:ClothingIcons6022.swf|Black Cowboy Boots]]
+|-
+|6023||None
+|-
+|6024||[[Media:ClothingIcons6024.swf|Burgundy Buckle Shoes]]
+|-
+|6025||[[Media:ClothingIcons6025.swf|Flame Sandals]]
+|-
+|6026||[[Media:ClothingIcons6026.swf|Wave Sandals]]
+|-
+|6027||None
+|-
+|6028||None
+|-
+|6029||[[Media:ClothingIcons6029.swf|Ladybug Shoes]]
+|-
+|6030||[[Media:ClothingIcons6030.swf|Frankenfeet]]
+|-
+|6031||[[Media:ClothingIcons6031.swf|Vintage Boots]]
+|-
+|6032||[[Media:ClothingIcons6032.swf|Dark Brown Fuzzy Boots]]
+|-
+|6033||[[Media:ClothingIcons6033.swf|Monkey King Feet]]
+|-
+|6034||[[Media:ClothingIcons6034.swf|Guardian Dog Feet]]
+|-
+|6035||[[Media:ClothingIcons6035.swf|Untied Sneakers]]
+|-
+|6036||[[Media:ClothingIcons6036.swf|Red Sneakers]]
+|-
+|6037||[[Media:ClothingIcons6037.swf|Green Sneakers]]
+|-
+|6038||[[Media:ClothingIcons6038.swf|Yellow Sneakers]]
+|-
+|6039||[[Media:ClothingIcons6039.swf|Pink Canvas Shoes]]
+|-
+|6040||[[Media:ClothingIcons6040.swf|Gray Boots]]
+|-
+|6041||None
+|-
+|6042||[[Media:ClothingIcons6042.swf|Delta Sneaks]]
+|-
+|6043||[[Media:ClothingIcons6043.swf|Alpha Pumps]]
+|-
+|6044||[[Media:ClothingIcons6044.swf|Nautical Boots]]
+|-
+|6045||[[Media:ClothingIcons6045.swf|Commander's Boots]]
+|-
+|6046||None
+|-
+|6047||[[Media:ClothingIcons6047.swf|Yellow Hiking Shoes]]
+|-
+|6048||[[Media:ClothingIcons6048.swf|Red Hiking Shoes]]
+|-
+|6049||[[Media:ClothingIcons6049.swf|Tactical Boots]]
+|-
+|6050||[[Media:ClothingIcons6050.swf|Orange Checkered Shoes]]
+|-
+|6051||None
+|-
+|6052||[[Media:ClothingIcons6052.swf|Clown Shoes]]
+|-
+|6053||[[Media:ClothingIcons6053.swf|Blue Striped Rubber Boots]]
+|-
+|6054||[[Media:ClothingIcons6054.swf|Pink Striped Rubber Boots]]
+|-
+|6055||None
+|-
+|6056||None
+|-
+|6057||[[Media:ClothingIcons6057.swf|Comm Boots]]
+|-
+|6058||[[Media:ClothingIcons6058.swf|Snowboard Boots]]
+|-
+|6059||[[Media:ClothingIcons6059.swf|Pink Sparkly Snowshoes]]
+|-
+|6060||[[Media:ClothingIcons6060.swf|Lumberjack Boots]]
+|-
+|6061||None
+|-
+|6062||None
+|-
+|6063||[[Media:ClothingIcons6063.swf|Blue Canvas Shoes]]
+|-
+|6064||[[Media:ClothingIcons6064.swf|Green Checkered Shoes (old icon)]]<br>[[Media:ClothingIcons6064 2.swf|Green Checkered Shoes]]
+|-
+|6065||[[Media:ClothingIcons6065.swf|Astro Boots]]
+|-
+|||hmmm
+|-
+|6066||[[Media:ClothingIcons6066.swf|Green Keytar]]
+|-
+|6067||[[Media:ClothingIcons6067.swf|Purple Electric Base]]
+|-
+|6068||[[Media:ClothingIcons6068.swf|Leather Watch]]
+|-
+|6069||[[Media:ClothingIcons6069.swf|Garden Shovel]]
+|-
+|6070||[[Media:ClothingIcons6070.swf|Reggaetron Record]]
+|-
+|6071||[[Media:ClothingIcons6071.swf|Desi-bel Record]]
+|-
+|6072||[[Media:ClothingIcons6072.swf|House Blend Record]]
+|-
+|6073||[[Media:ClothingIcons6073.swf|Red Flag]]
+|-
+|6074||[[Media:ClothingIcons6074.swf|First Aid Kit]]
+|-
+|6075||[[Media:ClothingIcons6075.swf|Range Finder]]
+|-
+|6076||[[Media:ClothingIcons6076.swf|Green Balloon]]
+|-
+|6077||[[Media:ClothingIcons6077.swf|Ice Cream Cone]]
+|-
+|6078||[[Media:ClothingIcons6078.swf|ClothingIcons6078.swf]]
+|-
+|6079||[[Media:ClothingIcons6079.swf|Popcorn]]
+|-
+|6080||[[Media:ClothingIcons6080.swf|Magician's Wand]]
+|-
+|6081||[[Media:ClothingIcons6081.swf|Storm Lantern]]
+|-
+|6082||[[Media:ClothingIcons6082.swf|Cosmic Umbrella]]
+|-
+|6083||[[Media:ClothingIcons6083.swf|Polka Dot Umbrella]]
+|-
+|6084||[[Media:ClothingIcons6084.swf|Mop and Bucket]]
+|-
+|6085||[[Media:ClothingIcons6085.swf|ClothingIcons6085.swf]]
+|-
+|6086||[[Media:ClothingIcons6086.swf|ClothingIcons6086.swf]]
+|-
+|6087||[[Media:ClothingIcons6087.swf|Candy Cane Wing-warmers]]
+|-
+|6088||[[Media:ClothingIcons6088.swf|Paddle]]
+|-
+|6089||[[Media:ClothingIcons6089.swf|Tech-book 3000]]
+|-
+|6090||[[Media:ClothingIcons6090.swf|Pink MP3000]]
+|-
+|6091||[[Media:ClothingIcons6091.swf|Green Foam Finger]]
+|-
+|6092||[[Media:ClothingIcons6092.swf|Red Foam Finger]]
+|-
+|6093||[[Media:ClothingIcons6093.swf|Blue Foam Finger]]
+|-
+|6094||[[Media:ClothingIcons6094.swf|Yellow Foam Finger]]
+|-
+|6095||[[Media:ClothingIcons6095.swf|Gold Shield]]
+|-
+|6096||[[Media:ClothingIcons6096.swf|Royal Blue Scepter]]
+|-
+|6097||[[Media:ClothingIcons6097.swf|Red Shield]]
+|-
+|6098||[[Media:ClothingIcons6098.swf|Yellow Shield]]
+|-
+|6099||[[Media:ClothingIcons6099.swf|Blue Shield]]
+|-
+|6100||[[Media:ClothingIcons6100.swf|Gold Staff and Shield]]
+|-
+|6101||[[Media:ClothingIcons6101.swf|Blue Double Guitar]]
+|-
+|6102||[[Media:ClothingIcons6102.swf|Stompin Bob Cuff]]
+|-
+|6103||[[Media:ClothingIcons6103.swf|Green and Blue Maracas]]
+|-
+|6104||[[Media:ClothingIcons6104.swf|Oil Slick Guitar]]
+|-
+|6105||[[Media:ClothingIcons6105.swf|ClothingIcons6105.swf]]
+|-
+|6106||[[Media:ClothingIcons6106.swf|ClothingIcons6106.swf]]
+|-
+|6107||[[Media:ClothingIcons6107.swf|ClothingIcons6107.swf]]
+|-
+|6108||[[Media:ClothingIcons6108.swf|Telescope]]
+|-
+|6109||[[Media:ClothingIcons609.swf|Treasure Maps]]
+|-
+|6110||[[Media:ClothingIcons6110.swf|Bangles]]
+|-
+|6111||[[Media:ClothingIcons6111.swf|Grape Balloon]]
+|-
+|6112||[[Media:ClothingIcons6112.swf|Bunch of Balloons]]
+|-
+|6113||[[Media:ClothingIcons6113.swf|Unicycle]]
+|-
+|6114||[[Media:ClothingIcons6114.swf|Turtle]]
+|-
+|6115||[[Media:ClothingIcons6115.swf|Every Flavor Ice Cream]]
+|-
+|6116||[[Media:ClothingIcons6116.swf|Cherry Balloon]]
+|-
+|6117||[[Media:ClothingIcons6117.swf|Lemon Balloon]]
+|-
+|6118||[[Media:ClothingIcons6118.swf|Dumbbells]]
+|-
+|6119||[[Media:ClothingIcons6119.swf|Ghoul Detector 3000]]
+|-
+|6120||[[Media:ClothingIcons6120.swf|Ghostly Gallop]]
+|-
+|6121||[[Media:ClothingIcons6121.swf|Monster Muzak]]
+|-
+|6122||[[Media:ClothingIcons6122.swf|Trick-or-Treat Basket]]
+|-
+|6123||[[Media:ClothingIcons6123.swf|Witch Wing Warmers]]
+|-
+|||hmmm
+|-
+|6124||[[Media:ClothingIcons6124.swf|Purple Sneakers]]
+|-
+|6125||None
+|-
+|6126||[[Media:ClothingIcons6126.swf|Cream Sandals]]
+|-
+|6127||None
+|-
+|6128||None
+|-
+|6129||None
+|-
+|6130||None
+|-
+|6131||None
+|-
+|6132||None
+|-
+|6133||None
+|-
+|6134||[[Media:ClothingIcons6134.swf|Squeak-Proof Shoes]]
+|-
+|6135||[[Media:ClothingIcons6135.swf|Jade Stilettos]]
+|-
+|6136||[[Media:ClothingIcons6136.swf|Sturdy Green Boots]]
+|-
+|6137||[[Media:ClothingIcons6137.swf|Rugged Boots]]
+|-
+|6138||[[Media:ClothingIcons6138.swf|Sturdy Brown Boots]]
+|-
+|6139||[[Media:ClothingIcons6139.swf|Anti Lava Boots]]
+|-
+|6140||[[Media:ClothingIcons6140.swf|Shiny Slippers]]
+|-
+|6141||[[Media:ClothingIcons6141.swf|Black Top Sneakers]]
+|-
+|6142||[[Media:ClothingIcons6142.swf|Sweet Ski Boots]]
+|-
+|6143||[[Media:ClothingIcons6143.swf|Cool Ski Boots]]
+|-
+|6144||[[Media:ClothingIcons6144.swf|Festive Socks]]
+|-
+|6145||[[Media:ClothingIcons6145.swf|Reindeer Handler Boots]]
+|-
+|6146||[[Media:ClothingIcons6146.swf|Leather Moccasins]]
+|-
+|6147||[[Media:ClothingIcons6147.swf|Squiggle Shoes]]
+|-
+|6148||[[Media:ClothingIcons6148.swf|Brown Flats]]
+|-
+|6149||[[Media:ClothingIcons6149.swf|Silver Stilettos]]
+|-
+|6150||[[Media:ClothingIcons6150.swf|Jet Stilettos]]
+|-
+|6151||[[Media:ClothingIcons6151.swf|Brown Furry Boots]]
+|-
+|6152||[[Media:ClothingIcons6152.swf|Gray Furry Boots]]
+|-
+|6153||[[Media:ClothingIcons6153.swf|Purple & Yellow Laced Hightops]]
+|-
+|6154||[[Media:ClothingIcons6154.swf|Pink & Purple Laced Hightops]]
+|-
+|6155||[[Media:ClothingIcons6155.swf|White Untied Sneakers]]
+|-
+|6156||[[Media:ClothingIcons6156.swf|Hipster Hightops]]
+|-
+|6999||[[Media:ClothingIcons6999.swf|Remove Feet Item]]
+|}
+</center>
+
+==Unused Clothing Files==
+In numerical order- Icon-Paper-Sprites
+
+*ClothingPaper115.swf
+*ClothingSprites115.swf
+*ClothingSprites152.swf
+*ClothingIcons355.swf
+*ClothingPaper442.swf
+*ClothingIcons777.swf
+*ClothingIcons779.swf
+*ClothingIcons906 2.swf
+*ClothingPhotos906Old.swf
+*ClothingPaper1000.swf
+*ClothingSprites1000.swf
+*ClothingPaper1001.swf
+*ClothingSprites1001.swf
+*ClothingPaper1002.swf
+*ClothingSprites1002.swf
+*ClothingPaper1003.swf
+*ClothingSprites1003.swf
+*ClothingIcons1007 2.swf
+*ClothingIcons1008 2.swf
+*ClothingIcons1010 2.swf
+*ClothingSprites1068.swf
+*ClothingSprites1107.swf
+*ClothingSprites1108.swf
+*ClothingSprites1200.swf
+*ClothingPaper1257.swf
+*ClothingSprites1257.swf
+*ClothingSprites1271.swf
+*ClothingIcons1384Old.swf
+*ClothingPaper1384Old.swf
+*ClothingSprites1384Old.swf
+*ClothingIcons1407 2.swf
+*ClothingPaper1458.swf
+*ClothingIcons1458.swf
+*ClothingSprites1458.swf
+*ClothingIcons1459.swf
+*ClothingSprites1459.swf
+*ClothingPaper1492 2.swf
+*ClothingSprites1654.swf
+*ClothingSprites1675.swf
+*ClothingSprites1923.swf
+*ClothingSprites2000.swf
+*ClothingSprites2015.swf
+*ClothingIcons2033.swf
+*ClothingSprites2033.swf
+*ClothingIcons2067.swf
+*ClothingSprites2118.swf
+*ClothingIcons3130.swf
+*ClothingSprites3130.swf
+*ClothingIcons3131.swf
+*ClothingSprites3131.swf
+*ClothingIcons4380.swf
+*ClothingIcons4554.swf
+*ClothingIcons4555.swf
+*ClothingIcons4555 2.swf
+*ClothingSprites4555 2.swf
+*ClothingSprites4555Old.swf
+*ClothingIcons4690.swf
+*ClothingIcons4691.swf
+*ClothingPaper4752.swf
+*ClothingIcons5168.swf
+*ClothingSprites5168.swf
+*ClothingIcons5169.swf
+*ClothingSprites5315.swf
+*ClothingSprites5316.swf
+*ClothingSprites5317.swf
+*ClothingSprites5318.swf
+*ClothingSprites5319.swf
+*ClothingSprites5320.swf
+*ClothingSprites5321.swf
+*ClothingSprites5322.swf
+*ClothingSprites5323.swf
+*ClothingSprites5324.swf
+*ClothingPaper5408.swf
+*ClothingSprites5408.swf
+*ClothingPaper5409.swf
+*ClothingSprites5409.swf
+*ClothingPaper5410.swf
+*ClothingSprites5410.swf
+*ClothingPaper5411.swf
+*ClothingSprites5411.swf
+*ClothingIcons6003 2.swf
+*ClothingIcons6004 2.swf
+*ClothingSprites6078.swf
+*ClothingIcons6127.swf
+*ClothingSprites6127.swf
+*ClothingIcons6128.swf
+*ClothingIcons8009 2.swf
+*ClothingPhotos9007.swf
+*ClothingIcons9024Old.swf
+*ClothingPhotos9024Old.swf
+*ClothingPaper9168.swf
+*ClothingSprites10269.swf
+*ClothingIcons10651 2.swf
+*ClothingIcons10653 2.swf
+*ClothingIcons10655 2.swf
+*ClothingIcons10656 2.swf
+*ClothingIcons10662 2.swf
+*ClothingIcons10670 2.swf
+*ClothingIcons10671 2.swf
+*ClothingSprites11109.swf
+*ClothingSprites11381.swf
+*ClothingSprites11382.swf
+*ClothingIcons11243 2.swf
+*ClothingSprites13116.swf
+*ClothingSprites14154.swf
+*ClothingSprites14155.swf
+*ClothingIcons14552.swf
+*ClothingIcons14553.swf
+*ClothingSprites15046.swf
+*ClothingIcons16109.swf
+*ClothingIcons16110.swf
+
+
+*Some 900s BG Photos don't exist/aren't linked on table (911-930 at least)
+*ClothingBooksBlueprint.swf??
+
+==Newspapers==
+===2016===
+{{User:Mario Rk/Sandbox
+|open=1
+|issue= 533
+|month=January
+|monthrow=4
+|day=6
+}}
+{{User:Mario Rk/Sandbox
+|issue= 534
+|day=13
+}}
+{{User:Mario Rk/Sandbox
+|issue= 535
+|day=20
+}}
+{{User:Mario Rk/Sandbox
+|issue= 536
+|day=27
+}}
+{{User:Mario Rk/Sandbox
+|issue= 537
+|month=February
+|monthrow=4
+|day=3
+}}
+{{User:Mario Rk/Sandbox
+|issue= 538
+|day=10
+}}
+{{User:Mario Rk/Sandbox
+|issue= 539
+|day=17
+}}
+{{User:Mario Rk/Sandbox
+|issue= 540
+|day=24
+}}
+{{User:Mario Rk/Sandbox
+|issue= 541
+|month=March
+|monthrow=5
+|day=2
+}}
+{{User:Mario Rk/Sandbox
+|issue= 542
+|day=9
+}}
+{{User:Mario Rk/Sandbox
+|issue= 543
+|day=16
+}}
+{{User:Mario Rk/Sandbox
+|issue= 544
+|day=23
+}}
+{{User:Mario Rk/Sandbox
+|issue= 545
+|day=30
+}}
+{{User:Mario Rk/Sandbox
+|issue= 546
+|month=April
+|monthrow=2
+|day=6
+}}
+{{User:Mario Rk/Sandbox
+|issue= 547
+|day=20
+}}
+{{User:Mario Rk/Sandbox
+|issue= 548
+|month=May
+|monthrow=2
+|day=4
+}}
+{{User:Mario Rk/Sandbox
+|issue= 549
+|day=18
+}}
+{{User:Mario Rk/Sandbox
+|issue= 550
+|month=June
+|monthrow=2
+|day=8
+}}
+{{User:Mario Rk/Sandbox
+|issue= 551
+|day=22
+|ask=Gary
+}}
+{{User:Mario Rk/Sandbox
+|issue= 552
+|month=July
+|monthrow=2
+|day=6
+}}
+{{User:Mario Rk/Sandbox
+|issue= 553
+|day=20
+}}
+{{User:Mario Rk/Sandbox
+|issue= 554
+|month=August
+|monthrow=3
+|day=3
+}}
+{{User:Mario Rk/Sandbox
+|issue= 555
+|day=17
+}}
+{{User:Mario Rk/Sandbox
+|issue= 556
+|day=31
+}}
+{{User:Mario Rk/Sandbox
+|issue= 557
+|month=September
+|monthrow=2
+|day=14
+}}
+{{User:Mario Rk/Sandbox
+|issue= 558
+|day=28
+}}
+{{User:Mario Rk/Sandbox
+|issue= 559
+|month=October
+|day=19
+}}
+{{User:Mario Rk/Sandbox
+|issue= 560
+|month=November
+|monthrow=2
+|day=3
+|ask=P.H.
+}}
+{{User:Mario Rk/Sandbox
+|issue= 561
+|day=17
+|ask=Cadence
+}}
+{{User:Mario Rk/Sandbox
+|issue= 562
+|month=December
+|monthrow=2
+|day=1
+|ask=Gary
+}}
+{{User:Mario Rk/Sandbox
+|issue= 561
+|day=15
+|end=1
+}}
+
+
+===2017===
+{{User:Mario Rk/Sandbox
+|open=1
+|issue= 564
+|month=January
+|day=5
+}}
+{{User:Mario Rk/Sandbox
+|issue= 565
+|month=February
+|day=1
+}}
+{{User:Mario Rk/Sandbox
+|issue= 566
+|month=March
+|day=23
+|end=1
+}}
+
+==Catalog test==
+<center>
+{|class="wikitable" border="1"
+!Year!!English!!<span style="border-bottom: 1px dotted #333333;" title="Itens Super-Raros do Rockhopper">Português</span>!!<span style="border-bottom: 1px dotted #333333;" title="Les Objets Rares de Rockhopper">Français</span>!!<span style="border-bottom: 1px dotted #333333;" title="Los extraños objetos de Rockhopper">Español</span>!!<span style="border-bottom: 1px dotted #333333;" title="Rockhoppers seltene Sachen">Deutsch</span>!!<span style="border-bottom: 1px dotted #333333;" title="Редкие предметы Рокхоппера">русский</span>
+|-
+|rowspan=2|2006||[[Media:pirate_0610.swf|October]]||rowspan=13 {{n/a}}||rowspan=15 {{n/a}}||rowspan=17 {{n/a}}||rowspan=26 {{n/a}}||rowspan=31 {{n/a}}
+|-
+|[[Media:pirate_0612.swf|December]]
+|-
+|rowspan=8|2007||[[Media:pirate_0702.swf|February]]
+|-
+|[[Media:pirate_0703.swf|March]]
+|-
+|[[Media:pirate_0704.swf|April]]
+|-
+|[[Media:pirate_0706.swf|June]]
+|-
+|style="background: #ececec; color: grey;" class="table-na"|July
+|-
+|[[Media:RHCatalog8.swf|August]]
+|-
+|[[Media:RHCatalog9.swf|September]]
+|-
+|[[Media:pirate_0711.swf|November]]
+|-
+|rowspan=5|2008||[[Media:Apr2008Pirate.swf|April]]
+|-
+|[[Media:RHRIJun2008.swf|June]]
+|-
+|[[Media:RockhopperRareItemsAug2008.swf|August]]
+|-
+|[[Media:RHRIOct2008.swf|October]]||style="background: #ececec; color: grey;" class="table-na"|Outubro
+|-
+|style="background: #ececec; color: grey;" class="table-na"|December||style="background: #ececec; color: grey;" class="table-na"|Dezembro
+|-
+|rowspan=4|2009||[[Media:RHRIFeb2009.swf|February]]||style="background: #ececec; color: grey;" class="table-na"|Fevereiro||style="background: #ececec; color: grey;" class="table-na"|Février
+|-
+|style="background: #ececec; color: grey;" class="table-na"|May||style="background: #ececec; color: grey;" class="table-na"|Maio||style="background: #ececec; color: grey;" class="table-na"|Mai
+|-
+|style="background: #ececec; color: grey;" class="table-na"|September||style="background: #ececec; color: grey;" class="table-na"|Setembro||style="background: #ececec; color: grey;" class="table-na"|Septembre||style="background: #ececec; color: grey;" class="table-na"|Septiembre
+|-
+|[[Media:December2009Pirate.swf|December]]||style="background: #ececec; color: grey;" class="table-na"|Dezembro||style="background: #ececec; color: grey;" class="table-na"|Décembre||style="background: #ececec; color: grey;" class="table-na"|Diciembre
+|-
+|rowspan=4|2010||[[Media:March2010Pirate.swf|March]]||style="background: #ececec; color: grey;" class="table-na"|Março||style="background: #ececec; color: grey;" class="table-na"|Mars||style="background: #ececec; color: grey;" class="table-na"|Marzo
+|-
+|style="background: #ececec; color: grey;" class="table-na"|June||style="background: #ececec; color: grey;" class="table-na"|Junho||style="background: #ececec; color: grey;" class="table-na"|Juin||style="background: #ececec; color: grey;" class="table-na"|Junio
+|-
+|[[Media:2010septemberpiratecatalog.swf‎|September]]||style="background: #ececec; color: grey;" class="table-na"|Setembro||style="background: #ececec; color: grey;" class="table-na"|Septembre||style="background: #ececec; color: grey;" class="table-na"|Septiembre
+|-
+|[[Media:Dec2010Pirate.swf|December]]||style="background: #ececec; color: grey;" class="table-na"|Dezembro||style="background: #ececec; color: grey;" class="table-na"|Décembre||style="background: #ececec; color: grey;" class="table-na"|Diciembre
+|-
+|rowspan=4|2011||[[Media:Apr2011Pirate.swf|April]]||[[Media:PTCataloguesPirate-April2011.swf|Abril]]||style="background: #ececec; color: grey;" class="table-na"|Avril||style="background: #ececec; color: grey;" class="table-na"|Abril
+|-
+|[[Media:Jul2011Pirate.swf|July]]||[[Media:PTCataloguesPirate-July2011.swf|Julho]]||style="background: #ececec; color: grey;" class="table-na"|Juillet||style="background: #ececec; color: grey;" class="table-na"|Julio
+|-
+|[[Media:Sep2011Pirate.swf|September]]||style="background: #ececec; color: grey;" class="table-na"|Setembro||style="background: #ececec; color: grey;" class="table-na"|Septembre||style="background: #ececec; color: grey;" class="table-na"|Septiembre
+|-
+|[[Media:Dec2011Pirate.swf|December]]||[[Media:RockhopperRIDec2011PT.swf|Dezembro]]||style="background: #ececec; color: grey;" class="table-na"|Décembre||[[Media:RockhopperRIDec2011ES.swf|Diciembre]]||[[Media:RockhopperRIDec2011DE.swf|Dezember]]
+|-
+|rowspan=2|2012||[[Media:Sep2012Pirate.swf|August]]||[[Media:PTAug2012Pirate.swf|Agosto]]||[[Media:FRAug2012Pirate.swf|Août]]||[[Media:ESAug2012Pirate.swf|Agosto]]||[[Media:DEAug2012Pirate.swf|August]]
+|-
+|[[Media:ENCataloguesPirate-Dec2012.swf|December]]||[[Media:PTCataloguesPirate-Dec2012.swf|Dezembro]]||[[Media:FRCataloguesPirate-Dec2012.swf|Décembre]]||[[Media:ESCataloguesPirate-Dec2012.swf|Diciembre]]||[[Media:DECataloguesPirate-Dec2012.swf|Dezember]]
+|-
+|rowspan=2|2013||[[Media:September2013Pirate.swf|September]]||style="background: #ececec; color: grey;" class="table-na"|Setembro||style="background: #ececec; color: grey;" class="table-na"|Septembre||[[Media:RockhopperRISep2013ES.swf|Septiembre]]||style="background: #ececec; color: grey;" class="table-na"|September
+|-
+|[[Media:ENRockhopperRareItemsDec2013.swf|December]]||[[Media:PTCataloguesPirate-Dec2013.swf|Dezembro]]||style="background: #ececec; color: grey;" class="table-na"|Décembre||style="background: #ececec; color: grey;" class="table-na"|Diciembre||style="background: #ececec; color: grey;" class="table-na"|Dezember
+|-
+|2014||[[Media:ENRockhopperRareItemsApril2014.swf|April]]||[[Media:PTCataloguesPirate-April2014.swf|Abril]]||[[Media:FRCataloguesPirate-Apr2014.swf|Avril]]||[[Media:ESCataloguesPirate-Abr2014.swf|Abril]]||[[Media:DECataloguesPirate-Apr2014.swf|April]]||[[Media:RUApr2014Pirate.swf|Апрель]]
+|-
+|2015||[[Media:ENRockhopperRareItemsDec2015.swf|2015]]||[[Media:PTRockhopperRareItemsDec2015.swf|Dezembro 2015]]||[[Media:FRRockhopperRareItemsDec2015.swf|Décembre 2015]]||[[Media:ESRockhopperRareItemsDec2015.swf|Diciembre 2015]]||style="background: #ececec; color: grey;" class="table-na"|Dezember||style="background: #ececec; color: grey;" class="table-na"|декабрь
+|-
+|2016||[[Media:ENRockhopperRareItemsDec2015.swf|2016]]||[[Media:PTRockhopperRareItemsDec2015.swf|Dezembro 2016]]||[[Media:FRRockhopperRareItemsDec2015.swf|Décembre 2016]]||[[Media:ESRockhopperRareItemsDec2015.swf|Diciembre 2016]]||style="background: #ececec; color: grey;" class="table-na"|Dezember||style="background: #ececec; color: grey;" class="table-na"|декабрь
+|}
+</center>
+<center>
+{|class="wikitable" border="1"
+!English!!<span style="border-bottom: 1px dotted #333333;" title="Itens Super-Raros do Rockhopper">Português</span>!!<span style="border-bottom: 1px dotted #333333;" title="Les Objets Rares de Rockhopper">Français</span>!!<span style="border-bottom: 1px dotted #333333;" title="Los extraños objetos de Rockhopper">Español</span>!!<span style="border-bottom: 1px dotted #333333;" title="Rockhoppers seltene Sachen">Deutsch</span>!!<span style="border-bottom: 1px dotted #333333;" title="Редкие предметы Рокхоппера">русский</span>
+|-
+|[[Media:pirate_0610.swf|October 2006]]||rowspan=13 {{n/a}}||rowspan=15 {{n/a}}||rowspan=17 {{n/a}}||rowspan=26 {{n/a}}||rowspan=31 {{n/a}}
+|-
+|[[Media:pirate_0612.swf|December 2006]]
+|-
+|[[Media:pirate_0702.swf|February 2007]]
+|-
+|[[Media:pirate_0703.swf|March 2007]]
+|-
+|[[Media:pirate_0704.swf|April 2007]]
+|}
+</center>
+<center>
+{|class="wikitable" border="1"
+!Month!!English!!Português!!Français!!Español!!Deutsch!!русский
+|-
+|October 2006||[[Media:pirate_0610.swf|English]]||rowspan=13 {{n/a}}||rowspan=15 {{n/a}}||rowspan=17 {{n/a}}||rowspan=26 {{n/a}}||rowspan=31 {{n/a}}
+|-
+|December 2006||[[Media:pirate_0612.swf|English]]
+|-
+|February 2007||[[Media:pirate_0702.swf|SWF]]
+|-
+|March 2007||[[Media:pirate_0703.swf|SWF]]
+|-
+|April 2007||[[Media:pirate_0704.swf|SWF]]
+|}
+</center>
+<span style="border-bottom: 1px dotted #333333;" title="Itens Super-Raros do Rockhopper">Portuguese</span>

@@ -1,0 +1,113 @@
+If I have fallen inactive and you need help from me, please contact me through my e-mail [mailto:clubpenguinmisa@gmail.com clubpenguinmisa@gmail.com]
+
+[[/Tutorials|Here are tutorials, which I feel, that don't belong to the Help section (if you want, you can move them)]]
+
+Current record = 562 edits in 30 days
+
+[[google:Misabr|Google knows me]]
+
+It is 2021 and I would like to use this opportunity to archive the date of this moment when the CPWN suddenly started existing again for at least a brief period of time (19th May).
+
+==Introduction==
+I'm Misabr, my penguin was created on 19th February 2012. I did my first edit at [[Main Page|this wiki]] on (DD/MM/YYYY) <span class="plainlinks">[http://archives.clubpenguinwiki.info/w/index.php?title=April_Fools%27_Party_2010&oldid=15398 28/12/2013 10:30PM]</span> and made my first [[Cloud Forest|article]] here just 7 minutes later! I've made {{Special:Editcount/Misabr}} + 304 edits so far... Even though you may guess I'm from Brazil (because of my username), I'm from Czech Republic... Oh yeah, and in all other communities, than the CP one I'm known as Cvolton {{/signature}} 20:21, 4 May 2015 (UTC)
+
+==Bot==
+I own [[user:MisabrBot|MisabrBot]], it's an account for automated uploads with like 100 or more files at once
+==Subpages==
+[[/sandbox|Sandbox]]
+
+[[/sandbox 2|Sandbox #2]]
+
+[[/Maze Party 2015]]
+
+[[/md5|MD5 Mismaches]]
+
+[[/List of pages containing SWFs linked directly from our swf.cpcheats.info mirror]]
+
+[[/List of suspicious to me files]]
+
+[[/regular rooms]]
+
+==To do list==
+''if anybody wants to do those tasks instead of me, feel free to do so... I'll be more than happy :P''
+===General===
+#Go over [[Special:UnusedFiles|{{MediaWiki:Unusedimages}}]] (currently WIP)
+
+===Rooms===
+#Transfer [[Beach]] to the new style
+#Transfer [[Book Room]] to the new style
+#Finish [[Dock]]
+#Finish [[Cove]]
+#Finish [[Dojo]]
+#Finish [[Forest]]
+#Finish [[Iceberg]]
+#Finish [[Lighthouse]]
+#Have a look at [[Lounge]]
+#Finish [[Mine Shack]]
+#Finish [[Pizza Parlor]]
+#Finish [[Ski Hill]]
+#Transfer [[Ski Village]] to the new style
+#Finish [[Snow Forts]]
+#Finish [[Stadium]]
+#Finish [[The Stage]]
+#Have a look at [[Town]]
+#Have a look at [[Command Room]]
+#Have a look at [[Eco]]
+#Finish [[Captain's Quarters]]
+#Have a look at [[Crow's Nest]]
+#Do some big work on [[Party Rooms]]
+===Wayback Machine===
+#Go over archived EN Game Configs at cdn.clubpenguin.com {{progress}}
+#Go over archived EN Game Configs at media1.clubpenguin.com {{hold}}
+#Go over archived EN Game Configs at other media servers {{hold}}
+#Go over archived PT Game Configs at cdn.clubpenguin.com {{hold}}
+#Go over archived PT Game Configs at media1.clubpenguin.com {{hold}}
+#Go over archived PT Game Configs at other media servers {{hold}}
+#Go over archived FR Game Configs at cdn.clubpenguin.com {{hold}}
+#Go over archived FR Game Configs at media1.clubpenguin.com {{hold}}
+#Go over archived FR Game Configs at other media servers {{hold}}
+#Go over archived ES Game Configs at cdn.clubpenguin.com {{hold}}
+#Go over archived ES Game Configs at media1.clubpenguin.com {{hold}}
+#Go over archived ES Game Configs at other media servers {{hold}}
+#Go over archived DE Game Configs at cdn.clubpenguin.com {{hold}}
+#Go over archived DE Game Configs at media1.clubpenguin.com {{hold}}
+#Go over archived DE Game Configs at other media servers {{hold}}
+#Go over archived RU Game Configs at cdn.clubpenguin.com {{hold}}
+#Go over archived RU Game Configs at media1.clubpenguin.com {{hold}}
+#Go over archived RU Game Configs at other media servers {{hold}}
+#Go over archived Rooms at cdn.clubpenguin.com {{hold}}
+#Go over archived Rooms at media1.clubpenguin.com {{hold}}
+#Go over archived Rooms at other media servers {{hold}}
+
+===Other===
+#nothing
+
+==test==
+this wiki has {{formatnum:{{#expr:{{NUMBEROFFILES:R}} - 1}}}} files
+
+the size of [[Clothing Icons]] is {{PAGESIZE:Clothing Icons}}
+
+{{ItemDescription|Blue|1}}
+
+==table template==
+<nowiki><center></nowiki>
+
+<nowiki>{|class="wikitable" border="1"</nowiki>
+
+<nowiki>!Current</nowiki>
+
+<nowiki>|-</nowiki>
+
+<nowiki>|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/normal_rooms/all_no_partys/cave.swf Cave]</nowiki>
+
+<nowiki>|}</nowiki>
+
+<nowiki></center></nowiki>
+
+<center>
+{|class="wikitable" border="1"
+!Current
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/normal_rooms/all_no_partys/cave.swf Cave]
+|}
+</center>

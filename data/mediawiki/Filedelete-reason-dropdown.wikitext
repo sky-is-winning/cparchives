@@ -1,0 +1,4 @@
+*Common delete reasons
+** Copyright violation
+** Duplicated file
+** Modified Club Penguin file

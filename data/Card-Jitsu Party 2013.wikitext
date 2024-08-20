@@ -1,0 +1,107 @@
+{{CPW|Card-Jitsu Party 2013}}
+
+==Rooms==
+===Construction===
+====Week 1====
+{|class="wikitable" border="1"
+!Room
+!Music
+|-
+|[[Media:RoomsDojoext-CardJitsuParty2013.swf|Dojo Courtyard]]||[[Media:Music398.swf|398]]
+|-
+|[[Media:RoomsDojohide-CardJitsuParty2013.swf|Ninja Hideout]]||[[Media:Music399.swf|399]]
+|}
+
+====Week 2====
+{|class="wikitable" border="1"
+!Room
+!Music
+|-
+|[[Media:RoomsDojo2-CardJitsuParty2013.swf|Dojo]]||[[Media:MusicNew400.swf|400]]
+|-
+|[[Media:RoomsDojoext2-CardJitsuParty2013.swf|Dojo Courtyard]]||[[Media:MusicNew401.swf|401]]
+|-
+|[[Media:RoomsDojohide2-CardJitsuParty2013.swf|Ninja Hideout]]||[[Media:MusicNew402.swf|402]]
+|}
+
+===Party===
+{|class="wikitable" border="1"
+!Room
+!Music
+|-
+|[[Media:RoomsBeach-CardJitsuParty2013.swf|Beach]]||[[Media:Music408.swf|408]]
+|-
+|[[Media:RoomsCoffee-CardJitsuParty2013.swf|Coffee Shop]]||[[Media:Music409.swf|409]]
+|-
+|[[Media:RoomsCove-CardJitsuParty2013.swf|Cove]]||[[Media:Music410.swf|410]]
+|-
+|[[Media:RoomsDock-CardJitsuParty2013.swf|Dock]]||[[Media:Music408.swf|408]]
+|-
+|[[Media:RoomsDojo-CardJitsuParty2013.swf|Dojo]]||?
+|-
+|[[Media:RoomsForest-CardJitsuParty2013.swf|Forest]]||[[Media:Music410.swf|410]]
+|-
+|[[Media:RoomsParty1-CardJitsuParty2013.swf|Ninja Headquarters]]||[[Media:Music413.swf|413]]
+|-
+|[[Media:RoomsPizza-CardJitsuParty2013.swf|Pizza Parlor]]||[[Media:Music414.swf|414]]
+|-
+|[[Media:RoomsPlaza-CardJitsuParty2013.swf|Plaza]]||[[Media:Music411.swf|411]]
+|-
+|[[Media:RoomsMtn-CardJitsuParty2013.swf|Ski Hill]]||[[Media:Music407.swf|407]]
+|-
+|[[Media:RoomsLodge-CardJitsuParty2013.swf|Ski Lodge]]||[[Media:Music412.swf|412]]
+|-
+|[[Media:RoomsVillage-CardJitsuParty2013.swf|Ski Village]]||[[Media:Music416.swf|416]]
+|-
+|[[Media:RoomsForts-CardJitsuParty2013.swf|Snow Forts]]||[[Media:Music411.swf|411]]
+|-
+|[[Media:RoomsRink-CardJitsuParty2013.swf|Stadium]]||[[Media:Music415.swf|415]]
+|-
+|[[Media:RoomsTown-CardJitsuParty2013.swf|Town]]||[[Media:Music411.swf|411]]
+|}
+
+==Close Ups==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+|-
+|[[Media:ENClose upsPoster-CardJitsuParty2013.swf|Poster]]||[[Media:PTClose upsPoster-CardJitsuParty2013.swf|Poster]]||[[Media:FRClose upsPoster-CardJitsuParty2013.swf|Poster]]||[[Media:ESClose upsPoster-CardJitsuParty2013.swf|Poster]]||[[Media:DEClose upsPoster-CardJitsuParty2013.swf|Poster]]
+|}
+</center>
+
+==Catalog==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+|-
+|[[Media:ENCataloguesParty-CardJitsuParty2013.swf|Catalog]]||[[Media:PTCataloguesParty-CardJitsuParty2013.swf|Catalog]]||[[Media:FRCataloguesParty-CardJitsuParty2013.swf|Catalog]]||[[Media:ESCataloguesParty-CardJitsuParty2013.swf|Catalog]]||[[Media:DECataloguesParty-CardJitsuParty2013.swf|Catalog]]
+|}
+</center>
+
+==Login Screen==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+|-
+|[[Media:ENCardJitsuSnowLoginScreen1.swf|Login Screen #1]]||[[Media:PTCardJitsuSnowLoginScreen1.swf|Login Screen #1]]||[[Media:FRCardJitsuSnowLoginScreen1.swf|Login Screen #1]]||[[Media:ESCardJitsuSnowLoginScreen1.swf|Login Screen #1]]||[[Media:DECardJitsuSnowLoginScreen1.swf|Login Screen #1]]
+|-
+|[[Media:ENCardJitsuSnowLoginScreen2.swf|Login Screen #2]]||[[Media:PTCardJitsuSnowLoginScreen2.swf|Login Screen #2]]||[[Media:FRCardJitsuSnowLoginScreen2.swf|Login Screen #2]]||[[Media:ESCardJitsuSnowLoginScreen2.swf|Login Screen #2]]||[[Media:DECardJitsuSnowLoginScreen2.swf|Login Screen #2]]
+|-
+|[[Media:ENCardJitsuSnowLoginScreen3.swf|Login Screen #3]]||N/A||[[Media:FRCardJitsuSnowLoginScreen3.swf|Login Screen #3]]||N/A||[[Media:DECardJitsuSnowLoginScreen3.swf|Login Screen #3]]
+|}
+</center>
+{{Parties}}
+
+[[Category:Parties of 2013]]

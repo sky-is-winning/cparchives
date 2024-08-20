@@ -1,4 +1,4 @@
-
+{{CPW|Dance-A-Thon|Festa da Dança}}
 
 ==Rooms==
 {|class="wikitable" style="margin: 1em auto;"
@@ -17,3 +17,4 @@
 
 
 {{Parties}}
+[[Category:Parties of 2009]]

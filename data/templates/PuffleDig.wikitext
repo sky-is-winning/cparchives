@@ -1,0 +1,8 @@
+<center>
+{| width="50%" align="center" style="background: #B40404; border: #610B0B 3px solid; {{roundy|20px}}"
+|- align="center"
+| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:GardenShovel.PNG|link=|70px]]
+|<big><big><span style="color:#FFF">This file is a [[Puffle Digging|<span style="color:#FFF">Puffle Digging</span>]] animation.</span></big></big><br><small><span style="color:#FFF">This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</span></small>
+|}</center>
+<includeonly>[[Category:Puffle Digging animations]]</includeonly>
+<noinclude>[[Category:Templates]]</noinclude>

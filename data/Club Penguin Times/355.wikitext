@@ -1,0 +1,13 @@
+Below are SWF files from issue #355 (August 9, 2012) of the Club Penguin Times:
+
+*[[Media:News355HeaderFront.swf|Header (front)]]
+*[[Media:News355FeatureStory.swf|Feature Story]]
+*[[Media:News355SupportStory.swf|Support Story]]
+*[[Media:News355UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News355NewsFlash.swf|News Flash]]
+*[[Media:News355AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News355HeaderBack.swf|Header (back)]]
+*[[Media:News355AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News355JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News355SecretOverlay.swf|Secret Overlay]]
+*[[Media:News355FeatureMore.swf|Feature More]]

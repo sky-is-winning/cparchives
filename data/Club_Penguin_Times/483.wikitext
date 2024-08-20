@@ -1,5 +1,0 @@
-{{Newspaper2
-|issue=483
-|date=January 22, 2015
-|ask=a Stormtrooper
-}}

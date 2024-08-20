@@ -1,5 +1,4 @@
-{{Construction}}
-
+{{CPW|Igloo|Iglu}}
 
 ==Igloos==
 {|class="wikitable" border="1" style="margin: auto;"
@@ -71,9 +70,13 @@
 |-
 |33||Grey Ice Castle||[[Media:BuildingsIcons33.swf|Icon]]||[[Media:IglooIgloos33.swf|Igloo]]
 |-
+|34||Loft Igloo||{{n/a}}||[[Media:IglooIgloos34.swf|Igloo]]
+|-
 |35||Cozy Cottage Igloo||[[Media:BuildingsIcons35.swf|Icon]]||[[Media:IglooIgloos35.swf|Igloo]]
 |-
-|36||Estate Igloo||[[Media:BuildingsIcons36.swf|Icon]]||[[Media:IglooIgloos36.swf|Igloo]]
+|rowspan=2|36||rowspan=2|Estate Igloo||rowspan=2|[[Media:BuildingsIcons36.swf|Icon]]||[[Media:IglooIgloos36 old.swf|Igloo (1)]]
+|-
+|[[Media:IglooIgloos36.swf|Igloo (2)]]
 |-
 |37||In Half Igloo||[[Media:BuildingsIcons37.swf|Icon]]||[[Media:IglooIgloos37.swf|Igloo]]
 |-

@@ -8,40 +8,44 @@ import GeneratePageData from "./generate-page-data.js";
 const PORT = process.argv[2] || 80;
 const ROOT_PATH = "./archives.clubpenguinwiki.info";
 const SPECIAL_CHAR_REPLACERS = [
-    [":", "%3A"],
-    ["?", "%3F"],
-    ["#", "%23"],
-    ["[", "%5B"],
-    ["]", "%5D"],
-    ["@", "%40"],
-    ["!", "%21"],
-    ["$", "%24"],
-    ["&", "%26"],
-    ["'", "%27"],
-    ["(", "%28"],
-    [")", "%29"],
-    ["*", "%2A"],
-    ["+", "%2B"],
-    [",", "%2C"],
-    [";", "%3B"],
-    ["=", "%3D"],
-    [" ", "%20"],
-    [".", "%2E"],
     ["<", "%3C"],
     [">", "%3E"],
-    ["^", "%5E"],
-    ["`", "%60"],
-    ["{", "%7B"],
+    [":", "%3A"],
+    ["\"", "%22"],
+    ["\\", "%5C"],
     ["|", "%7C"],
-    ["}", "%7D"],
-    ["~", "%7E"]
+    ["?", "%3F"],
+    ["*", "%2A"],
+    ["_", " "],
+    ["%20", " "]
 ];
-const IMAGE_FORMATS = [".png", ".jpg", ".jpeg", ".svg", ".xml", ".ico"];
+const NAMESPACE_REPLACERS = [
+    ["Talk:", "talk/"],
+    ["User:", "users/"],
+    ["User talk:", "users/talk/"],
+    ["Club Penguin Archives:", "archives/"],
+    ["Club Penguin Archives talk:", "archives/talk/"],
+    ["File:", "files/"],
+    ["File talk:", "files/talk/"],
+    ["MediaWiki:", "mediawiki/"],
+    ["MediaWiki talk:", "mediawiki/talk/"],
+    ["Template:", "templates/"],
+    ["Template talk:", "templates/talk/"],
+    ["Help:", "help/"],
+    ["Help talk:", "help/talk/"],
+    ["Category:", "categories/"],
+    ["Category talk:", "categories/talk/"],
+    ["Widget:", "widgets/"],
+    ["Widget talk:", "widgets/talk/"],
+    ["Module:", "modules/"],
+    ["Module talk:", "modules/talk/"]
+];
 const REDIRECT_DOMAINS = {
     "/static/": "archives.clubpenguinwiki.info",
     "/media1/": "media1.clubpenguin.com",
     "/swf.cpcheats.info/": "swf.cpcheats.info"
 };
+const PRERENDER_PAGES = true;
 
 export default class WebServer {
     constructor() {
@@ -74,7 +78,7 @@ export default class WebServer {
     start() {
         this.server.listen(PORT);
 
-        console.log("Server running on port " + PORT);
+        console.info("Server running on port " + PORT);
 
         this.server.on("request", async (request, response) => {
             try {
@@ -96,11 +100,17 @@ export default class WebServer {
                 response.end("Sorry, check with the site admin for error: " + error.code + " ..\n");
             }
         });
+
+        if (PRERENDER_PAGES) {
+            setTimeout(() => {
+                this.prerenderPages("./data");
+            }, 3000);
+        }
     }
 
     serveFromCache(request, response) {
         const cacheEntry = this.cache[request.url];
-        console.log("Served from cache: " + request.url);
+        console.info("Served from cache: " + request.url);
         if (cacheEntry.status === 302) {
             response.writeHead(302, {Location: cacheEntry.location});
         } else {
@@ -168,19 +178,12 @@ export default class WebServer {
         let filePath = url.includes(".") ? `${ROOT_PATH}${url}` : url;
         if (filePath.includes("/thumb")) filePath = filePath.replace("/thumb", "");
 
-        const ignoreLastPeriod = IMAGE_FORMATS.some((format) => filePath.toLowerCase().includes(format));
-
-        if (ignoreLastPeriod) {
-            const extension = filePath.slice(filePath.lastIndexOf("."));
-            filePath = filePath.split(extension)[0] + extension;
+        for (const replacer of NAMESPACE_REPLACERS) {
+            filePath = filePath.replaceAll(replacer[0], replacer[1]);
         }
 
         for (const replacer of SPECIAL_CHAR_REPLACERS) {
-            const tempPath = filePath.split("/");
-            for (let i = 2; i < (replacer[0] === "." && ignoreLastPeriod ? tempPath.length - 1 : tempPath.length); i++) {
-                tempPath[i] = tempPath[i].replaceAll(replacer[0], replacer[1]);
-            }
-            filePath = tempPath.join("/");
+            filePath = filePath.replaceAll(replacer[0], replacer[1]);
         }
 
         if (fs.existsSync(filePath) && fs.lstatSync(filePath).isDirectory()) {
@@ -191,7 +194,7 @@ export default class WebServer {
     }
 
     async processFilePath(filePath, contentType, request, response) {
-        console.log("Serving: " + filePath);
+        console.info("Serving: " + filePath);
 
         if (!filePath.includes(".")) {
             const pageData = await this.wikiParser.generatePageData(filePath);
@@ -206,6 +209,21 @@ export default class WebServer {
                     response.end(content, "utf-8");
                 }
             });
+        }
+    }
+
+    async prerenderPages(directory) {
+        const pages = fs.readdirSync(directory);
+        for (const page of pages) {
+            if (fs.lstatSync(`${directory}/${page}`).isDirectory()) {
+                if (page !== page.toLowerCase()) {
+                    this.prerenderPages(`${directory}/${page}`);
+                }
+                continue;
+            }
+            let pagePath = directory + "/" + page;
+            pagePath = pagePath.replace("./data/", "/wiki/").replace(".wikitext", "");
+            await this.wikiParser.generatePageData(pagePath);
         }
     }
 
@@ -227,14 +245,14 @@ export default class WebServer {
         for (let i = 0; i < fileArr.length; i++) {
             if (!fileArr[i]) continue;
             if (!jsonObject) {
-                console.log("Error: " + filePath + " not found in file structure");
+                console.warn("Error: " + filePath + " not found in file structure");
                 return null;
             }
             if (!jsonObject.children) return jsonObject.id;
             jsonObject = jsonObject.children[fileArr[i]];
         }
         if (!jsonObject) {
-            console.log("Error: " + filePath + " not found in file structure");
+            console.warn("Error: " + filePath + " not found in file structure");
             return null;
         }
         return `https://drive.usercontent.google.com/download?id=${jsonObject.id}&export=download&authuser=0`;

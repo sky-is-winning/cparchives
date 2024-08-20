@@ -1,0 +1,28 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Puffle Rescue|Puffle Rescue]]''
+
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|bootstrap||[[Media:GamesPuffleRescueBootstrap.swf|All]]
+|-
+|cave intro||[[Media:GamesPuffleRescueCaveIntro.swf|All]]
+|-
+|cave levels music||[[Media:Music120.swf|All]]
+|-
+|ice intro||[[Media:GamesPuffleRescueIceIntro.swf|All]]
+|-
+|ice levels music||[[Media:Music119.swf|All]]
+|-
+|locale||[[Media:GamesPuffleRescueLangENLocale.swf|English]]<br>[[Media:GamesPuffleRescueLangPTLocale.swf|Portuguese]]<br>[[Media:GamesPuffleRescueLangFRLocale.swf|French]]<br>[[Media:GamesPuffleRescueLangESLocale.swf|Spanish]]<br>[[Media:GamesPuffleRescueLangDELocale.swf|German]]<br>[[Media:GamesPuffleRescueLangRULocale.swf|Russian]]
+|-
+|logo||[[Media:GamesPuffleRescueLangENLogo.swf|English]]<br>[[Media:GamesPuffleRescueLangPTLogo.swf|Portuguese]]<br>[[Media:GamesPuffleRescueLangFRLogo.swf|French]]<br>[[Media:GamesPuffleRescueLangESLogo.swf|Spanish]]<br>[[Media:GamesPuffleRescueLangDELogo.swf|German]]<br>[[Media:GamesPuffleRescueLangRULogo.swf|Russian]]
+|-
+|Main||[[Media:GamesPuffleRescueMain.swf|All]]
+|-
+|underwater intro||[[Media:GamesPuffleRescueUnderwaterIntro.swf|All]]
+|-
+|underwater levels music||[[Media:Music121.swf|All]]
+|}
+</center>

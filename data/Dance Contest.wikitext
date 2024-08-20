@@ -1,0 +1,14 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Dance Contest|Dance Contest]]''
+
+*[[Media:GamesDancingDance.swf|Dance]]
+*[[Media:GamesDancingEnLocale.swf|English Locale]]
+*[[Media:GamesDancingPtLocale.swf|Portuguese Locale]]
+*[[Media:GamesDancingFrLocale.swf|French Locale]]
+*[[Media:GamesDancingEsLocale.swf|Spanish Locale]]
+*[[Media:GamesDancingDeLocale.swf|German Locale]]
+*[[Media:GamesDancingSongsSongData1.swf|Song Data 1]]
+*[[Media:GamesDancingSongsSongData2.swf|Song Data 2]]
+*[[Media:GamesDancingSongsSongData3.swf|Song Data 3]]
+*[[Media:GamesDancingSongsSongData4.swf|Song Data 4]]
+*[[Media:GamesDancingSongsSongData5.swf|Song Data 5]]
+*[[Media:GamesDancingSongsSongData6.swf|Song Data 6]]

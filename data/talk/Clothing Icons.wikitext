@@ -1,0 +1,15 @@
+*I believe that we can organize this page and make it neater by adding collapsible galleries for every 5000 icons (or so). However mario and everyone else, please work on making the actual list before adding collapsible galleries because the actual content is more important than the "decoration", so-to-speak. <big><font face="comic sans ms">[[User:Cp kid|<span style="color:blue;background:black">'' Cp kid ''</span>]]</font>[[User talk:Cp kid|<span style="color:lime;background:blue">'' Let's talk! ''</span>]] </big> 05:27, 12 September 2013 (UTC)
+
+== Subpages ==
+
+now, that I finished the list, I think that the page should be split into sub-pages - every level 2 headline (remember, that there are no level 1 headlines), because it takes like 30 seconds for the server to process the edit.  {{user:Misabr/sig2}} 19:44, 3 April 2015 (UTC)
+To add up my idea, I think it should look like this:
+:[[Clothing Icons/1-4,999|1 - 4,999]]
+:[[Clothing Icons/5,000-9,999|5,000 - 9,999]]
+:[[Clothing Icons/10,000-14,999|10,000 - 14,999]]
+:[[Clothing Icons/15,000-19,999|15,000 - 19,999]]
+:[[Clothing Icons/20,000-99,999|20,000 - 99,999]]
+: {{user:Misabr/sig2}} 23:06, 3 April 2015 (UTC)
+
+'''Why wasn't your bot a thing in 2012/2013 '-'''' Actually though, that seems like it might be a good idea, since the page is ''gigantic'' now. ''<big><font face="trebuchet ms">[[User:Cp kid|<span style="color:red">C</span>]][[User talk:Cp kid|<span style="color:blue">K</span>]]</font></big>'' 23:56, 3 April 2015 (UTC)
+There weren't those noob friendly bot tools... I'm gonna do the thing I suggested, if people will not like it, we can discuss it here  {{user:Misabr/sig2}} 00:46, 4 April 2015 (UTC)

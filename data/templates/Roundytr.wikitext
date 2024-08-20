@@ -1,0 +1,1 @@
+border-top-right-radius: {{{1|10px}}}; -moz-border-radius-topright: {{{1|10px}}}; -webkit-border-top-right-radius: {{{1|10px}}}; -khtml-border-top-right-radius: {{{1|10px}}}; -icab-border-top-right-radius: {{{1|10px}}}; -o-border-top-right-radius: {{{1|10px}}};<noinclude>[[Category:Templates]]</noinclude>

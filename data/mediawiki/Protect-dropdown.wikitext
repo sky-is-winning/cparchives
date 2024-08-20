@@ -1,0 +1,11 @@
+*Common protection reasons
+** Excessive vandalism
+** Excessive spamming
+** High traffic page
+** Counter-productive edit warring (Edit War)
+*Archiving reasons
+** Vote or discussion has ended
+** Archived or historical page
+*Creation protection reasons
+** Excessive re-creation
+** Preventing re-creation

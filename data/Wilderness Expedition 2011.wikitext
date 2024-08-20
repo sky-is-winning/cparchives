@@ -1,0 +1,53 @@
+{{CPW|Wilderness Expedition}}
+
+==Rooms==
+*[[Media:WildernessExpeditionParty12.swf|Bay]]
+*[[Media:WildernessExpeditionParty13.swf|Brown Puffle Cave]]
+*[[Media:RoomsParty13-WildernessExpedition.swf|Brown Puffle Cave (alt)]]
+*[[Media:WildernessExpeditionParty10.swf|Cliff]]
+*[[Media:RoomsParty10-WildernessExpedition.swf|Cliff (alt)]]
+*[[Media:RoomsCove-WildernessExpedition.swf|Cove]]
+*[[Media:RoomsDock-WildernessExpedition.swf|Dock]]
+*[[Media:WildernessExpeditionParty1.swf|Glade]]
+*[[Media:WildernessExpeditionPlaza.swf|Plaza]]
+*[[Media:WildernessExpeditionParty11.swf|Shore]]
+*[[Media:RoomsParty11-WildernessExpedition.swf|Shore (alt)]]
+*[[Media:RoomsTown-WildernessExpedition.swf|Town]]
+*[[Media:WildernessExpeditionParty2.swf|Wilderness (1)]]
+*[[Media:WildernessExpeditionParty3.swf|Wilderness (2)]]
+*[[Media:WildernessExpeditionParty4.swf|Wilderness (3)]]
+*[[Media:WildernessExpeditionParty5.swf|Wilderness (4)]]
+*[[Media:WildernessExpeditionParty6.swf|Wilderness (5)]]
+*[[Media:WildernessExpeditionParty7.swf|Wilderness (6)]]
+*[[Media:WildernessExpeditionParty8.swf|Wilderness (7)]]
+*[[Media:WildernessExpeditionParty9.swf|Wilderness (lost)]]
+
+==Music==
+*[[Media:Music304.swf|Glade and Bay]]
+*[[Media:Music303.swf|Maze]]
+*[[Media:Music302.swf|Cliff]]
+*[[Media:Music306.swf|Shore]]
+*[[Media:Music305.swf|Brown Puffle Cave]]
+
+==Party notes==
+*[[Media:WildernessExpeditionPoster.swf|Poster]]
+*[[Media:WildernessExpeditionPartyNote01.swf‎|Party Note 1]]
+*[[Media:WildernessExpeditionPartyNote02.swf|Party Note 2]]
+*[[Media:WildernessExpeditionPartyNote03.swf|Party Note 3]]
+*[[Media:WildernessExpeditionPartyNote04.swf|Party Note 4]]
+*[[Media:WildernessExpeditionPartyNote05.swf|Party Note 5]]
+
+==Membership notices==
+*[[Media:WildernessExpeditionMembershipParty1.swf|Membership Party 1]]
+*[[Media:WildernessExpeditionMembershipParty2.swf|Membership Party 2]]
+
+==Catalogs==
+*[[Media:PartyCatalogWildernessExpedition.swf|Party Catalog]]
+
+==Login Screens==
+*[[Media:LoginWildernessExpedition.swf|Login Screen #1]]
+*[[Media:LoginWildernessExpedition2.swf|Login Screen #2]]
+
+{{Parties}}
+
+[[Category:Parties of 2011]]

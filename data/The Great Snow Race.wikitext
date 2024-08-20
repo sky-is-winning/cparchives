@@ -1,0 +1,35 @@
+''Club Penguin Wiki article:[[clubpenguinwiki:The Great Snow Race|The Great Snow Race]]''
+==Rooms==
+===Construction===
+*[[Media:TheGreatSnowRaceConstVillage.swf|Ski Village]]
+===Party===
+*[[Media:TheGreatSnowRaceParty3.swf|Base Camp]]
+*[[Media:TheGreatSnowRaceParty10.swf|Classified Area]]
+*[[Media:TheGreatSnowRaceParty6.swf|Ice Cave]]
+*[[Media:TheGreatSnowRaceParty2.swf|Ice Race Cavern]]
+*[[Media:TheGreatSnowRaceParty7.swf|Laser Maze (1)]]
+*[[Media:TheGreatSnowRaceParty8.swf|Laser Maze (2)]]
+*[[Media:TheGreatSnowRaceParty9.swf|Laser Maze (3)]]
+*[[Media:TheGreatSnowRaceParty4.swf|Mountain (party room)]]
+*[[Media:TheGreatSnowRaceParty5.swf|Mountain Top]]
+*[[Media:TheGreatSnowRacePlaza.swf|Plaza]]
+*[[Media:TheGreatSnowRaceVillage.swf|Ski Village]]
+*[[Media:TheGreatSnowRaceParty1.swf|Supply Camp]]
+*[[Media:RoomsTown-GreatSnowRace.swf|Town]]
+
+==Music==
+*[[Media:Music294.swf|Ice Race Cavern]]
+*[[Media:Music295.swf|Base Camp and Mountain]]
+*[[Media:Music256.swf|Cave]]
+
+==Catalog==
+*[[Media:TheGreatSnowRaceCatalogParty.swf|Catalog Party]]
+
+==Poster==
+*[[Media:TheGreatSnowRacePoster.swf|Poster]]
+
+==Map note==
+*[[Media:TheGreatSnowRaceParty map note.swf|Party map note]]
+{{Parties}}
+
+[[Category:Parties of 2011]]

@@ -1,0 +1,10 @@
+==Current==
+{| class="wikitable sortable plainlinks"
+! File Name
+! JSON
+! JSONP
+|-
+| stage_script_messages || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/stage_script_messages.json en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/stage_script_messages.json pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/stage_script_messages.json fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/stage_script_messages.json es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/stage_script_messages.json de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/stage_script_messages.json ru] || [http://cdn.clubpenguin.com/play/en/web_service/game_configs/stage_script_messages.jsonp en] {{·}} [http://cdn.clubpenguin.com/play/pt/web_service/game_configs/stage_script_messages.jsonp pt] {{·}} [http://cdn.clubpenguin.com/play/fr/web_service/game_configs/stage_script_messages.jsonp fr] {{·}} [http://cdn.clubpenguin.com/play/es/web_service/game_configs/stage_script_messages.jsonp es] {{·}} [http://cdn.clubpenguin.com/play/de/web_service/game_configs/stage_script_messages.jsonp de] {{·}} [http://cdn.clubpenguin.com/play/ru/web_service/game_configs/stage_script_messages.jsonp ru]
+|}
+==2015==
+{{2015GameConfigs|title=stage_script_messages}}

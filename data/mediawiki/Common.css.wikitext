@@ -1,0 +1,600 @@
+
+-----
+
+
+/*** Mark redirects in Special:Allpages und Special:Watchlist ***/
+ 
+.allpagesredirect {
+     font-style: italic;
+}
+ 
+.watchlistredir {
+     font-style: italic;
+}
+
+/*** Wikia template compat ***/
+
+.accent
+{
+background-color: #A6BFFF;
+}
+.color1
+{
+background-color: #0B6BF0;
+}
+
+/* </pre> */
+
+table.navbox { /* Navbox container style */ 
+
+ border: 1px solid #aaa;
+ width: 100%; 
+ margin: auto;
+ clear: both;
+ font-size: 88%;
+ text-align: center;
+ padding: 1px;
+} table.navbox + table.navbox { /* Single pixel border between adjacent navboxes */ 
+
+ margin-top: -1px;            /* (doesn't work for IE6, but that's okay)       */
+} .navbox-title, .navbox-abovebelow, table.navbox th { 
+
+ text-align: center;      /* Title and above/below styles */
+ padding-left: 1em;
+ padding-right: 1em;
+} .navbox-group { /* Group style */ 
+
+ white-space: nowrap;
+ text-align: right;
+ font-weight: bold;
+ padding-left: 1em;
+ padding-right: 1em;
+} .navbox, .navbox-subgroup { 
+
+ background: #fdfdfd;     /* Background color */
+} .navbox-list { 
+
+ border-color: #fdfdfd;   /* Must match background color */
+} .navbox-abovebelow, .navbox-group, .navbox-subgroup .navbox-title { 
+
+ /** no bg for you **/     /* Level 2 color */
+} .navbox-subgroup .navbox-group, .navbox-subgroup .navbox-abovebelow { 
+
+ background: #e6e6ff;     /* Level 3 color */
+} .navbox-even { 
+
+ background: #f7f7f7;     /* Even row striping */
+} .navbox-odd { 
+
+ background: transparent; /* Odd row striping */
+} 
+
+.collapseButton { /* 'show'/'hide' buttons created dynamically */ 
+
+   float: right;          /* by the CollapsibleTables javascript in    */
+   font-weight: normal;   /* MediaWiki:Common.jsare styled here    */
+   text-align: right;     /* so they can be customised.                */
+   width: auto;
+} .navbox .collapseButton { /* In navboxes, the show/hide button balances */ 
+
+   width: 6em;            /* the vde links from Template:Tnavbar,   */
+} /* so they need to be the same width. */ 
+.navbox-abovebelow
+{
+background-color:#FFDBAE !important;
+}
+
+/* Infobox template style */ .infobox { 
+
+   border: 1px solid #aaa;
+   background-color: #f9f9f9;
+   color: black;
+   margin: 0.5em 0 0.5em 1em;
+   padding: 0.2em;
+   float: right;
+   clear: right;
+} .infobox td, .infobox th { 
+
+   vertical-align: top;
+} .infobox caption { 
+
+   font-size: larger;
+} .infobox.bordered { 
+
+   border-collapse: collapse;
+} .infobox.bordered td, .infobox.bordered th { 
+
+   border: 1px solid #aaa;
+} .infobox.bordered .borderless td, .infobox.bordered .borderless th { 
+
+   border: 0;
+} 
+
+.infobox.sisterproject { 
+
+   width: 20em;
+   font-size: 90%;
+} 
+
+.infobox.standard-talk { 
+
+   border: 1px solid #c0c090;
+   background-color: #f8eaba;
+} .infobox.standard-talk.bordered td, .infobox.standard-talk.bordered th { 
+
+   border: 1px solid #c0c090;
+} 
+
+/* styles for bordered infobox with merged rows */ .infobox.bordered .mergedtoprow td, .infobox.bordered .mergedtoprow th { 
+
+   border: 0;
+   border-top: 1px solid #aaa;
+   border-right: 1px solid #aaa;
+} 
+
+.infobox.bordered .mergedrow td, .infobox.bordered .mergedrow th { 
+
+   border: 0;
+   border-right: 1px solid #aaa;
+} 
+
+/* Styles for geography infoboxes, eg countries, 
+
+  country subdivisions, cities, etc.            */
+.infobox.geography { 
+
+   text-align: left;
+   border-collapse: collapse;
+   line-height: 1.2em; 
+   font-size: 90%;
+} 
+
+.infobox.geography td, .infobox.geography th { 
+
+   border-top: solid 1px #aaa;
+   padding: 0.4em 0.6em 0.4em 0.6em;
+} .infobox.geography .mergedtoprow td, .infobox.geography .mergedtoprow th { 
+
+   border-top: solid 1px #aaa;
+   padding: 0.4em 0.6em 0.2em 0.6em;
+} 
+
+.infobox.geography .mergedrow td, .infobox.geography .mergedrow th { 
+
+   border: 0;
+   padding: 0 0.6em 0.2em 0.6em;
+} 
+
+.infobox.geography .mergedbottomrow td, .infobox.geography .mergedbottomrow th { 
+
+   border-top: 0;
+   border-bottom: solid 1px #aaa;
+   padding: 0 0.6em 0.4em 0.6em;
+} 
+
+.infobox.geography .maptable td, .infobox.geography .maptable th { 
+
+   border: 0;
+   padding: 0;
+}
+
+/* Article message box styles */ table.ambox { 
+
+   margin: 0px 10%;   /* 10% = Will not overlap with other elements */
+   border: 1px solid #aaa; 
+   border-left: 10px solid #1e90ff;    /* Default "notice" blue */
+   background: #fbfbfb; 
+} table.ambox + table.ambox { /* Single border between stacked boxes. */ 
+
+   margin-top: -1px;
+} .ambox th.mbox-text, .ambox td.mbox-text { /* The message body cell(s) */ 
+
+   padding: 0.25em 0.5em;       /* 0.5em left/right */
+} .ambox td.mbox-image { /* The left image cell */ 
+
+   padding: 2px 0 2px 0.5em;    /* 0.5em left, 0px right */
+} .ambox td.mbox-imageright { /* The right image cell */ 
+
+   padding: 2px 0.5em 2px 0;    /* 0px left, 0.5em right */
+} 
+
+table.ambox-notice { 
+
+   border-left: 10px solid #1e90ff;    /* Blue */
+} table.ambox-speedy { 
+
+   border-left: 10px solid #b22222;    /* Red */
+   background: #fee;                   /* Pink */
+} table.ambox-delete { 
+
+   border-left: 10px solid #b22222;    /* Red */
+} table.ambox-content { 
+
+   border-left: 10px solid #f28500;    /* Orange */
+} table.ambox-style { 
+
+   border-left: 10px solid #f4c430;    /* Yellow */
+} table.ambox-move { 
+
+   border-left: 10px solid #9932cc;    /* Purple */
+} table.ambox-protection { 
+
+   border-left: 10px solid #bba;       /* Gray-gold */
+}
+
+/* Other pages message box styles */ table.ombox {     margin: 4px 10%;      border-collapse: collapse;      border: 1px solid #aaa;       /* Default "notice" gray */     background: #f9f9f9; } Â  table.ombox-notice {     border: 1px solid #aaa;       /* Gray */ } table.ombox-speedy {     border: 2px solid #b22222;    /* Red */     background: #fee;             /* Pink */ } table.ombox-delete {     border: 2px solid #b22222;    /* Red */ } table.ombox-content {     border: 1px solid #f28500;    /* Orange */ } table.ombox-style {     border: 1px solid #f4c430;    /* Yellow */ } table.ombox-move {     border: 1px solid #9932cc;    /* Purple */ } table.ombox-protection {     border: 2px solid #bba;       /* Gray-gold */ }
+
+
+/* Talk page message box styles */
+table.tmbox {
+    margin: 4px 10%;
+    border-collapse: collapse;
+    border: 1px solid #c0c090;    /* Default "notice" gray-brown */
+    background: #f8eaba;
+}
+.mediawiki .mbox-inside .tmbox { /* For tmboxes inside other templates. The "mediawiki" class ensures that */
+    margin: 2px 0;               /* this declaration overrides other styles (including mbox-small above)   */
+    width: 100%;                 /* For Safari and Opera */
+}
+.mbox-inside .tmbox.mbox-small { /* "small" tmboxes should not be small when  */
+    line-height: 1.5em;          /* also "nested", so reset styles that are   */   
+    font-size: 100%;             /* set in "mbox-small" above.                */
+}
+ 
+table.tmbox-speedy {
+    border: 2px solid #b22222;    /* Red */
+    background: #fee;             /* Pink */
+}
+table.tmbox-delete {
+    border: 2px solid #b22222;    /* Red */
+}
+table.tmbox-content {
+    border: 2px solid #f28500;    /* Orange */
+}
+table.tmbox-style {
+    border: 2px solid #f4c430;    /* Yellow */
+}
+table.tmbox-move {
+    border: 2px solid #9932cc;    /* Purple */
+}
+table.tmbox-protection,
+table.tmbox-notice {
+    border: 1px solid #c0c090;    /* Gray-brown */
+}
+
+/* MAINPAGE BACKGROUND CLASSES */
+.mainred{
+  background: url('//www.clubpenguinwiki.info/static/images/www/2/24/WikiRed.png') ;
+}
+.mainorange{
+  background: url('//www.clubpenguinwiki.info/static/images/www/f/f0/WikiOrange.png') ;
+}
+.mainyellow{
+  background: url('//www.clubpenguinwiki.info/static/images/www/a/aa/WikiYellow.png') ;
+}
+.mainlightgreen{
+  background: url('//www.clubpenguinwiki.info/static/images/www/8/83/WikiLightGreen.png') ;
+}
+.maindarkgreen{
+  background: url('//www.clubpenguinwiki.info/static/images/www/3/32/WikiDarkGreen.png') ;
+}
+.mainlightblue{
+  background: url('//www.clubpenguinwiki.info/static/images/www/b/b2/WikiLightBlue.png') ;
+}
+.maindarkblue{
+  background: url('//www.clubpenguinwiki.info/static/images/www/7/79/WikiDarkBlue.png') ;
+}
+.mainpurple{
+  background: url('//www.clubpenguinwiki.info/static/images/www/e/e5/WikiPurple.png') ;
+}
+.mainblack{
+  background: url('//www.clubpenguinwiki.info/static/images/www/7/72/WikiBlack.png') ;
+}
+.mainwhite{
+  background: url('//www.clubpenguinwiki.info/static/images/www/7/76/WikiWhite.png') ;
+}
+
+.ns-subject.page-Club_Penguin_Wiki #firstHeading
+{
+display: none !important;
+}
+
+/*--HILITED USERNAMES LIST--*/
+
+/*--ADMINISTRATORS--*/
+
+table.diff a[href="/wiki/User:Mario_Rk"], 
+ul#pagehistory li a[href="/wiki/User:Mario_Rk"], 
+body.ns-0 a[href="/wiki/User:Mario_Rk"],
+body.ns-500 a[href="/wiki/User:Mario_Rk"],
+body.ns-501 a[href="/wiki/User:Mario_Rk"],
+body.ns--1 a[href="/wiki/User:Mario_Rk"] { color: red; font-weight:bold; }
+
+/*----NETWORK STAFF----*/
+
+table.diff a[href="/wiki/User:Tux"], 
+ul#pagehistory li a[href="/wiki/User:Tux"], 
+body.ns-0 a[href="/wiki/User:Tux"],
+body.ns-500 a[href="/wiki/User:Tux"],
+body.ns-501 a[href="/wiki/User:Tux"],
+body.ns--1 a[href="/wiki/User:Tux"] { color: darkgreen; font-weight:bold; }
+
+table.diff a[href="/wiki/User:Seahorseruler"], 
+ul#pagehistory li a[href="/wiki/User:Seahorseruler"], 
+body.ns-0 a[href="/wiki/User:Seahorseruler"],
+body.ns-500 a[href="/wiki/User:Seahorseruler"],
+body.ns-501 a[href="/wiki/User:Seahorseruler"],
+body.ns--1 a[href="/wiki/User:Seahorseruler"] { color: darkgreen; font-weight:bold; }
+
+table.diff a[href="/wiki/User:Tigernose"], 
+ul#pagehistory li a[href="/wiki/User:Tigernose"], 
+body.ns-0 a[href="/wiki/User:Tigernose"],
+body.ns-500 a[href="/wiki/User:Tigernose"],
+body.ns-501 a[href="/wiki/User:Tigernose"],
+body.ns--1 a[href="/wiki/User:Tigernose"] { color: darkgreen; font-weight:bold; }
+
+table.diff a[href="/wiki/User:Hat_Pop"], 
+ul#pagehistory li a[href="/wiki/User:Hat_Pop"], 
+body.ns-0 a[href="/wiki/User:Hat_Pop"],
+body.ns-500 a[href="/wiki/User:Hat_Pop"],
+body.ns-501 a[href="/wiki/User:Hat_Pop"],
+body.ns--1 a[href="/wiki/User:Hat_Pop"] { color: darkgreen; font-weight:bold; }
+
+table.diff a[href="/wiki/User:Refractor"], 
+ul#pagehistory li a[href="/wiki/User:Refractor"], 
+body.ns-0 a[href="/wiki/User:Refractor"],
+body.ns-500 a[href="/wiki/User:Refractor"],
+body.ns-501 a[href="/wiki/User:Refractor"],
+body.ns--1 a[href="/wiki/User:Refractor"] { color: darkgreen; font-weight:bold; }
+
+table.diff a[href="/wiki/User:Sharkbate"], 
+ul#pagehistory li a[href="/wiki/User:Sharkbate"], 
+body.ns-0 a[href="/wiki/User:Sharkbate"],
+body.ns-500 a[href="/wiki/User:Sharkbate"],
+body.ns-501 a[href="/wiki/User:Sharkbate"],
+body.ns--1 a[href="/wiki/User:Sharkbate"] { color: darkgreen; font-weight:bold; }
+
+table.diff a[href="/wiki/User:Wonderweez"], 
+ul#pagehistory li a[href="/wiki/User:Wonderweez"], 
+body.ns-0 a[href="/wiki/User:Wonderweez"],
+body.ns-500 a[href="/wiki/User:Wonderweez"],
+body.ns-501 a[href="/wiki/User:Wonderweez"],
+body.ns--1 a[href="/wiki/User:Wonderweez"] { color: darkgreen; font-weight:bold; }
+
+/* for title template */
+#title-override  {
+left: 0px !important;
+font-weight: bold !important;
+background: #f4f8ff !important;
+}
+
+/* Display text below main article header, located at MediaWiki:tagline */
+#siteSub {
+    display: inline;
+    font-size: 70%;
+    font-style: italic;
+}
+
+li#pt-userpage, li#pt-anonuserpage, li#pt-login
+{
+	background: url(//www.clubpenguinwiki.info/static/images/clubpenguinwiki/1/1d/16px-Tux-G2.png) top left no-repeat;
+}
+
+.ns-subject.page-Main_Page #firstHeading, #siteSub { display: none !important; }
+body.page-Página_principal h1.firstHeading { display: none; }
+
+li#pt-login { padding-left: 15px; }
+
+/*  Sidebar  */
+#mw-panel #p-navigation h3 {
+    height: 21px;
+    width: 100px;
+    margin-left: 20px;
+    background: url("//archives.clubpenguinwiki.info/static/images/archives/1/1a/P-navigation.png") no-repeat scroll left top transparent;
+    font-size: 1px;
+    color: transparent;
+}
+ 
+#mw-panel #p-Community h3 {
+    height: 21px;
+    width: 100px;
+    margin-left: 20px;
+    background: url("//archives.clubpenguinwiki.info/static/images/archives/8/8d/P-community.png") no-repeat scroll left top transparent;
+    font-size: 1px;
+    color: transparent;
+}
+ 
+#mw-panel #p-tb h3 {
+    height: 21px;
+    width: 100px;
+    margin-left: 20px;
+    background: url("//archives.clubpenguinwiki.info/static/images/archives/1/15/P-tb.png") no-repeat scroll left top transparent;
+    font-size: 1px;
+    color: transparent;
+}
+ 
+#mw-panel #p-Ads h3 {
+    height: 21px;
+    width: 130px;
+    margin-left: 20px;
+    background: url("//archives.clubpenguinwiki.info/static/images/archives/f/fe/P-ads.png") no-repeat scroll left top transparent;
+    font-size: 1px;
+    color: transparent;
+}
+
+/* MAIN PAGE */
+
+.mainpage-wrapper {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	    -ms-flex-flow: row wrap;
+	        flex-flow: row wrap;
+}
+.mainpage-wrapper > *, .mainpage-banner-links {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1 100%;
+	    -ms-flex: 1 100%;
+	        flex: 1 100%;
+}
+
+.mainpage-banner-logo {
+	margin: 0.1em 0.5em;
+}
+
+@media all and (min-width: 800px) {
+	.mainpage-right {
+		-webkit-box-flex: 6;
+		-webkit-flex: 6 1 0px;
+		    -ms-flex: 6 1 0px;
+		        flex: 6 1 0px;
+		margin-right: 0.5em;
+	}
+
+	.mainpage-left {
+		-webkit-box-flex: 4;
+		-webkit-flex: 4 1 0px;
+		    -ms-flex: 4 1 0px;
+		        flex: 4 1 0px;
+	}
+	.mainpage-banner-title {
+		-webkit-box-flex: 5;
+		-webkit-flex: 5 1 0px;
+		    -ms-flex: 5 1 0px;
+		        flex: 5 1 0px;
+	}
+	.mainpage-banner-links {
+		-webkit-box-flex: 4;
+		-webkit-flex: 4 1 0px;
+		    -ms-flex: 4 1 0px;
+		        flex: 4 1 0px;
+	}
+}
+
+.mainpage-left, .mainpage-right {
+	border: 1px solid #ffe0e0;
+	background: #fffafa;
+	vertical-align: top;
+	color: #000;
+	border-radius: 5px;
+}
+
+.mainpage-box {
+	padding: 2px;
+}
+
+.mainpage-box-heading {
+	margin: 3px;
+	font-size: 120%;
+	font-weight: bold;
+	border: 1px solid #ffe0e0;
+	text-align: left;
+	color: #FFF;
+	background-color: #f23f33;
+	padding: 0.2em 0.4em;
+	border-radius: 5px;
+}
+
+.mainpage-footer .mainpage-box {
+	background: #E8FFE7;
+}
+.mainpage-footer .mainpage-box-heading {
+	border: 1px solid #7AE275;
+	text-align: left;
+	background-color: #7AE275;
+}
+
+.mainpage-box-content {
+	color: #000;
+	padding: 2px 5px 5px;
+}
+
+
+.mainpage-banner {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	    -ms-flex-flow: row wrap;
+	        flex-flow: row wrap;
+	background: #f9f9f9;
+	margin: 1.2em 0 8px 0;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+
+
+
+.mainpage-banner-title {
+	color: #000;
+}
+.mainpage-banner-title p {
+	line-height: 1em;
+}
+.mainpage-banner-title-welcome {
+	font-size: 1.5em;
+}
+.mainpage-banner-title-motto {
+	font-style: italic;
+}
+
+.mainpage-banner-title-articles {
+	font-size: .8em;
+}
+
+.mainpage-banner-links, .mainpage-explore-links {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	/*flex-flow: row wrap;*/
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+
+
+.mainpage-banner-links-link, .mainpage-explore-links-link {
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align: center;
+}
+.mainpage-banner-links-link a + a, .mainpage-explore-links-link a + a {
+	display: block;
+}
+
+.mainpage-notice {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	    -ms-flex-flow: row wrap;
+	        flex-flow: row wrap;
+	background: #F7BE81;
+	margin: 0.5em 0 3px 0;
+	border: 1px solid #df7401;
+	border-radius: 5px;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+
+.mainpage-cpwn {
+	font-variant: small-caps;
+	text-align: center;
+}
+
+/* END MAINPAGE */

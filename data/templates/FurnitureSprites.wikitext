@@ -1,0 +1,8 @@
+<center>
+{| width="50%" align="center" style="background: #00BFFF; border: #0080FF 3px solid; {{roundy|20px}}"
+|- align="center"
+| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:Furniture.png|30px|link=]]
+|<big><big>This file is an in-game furniture sprite.</big></big><br><small>This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</small>
+|}</center>
+<includeonly>[[Category:In-game Furniture Sprites]]</includeonly>
+<noinclude>[[Category:Templates]]</noinclude>

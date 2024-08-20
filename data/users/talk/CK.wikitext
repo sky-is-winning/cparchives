@@ -1,0 +1,259 @@
+Hi CP Kid,<br/>
+I saw you requested uploader user right. If you get it, you can save an SWF by opening the file (in this case, Club Penguin's SWF file), click '''Ctrl+S''', and i recommend saving it to your desktop or another file that will be easy to find later when uploading the file to the wiki.<br/>
+P.S. if you can't click '''Ctrl+S''', try to click the URL bar and then try again.<br/>
+[[user:Penguin-Pal|<font color="0e92cf">Penguin-Pal</font>]] [[user talk:Penguin-Pal|<font color="2e47aa">(talk)</font>]] 11:47, 9 July 2012 (UTC)
+
+==How to find files+ List==
+The best thing to do is to open a new tab, and in the URL bar type in '''about:cache''' When you enter CP, if you refresh the '''about:cache''' ticket, it will show you the recent files opened in your computer. if you open  a catalog, for example, it will show you the catalog's swf. same with clothing items when you open your player card (the item's "icons" and "paper" swf) or when you enter a room ("sprites" swf files). It also shows music swf.<br/>
+When you click the recent links in your cache, it will probably give you a link like this:
+*'''<nowiki>chrome://view-http-cache/http://media1.clubpenguin.com/play/v2/content/global/clothing/icons/1341.swf</nowiki>'''
+This URL contains extra parts, so you can simply remove them (marked in bold):
+*'''<nowiki>chrome://view-http-cache/</nowiki>'''<nowiki>http://media1.clubpenguin.com/play/v2/content/global/clothing/icons/1341.swf</nowiki>
+So it will look like this:
+*<nowiki>http://media1.clubpenguin.com/play/v2/content/global/clothing/icons/1341.swf</nowiki>
+I also added a short list of some swf:
+*[http://media1.clubpenguin.com/play/v2/content/global/clothing/icons/1341.swf Clothing items (icons)]
+*[http://media1.clubpenguin.com/play/v2/content/global/clothing/sprites/1341.swf Clothing items (sprites)]
+*[http://media1.clubpenguin.com/play/v2/content/global/clothing/paper/1341.swf Clothing items (paper)]
+*[http://media1.clubpenguin.com/play/v2/content/local/en/catalogues/clothing.swf Catalog (penguin style)]
+*[http://media1.clubpenguin.com/play/v2/content/global//music/1.swf Music (coffee shop)]
+You can also find more swf [http://clubpenguin.wikia.com/wiki/.swf here].<Br/>
+[[user:Penguin-Pal|<font color="0e92cf">Penguin-Pal</font>]] [[user talk:Penguin-Pal|<font color="2e47aa">(talk)</font>]] 20:03, 9 July 2012 (UTC)
+
+== Clothing Icons ==
+
+Hey I would like to help complete the [[Clothing Icons]] page but I need some directions lol.
+
+-[[User:1998drpepper|'''<span style="color:#00deff;background:#000000">1998drpepper</span>''']] <small>[[User Talk:1998drpepper|'''<span style="color:#a969ff;background:#000000">The Fair is in the air!</span>''']]</small> 23:43, 23 September 2012 (UTC)
+
+== Item Names ==
+
+How do I find what the item name and id is?
+-[[User:1998drpepper|'''<span style="color:#00deff;background:#000000">1998drpepper</span>''']] <small>[[User Talk:1998drpepper|'''<span style="color:#a969ff;background:#000000">The Fair is in the air!</span>''']]</small> 00:13, 24 September 2012 (UTC)
+
+==Oh==
+Thanks :)<br/>
+[[user:Penguin-Pal|<font color="0e92cf">Penguin-Pal</font>]] [[user talk:Penguin-Pal|<font color="2e47aa">(talk)</font>]] 05:41, 11 October 2012 (UTC)
+
+== Misunderstanding? ==
+
+When I asked for SWFs to be moved to the Archives Wiki, I didn't really want the current SWF to be moved as well. I only wanted the old ones moved, or "archived". Now apparently I'm looking for the current CP Town SWF from clubpenguin.com and it's on neither wiki. This is a major inconvenience and could cost the CPW in some traffic. --[[File:FlagCanada.svg|20px|border|link=User talk:LordMaster96]]<font face="trebuchet ms">[[User:LordMaster96|<span style="color:#ce1126">Lord</span><span style="color:#002b7f">Master</span><span style="color:#ffd600">96</span>]]</font> 04:37, 15 November 2012 (UTC)
+
+== RE: Newspaper ==
+
+Aww crap!! I'm sorry, I thought that I had done something great... <b>:'(</b>
+
+I apologize for the burdensome duplicity. Can you at link the stuff back onto the [[Operation Blackout]] page like I had it, for the public to view?
+
+(Or, alternately, can you use my version of the SWFs instead of the other guy's paper? I was really proud of finding all of that........)
+
+<br />
+-{{subst:Template:TSSIGNATURE/PERMA-TS}}  {{subst:template:TSSIGNATURE}} 13:13, 19 November 2012 (UTC) <br /> <br />
+
+==Treasure Book==
+Hi CK,<br />
+I noticed you've uploaded the September Treasure Book swf. In case you want to make an article for this, please add [[:File:TreasureBook16.swf|this one]] as well (July 2012 file).<br />
+[[user:Penguin-Pal|<font color="0e92cf">Penguin-Pal</font>]] [[user talk:Penguin-Pal|<font color="2e47aa">(talk)</font>]] 20:21, 21 November 2012 (UTC)
+
+== Saving SWF files ==
+
+So, how would I go about saving a SWF file form the game? --[[User:Imdill3|Imdill3]] ([[User talk:Imdill3|talk]]) 07:06, 26 November 2012 (UTC)
+
+== Room SWFs in different languages. ==
+
+This is pretty complicated stuff you're going to read here. So beware.
+
+First of all, I don't know if you know it or not, but actually, all CP SWFs are in all languages. Some, which have a more severe password, blink the languages, the others do not. However, to achieve the SWFs in only one language, they must be edited, so that you replace all the other languages with one certain language. It's not too easy however, because the older English logos and stuff are all bigger than the newer language logos and stuff.
+
+--<font face="Times New Roman">[[User:Snowstormer|<span style="color:yellow;background:orange">$ṇỗẘ</span>]][[User talk:Snowstormer|<span style="color:cyan;background:orange">$ŧᴼՐṃ</span>]][[Special:Contributions/Cylly1512|<span style="color:navy;background:orange">ȩř</span>]]</font> <sup><-- This signature has an error with encoding.</sup> 07:14, 26 November 2012 (UTC)
+
+== Need help? ==
+
+I've been a bit busy and I'm a little lost on where you guys are right now in terms of progress on this archives. Anything I can pick up on and work on? --[[File:FlagCanada.svg|20px|border|link=User talk:LordMaster96]]<font face="trebuchet ms">[[User:LordMaster96|<span style="color:#ce1126">Lord</span><span style="color:#002b7f">Master</span><span style="color:#ffd600">96</span>]]</font> 08:31, 1 December 2012 (UTC)
+
+== Items List ==
+
+Shouldnt the item list look like [[User talk:1998drpepper/Sandbox|this]]
+its by the example
+
+-{{SUBST:1998drpepper}} 07:08, 3 December 2012 (UTC)
+
+== Hi ==
+
+Hi, I'm emilek27.
+This is my collection of Club Penguin catalogs -
+http://archives.clubpenguinwiki.info/wiki/User:Emilek27
+
+Waddle on ;)
+
+== Logo Fix? ==
+
+I tried to make the Archives look more like the cp logo
+
+<gallery>
+File:ExampleLogo.png
+</gallery>
+
+-{{SUBST:1998drpepper}} 20:27, 24 December 2012 (UTC)
+
+== Help ==
+
+I've got big collection of catalogs files. How to upload this ?
+
+~Emilek27
+==i put in the shadow dojo and now it is gone==
+why is the shadow dojo gone is because it was custom ~eggabooha
+
+== Uhh ==
+
+No they won't always look like that. For one the quest papers in the lobby, and the cannon at the top of the hotel says Members only, so maybe in the future it won't be only for members. Some things CAN change. Just saying.
+
+[[User:Mario Rk|Mario Rk]] <sup><span style="color:; text-shadow:grey 0 4px 4px;">(</span>[[User talk:Mario Rk|<span style="color:; text-shadow:grey 0 4px 4px;">Talk</span>]] <span style="color:; text-shadow:grey 0 4px 4px;">'''<big>·</big>'''</span> [[Special:Contributions/Mario_Rk|<span style="color:; text-shadow:grey 0 4px 4px;">Contributions</span>]]<span style="color:; text-shadow:grey 0 4px 4px;">)</span> 13:28, 24 March 2013 (UTC)
+
+==Table alignment==
+Hi Ck,<br />
+I notice that the wiki deals with multiple table alignments, especially on room articels or pages that contain links of files in different languages.<br />
+Currently the alignment is done using the '''&lt;center&gt;''' element, but in case you'd like a more officiant way for it, you can add to the table a class called '''center''', and add to the [[MediaWiki:Common.css|common.css]] page:
+<pre>
+/* table centering */
+table.center {
+	margin: auto;
+}
+</pre>
+I think it will save you some uneeded extra markup (also the '''&lt;center&gt;''' tag is deprecated).<br />
+[[user:Penguin-Pal|<font color="0e92cf">Penguin-Pal</font>]] [[user talk:Penguin-Pal|<font color="2e47aa">(talk)</font>]] 07:41, 21 June 2013 (UTC)
+
+== Aqua grabber swfs founded ==
+
+I founded 3 aqua grabber swfs.
+
+level1/misc/kraken_1.swf
+
+level1/misc/fluffy_1.swf
+
+level1/misc/mullet_1.swf
+
+User:98.177.220.111 (And create those too)
+
+PS:What is the clam swf for this game is.
+
+== Aqua grabber stuff? ==
+
+You should give me the pink puffle swf. [[User:98.177.220.111]]
+
+== Duplicated Files ==
+
+Why are you categorizing them? We should be deleting them. They're pointless anyway. Who cares if they have "funny" names? Still pointless.
+
+[[User:Mario Rk|Mario Rk]] <sup><span style="color:; text-shadow:grey 0 4px 4px;">(</span>[[User talk:Mario Rk|<span style="color:; text-shadow:grey 0 4px 4px;">T</span>]] <span style="color:; text-shadow:grey 0 4px 4px;">'''<big>·</big>'''</span> [[Special:Contributions/Mario_Rk|<span style="color:; text-shadow:grey 0 4px 4px;">C</span>]]<span style="color:; text-shadow:grey 0 4px 4px;">)</span></sup> 10:48, 12 September 2013 (UTC)
+
+== Re: Back ==
+
+I only go to the cp.wikia's archives page, and I see these files. It's very easy ! Original files are from swfcabin. ;)
+
+[User talk:Radykiel|Ra]-Ra-Radykiell ;)
+
+==Reply to CPW message==
+Hi CK,<br />
+First of all, here is a full list for transformations:
+
+* [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/chicken_puffle.swf Chicken Puffle]
+* Unicorns
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/unicorn_puffle_white.swf White Puffle Unicorn]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/unicorn_puffle_black.swf Black Puffle Unicorn]
+* Dragons
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/dragon_puffle_blue.swf Blue Dragon Puffle]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/dragon_puffle_green.swf Green Dragon Puffle]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/dragon.swf Dragon Ultimate Mega Dragon]
+* Fairies
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_blue.swf Blue]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_green.swf Green]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_pink.swf Pink]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_black.swf Black]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_yellow.swf Yellow]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_dark_purple.swf Dark Purple]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_brown.swf Brown]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_peach.swf Peach]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_red.swf Red]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_orange.swf Orange]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_dark_green.swf Dark Green]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_light_blue.swf Light Blue]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_lime_green.swf Lime Green]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_aqua.swf Aqua]
+** [http://media1.clubpenguin.com/play/v2/content/global/avatar/sprites/penguin_fairy_arctic_white.swf Arctic White]
+Aboutt he COPPA vote, well lot's of users have voted so i don't thonk i should remove it, but when i think of it, perhaps i should have rejected the request for opening it from the first place :P Well there's still time before the vote ends so perhaps more would change their mind.<br />
+[[user:Penguin-Pal|<font color="0e92cf">Penguin-Pal</font>]] [[user talk:Penguin-Pal|<font color="2e47aa">(talk)</font>]] 09:10, 27 September 2013 (UTC)
+P.S. i've just realized i posted this message in your user page and not in your talk page :P I;m sorry aobut that. [[user:Penguin-Pal|<font color="0e92cf">Penguin-Pal</font>]] [[user talk:Penguin-Pal|<font color="2e47aa">(talk)</font>]] 09:24, 27 September 2013 (UTC)
+
+==blanked out==
+theres something messed up on some files there whited out even in the interfaces. --[[User:Dave33333|Dave33333 The epicness had landed goto my mall!]] ([[User talk:Dave33333|talk]])
+
+== Yeah ==
+
+We only need ONE swf. We already had the big Reindeer Puffle swf with a ton of movie clips and such. I believe we only need those big full swfs instead of taking out a ton of parts.
+
+[[User:Mario Rk|Mario Rk]] <sup><span style="color:; text-shadow:grey 0 4px 4px;">(</span>[[User talk:Mario Rk|<span style="color:; text-shadow:grey 0 4px 4px;">T</span>]] <span style="color:; text-shadow:grey 0 4px 4px;">'''<big>·</big>'''</span> [[Special:Contributions/Mario_Rk|<span style="color:; text-shadow:grey 0 4px 4px;">C</span>]]<span style="color:; text-shadow:grey 0 4px 4px;">)</span></sup> 15:18, 10 November 2013 (UTC)
+
+==file uploaded==
+where should i put this and witch type of code do i put in for it? http://archives.clubpenguinwiki.info/static/images/archives/b/b4/Penguin_chat3.SWF --[[User:Dave33333|Dave33333 November is the time of sipping hot coco that burns your mouth. ]] ([[User talk:Dave33333|talk]]) 18:51, 19 November 2013 (UTC)
+
+== Derp ==
+
+Welcome to ''Shops''? lol
+
+And I've been here silly :P 
+
+--[[User:Chill57181|Chill57181]] <small>[[User talk:Chill57181|Talk]] [[Special:Contributions/Chill57181|Contribs]]</small> 22:46, 20 November 2013 (UTC)
+
+== FYI... ==
+
+Mario can't respond to you, his keyboard has been busted for a few days. Most of the keys don't work. --[[User:Chill57181|Chill57181]] <small>[[User talk:Chill57181|Talk]] [[Special:Contributions/Chill57181|Contribs]]</small> 00:25, 22 November 2013 (UTC)
+
+== Reffering to UnusedFiles ==
+
+Did some admins make some changes in MediaWiki code, or is it just a MediaWiki bug? Page [[Special:UnusedFiles]] shows normally used files, like used Dojo Courtyard SWF, so I don't think it is good to reffer it at the page of [[Club_Penguin_Archives:Wiki_Improvement_Project|WIP]] --[[User:Misabr|Misabr]] ([[User talk:Misabr|talk]]) 23:41, 30 December 2013 (UTC)
+
+Oh wait, now I see, that the cache is from Last month and even from the beggining, can you force it to update, or cannot? --[[User:Misabr|Misabr]] ([[User talk:Misabr|talk]]) 23:41, 30 December 2013 (UTC)
+
+==Re: Wow==
+Yeah, no problem! [http://swf-cpcheatsbypgees.site90.com/Swfs/ Here's] a link to the database where I found them. Other than the ones I uploaded, I couldn't find any other newspaper SWFs there that didn't already exist on this wiki, but feel free to look to see if there is any other SWF that this wiki may be missing. I hope you're able to find something. :)
+
+--[[User:Kawkeetcp|Kawkeetcp]] ([[User talk:Kawkeetcp|talk]]) 18:20, 11 July 2014 (UTC)
+
+== RE: Wow ==
+
+I'm thinking about creating a script, that would finish the icons page from the JSON (at least I'll learn something)... Since there is no other use for the bot than clothing icons & postcards (at least I don't see it), I'll do that later.  {{user:Misabr/sig2}} 18:31, 3 April 2015 (UTC)
+
+== Stamps ==
+
+Hi CK, I want to finish the stamps page later... But I've noticed that there is a WIP template on, put by you... The page was not edited since 2012, so I'm asking, can I remove it and finish the page?  {{user:Misabr/sig2}} 23:30, 3 April 2015 (UTC)
+
+== RE: Bot ==
+
+I'm using PyWikiBot, some info here [[wikipedia:mediawikiwiki:manual:Pywikibot|on the MediaWiki Wiki]]  (the page I'm linking is a manual, so you can have a look at it). The script I'm using is [[wikipedia:mediawikiwiki:manual:Pywikibot/replace.py|replace.py, this link leads you to a help page, it's included defaultly with pywikibot]]. Of course I'd recommend you to make a new account and request the bot status from a staff member. If you need some help, you can contact me. {{user:Misabr/sig2}} 05:39, 24 April 2015 (UTC)
+For the family file, you do "python generate_family_file.py", it will guide you through the process... You can then do "python generate_user_files.py" which will generate user files for you, it will allow you to set it up for more wikis... then you can edit the user-config.py to specify which wiki and language you want to edit, its set to the first one you set up it generate_user_files.py by default. The options to change the wiki there are "family" and "mylang"  {{user:Misabr/sig2}} 13:02, 24 April 2015 (UTC) (I hope I explained it well)
+:Also when asking a staff member to mark your account as a bot, specify on what wikis you want to do so, because for example [[User:MisabrBot]] is a bot only here on archives, [[User:MisabrBot]] is a normal user on other wikis in the network  {{user:Misabr/sig2}} 13:03, 24 April 2015 (UTC)
+::As for your question you can run multiple instances of Pywikibot at once.  {{user:Misabr/sig2}} 13:21, 24 April 2015 (UTC)
+:::As for your question on IRC, you have PIP, it's just not in your PATH variable. To install httplib2, there is a folder called "scripts" in your python installation directory. Browse to it in cmd/terminal (you can find it in windows explorer, then do SHIFT+RIGHT_CLICK and then click "open command prompt here" [assuming you have windows]), then do "pip install httplib2".  {{user:Misabr/sig2}} 15:57, 26 April 2015 (UTC)
+::::''SVN Version Failed'' means nothing, are you sure the bot doesn't give you any other error?  {{user:Misabr/sig2}} 12:44, 30 April 2015 (UTC)
+
+== RE: Broke It ==
+
+You didn't break it, people use <nowiki><gallery></nowiki> tags! In a gallery they don't need to write that "File:" part. Make it replace the text without the "File:" part, that will work  {{user:Misabr/sig2}} 08:21, 1 May 2015 (UTC)
+
+Try switching Regex from "True" to "False"  {{user:Misabr/sig2}} 08:27, 2 May 2015 (UTC)
+
+== RE: Party Rooms page ==
+
+Yeah, go ahead for the party page merger. Not really that much use in keeping an entire page dedicated to a party room that only appeared once. However, if it appeared more than once, just leave it as it is. I might be wrong, but I'm pretty sure the clothing files are still incomplete, if you wanna try and finish that up to be more helpful. --[[User:Mario Rk|'''<span class="Xc6" style="color:#FF0000;">Mario Rk</span>''']] <sup>[[User talk:Mario Rk|<span class="Xc6" style="color:#FF0000;">(T)</span>]] [[Special:Contributions/Mario Rk|<span class="Xc6" style="color:#FF0000;">(C)</span>]]</sup> 21:30, 8 January 2018 (UTC)
+
+== Re: Welcome ==
+
+Hey CP Kid,
+
+Nice to meet you!<br>
+I want to ask [[User:Mario Rk|Mario Rk]] if he [[User talk:Mario Rk#Remaining old files|has remaining old files]], but it seems that he just won't answer me... Can you please clarify it with him?
+
+Thanks!
+
+[[User:Nagi123|Nagi123]] ([[User talk:Nagi123|talk]]) 13:00, 22 May 2018 (UTC)

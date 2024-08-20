@@ -1,0 +1,8 @@
+<center>
+{| width="50%" align="center" style="background: #58ACFA; border: #084B8A 3px solid; {{roundy|20px}}"
+|- align="center"
+| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:PufflePaper.png|link=|75px]]
+|<big><big>This file contains Puffle Player Card sprites.</big></big><br><small>This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</small>
+|}</center>
+<includeonly>[[Category:Puffle Player Card sprites]][[Category:Player Card Sprites]]</includeonly>
+<noinclude>[[Category:Templates]]</noinclude>

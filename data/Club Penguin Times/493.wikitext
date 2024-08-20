@@ -1,0 +1,6 @@
+{{Newspaper2
+|issue=493
+|date=April 2, 2015
+|ask=PH
+|backstory=Making of a Comic
+}}

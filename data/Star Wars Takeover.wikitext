@@ -1,0 +1,211 @@
+{{CPW|Star Wars Takeover|Star Wars - A Invasão}}
+
+==Rooms==
+===Construction===
+====Week 1====
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:StarWarsTakeoverConstruction-RoomsBeach.swf|Beach]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:StarWarsTakeoverConstruction-RoomsDock.swf|Dock]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:StarWarsTakeoverConstruction-RoomsBerg.swf|Iceberg]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:StarWarsTakeoverConstruction-RoomsMtn.swf|Ski Hill]]||[[Media:Music381.swf|381]]
+|-
+|[[Media:StarWarsTakeoverConstruction-RoomsVillage.swf|Ski Village]]||[[Media:Music381.swf|381]]
+|-
+|[[Media:RoomsTown-StarWarsTakeoverPre.swf|Town]]||[[Media:Music383.swf|383]]
+|}
+</center>
+
+====Week 2====
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:StarWarsTakeoverConstruction2-RoomsBeach.swf|Beach]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:StarWarsTakeoverConstruction2-RoomsDock.swf|Dock]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:StarWarsTakeoverConstruction2-RoomsBerg.swf|Iceberg]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:StarWarsTakeoverConstruction2-RoomsMtn.swf|Ski Hill]]||[[Media:Music381.swf|381]]
+|-
+|[[Media:StarWarsTakeoverConstruction2-RoomsVillage.swf|Ski Village]]||[[Media:Music381.swf|381]]
+|-
+|[[Media:RoomsTown-StarWarsTakeoverPre2.swf|Town]]||[[Media:Music383.swf|383]]
+|}
+</center>
+
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:StarWarsTakeover-RoomsBeach.swf|Beach]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:StarWarsTakeover-RoomsDock.swf|Dock]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:StarWarsTakeover-RoomsBerg.swf|Iceberg]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:StarWarsTakeover-RoomsMtn.swf|Ski Hill]]||[[Media:Music381.swf|381]]
+|-
+|[[Media:StarWarsTakeover-RoomsVillage.swf|Ski Village]]||[[Media:Music381.swf|381]]
+|-
+|[[Media:RoomsTown-StarWarsTakeover.swf|Town]]||[[Media:Music383.swf|383]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty1.swf|Millennium Falcon]]||[[Media:Music453.swf|453]]
+|}
+</center>
+
+====Tatooine====
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:StarWarsTakeover-RoomsParty2.swf|Tatooine]]||[[Media:Music445.swf|445]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty3.swf|Sand Crawler]]||[[Media:Music447.swf|447]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty4.swf|Lars Homestead]]||[[Media:Music444.swf|444]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty5.swf|Desert]]||[[Media:Music446.swf|446]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty6.swf|Mos Eisley]]||[[Media:Music445.swf|445]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty7.swf|Cantina]]||[[Media:Music438.swf|438]]
+|}
+</center>
+
+====Death Star====
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:StarWarsTakeover-RoomsParty8.swf|Docking Bay]]||[[Media:Music451.swf|451]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty9.swf|Throne Room]]||[[Media:Music441.swf|441]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty10.swf|Meeting Room]]||[[Media:Music440.swf|440]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty11.swf|Bridge]]||[[Media:Music439.swf|439]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty12.swf|Elevators]]||[[Media:Music439.swf|439]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty13.swf|Trash Compactor]]||[[Media:Music452.swf|452]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty14.swf|Tractor Beam]]||[[Media:Music442.swf|442]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty15.swf|Detention Block]]||[[Media:Music450.swf|450]]
+|}
+</center>
+
+====Yavin 4====
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:StarWarsTakeover-RoomsParty16.swf|Yavin 4]]||[[Media:Music448.swf|448]]
+|-
+|[[Media:StarWarsTakeover-RoomsParty17.swf|Rebel Base]]||[[Media:Music449.swf|449]]
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable" border="1"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)!!Deutsch (German)
+|-
+|[[Media:ENClose upsTatooine_map.swf|Tatooine Map]]||[[Media:PTClose upsTatooine_map.swf|Tatooine Map]]||[[Media:FRClose upsTatooine_map.swf|Tatooine Map]]||[[Media:ESClose upsTatooine_map.swf|Tatooine Map]]||[[Media:DEClose upsTatooine_map.swf|Tatooine Map]]
+|-
+|[[Media:ENClose upsDeathstar_map.swf|Death Star Map]]||[[Media:PTClose upsDeathstar_map.swf|Death Star Map]]||[[Media:FRClose upsDeathstar_map.swf|Death Star Map]]||[[Media:ESClose upsDeathstar_map.swf|Death Star Map]]||[[Media:DEClose upsDeathstar_map.swf|Death Star Map]]
+|-
+|[[Media:ENClose upsYavin_map.swf|Yavin 4 Map]]||[[Media:PTClose upsYavin_map.swf|Yavin 4 Map]]||[[Media:FRClose upsYavin_map.swf|Yavin 4 Map]]||[[Media:ESClose upsYavin_map.swf|Yavin 4 Map]]||[[Media:DEClose upsYavin_map.swf|Yavin 4 Map]]
+|}
+</center>
+
+==Character Dialog==
+===Cadence===
+<center>
+{|class="wikitable" border="1"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)!!Deutsch (German)
+|-
+|[[Media:ENClose upsCharacter dialogue soloroom.swf|Millennium Falcon]]||[[Media:PTClose upsCharacter dialogue soloroom.swf|Millennium Falcon]]||[[Media:FRClose upsCharacter dialogue soloroom.swf|Millennium Falcon]]||[[Media:ESClose upsCharacter dialogue soloroom.swf|Millennium Falcon]]||[[Media:DEClose upsCharacter dialogue soloroom.swf|Millennium Falcon]]
+|-
+|[[Media:ENClose upsCharacter dialogue tatooine welcome.swf|Tatooine Welcome]]||[[Media:PTClose upsCharacter dialogue tatooine welcome.swf|Tatooine Welcome]]||[[Media:FRClose upsCharacter dialogue tatooine welcome.swf|Tatooine Welcome]]||[[Media:ESClose upsCharacter dialogue tatooine welcome.swf|Tatooine Welcome]]||[[Media:DEClose upsCharacter dialogue tatooine welcome.swf|Tatooine Welcome]]
+|-
+|[[Media:ENClose upsCharacter dialogue tatooine congratulations.swf|Tatooine Congratulations]]||[[Media:PTClose upsCharacter dialogue tatooine congratulations.swf|Tatooine Congratulations]]||[[Media:FRClose upsCharacter dialogue tatooine congratulations.swf|Tatooine Congratulations]]||[[Media:ESClose upsCharacter dialogue tatooine congratulations.swf|Tatooine Congratulations]]||[[Media:DEClose upsCharacter dialogue tatooine congratulations.swf|Tatooine Congratulations]]
+|-
+|[[Media:ENClose upsCharacter dialogue deathstar welcome.swf|Death Star Welcome]]||[[Media:PTClose upsCharacter dialogue deathstar welcome.swf|Death Star Welcome]]||[[Media:FRClose upsCharacter dialogue deathstar welcome.swf|Death Star Welcome]]||[[Media:ESClose upsCharacter dialogue deathstar welcome.swf|Death Star Welcome]]||[[Media:DEClose upsCharacter dialogue deathstar welcome.swf|Death Star Welcome]]
+|-
+|[[Media:ENClose upsCharacter dialogue deathstar congratulations.swf|Death Star Congratulations]]||[[Media:PTClose upsCharacter dialogue deathstar congratulations.swf|Death Star Congratulations]]||[[Media:FRClose upsCharacter dialogue deathstar congratulations.swf|Death Star Congratulations]]||[[Media:ESClose upsCharacter dialogue deathstar congratulations.swf|Death Star Congratulations]]||[[Media:DEClose upsCharacter dialogue deathstar congratulations.swf|Death Star Congratulations]]
+|-
+|[[Media:ENClose upsCharacter dialogue yavin welcome.swf|Yavin 4 Welcome]]||[[Media:PTClose upsCharacter dialogue yavin welcome.swf|Yavin 4 Welcome]]||[[Media:FRClose upsCharacter dialogue yavin welcome.swf|Yavin 4 Welcome]]||[[Media:ESClose upsCharacter dialogue yavin welcome.swf|Yavin 4 Welcome]]||[[Media:DEClose upsCharacter dialogue yavin welcome.swf|Yavin 4 Welcome]]
+|-
+|[[Media:ENClose upsCharacter dialogue yavin congratulations.swf|Yavin 4 Congratulations]]||[[Media:PTClose upsCharacter dialogue yavin congratulations.swf|Yavin 4 Congratulations]]||[[Media:FRClose upsCharacter dialogue yavin congratulations.swf|Yavin 4 Congratulations]]||[[Media:ESClose upsCharacter dialogue yavin congratulations.swf|Yavin 4 Congratulations]]||[[Media:DEClose upsCharacter dialogue yavin congratulations.swf|Yavin 4 Congratulations]]
+|}
+</center>
+
+==Telescope==
+<center>
+{|class="wikitable" border="1"
+!Name
+|-
+|[[Media:StarWarsTakeover-TelescopeDeathstar.swf|Death Star]]
+|-
+|[[Media:StarWarsTakeover-TelescopeDeathstar2.swf|Death Star (2)]]
+|-
+|[[Media:StarWarsTakeover-TelescopeDeathstar3.swf|Death Star (3)]]
+|}
+</center>
+
+==Avatar Effects==
+<center>
+{|class="wikitable" border="1"
+!Name
+|-
+|[[Media:AvatarSpritesVader.swf|Vader]]
+|-
+|[[Media:AvatarSpritesJedi Brown.swf|Brown Jedi]]
+|-
+|[[Media:AvatarSpritesJedi Black.swf|Black Jedi]]
+|}
+</center>
+
+==Login Screen==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+|-
+|[[Media:StarWarsTakeover-ENLoginScreenCadence.swf|Cadence]]||[[Media:StarWarsTakeover-PTLoginScreenCadence.swf|Cadence]]||[[Media:StarWarsTakeover-FRLoginScreenCadence.swf|Cadence]]||[[Media:StarWarsTakeover-ESLoginScreenCadence.swf|Cadence]]||[[Media:StarWarsTakeover-DELoginScreenCadence.swf|Cadence]]
+|-
+|[[Media:StarWarsTakeover-ENLoginScreenHerbert.swf|Herbert]]||[[Media:StarWarsTakeover-PTLoginScreenHerbert.swf|Herbert]]||[[Media:StarWarsTakeover-FRLoginScreenHerbert.swf|Herbert]]||[[Media:StarWarsTakeover-ESLoginScreenHerbert.swf|Herbert]]||[[Media:StarWarsTakeover-DELoginScreenHerbert.swf|Herbert]]
+|-
+|[[Media:StarWarsTakeover-ENLoginScreen1.swf|Login Screen #1]]||[[Media:StarWarsTakeover-PTLoginScreen1.swf|Login Screen #1]]||[[Media:StarWarsTakeover-FRLoginScreen1.swf|Login Screen #1]]||[[Media:StarWarsTakeover-ESLoginScreen1.swf|Login Screen #1]]||[[Media:StarWarsTakeover-DELoginScreen1.swf|Login Screen #1]]
+|-
+|[[Media:StarWarsTakeover-ENLoginScreen2.swf|Login Screen #2]]||[[Media:StarWarsTakeover-PTLoginScreen2.swf|Login Screen #2]]||[[Media:StarWarsTakeover-FRLoginScreen2.swf|Login Screen #2]]||[[Media:StarWarsTakeover-ESLoginScreen2.swf|Login Screen #2]]||[[Media:StarWarsTakeover-DELoginScreen2.swf|Login Screen #2]]
+|}
+</center>
+
+==Catalogs==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+|-
+|[[Media:ENCataloguesParty-StarWarsTakeover.swf|Catalog]]||[[Media:PTCataloguesParty-StarWarsTakeover.swf|Catalog]]||[[Media:FRCataloguesParty-StarWarsTakeover.swf|Catalog]]||[[Media:ESCataloguesParty-StarWarsTakeover.swf|Catalog]]||[[Media:DECataloguesParty-StarWarsTakeover.swf|Catalog]]
+|}
+</center>
+{{Parties}}
+
+[[Category:Parties of 2013]]

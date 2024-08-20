@@ -1,0 +1,29 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Earth Day 2012|Earth Day 2012]]''
+
+==Rooms==
+===Construction===
+*[[Media:EarthDay2012ConsForts.swf|Snow Forts]]
+
+===Party===
+*[[Media:EarthDay2012Plaza.swf|Plaza]]
+*[[Media:EarthDay2012SnowForts.swf|Snow Forts]]
+*[[Media:RoomsTown-EarthDay2012.swf|Town]]
+
+==Music==
+*[[Media:Music268.swf|Main theme]]
+
+==Login Screens==
+*[[Media:EarthDay2012PreStartBillboards.swf|Login Screen #1]]
+
+==Notes==
+*[[Media:EarthDay2012Party_map_note.swf|Map Note]]
+
+==Catalog==
+*[[Media:EarthDay2012Catalog.swf|Earth Day Catalog EN]]
+*[[Media:EarthDayCatalog2012PT.swf|Earth Day Catalog PT]]
+*[[Media:EarthDayCatalog2012FR.swf|Earth Day Catalog FR]]
+*[[Media:EarthDayCatalog2012ES.swf|Earth Day Catalog ES]]
+*[[Media:EarthDayCatalog2012DE.swf|Earth Day Catalog DE]]
+{{Parties}}
+
+[[Category:Parties of 2012]]

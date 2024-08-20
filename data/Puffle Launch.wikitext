@@ -1,0 +1,18 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Puffle Launch|Puffle Launch]]''
+
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|locale||[[Media:GamesPuffleLaunchLangENLocale.swf|English]]<br>[[Media:GamesPuffleLaunchLangPTLocale.swf|Portuguese]]<br>[[Media:GamesPuffleLaunchLangFRLocale.swf|French]]<br>[[Media:GamesPuffleLaunchLangESLocale.swf|Spanish]]<br>[[Media:GamesPuffleLaunchLangDELocale.swf|German]]<br>[[Media:GamesPuffleLaunchLangRULocale.swf|Russian]]
+|-
+|Main||[[Media:GamesPuffleLaunchMain.swf|All]]
+|-
+|menus||[[Media:GamesPuffleLaunchMenus.swf|All]]
+|-
+|music||[[Media:Music124.swf|All]]
+|-
+|logo||[[Media:GamesPuffleLaunchLangENLogo.swf|English]]<br>[[Media:GamesPuffleLaunchLangPTLogo.swf|Portuguese]]<br>[[Media:GamesPuffleLaunchLangFRLogo.swf|French]]<br>[[Media:GamesPuffleLaunchLangESLogo.swf|Spanish]]<br>[[Media:GamesPuffleLaunchLangDELogo.swf|German]]<br>[[Media:GamesPuffleLaunchLangRULogo.swf|Russian]]
+|}
+</center>

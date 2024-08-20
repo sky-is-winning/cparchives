@@ -1,0 +1,17 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Hydro Hopper|Hydro Hopper]]''
+
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|bootstrap||[[Media:GamesHydroHopperBootstrap.swf|All]]
+|-
+|locale||[[Media:GamesHydroHopperLangENLocale.swf|English]]<br>[[Media:GamesHydroHopperLangPTLocale.swf|Portuguese]]<br>[[Media:GamesHydroHopperLangFRLocale.swf|French]]<br>[[Media:GamesHydroHopperLangESLocale.swf|Spanish]]<br>[[Media:GamesHydroHopperLangDELocale.swf|German]]<br>[[Media:GamesHydroHopperLangRULocale.swf|Russian]]
+|-
+|Main||[[Media:GamesHydroHopperMain.swf|All]]<br>
+[[Media:HydroHopper2006.swf|Hydro Hopper (2006)]]
+|-
+|title||[[Media:ENHydroTitle.swf|English]]<br>[[Media:PTHydroTitle.swf|Portuguese]]<br>[[Media:FRHydroTitle.swf|French]]<br>[[Media:ESHydroTitle.swf|Spanish]]<br>[[Media:DEHydroTitle.swf|German]]<br>[[Media:RUHydroTitle.swf|Russian]]
+|}
+</center>

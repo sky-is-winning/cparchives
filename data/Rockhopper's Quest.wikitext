@@ -1,0 +1,56 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Rockhopper's Quest|Rockhopper's Quest]]''
+
+==Rooms==
+===Construction===
+*[[Media:RockhoppersQuestConstBeach.swf|Beach]]
+
+===Party===
+*[[Media:RockhoppersQuestBeach.swf|Beach (with Crew's Cap)]]
+*[[Media:RockhoppersQuestBeach1.swf|Beach (with Life Vest)]]
+*[[Media:RockhoppersQuestParty4.swf|Dinosaur Island]]
+*[[Media:RockhoppersQuestDock.swf|Dock]]
+*[[Media:RockhoppersQuestParty1.swf|Migrator]]
+*[[Media:RockhoppersQuestParty3.swf|Migrator]]
+*[[Media:RockhoppersQuestParty5.swf|Migrator]]
+*[[Media:RockhoppersQuestParty8.swf|Migrator]]
+*[[Media:RockhoppersQuestPlaza.swf|Plaza]]
+*[[Media:RockhoppersQuestParty6.swf|Shipwreck Island]]
+*[[Media:RockhoppersQuestForts.swf|Snow Forts]]
+*[[Media:RoomsTown-RockhoppersQuest.swf|Town]]
+*[[Media:RockhoppersQuestParty2.swf|Trading Post]]
+*[[Media:RockhoppersQuestParty7.swf|Viking Hall]]
+
+==Music==
+*[[Media:Music318.swf|Migrator]]
+*[[Media:Music290.swf|Trading Post]]
+*[[Media:Music269.swf|Dinosaur Island]]
+*[[Media:Music319.swf|Shipwreck Island]]
+*[[Media:Music320.swf|Viking Hall]]
+
+==Login Screens==
+*[[Media:RockhoppersQuestMemberStartBillboards.swf|Login Screen #1]]
+*[[Media:RockhoppersQuestPreStartBillboards.swf|Login Screen #2]]
+*[[Media:RockhoppersQuestStartBillboards.swf|Login Screen #3]]
+
+==Poster==
+*[[Media:RockhoppersQuestBeachPoster.swf|Beach Poster]]
+*[[Media:RockhoppersQuestPoster.swf|Quest Poster]]
+
+==Notes==
+*[[Media:RockhoppersQuestParty_map_note.swf|Map Note]]
+*[[Media:RockhoppersQuestCPnote.swf|Club Penguin Rockhopper's Note]]
+*[[Media:RockhoppersQuestTradingnote.swf|Trading Post Rockhopper's Note]]
+*[[Media:RockhoppersQuestDinosaurnote.swf|Dinosaur Island Rockhopper's Note]]
+*[[Media:RockhoppersQuestShipwrecknote.swf|Shipwreck Island Rockhopper's Note]]
+*[[Media:RockhoppersQuestRotenote.swf|Route Note]]
+*[[Media:RockhoppersQuestCargonote.swf|Cargo Note]]
+
+==Membership Notes==
+*[[Media:RockhoppersQuestMembership.swf|Notice when trying to enter in Viking Hall]]
+
+==Catalogs==
+*[[Media:RockhoppersQuestTraddingCatalog.swf|Trading Post Catalog]]
+*[[Media:RockhoppersQuestDinoCatalog.swf|Dinosaur Island Catalog]]
+{{Parties}}
+
+[[Category:Parties of 2012]]

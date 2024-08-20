@@ -1,0 +1,15 @@
+<center>
+{|class="wikitable" border="1"
+!Event!!Music!!Year
+|-
+|[[Media:Rooms{{{1|Town}}}-StarWarsRebelsTakeover.swf|Star Wars Rebels Takeover]]||{{{2|{{N/a}}}}}||2015
+|-
+|[[Media:Rooms{{{1|Town}}}-SoundStudioParty2015.swf|SoundStudio Party]]||{{{3|{{N/a}}}}}||2015
+|-
+|[[Media:Rooms{{{1|Town}}}-PuffleParty2015.swf|Puffle Party]]||{{{4|{{N/a}}}}}||2015
+|-
+|[[Media:Rooms{{{1|Town}}}-CaveMaze.swf|Cave Maze]]||{{{5|{{N/a}}}}}||2015
+|-
+|[[Media:Rooms{{{1|Town}}}-FrozenFeverParty.swf|Frozen Fever Party]]||{{{6|{{N/a}}}}}||2015
+|}
+</center>

@@ -1,0 +1,7 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Puffle_Shuffle|Puffle Shuffle]]''
+
+*[[Media:Music222.swf|The Music]]
+*[[Media:PuffleShuffleBootstrap.swf|Bootstrap]]
+*[[Media:PuffleShuffleLocale.swf|Locale]]
+*[[Media:PuffleShuffleSign.swf|Sign]]
+*[[Media:PuffleShuffle title.swf|Instructions Title]]

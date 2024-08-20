@@ -1,0 +1,1006 @@
+{{NeedSWFs}}
+{{CPW|Penguin Style|Estilo Pinguim}}
+
+==Flash version==
+{|class="wikitable" style="margin:auto;"
+!Edition!!colspan=6|Languages
+|-
+|Aug 2005||{{n/a|EN}}||colspan=5 rowspan=5 {{n/a}}
+|-
+|Sep 2005||[[Media:September05Style.swf|EN]]
+|-
+|Oct 2005||[[Media:Clothing 0510.swf|EN]]
+|-
+|Nov 2005||[[Media:Clothing 0511.swf|EN]]
+|-
+|Dec 2005||[[Media:Clothing 0512.swf|EN]]
+|-
+|colspan=7|<!--2006-->
+|-
+|Jan 2006||[[Media:Clothing 0601.swf|EN]]||colspan=5 rowspan=12 {{n/a}}
+|-
+|Feb 2006||[[Media:Clothing 0602.swf|EN]]
+|-
+|Mar 2006||[[Media:Clothing 0603.swf|EN]]
+|-
+|Apr 2006||[[Media:Clothing 0604.swf|EN]]
+|-
+|May 2006||[[Media:Clothing 0605.swf|EN]]
+|-
+|Jun 2006||[[Media:Clothing 0606.swf|EN]]
+|-
+|Jul 2006||[[Media:Clothing 0607.swf|EN]]
+|-
+|Aug 2006||[[Media:Clothing 0608.swf|EN]]
+|-
+|Sep 2006||[[Media:September06Style.swf|EN]]
+|-
+|Oct 2006||[[Media:October06Style.swf|EN]]
+|-
+|Nov 2006||[[Media:Nov06Style.swf|EN]]
+|-
+|Dec 2006||[[Media:Dec06Style.swf|EN]]
+|-
+|colspan=7|<!--2007-->
+|-
+|Jan 2007||[[Media:Clothing_0701.swf|EN]]||colspan=5 rowspan=12 {{n/a}}
+|-
+|Feb 2007||[[Media:Clothing_0702.swf|EN]]
+|-
+|Mar 2007||[[Media:Clothing_0703.swf|EN]]
+|-
+|Apr 2007||[[Media:Clothing_0704.swf|EN]]
+|-
+|May 2007||[[Media:Clothing_0705.swf|EN]]
+|-
+|Jun 2007||[[Media:Clothing_0706.swf|EN]]
+|-
+|Jul 2007||[[Media:Clothing_0707.swf|EN]]
+|-
+|Aug 2007||[[Media:August2007PenguinStyle.swf|EN]]
+|-
+|Sep 2007||[[Media:September07Style.swf|EN]]
+|-
+|Oct 2007||[[Media:PenguinStyleOct2007.swf|EN]]
+|-
+|Nov 2007||[[Media:PenguinStyleNov2007.swf|EN]]
+|-
+|Dec 2007||[[Media:Clothing_0712.swf|EN]]
+|-
+|colspan=7|<!--2008-->
+|-
+|Jan 2008||[[Media:Clothing_0801.swf|EN]]||colspan=5 rowspan=10 {{n/a}}
+|-
+|Feb 2008||[[Media:Feb2008.swf|EN]]
+|-
+|Mar 2008||[[Media:PenguinStyleMar2008.swf|EN]]
+|-
+|Apr 2008||[[Media:Apr2008.swf|EN]]
+|-
+|May 2008||[[Media:May2008.swf|EN]]
+|-
+|Jun 2008||[[Media:Jun2008.swf|EN]]
+|-
+|Jul 2008||[[Media:July08Style.swf|EN]]
+|-
+|Aug 2008||[[Media:PSAug2008.swf|EN]]
+|-
+|Sep 2008||[[Media:Sep2008.swf|EN]]
+|-
+|Oct 2008||[[Media:CatOct2008.swf|EN]]
+|-
+|Nov 2008||[[Media:CatNov2008.swf|EN]]||{{n/a|PT}}||colspan=4 rowspan=2 {{n/a}}
+|-
+|Dec 2008||[[Media:December08Style.swf|EN]]||{{n/a|PT}}
+|-
+|colspan=7|<!--2009-->
+|-
+|Jan 2009||[[Media:January09Style.swf|EN]]||{{n/a|PT}}||colspan=4 {{n/a}}
+|-
+|Feb 2009||[[Media:CatFeb2009.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||colspan=3 rowspan=5 {{n/a}}
+|-
+|Mar 2009||[[Media:Mar2009.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}
+|-
+|Apr 2009||[[Media:PSApr2009.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}
+|-
+|May 2009||[[Media:May2009.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}
+|-
+|Jun 2009||{{n/a|EN}}||{{n/a|PT}}||{{n/a|FR}}
+|-
+|Jul 2009||{{n/a|EN}}||[[Media:PTCataloguesClothingJuly2009.swf|PT]]||{{n/a|FR}}||{{n/a|ES}}||colspan=2 rowspan=6 {{n/a}}
+|-
+|Aug 2009||[[Media:August09Style.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Sep 2009||[[Media:September09Style.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Oct 2009||[[Media:Oct2009.swf|EN]]||[[Media:PTCataloguesClothingOctober2009.swf|PT]]||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Nov 2009||[[Media:November09Style.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Dec 2009||[[Media:December09Style.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|colspan=7|<!--2010-->
+|-
+|Jan 2010||[[Media:January10Style.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||colspan=2 rowspan=12 {{n/a}}
+|-
+|Feb 2010||[[Media:Feb10Clothing.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Mar 2010||{{n/a|EN}}||{{n/a|PT}}||{{n/a|FR}}||[[Media:Marzo10Moda.swf|ES]]
+|-
+|Apr 2010||[[Media:April10Style.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|May 2010||[[Media:May2010.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|June 2010||{{n/a|EN}}||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Jul 2010||{{n/a|EN}}||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Aug 2010||{{n/a|EN}}||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Sep 2010||[[Media:September10Style.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Oct 2010||[[Media:PSOct2010.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Nov 2010||[[Media:November10Style.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Dec 2010||[[Media:PenguinStyleDec2010.swf|EN]]||[[Media:PTCataloguesClothingNov2010.swf|PT]]||{{n/a|FR}}||{{n/a|ES}}
+|-
+|colspan=7|<!--2011-->
+|-
+|Jan 2011||[[Media:January11Style.swf|EN]]||[[Media:PTCataloguesClothingJan2011.swf|PT]]||{{n/a|FR}}||{{n/a|ES}}||colspan=2 rowspan=10 {{n/a}}
+|-
+|Feb 2011||[[Media:PenguinStyleFeb2011.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Mar 2011||[[Media:PenguinStyleMar2011.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Apr 2011||[[Media:PenguinStyleApr2011.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|May 2011||[[Media:PenguinStyleMay2011.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Jun 2011||[[Media:PenguinStyleJun2011.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||[[Media:ESCataloguesClothingJun2011.swf|ES]]
+|-
+|Jul 2011||[[Media:PenguinStyleJul2011.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Aug 2011||[[Media:PenguinStyleAug2011.swf|EN]]||[[Media:PTCataloguesClothingAugust2011.swf|PT]]||{{n/a|FR}}||[[Media:ESCataloguesClothingAug2011.swf|ES]]
+|-
+|Sep 2011||[[Media:PenguinStyleSept2011.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Oct 2011||[[Media:PenguinStyleOct2011.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|-
+|Nov 2011||[[Media:PenguinStyleNov2011.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}||rowspan=2 {{n/a}}
+|-
+|Dec 2011||[[Media:PenguinStyleDec2011.swf|EN]]||[[Media:PTCataloguesClothingDec2011.swf|PT]]||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+|-
+|colspan=7|<!--2012-->
+|-
+|Jan 2012||[[Media:PenguinStyleJan2012.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}||rowspan=13 {{n/a}}
+|-
+|Feb 2012||[[Media:PenguinStyleFeb2012.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+|-
+|Mar 2012||[[Media:PenguinStyleMar2012.swf|EN]]||[[Media:PenguinStyleMar2012PT.swf|PT]]||{{n/a|FR}}||[[Media:PenguinStyleMar2012ES.swf|ES]]||[[Media:PenguinStyleMar2012DE.swf|DE]]
+|-
+|Apr 2012||[[Media:PenguinStyleApr2012.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+|-
+|May 2012||[[Media:PenguinStyleMay2012.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+|-
+|Jun 2012||[[Media:PenguinStyleJun2012.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+|-
+|Jul 2012||[[Media:PenguinStyleJul2012.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+|-
+|Aug 2012||[[Media:PenguinStyleAug2012.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+|-
+|Sep 2012||[[Media:PenguinStyleSept2012.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+|-
+|Oct 2012||[[Media:PenguinStyleOct2012.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+|-
+|Nov 2012||[[Media:PenguinStyleNov2012.swf|EN]]||[[Media:PTPenguinStyleNov2012.swf|PT]]||[[Media:FRPenguinStyleNov2012.swf|FR]]||[[Media:ESPenguinStyleNov2012.swf|ES]]||[[Media:DEPenguinStyleNov2012.swf|DE]]
+|-
+|[[Operation: Blackout|Herbert]]||[[Media:HerbertStyleNov2012.swf|EN]]||[[Media:PTHerbertStyleNov2012.swf|PT]]||[[Media:FRHerbertStyleNov2012.swf|FR]]||[[Media:ESHerbertStyleNov2012.swf|ES]]||[[Media:DEHerbertStyleNov2012.swf|DE]]
+|-
+|Dec 2012||[[Media:PenguinStyleDec2012.swf|EN]]||[[Media:PTPenguinStyleDez2012.swf|PT]]||[[Media:FRPenguinStyleDec2012.swf|FR]]||[[Media:ESPenguinStyleDic2012.swf|ES]]||[[Media:DEPenguinStyleDez2012.swf|DE]]
+|-
+|colspan=7|<!--2013-->
+|-
+|Jan 2013||[[Media:Jan2013Clothing.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}||rowspan=13 {{n/a}}
+|-
+|Feb 2013||[[Media:Feb2013Clothing.swf|EN]]||[[Media:PTPenguinStyleFebruary2013.swf|PT]]||[[Media:FRPenguinStyleFebruary2013.swf|FR]]||[[Media:ESPenguinStyleFebruary2013.swf|ES]]||[[Media:DEPenguinStyleFebruary2013.swf|DE]]
+|-
+|Mar 2013||[[Media:March2013StyleCatalog.swf|EN]]||[[Media:PTCataloguesClothingMar2013.swf|PT]]||[[Media:FRCataloguesClothingMar2013.swf|FR]]||[[Media:ESCataloguesClothingMar2013.swf|ES]]||[[Media:DECataloguesClothingMar2013.swf|DE]]
+|-
+|Apr 2013||[[Media:ENCataloguesClothingApr2013.swf|EN]]||[[Media:PTCataloguesClothingApr2013.swf|PT]]||[[Media:FRCataloguesClothingApr2013.swf|FR]]||[[Media:ESCataloguesClothingApr2013.swf|ES]]||[[Media:DECataloguesClothingApr2013.swf|DE]]
+|-
+|May 2013||[[Media:May2013PenguinStyleClubPenguin.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+|-
+|Jun 2013||[[Media:ENCataloguesClothingJune2013.swf|EN]]||[[Media:PTCataloguesClothingJune2013.swf|PT]]||[[Media:FRCataloguesClothingJune2013.swf|FR]]||[[Media:ESCataloguesClothingJune2013.swf|ES]]||[[Media:DECataloguesClothingJune2013.swf|DE]]
+|-
+|Jul 2013||[[Media:ENCataloguesClothingJuly2013.swf|EN]]||[[Media:PTCataloguesClothingJuly2013.swf|PT]]||[[Media:FRCataloguesClothingJuly2013.swf|FR]]||[[Media:ESCataloguesClothingJuly2013.swf|ES]]||[[Media:DECataloguesClothingJuly2013.swf|DE]]
+|-
+|Aug 2013||[[Media:ENCataloguesClothingAugust2013.swf|EN]]||[[Media:PTCataloguesClothingAugust2013.swf|PT]]||[[Media:FRCataloguesClothingAugust2013.swf|FR]]||[[Media:ESCataloguesClothingAugust2013.swf|ES]]||[[Media:DECataloguesClothingAugust2013.swf|DE]]
+|-
+|Sep 2013||[[Media:ENCataloguesClothingSeptember2013.swf|EN]]||[[Media:PTCataloguesClothingSeptember2013.swf|PT]]||[[Media:FRCataloguesClothingSeptember2013.swf|FR]]||[[Media:ESCataloguesClothingSeptember2013.swf|ES]]||[[Media:DECataloguesClothingSeptember2013.swf|DE]]
+|-
+|Oct 2013||[[Media:ENCataloguesClothingOctober2013.swf|EN]]||[[Media:PTCataloguesClothingOctober2013.swf|PT]]||[[Media:FRCataloguesClothingOctober2013.swf|FR]]||[[Media:ESCataloguesClothingOctober2013.swf|ES]]||[[Media:DECataloguesClothingOctober2013.swf|DE]]
+|-
+|Nov 2013||[[Media:ENCataloguesClothing-Nov2013.swf|EN]]||[[Media:PTCataloguesPenguinStyleNov2013.swf|PT]]||[[Media:FRCataloguesClothing-Nov2013.swf|FR]]||[[Media:ESCataloguesClothing-Nov2013.swf|ES]]||[[Media:DECataloguesClothing-Nov2013.swf|DE]]
+|-
+|rowspan=2|Dec 2013||rowspan=2|[[Media:ENPenguinStyleDec2013.swf|EN]]||[[Media:PTPenguinStyleDec2013.swf|PT-1]]||rowspan=2|[[Media:FRPenguinStyleDec2013.swf|FR]]||rowspan=2|[[Media:ESPenguinStyleDec2013.swf|ES]]||rowspan=2|[[Media:DEPenguinStyleDec2013.swf|DE]]
+|-
+|[[Media:PTCataloguesClothingJan2014.swf|PT-2]]
+|-
+|colspan=7|<!--2014-->
+|-
+|rowspan=2|Jan 2014||[[Media:ENCataloguesClothingJan2014.swf|EN-1]]||rowspan=2|[[Media:PTPenguinStyleJan2014.swf|PT]]||rowspan=2|[[Media:FRCataloguesClothingJan2014.swf|FR]]||rowspan=2|[[Media:ESCataloguesClothingJan2014.swf|ES]]||rowspan=2|[[Media:DECataloguesClothingJan2014.swf|DE]]||rowspan=2|[[Media:RUCataloguesClothingJan2014.swf|RU]]
+|-
+|[[Media:ENCataloguesClothingFeb2014.swf|EN-2]]
+|-
+|Feb 2014||[[Media:ENCataloguesClothingFeb2014-2.swf|EN]]||[[Media:PTPenguinStyleFev2014.swf|PT]]||[[Media:FRPenguinStyleFebruary2014.swf|FR]]||[[Media:ESCataloguesClothingFeb2014.swf|ES]]||[[Media:DECataloguesClothingFeb2014.swf|DE]]||[[Media:RUCataloguesClothingFeb2014.swf|RU]]
+|-
+|Mar 2014||[[Media:ENCataloguesClothingMarch2014.swf|EN]]||[[Media:PTCataloguesClothingMarch2014.swf|PT]]||[[Media:FRCataloguesClothingMar2014.swf|FR]]||[[Media:ESCataloguesClothingMarch2014.swf|ES]]||[[Media:DECataloguesClothingMar2014.swf|DE]]||[[Media:RUCataloguesClothingMarch2014.swf|RU]]
+|-
+|Apr 2014||[[Media:ENCataloguesClothingApr2014.swf|EN]]||[[Media:PTPenguinStyleApr2014.swf|PT]]||[[Media:FRCataloguesClothingApr2014.swf|FR]]||[[Media:ESCataloguesClothingApr2014.swf|ES]]||[[Media:DECataloguesClothingApr2014.swf|DE]]||[[Media:RUCataloguesClothingApr2014.swf|RU]]
+|-
+|May 2014||[[Media:ENCataloguesClothingMay2014.swf|EN]]||[[Media:PTCataloguesClothingMay2014.swf|PT]]||[[Media:FRCataloguesClothingMay2014.swf|FR]]||[[Media:ESCataloguesClothingMay2014.swf|ES]]||[[Media:DECataloguesClothingMay2014.swf|DE]]||[[Media:RUCataloguesClothingMay2014.swf|RU]]
+|-
+|Jun 2014||[[Media:ENCataloguesClothingJune2014.swf|EN]]||[[Media:PTCataloguesClothingJune2014.swf|PT]]||[[Media:FRCataloguesClothingJune2014.swf|FR]]||[[Media:ESCataloguesClothingJune2014.swf|ES]]||[[Media:DECataloguesClothingJune2014.swf|DE]]||[[Media:RUCataloguesClothingJune2014.swf|RU]]
+|-
+|Jul 2014||[[Media:ENCataloguesClothingJuly2014.swf|EN]]||[[Media:PTCataloguesClothingJuly2014.swf|PT]]||[[Media:FRCataloguesClothingJuly2014.swf|FR]]||[[Media:ESCataloguesClothingJuly2014.swf|ES]]||[[Media:DECataloguesClothingJuly2014.swf|DE]]||[[Media:RUCataloguesClothingJuly2014.swf|RU]]
+|-
+|Aug 2014||[[Media:ENCataloguesClothingAugust2014.swf|EN]]||[[Media:PTCataloguesClothingAugust2014.swf|PT]]||[[Media:FRCataloguesClothingAugust2014.swf|FR]]||[[Media:ESCataloguesClothingAugust2014.swf|ES]]||[[Media:DECataloguesClothingAugust2014.swf|DE]]||[[Media:RUCataloguesClothingAugust2014.swf|RU]]
+|-
+|Sep 2014||[[Media:ENCataloguesClothingSeptember2014.swf|EN]]||[[Media:PTCataloguesClothingSeptember2014.swf|PT]]||[[Media:FRCataloguesClothingSeptember2014.swf|FR]]||[[Media:ESCataloguesClothingSeptember2014.swf|ES]]||[[Media:DECataloguesClothingSeptember2014.swf|DE]]||[[Media:RUCataloguesClothingSeptember2014.swf|RU]]
+|-
+|Oct 2014||[[Media:ENCataloguesClothingOctober2014.swf|EN]]||[[Media:PTCataloguesClothingOctober2014.swf|PT]]||[[Media:FRCataloguesClothingOctober2014.swf|FR]]||[[Media:ESCataloguesClothingOctober2014.swf|ES]]||[[Media:DECataloguesClothingOctober2014.swf|DE]]||[[Media:RUCataloguesClothingOctober2014.swf|RU]]
+|-
+|Nov 2014||[[Media:ENCataloguesClothingNovember2014.swf|EN]]||[[Media:PTCataloguesClothingNovember2014.swf|PT]]||[[Media:FRCataloguesClothingNovember2014.swf|FR]]||[[Media:ESCataloguesClothingNovember2014.swf|ES]]||[[Media:DECataloguesClothingNovember2014.swf|DE]]||[[Media:RUCataloguesClothingNovember2014.swf|RU]]
+|-
+|Dec 2014||[[Media:ENCataloguesClothingDecember2014.swf|EN]]||[[Media:PTCataloguesClothingDecember2014.swf|PT]]||[[Media:FRCataloguesClothingDecember2014.swf|FR]]||[[Media:ESCataloguesClothingDecember2014.swf|ES]]||[[Media:DECataloguesClothingDecember2014.swf|DE]]||[[Media:RUCataloguesClothingDecember2014.swf|RU]]
+|-
+|colspan=7|<!--2015-->
+|-
+|Jan 2015||[[Media:ENCataloguesClothingJan2015.swf|EN]]||[[Media:PTCataloguesClothingJan2015.swf|PT]]||[[Media:FRCataloguesClothingJan2015.swf|FR]]||[[Media:ESCataloguesClothingJan2015.swf|ES]]||[[Media:DECataloguesClothingJan2015.swf|DE]]||[[Media:RUCataloguesClothingJan2015.swf|RU]]
+|-
+|Feb 2015||[[Media:ENCataloguesClothingFeb2015.swf|EN]]||[[Media:PTCataloguesClothingFeb2015.swf|PT]]||[[Media:FRCataloguesClothingFeb2015.swf|FR]]||[[Media:ESCataloguesClothingFeb2015.swf|ES]]||[[Media:DECataloguesClothingFeb2015.swf|DE]]||[[Media:RUCataloguesClothingFeb2015.swf|RU]]
+|-
+|Mar 2015||[[Media:ENCataloguesClothingMarch2015.swf|EN]]||[[Media:PTCataloguesClothingMarch2015.swf|PT]]||[[Media:FRCataloguesClothingMarch2015.swf|FR]]||[[Media:ESCataloguesClothingMarch2015.swf|ES]]||[[Media:DECataloguesClothingMarch2015.swf|DE]]||[[Media:RUCataloguesClothingMarch2015.swf|RU]]
+|-
+|Apr 2015||[[Media:ENCataloguesClothingApril2015.swf|EN]]||[[Media:PTCataloguesClothingApril2015.swf|PT]]||[[Media:FRCataloguesClothingApril2015.swf|FR]]||[[Media:ESCataloguesClothingApril2015.swf|ES]]||[[Media:DECataloguesClothingApril2015.swf|DE]]||[[Media:RUCataloguesClothingApril2015.swf|RU]]
+|-
+|May 2015||[[Media:ENCataloguesClothingMay2015.swf|EN]]||[[Media:PTCataloguesClothingMay2015.swf|PT]]||[[Media:FRCataloguesClothingMay2015.swf|FR]]||[[Media:ESCataloguesClothingMay2015.swf|ES]]||[[Media:DECataloguesClothingMay2015.swf|DE]]||[[Media:RUCataloguesClothingMay2015.swf|RU]]
+|-
+|Jun 2015||[[Media:ENCataloguesClothingJun2015.swf|EN]]||[[Media:PTCataloguesClothingJun2015.swf|PT]]||[[Media:FRCataloguesClothingJun2015.swf|FR]]||[[Media:ESCataloguesClothingJun2015.swf|ES]]||[[Media:DECataloguesClothingJun2015.swf|DE]]||[[Media:RUCataloguesClothingJun2015.swf|RU]]
+|}
+
+==Mobile version==
+{|class="wikitable" style="margin:auto;"
+!Edition!!Assets!!Config
+|-
+|-<!--2015-->
+|Jul 2015||
+{{MobileCat|i=ClothingJul2015|e=Jul 2015|p=1|v=1|w=1}}
+{{MobileCat|i=ClothingJul2015|p=2|v=1}}
+{{MobileCat|i=ClothingJul2015|p=3|v=2}}
+{{MobileCat|i=ClothingJul2015|p=4|v=1}}
+{{MobileCat|i=ClothingJul2015|p=5|v=1}}
+{{MobileCat|i=ClothingJul2015|p=6|v=1}}
+{{MobileCat|i=ClothingJul2015|p=7|v=2}}
+{{MobileCat|i=ClothingJul2015|p=8|v=1}}
+{{MobileCat|i=ClothingJul2015|p=9|v=2}}
+{{MobileCat|i=ClothingJul2015|p=10|v=2}}
+{{MobileCat|i=ClothingJul2015|p=11|v=2}}
+{{MobileCat|i=ClothingJul2015|p=12|v=2}}
+{{MobileCat|i=ClothingJul2015|p=13|v=2}}
+{{MobileCat|i=ClothingJul2015|p=14|v=2}}
+{{MobileCat|i=ClothingJul2015|p=15|v=2}}
+{{MobileCat|i=ClothingJul2015|p=16|v=1}}
+{{MobileCat|i=ClothingJul2015|p=17|v=1}}
+{{MobileCat|i=ClothingJul2015|p=18|v=1}}
+{{MobileCat|i=ClothingJul2015|p=19|v=2}}
+{{MobileCat|i=ClothingJul2015|p=20|v=1}}
+{{MobileCat|i=ClothingJul2015|p=21|v=2}}
+{{MobileCat|i=ClothingJul2015|p=22|v=1}}
+{{MobileCat|i=ClothingJul2015|p=23|v=2}}
+{{MobileCat|i=ClothingJul2015|p=24|v=1}}
+{{MobileCat|i=ClothingJul2015|p=25|v=2}}
+{{MobileCat|i=ClothingJul2015|p=26|v=1}}
+{{MobileCat|i=ClothingJul2015|p=27|v=2}}
+{{MobileCat|i=ClothingJul2015|p=28|v=1}}
+{{MobileCat|i=ClothingJul2015|p=29|v=1}}
+{{MobileCat|i=ClothingJul2015|d=<small>BACK</small>|p=30|v=2|w=2}}||[[Media:ENCataloguesClothingJul2015.json|GLOBAL]]
+|-
+|Aug 2015||
+{{MobileCat|i=ClothingAug2015|p=1|v=1|w=1}}
+{{MobileCat|i=ClothingJul2015|d=1|p=2|v=1}}
+{{MobileCat|i=ClothingJul2015|d=2|p=3|v=2}}
+{{MobileCat|i=ClothingAug2015|p=4|v=1}}
+{{MobileCat|i=ClothingAug2015|p=5|v=2}}
+{{MobileCat|i=ClothingAug2015|p=6|v=1}}
+{{MobileCat|i=ClothingAug2015|p=7|v=2}}
+{{MobileCat|i=ClothingAug2015|p=8|v=2}}
+{{MobileCat|i=ClothingAug2015|p=9|v=2}}
+{{MobileCat|i=ClothingAug2015|p=10|v=2}}
+{{MobileCat|i=ClothingAug2015|p=11|v=1}}
+{{MobileCat|i=ClothingAug2015|p=12|v=2}}
+{{MobileCat|i=ClothingAug2015|p=13|v=1}}
+{{MobileCat|i=ClothingAug2015|p=14|v=2}}
+{{MobileCat|i=ClothingAug2015|p=15|v=2}}
+{{MobileCat|i=ClothingAug2015|p=16|v=2}}
+{{MobileCat|i=ClothingAug2015|p=17|v=2}}
+{{MobileCat|i=ClothingAug2015|p=18|v=2}}
+{{MobileCat|i=ClothingAug2015|p=19|v=2}}
+{{MobileCat|i=ClothingAug2015|p=20|v=1}}
+{{MobileCat|i=ClothingJul2015|d=20|p=9|v=2}}
+{{MobileCat|i=ClothingJul2015|d=21|p=10|v=2}}
+{{MobileCat|i=ClothingJul2015|d=22|p=11|v=2}}
+{{MobileCat|i=ClothingJul2015|d=23|p=12|v=2}}
+{{MobileCat|i=ClothingJul2015|d=24|p=13|v=2}}
+{{MobileCat|i=ClothingJul2015|d=25|p=14|v=2}}
+{{MobileCat|i=ClothingJul2015|d=26|p=15|v=2}}
+{{MobileCat|i=ClothingAug2015|p=28|v=2}}
+{{MobileCat|i=ClothingAug2015|p=29|v=1}}
+{{MobileCat|i=ClothingAug2015|p=30|v=1}}
+{{MobileCat|i=ClothingAug2015|p=31|v=1}}
+{{MobileCat|i=ClothingAug2015|p=32|v=1}}
+{{MobileCat|i=ClothingAug2015|p=33|v=2}}
+{{MobileCat|i=ClothingAug2015|p=34|v=1}}
+{{MobileCat|i=ClothingAug2015|p=35|v=2}}
+{{MobileCat|i=ClothingAug2015|p=36|v=2}}
+{{MobileCat|i=ClothingAug2015|p=37|v=2}}
+{{MobileCat|i=ClothingAug2015|p=38|v=2}}
+{{MobileCat|i=ClothingAug2015|p=39|v=2}}
+{{MobileCat|i=ClothingAug2015|p=40|v=2}}
+{{MobileCat|i=ClothingAug2015|p=41|v=2}}
+{{MobileCat|i=ClothingAug2015|p=42|v=1}}
+{{MobileCat|i=ClothingAug2015|p=43|v=2}}
+{{MobileCat|i=ClothingAug2015|p=44|v=2}}
+{{MobileCat|i=ClothingAug2015|p=45|v=2}}
+{{MobileCat|i=ClothingAug2015|p=46|v=1}}
+{{MobileCat|i=ClothingAug2015|p=47|v=2}}
+{{MobileCat|i=ClothingAug2015|p=48|v=2}}
+{{MobileCat|i=ClothingAug2015|p=49|v=2}}
+{{MobileCat|i=ClothingAug2015|p=50|v=2}}
+{{MobileCat|i=ClothingAug2015|p=51|v=2}}
+{{MobileCat|i=ClothingAug2015|p=52|v=1}}
+{{MobileCat|i=ClothingAug2015|p=53|v=2}}
+{{MobileCat|i=ClothingAug2015|p=54|v=2}}
+{{MobileCat|i=ClothingAug2015|p=55|v=2}}
+{{MobileCat|i=ClothingAug2015|p=56|v=2}}
+{{MobileCat|i=ClothingAug2015|p=57|v=2}}
+{{MobileCat|i=ClothingAug2015|p=58|v=2}}
+{{MobileCat|i=ClothingAug2015|p=59|v=2}}
+{{MobileCat|i=ClothingAug2015|p=60|v=1}}
+{{MobileCat|i=ClothingAug2015|p=61|v=2}}
+{{MobileCat|i=ClothingAug2015|p=62|v=2}}
+{{MobileCat|i=ClothingAug2015|p=63|v=2}}
+{{MobileCat|i=ClothingAug2015|p=64|v=2}}
+{{MobileCat|i=ClothingAug2015|p=65|v=2}}
+{{MobileCat|i=ClothingAug2015|p=66|v=1}}
+{{MobileCat|i=ClothingAug2015|p=67|v=2}}
+{{MobileCat|i=ClothingAug2015|p=68|v=2}}
+{{MobileCat|i=ClothingAug2015|p=69|v=2}}
+{{MobileCat|i=ClothingAug2015|p=70|v=1}}
+{{MobileCat|i=ClothingAug2015|p=71|v=1}}
+{{MobileCat|i=ClothingJul2015|d=71|p=28|v=1}}
+{{MobileCat|i=ClothingAug2015|p=73|v=1}}
+{{MobileCat|i=ClothingJul2015|d=<small>BACK</small>|p=30|v=2|w=2}}||[[Media:ENCataloguesClothingAug2015.json|GLOBAL]]
+|-
+|Sep 2015||
+{{MobileCat|i=ClothingSep2015|p=1|v=1|w=1}}
+{{MobileCat|i=ClothingJul2015|p=2|v=1}}
+{{MobileCat|i=ClothingJul2015|p=3|v=2}}
+{{MobileCat|i=ClothingSep2015|p=4|v=1}}
+{{MobileCat|i=ClothingAug2015|p=5|v=2}}
+{{MobileCat|i=ClothingSep2015|p=6|v=4}}
+{{MobileCat|i=ClothingSep2015|p=7|v=4}}
+{{MobileCat|i=ClothingSep2015|p=8|v=2}}
+{{MobileCat|i=ClothingSep2015|p=9|v=2}}
+{{MobileCat|i=ClothingSep2015|p=10|v=2}}
+{{MobileCat|i=ClothingSep2015|p=11|v=2}}
+{{MobileCat|i=ClothingSep2015|p=12|v=4}}
+{{MobileCat|i=ClothingSep2015|p=13|v=2}}
+{{MobileCat|i=ClothingSep2015|p=14|v=2}}
+{{MobileCat|i=ClothingSep2015|p=15|v=2}}
+{{MobileCat|i=ClothingSep2015|p=16|v=2}}
+{{MobileCat|i=ClothingSep2015|p=17|v=4}}
+{{MobileCat|i=ClothingSep2015|p=18|v=2}}
+{{MobileCat|i=ClothingSep2015|p=19|v=2}}
+{{MobileCat|i=ClothingSep2015|p=20|v=2}}
+{{MobileCat|i=ClothingSep2015|p=21|v=2}}
+{{MobileCat|i=ClothingSep2015|p=22|v=2}}
+{{MobileCat|i=ClothingSep2015|p=23|v=2}}
+{{MobileCat|i=ClothingSep2015|p=24|v=4}}
+{{MobileCat|i=ClothingAug2015|d=24|p=7|v=2}}
+{{MobileCat|i=ClothingAug2015|d=25|p=8|v=2}}
+{{MobileCat|i=ClothingAug2015|d=26|p=9|v=2}}
+{{MobileCat|i=ClothingAug2015|d=27|p=10|v=2}}
+{{MobileCat|i=ClothingAug2015|d=28|p=11|v=1}}
+{{MobileCat|i=ClothingAug2015|d=29|p=12|v=2}}
+{{MobileCat|i=ClothingAug2015|d=30|p=13|v=1}}
+{{MobileCat|i=ClothingAug2015|d=31|p=14|v=2}}
+{{MobileCat|i=ClothingAug2015|d=32|p=15|v=2}}
+{{MobileCat|i=ClothingAug2015|d=33|p=16|v=2}}
+{{MobileCat|i=ClothingAug2015|d=34|p=17|v=2}}
+{{MobileCat|i=ClothingAug2015|d=35|p=18|v=2}}
+{{MobileCat|i=ClothingAug2015|d=36|p=19|v=2}}
+{{MobileCat|i=ClothingAug2015|d=37|p=28|v=2}}
+{{MobileCat|i=ClothingAug2015|d=38|p=29|v=2}}
+{{MobileCat|i=ClothingSep2015|p=40|v=1}}
+{{MobileCat|i=ClothingSep2015|p=41|v=1}}
+{{MobileCat|i=ClothingAug2015|d=41|p=32|v=1}}
+{{MobileCat|i=ClothingAug2015|d=42|p=33|v=2}}
+{{MobileCat|i=ClothingAug2015|d=43|p=34|v=1}}
+{{MobileCat|i=ClothingAug2015|d=44|p=35|v=2}}
+{{MobileCat|i=ClothingAug2015|d=45|p=36|v=2}}
+{{MobileCat|i=ClothingAug2015|d=46|p=37|v=2}}
+{{MobileCat|i=ClothingAug2015|d=47|p=38|v=2}}
+{{MobileCat|i=ClothingAug2015|d=48|p=39|v=2}}
+{{MobileCat|i=ClothingAug2015|d=49|p=40|v=2}}
+{{MobileCat|i=ClothingAug2015|d=50|p=41|v=2}}
+{{MobileCat|i=ClothingAug2015|d=51|p=42|v=1}}
+{{MobileCat|i=ClothingAug2015|d=52|p=43|v=2}}
+{{MobileCat|i=ClothingAug2015|d=53|p=44|v=2}}
+{{MobileCat|i=ClothingAug2015|d=54|p=45|v=2}}
+{{MobileCat|i=ClothingAug2015|d=55|p=46|v=1}}
+{{MobileCat|i=ClothingAug2015|d=56|p=47|v=2}}
+{{MobileCat|i=ClothingAug2015|d=57|p=48|v=2}}
+{{MobileCat|i=ClothingAug2015|d=58|p=49|v=2}}
+{{MobileCat|i=ClothingAug2015|d=59|p=50|v=2}}
+{{MobileCat|i=ClothingAug2015|d=60|p=51|v=2}}
+{{MobileCat|i=ClothingAug2015|d=61|p=52|v=1}}
+{{MobileCat|i=ClothingAug2015|d=62|p=53|v=2}}
+{{MobileCat|i=ClothingAug2015|d=63|p=54|v=2}}
+{{MobileCat|i=ClothingAug2015|d=64|p=55|v=2}}
+{{MobileCat|i=ClothingAug2015|d=65|p=56|v=2}}
+{{MobileCat|i=ClothingAug2015|d=66|p=57|v=2}}
+{{MobileCat|i=ClothingAug2015|d=67|p=58|v=2}}
+{{MobileCat|i=ClothingAug2015|d=68|p=59|v=2}}
+{{MobileCat|i=ClothingAug2015|d=69|p=60|v=1}}
+{{MobileCat|i=ClothingAug2015|d=70|p=61|v=2}}
+{{MobileCat|i=ClothingAug2015|d=71|p=62|v=2}}
+{{MobileCat|i=ClothingAug2015|d=72|p=63|v=2}}
+{{MobileCat|i=ClothingAug2015|d=73|p=64|v=2}}
+{{MobileCat|i=ClothingAug2015|d=74|p=65|v=2}}
+{{MobileCat|i=ClothingAug2015|d=75|p=66|v=1}}
+{{MobileCat|i=ClothingAug2015|d=76|p=67|v=2}}
+{{MobileCat|i=ClothingAug2015|d=77|p=68|v=2}}
+{{MobileCat|i=ClothingAug2015|d=78|p=69|v=2}}
+{{MobileCat|i=ClothingSep2015|p=80|v=1}}
+{{MobileCat|i=ClothingSep2015|p=81|v=4}}
+{{MobileCat|i=ClothingJul2015|d=81|p=28|v=1}}
+{{MobileCat|i=ClothingAug2015|d=82|p=73|v=1}}
+{{MobileCat|i=ClothingJul2015|d=<small>BACK</small>|p=30|v=2|w=2}}||[[Media:ENCataloguesClothingSep2015.json|GLOBAL]]
+|-
+|Oct 2015||''Files Missing''||[[Media:ENCataloguesClothingOct2015.json|GLOBAL]]
+|-
+|Nov 2015||
+{{MobileCat|i=ClothingNov2015|p=1|w=1}}
+{{MobileCat|i=ClothingNov2015|p=2}}
+{{MobileCat|i=ClothingJul2015|p=3|v=3}}
+{{MobileCat|i=ClothingNov2015|p=4}}
+{{MobileCat|i=ClothingAug2015|p=5|v=3}}
+{{MobileCat|i=ClothingNov2015|p=6}}
+{{MobileCat|i=ClothingNov2015|p=7}}
+{{MobileCat|i=ClothingNov2015|p=8|v=3}}
+{{MobileCat|i=ClothingNov2015|p=9|v=3}}
+{{MobileCat|i=ClothingNov2015|p=10|v=3}}
+{{MobileCat|i=ClothingNov2015|p=11}}
+{{MobileCat|i=ClothingNov2015|p=12|v=3}}
+{{MobileCat|i=ClothingNov2015|p=13|v=3}}
+{{MobileCat|i=ClothingNov2015|p=14}}
+{{MobileCat|i=ClothingNov2015|p=15|v=3}}
+{{MobileCat|i=ClothingNov2015|p=16|v=3}}
+{{MobileCat|i=ClothingNov2015|p=17|v=3}}
+{{MobileCat|i=ClothingNov2015|p=18|v=3}}
+{{MobileCat|i=ClothingNov2015|p=19|v=3}}
+{{MobileCat|i=ClothingNov2015|p=20|v=3}}
+{{MobileCat|i=ClothingNov2015|p=21|v=3}}
+{{MobileCat|i=ClothingNov2015|p=22|v=3}}
+{{MobileCat|i=ClothingNov2015|p=23|v=3}}
+{{MobileCat|i=ClothingNov2015|p=24|v=3}}
+{{MobileCat|i=ClothingNov2015|p=25|v=3}}
+{{MobileCat|i=ClothingNov2015|p=26|v=3}}
+{{MobileCat|i=ClothingNov2015|p=27|v=3}}
+{{MobileCat|i=ClothingNov2015|p=28}}
+{{MobileCat|i=ClothingNov2015|p=29|v=3}}
+{{MobileCat|i=ClothingNov2015|p=30|v=3}}
+{{MobileCat|i=ClothingNov2015|p=31|v=3}}
+{{MobileCat|i=ClothingNov2015|p=32|v=3}}
+{{MobileCat|i=ClothingNov2015|p=33|v=3}}
+{{MobileCat|i=ClothingNov2015|p=34}}
+{{MobileCat|i=ClothingNov2015|p=35}}
+{{MobileCat|i=ClothingNov2015|p=36}}
+{{MobileCat|i=ClothingNov2015|p=37}}
+{{MobileCat|i=ClothingNov2015|p=38}}
+{{MobileCat|i=ClothingAug2015|d=38|p=33|v=3}}
+{{MobileCat|i=ClothingAug2015|d=39|p=34}}
+{{MobileCat|i=ClothingAug2015|d=40|p=35|v=3}}
+{{MobileCat|i=ClothingNov2015|p=42|v=3}}
+{{MobileCat|i=ClothingAug2015|d=42|p=37|v=3}}
+{{MobileCat|i=ClothingNov2015|p=44|v=3}}
+{{MobileCat|i=ClothingAug2015|d=44|p=39|v=3}}
+{{MobileCat|i=ClothingNov2015|p=46|v=3}}
+{{MobileCat|i=ClothingAug2015|d=46|p=41|v=3}}
+{{MobileCat|i=ClothingNov2015|p=48}}
+{{MobileCat|i=ClothingNov2015|p=49|v=3}}
+{{MobileCat|i=ClothingNov2015|p=50|v=3}}
+{{MobileCat|i=ClothingAug2015|d=50|p=45|v=3}}
+{{MobileCat|i=ClothingAug2015|d=51|p=46}}
+{{MobileCat|i=ClothingAug2015|d=52|p=47|v=3}}
+{{MobileCat|i=ClothingNov2015|p=54|v=3}}
+{{MobileCat|i=ClothingAug2015|d=54|p=49|v=3}}
+{{MobileCat|i=ClothingNov2015|p=56|v=3}}
+{{MobileCat|i=ClothingAug2015|d=56|p=51|v=3}}
+{{MobileCat|i=ClothingAug2015|d=57|p=52}}
+{{MobileCat|i=ClothingAug2015|d=58|p=53|v=3}}
+{{MobileCat|i=ClothingNov2015|p=60|v=3}}
+{{MobileCat|i=ClothingAug2015|d=60|p=55|v=3}}
+{{MobileCat|i=ClothingNov2015|p=62|v=3}}
+{{MobileCat|i=ClothingAug2015|d=62|p=57|v=3}}
+{{MobileCat|i=ClothingNov2015|p=64|v=3}}
+{{MobileCat|i=ClothingAug2015|d=64|p=59|v=3}}
+{{MobileCat|i=ClothingAug2015|d=65|p=60}}
+{{MobileCat|i=ClothingAug2015|d=66|p=61|v=3}}
+{{MobileCat|i=ClothingNov2015|p=68|v=3}}
+{{MobileCat|i=ClothingAug2015|d=68|p=63|v=3}}
+{{MobileCat|i=ClothingNov2015|p=70|v=3}}
+{{MobileCat|i=ClothingAug2015|d=70|p=65|v=3}}
+{{MobileCat|i=ClothingAug2015|d=71|p=66}}
+{{MobileCat|i=ClothingAug2015|d=72|p=67|v=3}}
+{{MobileCat|i=ClothingNov2015|p=74|v=3}}
+{{MobileCat|i=ClothingAug2015|d=74|p=69|v=3}}
+{{MobileCat|i=ClothingNov2015|p=76}}
+{{MobileCat|i=ClothingNov2015|p=77}}
+{{MobileCat|i=ClothingJul2015|d=77|p=28}}
+{{MobileCat|i=ClothingAug2015|d=78|p=73}}
+{{MobileCat|i=ClothingJul2015|d=<small>BACK</small>|p=30|v=2|w=2}}||[[Media:ENCataloguesClothingNov2015.json|GLOBAL]]
+|-
+|Dec 2015||
+{{MobileCat|i=ClothingDec2015|p=1|w=1}}
+{{MobileCat|i=ClothingDec2015|p=2}}
+{{MobileCat|i=ClothingDec2015|p=3|v=3}}
+{{MobileCat|i=ClothingDec2015|p=4}}
+{{MobileCat|i=ClothingDec2015|p=5|v=3}}
+{{MobileCat|i=ClothingDec2015|p=6}}
+{{MobileCat|i=ClothingDec2015|p=7|v=3}}
+{{MobileCat|i=ClothingDec2015|p=8}}
+{{MobileCat|i=ClothingDec2015|p=9|v=3}}
+{{MobileCat|i=ClothingDec2015|p=10}}
+{{MobileCat|i=ClothingDec2015|p=11|v=3}}
+{{MobileCat|i=ClothingDec2015|p=12}}
+{{MobileCat|i=ClothingDec2015|p=13|v=3}}
+{{MobileCat|i=ClothingDec2015|p=14|v=3}}
+{{MobileCat|i=ClothingDec2015|p=15|v=3}}
+{{MobileCat|i=ClothingDec2015|p=16}}
+{{MobileCat|i=ClothingDec2015|p=17|v=3}}
+{{MobileCat|i=ClothingDec2015|p=18}}
+{{MobileCat|i=ClothingDec2015|p=19}}
+{{MobileCat|i=ClothingDec2015|p=20}}
+{{MobileCat|i=ClothingDec2015|p=21|v=3}}
+{{MobileCat|i=ClothingDec2015|p=22}}
+{{MobileCat|i=ClothingDec2015|p=23}}
+{{MobileCat|i=ClothingDec2015|p=24}}
+{{MobileCat|i=ClothingDec2015|p=25|v=3}}
+{{MobileCat|i=ClothingDec2015|p=26}}
+{{MobileCat|i=ClothingDec2015|p=27}}
+{{MobileCat|i=ClothingDec2015|p=28}}
+{{MobileCat|i=ClothingDec2015|p=29}}
+{{MobileCat|i=ClothingDec2015|p=30}}
+{{MobileCat|i=ClothingDec2015|p=31}}
+{{MobileCat|i=ClothingDec2015|p=32}}
+{{MobileCat|i=ClothingDec2015|p=33|v=3}}
+{{MobileCat|i=ClothingDec2015|p=34}}
+{{MobileCat|i=ClothingDec2015|p=35|v=3}}
+{{MobileCat|i=ClothingDec2015|p=36|v=3}}
+{{MobileCat|i=ClothingDec2015|p=37|v=3}}
+{{MobileCat|i=ClothingDec2015|p=38|v=3}}
+{{MobileCat|i=ClothingDec2015|p=39|v=3}}
+{{MobileCat|i=ClothingDec2015|p=40|v=3}}
+{{MobileCat|i=ClothingDec2015|p=41|v=3}}
+{{MobileCat|i=ClothingDec2015|p=42}}
+{{MobileCat|i=ClothingDec2015|p=43|v=3}}
+{{MobileCat|i=ClothingDec2015|p=44|v=3}}
+{{MobileCat|i=ClothingDec2015|p=45|v=3}}
+{{MobileCat|i=ClothingDec2015|p=46}}
+{{MobileCat|i=ClothingDec2015|p=47|v=3}}
+{{MobileCat|i=ClothingDec2015|p=48|v=3}}
+{{MobileCat|i=ClothingDec2015|p=49|v=3}}
+{{MobileCat|i=ClothingDec2015|p=50|v=3}}
+{{MobileCat|i=ClothingDec2015|p=51|v=3}}
+{{MobileCat|i=ClothingDec2015|p=52}}
+{{MobileCat|i=ClothingDec2015|p=53|v=3}}
+{{MobileCat|i=ClothingDec2015|p=54|v=3}}
+{{MobileCat|i=ClothingDec2015|p=55|v=3}}
+{{MobileCat|i=ClothingDec2015|p=56|v=3}}
+{{MobileCat|i=ClothingDec2015|p=57|v=3}}
+{{MobileCat|i=ClothingDec2015|p=58|v=3}}
+{{MobileCat|i=ClothingDec2015|p=59|v=3}}
+{{MobileCat|i=ClothingDec2015|p=60}}
+{{MobileCat|i=ClothingDec2015|p=61|v=3}}
+{{MobileCat|i=ClothingDec2015|p=62|v=3}}
+{{MobileCat|i=ClothingDec2015|p=63|v=3}}
+{{MobileCat|i=ClothingDec2015|p=64|v=3}}
+{{MobileCat|i=ClothingDec2015|p=65|v=3}}
+{{MobileCat|i=ClothingDec2015|p=66}}
+{{MobileCat|i=ClothingDec2015|p=67|v=3}}
+{{MobileCat|i=ClothingDec2015|p=68|v=3}}
+{{MobileCat|i=ClothingDec2015|p=69|v=3}}
+{{MobileCat|i=ClothingDec2015|p=70}}
+{{MobileCat|i=ClothingDec2015|p=71}}
+{{MobileCat|i=ClothingDec2015|p=72}}
+{{MobileCat|i=ClothingDec2015|p=73}}
+{{MobileCat|i=ClothingJul2015|d=<small>BACK</small>|p=30|v=2|w=2}}||[[Media:ENCataloguesClothingDec2015.json|GLOBAL]]
+|-
+|colspan=3|<!--2016-->
+|-
+|Jan 2016||
+{{MobileCat|i=ClothingJan2016|p=1|w=1}}
+{{MobileCat|i=ClothingJan2016|p=2}}
+{{MobileCat|i=ClothingJan2016|p=3|v=3}}
+{{MobileCat|i=ClothingJan2016|p=4}}
+{{MobileCat|i=ClothingDec2015|p=5|v=3}}
+{{MobileCat|i=ClothingJan2016|p=6}}
+{{MobileCat|i=ClothingJan2016|p=7|v=3}}
+{{MobileCat|i=ClothingJan2016|p=8|v=3}}
+{{MobileCat|i=ClothingJan2016|p=9|v=3}}
+{{MobileCat|i=ClothingJan2016|p=10|v=3}}
+{{MobileCat|i=ClothingJan2016|p=11|v=3}}
+{{MobileCat|i=ClothingJan2016|p=12|v=3}}
+{{MobileCat|i=ClothingJan2016|p=13}}
+{{MobileCat|i=ClothingJan2016|p=14|v=3}}
+{{MobileCat|i=ClothingJan2016|p=15|v=3}}
+{{MobileCat|i=ClothingJan2016|p=16|v=3}}
+{{MobileCat|i=ClothingJan2016|p=17}}
+{{MobileCat|i=ClothingJan2016|p=18|v=3}}
+{{MobileCat|i=ClothingJan2016|p=19}}
+{{MobileCat|i=ClothingJan2016|p=20|v=3}}
+{{MobileCat|i=ClothingJan2016|p=21|v=3}}
+{{MobileCat|i=ClothingJan2016|p=22}}
+{{MobileCat|i=ClothingJan2016|p=23|v=3}}
+{{MobileCat|i=ClothingJan2016|p=24|v=3}}
+{{MobileCat|i=ClothingJan2016|p=25|v=3}}
+{{MobileCat|i=ClothingJan2016|p=26|v=3}}
+{{MobileCat|i=ClothingJan2016|p=27|v=3}}
+{{MobileCat|i=ClothingJan2016|p=28|v=3}}
+{{MobileCat|i=ClothingJan2016|p=29|v=3}}
+{{MobileCat|i=ClothingDec2015|d=29|p=14|v=3}}
+{{MobileCat|i=ClothingDec2015|d=30|p=15|v=3}}
+{{MobileCat|i=ClothingJan2016|p=32|v=3}}
+{{MobileCat|i=ClothingJan2016|p=33|v=3}}
+{{MobileCat|i=ClothingJan2016|p=34|v=3}}
+{{MobileCat|i=ClothingJan2016|p=35}}
+{{MobileCat|i=ClothingJan2016|p=36|v=3}}
+{{MobileCat|i=ClothingJan2016|p=37|v=3}}
+{{MobileCat|i=ClothingNov2015|d=37|p=12|v=3}}
+{{MobileCat|i=ClothingAug2015|d=38|p=29}}
+{{MobileCat|i=ClothingJan2016|p=40}}
+{{MobileCat|i=ClothingJan2016|p=41}}
+{{MobileCat|i=ClothingDec2015|d=41|p=32}}
+{{MobileCat|i=ClothingDec2015|d=42|p=33|v=3}}
+{{MobileCat|i=ClothingDec2015|d=43|p=34}}
+{{MobileCat|i=ClothingDec2015|d=44|p=35|v=3}}
+{{MobileCat|i=ClothingDec2015|d=45|p=36|v=3}}
+{{MobileCat|i=ClothingDec2015|d=46|p=37|v=3}}
+{{MobileCat|i=ClothingDec2015|d=47|p=38|v=3}}
+{{MobileCat|i=ClothingDec2015|d=48|p=39|v=3}}
+{{MobileCat|i=ClothingDec2015|d=49|p=40|v=3}}
+{{MobileCat|i=ClothingDec2015|d=50|p=41|v=3}}
+{{MobileCat|i=ClothingDec2015|d=51|p=42}}
+{{MobileCat|i=ClothingDec2015|d=52|p=43|v=3}}
+{{MobileCat|i=ClothingDec2015|d=53|p=44|v=3}}
+{{MobileCat|i=ClothingDec2015|d=54|p=45|v=3}}
+{{MobileCat|i=ClothingDec2015|d=55|p=46}}
+{{MobileCat|i=ClothingDec2015|d=56|p=47|v=3}}
+{{MobileCat|i=ClothingDec2015|d=57|p=48|v=3}}
+{{MobileCat|i=ClothingDec2015|d=58|p=49|v=3}}
+{{MobileCat|i=ClothingDec2015|d=59|p=50|v=3}}
+{{MobileCat|i=ClothingDec2015|d=60|p=51|v=3}}
+{{MobileCat|i=ClothingDec2015|d=61|p=52}}
+{{MobileCat|i=ClothingDec2015|d=62|p=53|v=3}}
+{{MobileCat|i=ClothingDec2015|d=63|p=54|v=3}}
+{{MobileCat|i=ClothingDec2015|d=64|p=55|v=3}}
+{{MobileCat|i=ClothingDec2015|d=65|p=56|v=3}}
+{{MobileCat|i=ClothingDec2015|d=66|p=57|v=3}}
+{{MobileCat|i=ClothingDec2015|d=67|p=58|v=3}}
+{{MobileCat|i=ClothingDec2015|d=68|p=59|v=3}}
+{{MobileCat|i=ClothingAug2015|d=69|p=60}}
+{{MobileCat|i=ClothingAug2015|d=70|p=61|v=3}}
+{{MobileCat|i=ClothingDec2015|d=71|p=62|v=3}}
+{{MobileCat|i=ClothingDec2015|d=72|p=63|v=3}}
+{{MobileCat|i=ClothingDec2015|d=73|p=64|v=3}}
+{{MobileCat|i=ClothingDec2015|d=74|p=65|v=3}}
+{{MobileCat|i=ClothingDec2015|d=75|p=66}}
+{{MobileCat|i=ClothingDec2015|d=76|p=67|v=3}}
+{{MobileCat|i=ClothingDec2015|d=77|p=68|v=3}}
+{{MobileCat|i=ClothingDec2015|d=78|p=69|v=3}}
+{{MobileCat|i=ClothingJan2016|p=80}}
+{{MobileCat|i=ClothingJan2016|p=81}}
+{{MobileCat|i=ClothingJan2016|p=82}}
+{{MobileCat|i=ClothingJan2016|p=83}}
+{{MobileCat|i=ClothingJan2016|d=<small>BACK</small>|p=84|v=3|w=2}}||[[Media:ENCataloguesClothingJan2016.json|GLOBAL]]
+|-
+|Feb 2016||
+{{MobileCat|i=ClothingFeb2016|p=1|w=1}}
+{{MobileCat|i=ClothingJan2016|p=2}}
+{{MobileCat|i=ClothingJan2016|p=3|v=3}}
+{{MobileCat|i=ClothingJan2016|p=4}}
+{{MobileCat|i=ClothingFeb2016|p=5|v=3}}
+{{MobileCat|i=ClothingFeb2016|p=6}}
+{{MobileCat|i=ClothingFeb2016|p=7|v=3}}
+{{MobileCat|i=ClothingFeb2016|p=8|v=3}}
+{{MobileCat|i=ClothingFeb2016|p=9|v=3}}
+{{MobileCat|i=ClothingFeb2016|p=10|v=3}}
+{{MobileCat|i=ClothingFeb2016|p=11|v=3}}
+{{MobileCat|i=ClothingFeb2016|p=12|v=3}}
+{{MobileCat|i=ClothingFeb2016|p=13}}
+{{MobileCat|i=ClothingFeb2016|p=14}}
+{{MobileCat|i=ClothingFeb2016|p=15|v=3}}
+{{MobileCat|i=ClothingFeb2016|p=16|v=3}}
+{{MobileCat|i=ClothingFeb2016|p=17|v=3}}
+{{MobileCat|i=ClothingFeb2016|p=18}}
+{{MobileCat|i=ClothingJan2016|d=18|p=7|v=3}}
+{{MobileCat|i=ClothingJan2016|d=19|p=8|v=3}}
+{{MobileCat|i=ClothingJan2016|d=20|p=9|v=3}}
+{{MobileCat|i=ClothingJan2016|d=21|p=10|v=3}}
+{{MobileCat|i=ClothingJan2016|d=22|p=11|v=3}}
+{{MobileCat|i=ClothingJan2016|d=23|p=12|v=3}}
+{{MobileCat|i=ClothingJan2016|d=24|p=13}}
+{{MobileCat|i=ClothingJan2016|d=25|p=14|v=3}}
+{{MobileCat|i=ClothingJan2016|d=26|p=15|v=3}}
+{{MobileCat|i=ClothingJan2016|d=27|p=16|v=3}}
+{{MobileCat|i=ClothingJan2016|d=28|p=17|v=3}}
+{{MobileCat|i=ClothingJan2016|d=29|p=18|v=3}}
+{{MobileCat|i=ClothingJan2016|d=30|p=19}}
+{{MobileCat|i=ClothingJan2016|d=31|p=20|v=3}}
+{{MobileCat|i=ClothingJan2016|d=32|p=21|v=3}}
+{{MobileCat|i=ClothingNov2015|d=33|p=12|v=3}}
+{{MobileCat|i=ClothingAug2015|d=34|p=29}}
+{{MobileCat|i=ClothingFeb2016|p=36}}
+{{MobileCat|i=ClothingFeb2016|p=37}}
+{{MobileCat|i=ClothingDec2015|d=37|p=32}}
+{{MobileCat|i=ClothingDec2015|d=38|p=33|v=3}}
+{{MobileCat|i=ClothingDec2015|d=39|p=34}}
+{{MobileCat|i=ClothingDec2015|d=40|p=35|v=3}}
+{{MobileCat|i=ClothingDec2015|d=41|p=36|v=3}}
+{{MobileCat|i=ClothingDec2015|d=42|p=37|v=3}}
+{{MobileCat|i=ClothingDec2015|d=43|p=38|v=3}}
+{{MobileCat|i=ClothingDec2015|d=44|p=39|v=3}}
+{{MobileCat|i=ClothingDec2015|d=45|p=40|v=3}}
+{{MobileCat|i=ClothingDec2015|d=46|p=41|v=3}}
+{{MobileCat|i=ClothingDec2015|d=47|p=42}}
+{{MobileCat|i=ClothingDec2015|d=48|p=43|v=3}}
+{{MobileCat|i=ClothingDec2015|d=49|p=44|v=3}}
+{{MobileCat|i=ClothingDec2015|d=50|p=45|v=3}}
+{{MobileCat|i=ClothingDec2015|d=51|p=46}}
+{{MobileCat|i=ClothingDec2015|d=52|p=47|v=3}}
+{{MobileCat|i=ClothingDec2015|d=53|p=48|v=3}}
+{{MobileCat|i=ClothingDec2015|d=54|p=49|v=3}}
+{{MobileCat|i=ClothingDec2015|d=55|p=50|v=3}}
+{{MobileCat|i=ClothingDec2015|d=56|p=51|v=3}}
+{{MobileCat|i=ClothingDec2015|d=57|p=52}}
+{{MobileCat|i=ClothingDec2015|d=58|p=53|v=3}}
+{{MobileCat|i=ClothingDec2015|d=59|p=54|v=3}}
+{{MobileCat|i=ClothingDec2015|d=60|p=55|v=3}}
+{{MobileCat|i=ClothingDec2015|d=61|p=56|v=3}}
+{{MobileCat|i=ClothingDec2015|d=62|p=57|v=3}}
+{{MobileCat|i=ClothingDec2015|d=63|p=58|v=3}}
+{{MobileCat|i=ClothingDec2015|d=64|p=59|v=3}}
+{{MobileCat|i=ClothingAug2015|d=65|p=60}}
+{{MobileCat|i=ClothingAug2015|d=66|p=61|v=3}}
+{{MobileCat|i=ClothingDec2015|d=67|p=62|v=3}}
+{{MobileCat|i=ClothingDec2015|d=68|p=63|v=3}}
+{{MobileCat|i=ClothingDec2015|d=69|p=64|v=3}}
+{{MobileCat|i=ClothingDec2015|d=70|p=65|v=3}}
+{{MobileCat|i=ClothingDec2015|d=71|p=66}}
+{{MobileCat|i=ClothingDec2015|d=72|p=67|v=3}}
+{{MobileCat|i=ClothingDec2015|d=73|p=68|v=3}}
+{{MobileCat|i=ClothingDec2015|d=74|p=69|v=3}}
+{{MobileCat|i=ClothingFeb2016|p=76}}
+{{MobileCat|i=ClothingFeb2016|p=77}}
+{{MobileCat|i=ClothingJan2016|d=77|p=82}}
+{{MobileCat|i=ClothingJan2016|d=78|p=83}}
+{{MobileCat|i=ClothingFeb2016|d=<small>BACK</small>|p=80|v=3|w=2}}||[[Media:ENCataloguesClothingFeb2016.json|GLOBAL]]
+|-
+|Mar 2016||
+{{MobileCat|i=ClothingMar2016|p=1|w=1}}
+{{MobileCat|i=ClothingJan2016|p=2}}
+{{MobileCat|i=ClothingJan2016|p=3|v=3}}
+{{MobileCat|i=ClothingJan2016|p=4}}
+{{MobileCat|i=ClothingFeb2016|d=4|p=5|v=3}}
+{{MobileCat|i=ClothingMar2016|p=6}}
+{{MobileCat|i=ClothingMar2016|p=7|v=3}}
+{{MobileCat|i=ClothingMar2016|p=8|v=3}}
+{{MobileCat|i=ClothingMar2016|p=9|v=3}}
+{{MobileCat|i=ClothingMar2016|p=10|v=3}}
+{{MobileCat|i=ClothingMar2016|p=11|v=3}}
+{{MobileCat|i=ClothingMar2016|p=12|v=3}}
+{{MobileCat|i=ClothingMar2016|p=13|v=3}}
+{{MobileCat|i=ClothingMar2016|p=14|v=3}}
+{{MobileCat|i=ClothingMar2016|p=15|v=3}}
+{{MobileCat|i=ClothingMar2016|p=16|v=3}}
+{{MobileCat|i=ClothingMar2016|p=17|v=3}}
+{{MobileCat|i=ClothingMar2016|p=18|v=3}}
+{{MobileCat|i=ClothingMar2016|p=19|v=3}}
+{{MobileCat|i=ClothingMar2016|p=20|v=3}}
+{{MobileCat|i=ClothingMar2016|p=21|v=3}}
+{{MobileCat|i=ClothingMar2016|p=22|v=3}}
+{{MobileCat|i=ClothingMar2016|p=23|v=3}}
+{{MobileCat|i=ClothingMar2016|p=24|v=3}}
+{{MobileCat|i=ClothingMar2016|p=25|v=3}}
+{{MobileCat|i=ClothingMar2016|p=26|v=3}}
+{{MobileCat|i=ClothingMar2016|p=27|v=3}}
+{{MobileCat|i=ClothingMar2016|p=28}}
+{{MobileCat|i=ClothingFeb2016|d=28|p=7|v=3}}
+{{MobileCat|i=ClothingFeb2016|d=29|p=8|v=3}}
+{{MobileCat|i=ClothingFeb2016|d=30|p=9|v=3}}
+{{MobileCat|i=ClothingFeb2016|d=31|p=10|v=3}}
+{{MobileCat|i=ClothingFeb2016|d=32|p=11|v=3}}
+{{MobileCat|i=ClothingFeb2016|d=33|p=12|v=3}}
+{{MobileCat|i=ClothingMar2016|p=35}}
+{{MobileCat|i=ClothingMar2016|p=36}}
+{{MobileCat|i=ClothingFeb2016|d=36|p=15|v=3}}
+{{MobileCat|i=ClothingMar2016|p=38|v=3}}
+{{MobileCat|i=ClothingMar2016|p=39|v=3}}
+{{MobileCat|i=ClothingNov2015|d=39|p=12|v=3}}
+{{MobileCat|i=ClothingAug2015|d=40|p=29}}
+{{MobileCat|i=ClothingMar2016|p=42}}
+{{MobileCat|i=ClothingMar2016|p=43}}
+{{MobileCat|i=ClothingDec2015|d=43|p=32}}
+{{MobileCat|i=ClothingDec2015|d=44|p=33|v=3}}
+{{MobileCat|i=ClothingDec2015|d=45|p=34}}
+{{MobileCat|i=ClothingDec2015|d=46|p=35|v=3}}
+{{MobileCat|i=ClothingDec2015|d=47|p=36|v=3}}
+{{MobileCat|i=ClothingDec2015|d=48|p=37|v=3}}
+{{MobileCat|i=ClothingDec2015|d=49|p=38|v=3}}
+{{MobileCat|i=ClothingDec2015|d=50|p=39|v=3}}
+{{MobileCat|i=ClothingDec2015|d=51|p=40|v=3}}
+{{MobileCat|i=ClothingDec2015|d=52|p=41|v=3}}
+{{MobileCat|i=ClothingDec2015|d=53|p=42}}
+{{MobileCat|i=ClothingDec2015|d=54|p=43|v=3}}
+{{MobileCat|i=ClothingDec2015|d=55|p=44|v=3}}
+{{MobileCat|i=ClothingDec2015|d=56|p=45|v=3}}
+{{MobileCat|i=ClothingDec2015|d=57|p=46}}
+{{MobileCat|i=ClothingDec2015|d=58|p=47|v=3}}
+{{MobileCat|i=ClothingDec2015|d=59|p=48|v=3}}
+{{MobileCat|i=ClothingDec2015|d=60|p=49|v=3}}
+{{MobileCat|i=ClothingDec2015|d=61|p=50|v=3}}
+{{MobileCat|i=ClothingDec2015|d=62|p=51|v=3}}
+{{MobileCat|i=ClothingDec2015|d=63|p=52}}
+{{MobileCat|i=ClothingDec2015|d=64|p=53|v=3}}
+{{MobileCat|i=ClothingDec2015|d=65|p=54|v=3}}
+{{MobileCat|i=ClothingDec2015|d=66|p=55|v=3}}
+{{MobileCat|i=ClothingDec2015|d=67|p=56|v=3}}
+{{MobileCat|i=ClothingDec2015|d=68|p=57|v=3}}
+{{MobileCat|i=ClothingDec2015|d=69|p=58|v=3}}
+{{MobileCat|i=ClothingDec2015|d=70|p=59|v=3}}
+{{MobileCat|i=ClothingAug2015|d=71|p=60}}
+{{MobileCat|i=ClothingMar2016|p=73|v=3}}
+{{MobileCat|i=ClothingDec2015|d=73|p=62|v=3}}
+{{MobileCat|i=ClothingDec2015|d=74|p=63|v=3}}
+{{MobileCat|i=ClothingDec2015|d=75|p=64|v=3}}
+{{MobileCat|i=ClothingDec2015|d=76|p=65|v=3}}
+{{MobileCat|i=ClothingDec2015|d=77|p=66}}
+{{MobileCat|i=ClothingDec2015|d=78|p=67|v=3}}
+{{MobileCat|i=ClothingDec2015|d=79|p=68|v=3}}
+{{MobileCat|i=ClothingMar2016|p=81|v=3}}
+{{MobileCat|i=ClothingMar2016|p=82}}
+{{MobileCat|i=ClothingMar2016|p=83}}
+{{MobileCat|i=ClothingJan2016|d=83|p=82}}
+{{MobileCat|i=ClothingJan2016|d=84|p=83}}
+{{MobileCat|i=ClothingFeb2016|d=<small>BACK</small>|p=80|v=3|w=2}}||[[Media:ENCataloguesClothingMar2016.json|GLOBAL]]
+|-
+|Apr 2016||''Files Missing''||[[Media:ENCataloguesClothingApr2016.json|GLOBAL]]
+|-
+|May 2016||''Files Missing''||[[Media:ENCataloguesClothingMay2016.json|GLOBAL]]
+|-
+|Jun 2016||colspan=2|''Files Missing''
+|-
+|Jul 2016||''Files Missing''||[[Media:ENCataloguesClothingJul2016.json|GLOBAL]]
+|-
+|Aug 2016||''Files Missing''||[[Media:ENCataloguesClothingAug2016.json|GLOBAL]]
+|-
+|Sep 2016||''Files Missing''||[[Media:ENCataloguesClothingSep2016.json|GLOBAL]]
+|-
+|Oct 2016||''Files Missing''||[[Media:ENCataloguesClothingOct2016.json|GLOBAL]]
+|-
+|Nov 2016||''Files Missing''||[[Media:ENCataloguesClothingNov2016.json|GLOBAL]]
+|-
+|Dec 2016||colspan=2|''Files Missing''
+|-
+|colspan=3|<!--2017-->
+|-
+|Jan 2017||''Files Missing''||[[Media:ENCataloguesClothingJan2017.json|GLOBAL]]
+|-
+|Feb 2017||
+{{MobileCat|i=ClothingFeb2017|p=1|w=1}}
+{{MobileCat|i=ClothingJan2016|p=2}}
+{{MobileCat|i=ClothingJan2016|p=3|v=3}}
+{{MobileCat|i=ClothingJan2016|p=4}}
+{{MobileCat|i=ClothingDec2015|p=5|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=6}}
+{{MobileCat|i=ClothingFeb2017|p=7|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=8|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=9|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=10|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=11|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=12|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=13|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=14|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=15|v=3}}
+{{MobileCat|i=ClothingAug2015|d=15|p=12|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=17}}
+{{MobileCat|i=ClothingFeb2017|p=18|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=19|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=20}}
+{{MobileCat|i=ClothingFeb2017|p=21|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=22|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=23|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=24|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=25|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=26|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=27|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=28|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=29|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=30|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=31|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=32|v=3}}
+{{MobileCat|i=ClothingDec2015|d=32|p=29}}
+{{MobileCat|i=ClothingFeb2017|p=34}}
+{{MobileCat|i=ClothingFeb2017|p=35}}
+{{MobileCat|i=ClothingDec2015|d=35|p=32}}
+{{MobileCat|i=ClothingDec2015|d=36|p=33|v=3}}
+{{MobileCat|i=ClothingDec2015|d=37|p=34}}
+{{MobileCat|i=ClothingDec2015|d=38|p=35|v=3}}
+{{MobileCat|i=ClothingDec2015|d=39|p=36|v=3}}
+{{MobileCat|i=ClothingDec2015|d=40|p=37|v=3}}
+{{MobileCat|i=ClothingDec2015|d=41|p=38|v=3}}
+{{MobileCat|i=ClothingDec2015|d=42|p=39|v=3}}
+{{MobileCat|i=ClothingDec2015|d=43|p=40|v=3}}
+{{MobileCat|i=ClothingDec2015|d=44|p=41|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=46}}
+{{MobileCat|i=ClothingDec2015|d=46|p=43|v=3}}
+{{MobileCat|i=ClothingDec2015|d=47|p=44|v=3}}
+{{MobileCat|i=ClothingDec2015|d=48|p=45|v=3}}
+{{MobileCat|i=ClothingDec2015|d=49|p=46}}
+{{MobileCat|i=ClothingDec2015|d=50|p=47|v=3}}
+{{MobileCat|i=ClothingDec2015|d=51|p=48|v=3}}
+{{MobileCat|i=ClothingDec2015|d=52|p=49|v=3}}
+{{MobileCat|i=ClothingDec2015|d=53|p=50|v=3}}
+{{MobileCat|i=ClothingDec2015|d=54|p=51|v=3}}
+{{MobileCat|i=ClothingDec2015|d=55|p=52}}
+{{MobileCat|i=ClothingDec2015|d=56|p=53|v=3}}
+{{MobileCat|i=ClothingDec2015|d=57|p=54|v=3}}
+{{MobileCat|i=ClothingDec2015|d=58|p=55|v=3}}
+{{MobileCat|i=ClothingDec2015|d=59|p=56|v=3}}
+{{MobileCat|i=ClothingDec2015|d=60|p=57|v=3}}
+{{MobileCat|i=ClothingDec2015|d=61|p=58|v=3}}
+{{MobileCat|i=ClothingDec2015|d=62|p=59|v=3}}
+{{MobileCat|i=ClothingAug2015|d=63|p=60}}
+{{MobileCat|i=ClothingMar2016|d=64|p=73|v=3}}
+{{MobileCat|i=ClothingDec2015|d=65|p=62|v=3}}
+{{MobileCat|i=ClothingDec2015|d=66|p=63|v=3}}
+{{MobileCat|i=ClothingDec2015|d=67|p=64|v=3}}
+{{MobileCat|i=ClothingDec2015|d=68|p=65|v=3}}
+{{MobileCat|i=ClothingDec2015|d=69|p=66}}
+{{MobileCat|i=ClothingDec2015|d=70|p=67|v=3}}
+{{MobileCat|i=ClothingDec2015|d=71|p=68|v=3}}
+{{MobileCat|i=ClothingMar2016|d=72|p=81|v=3}}
+{{MobileCat|i=ClothingFeb2017|p=74}}
+{{MobileCat|i=ClothingFeb2017|p=75|v=3}}
+{{MobileCat|i=ClothingJan2016|d=75|p=82}}
+{{MobileCat|i=ClothingJan2016|d=76|p=83}}
+{{MobileCat|i=ClothingFeb2016|d=<small>BACK</small>|p=80|v=3|w=2}}||[[Media:ENCataloguesClothingFeb2017.json|GLOBAL]]
+|}
+
+==Miscellaneous==
+{|class="wikitable" style="margin:auto;"
+!Description!!colspan=4|Languages
+|-
+|Sneak peek of July 2011 edition from the What's New Blog||[[Media:Blog_110630_en.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}
+|}
+
+==Notes==
+*All “GLOBAL” files listed in the mobile section were localized yet identical across all localizations.
+*Following the July 2015 edition of Penguin Style:
+**The flash version was discontinued in favor of the mobile variant for the desktop version of the game.
+**The localization teams would neglect translating text on clothing items, leaving their English equivalents on display across all languages.
+
+[[Category:Catalogs]]

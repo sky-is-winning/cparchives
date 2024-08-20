@@ -1,0 +1,58 @@
+'''FOR A NEW VERSION OF THIS PAGE CHECK [[Cave Maze]]'''
+
+There were some party files accidentally uploaded, so I decided to archive them and put them here until we are sure, where they belong...
+
+Thanks to [[user:Lisured|Lisured]] for finding those out (on [http://fan-club-penguin.cz/ FCP])!
+
+==Rooms==
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room
+!Music
+|-
+|[[Media:RoomsParty1-MazeParty2015.swf|Party 1]]||N/A
+|-
+|[[Media:RoomsParty2-MazeParty2015.swf|Party 2]]||N/A
+|-
+|[[Media:RoomsParty3-MazeParty2015.swf|Party 3]]||N/A
+|-
+|[[Media:RoomsParty4-MazeParty2015.swf|Party 4]]||N/A
+|-
+|[[Media:RoomsParty5-MazeParty2015.swf|Party 5]]||N/A
+|-
+|[[Media:RoomsParty6-MazeParty2015.swf|Party 6]]||N/A
+|-
+|[[Media:RoomsParty7-MazeParty2015.swf|Party 7]]||N/A
+|-
+|[[Media:RoomsParty8-MazeParty2015.swf|Party 8]]||N/A
+|-
+|[[Media:RoomsParty9-MazeParty2015.swf|Party 9]]||N/A
+|-
+|[[Media:RoomsParty10-MazeParty2015.swf|Party 10]]||N/A
+|-
+|[[Media:RoomsParty11-MazeParty2015.swf|Party 11]]||N/A
+|-
+|[[Media:RoomsParty12-MazeParty2015.swf|Party 12]]||N/A
+
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable" border="1"
+!SWF
+|-
+|[[Media:Close upsENMaze Map-MazeParty2015.swf|Maze Map (English)]]
+|-
+|[[Media:Close upsPTMaze Map-MazeParty2015.swf|Maze Map (Portuguese)]]
+|-
+|[[Media:Close upsFRMaze Map-MazeParty2015.swf|Maze Map (French/Francais)]]
+|-
+|[[Media:Close upsESMaze Map-MazeParty2015.swf|Maze Map (Spanish/Espanol)]]
+|-
+|[[Media:Close upsDEMaze Map-MazeParty2015.swf|Maze Map (German/Deustch)]]
+|-
+|[[Media:Close upsRUMaze Map-MazeParty2015.swf|Maze Map (Russian)]]
+|}
+</center>

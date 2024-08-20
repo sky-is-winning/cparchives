@@ -1,0 +1,16 @@
+Below are SWF files from issue #282 (March 11, 2011) of the Club Penguin Times:
+
+*[[Media:News282AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News282AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News282FeatureMore.swf|Feature More]]
+*[[Media:News282FeatureStory.swf|Feature Story]]
+*[[Media:News282HeaderBack.swf|Header (back)]]
+*[[Media:News282HeaderFront.swf|Header (front)]]
+*[[Media:News282JokesAndRiddles.swf|Jokes And Riddles]]
+*[[Media:News282NewsFlash.swf|News Flash]]
+*[[Media:News282RiddlesAnswers.swf|Riddles Answers]]
+*[[Media:News282SecretOverlay.swf|Secret Overlay]]
+*[[Media:News282Secrets.swf|Secrets]]
+*[[Media:News282SupportMore.swf|Support More]]
+*[[Media:News282SupportStory.swf|Support Story]]
+*[[Media:News282UpcomingEvents.swf|Upcoming Events]]

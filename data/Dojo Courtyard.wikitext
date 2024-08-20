@@ -1,0 +1,61 @@
+{{NeedSWFs}}
+{{CPW|Dojo Courtyard|Pátio do Dojo}}
+
+==Normal==
+<center>
+{|class="wikitable" border="1"
+!Date
+!Music
+|-
+|[[Media:RoomsDojoext2008.swf|Nov. 2008-Nov. 2009]]||Unknown
+|-
+|[[Media:RoomsDojoext 2.swf|Nov. 2009-Nov. 2010]]||Unknown
+|-
+|[[Media:RoomsDojoext 3.swf|Nov. 2010-Nov. 2011]]||Unknown
+|-
+|[[Media:RoomsDojoext 4.swf|2011-2013]]||Unknown
+|-
+|[[Media:RoomsDojoext 5.swf|2011-2013]]||Unknown
+|-
+|[[Media:RoomsDojoext 6.swf|May 2013-present]]||Unknown
+|}
+</center>
+
+==Parties and Events==
+<center>
+{|class="wikitable" border="1"
+!Event
+!Music
+!Year
+|-
+|[[Media:DojoExtConstruction2008.swf|Dig Out the Dojo (1)]]||Unknown||2008
+|-
+|[[Media:DojoExtConstruction22008.swf|Dig Out the Dojo (2)]]||Unknown||2008
+|-
+|[[Media:DojoExtGrandOpening2008.swf|Dojo Grand Re-Opening]]||Unknown||2008
+|-
+|[[Media:HalloweenParty2009RoomsDojoext.swf|Halloween Party]]||[[Media:Music251.swf|251]]||2009
+|-
+|[[Media:RoomsDojoext-FireCelebratePre.swf|Fire Dojo construction]]||Unknown||2009
+|-
+|[[Media:HalloweenParty2010DojoExt.swf|Halloween Party]]||[[Media:Music251.swf|251]]||2010
+|-
+|[[Media:StormDojoext.swf|Storm (1)]]||Unknown||2010
+|-
+|[[Media:RainDojoext.swf|Storm (2)]]||Unknown||2010
+|-
+|[[Media:WaterHuntDojoext.swf|Water Hunt]]||Unknown||2010
+|-
+|[[Media:WaterCelebrationDojoext.swf|Water Celebration]]||Unknown||2010
+|-
+|[[Media:HolidayParty2010DojoExt.swf|Holiday Party]]||Unknown||2010
+|-
+|[[Media:HalloweenParty2011Dojoext.swf|Halloween Party]]||[[Media:Music251.swf|251]]||2011
+|-
+|[[Media:HolidayParty2011DojoExt.swf|Holiday Party]]||Unknown||2011
+|-
+|[[Media:UnderwaterExpeditionDojoExt.swf|Underwater Expedition]]||Unknown||2012
+|}
+</center>
+
+{{Places}}

@@ -1,0 +1,215 @@
+{{NeedSWFs|Cloud Forest, Dojo, Dojo Courtyard}}
+
+{{CPW|Operation: Puffle|Operação: Puffle}}
+
+==Rooms==
+===Construction===
+====Week 1====
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsBoiler-OperationPuffleConstruction.swf|Boiler Room]]||[[Media:Music6.swf|6]]
+|-
+|[[Media:RoomsLake-OperationPuffleConstruction.swf|Hidden Lake]]||
+|-
+|[[Media:RoomsMine-OperationPuffleConstruction.swf|Mine]]||
+|}
+</center>
+
+====Week 2====
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsBoiler-OperationPuffleConstruction.swf|Boiler Room]]||[[Media:Music6.swf|6]]
+|-
+|[[Media:RoomsBoxdimension-OperationPuffleConstruction.swf|Box Dimension]]||[[Media:Music264.swf|264]]
+|-
+|[[Media:RoomsCavemine-OperationPuffleConstruction.swf|Cave Mine]]||
+|-
+|[[Media:RoomsMine2-OperationPuffleConstruction.swf|Mine]]||
+|-
+|[[Media:RoomsShack-OperationPuffleConstruction.swf|Mine Shack]]||
+|-
+|[[Media:RoomsDance-OperationPuffleConstruction.swf|Night Club]]||[[Media:Music5.swf|5]]
+|-
+|[[Media:RoomsStage-OperationPuffleConstruction.swf|Stage]]||[[Media:Music34.swf|34]]
+|}
+</center>
+
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:OperationPuffleRoomsBeach.swf|Beach]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:OperationPuffleRoomsBeacon.swf|Beacon]]|| style="background: #ececec; color: grey;" class="table-na" |<small>N/A</small>
+|-
+|[[Media:OperationPuffleRoomsBook.swf|Book Room]]||[[Media:Music1.swf|1]]
+|-
+|[[Media:OperationPuffleRoomsCoffee.swf|Coffee Shop]]||[[Media:Music1.swf|1]]
+|-
+|[[Media:OperationPuffleRoomsCove.swf|Cove]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:OperationPuffleRoomsDock.swf|Dock]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:OperationPuffleRoomsAgentlobbymulti.swf|Everyday Phoning Facility]]|| style="background: #ececec; color: grey;" class="table-na" |<small>N/A</small>
+|-
+|[[Media:RoomsDojofire-OperationPuffle.swf|Fire Dojo]]||[[Media:Music405.swf|504]]
+|-
+|[[Media:OperationPuffleRoomsForest.swf|Forest]]||[[Media:Music379.swf|379]]
+|-
+|[[Media:OperationPuffleRoomsBerg.swf|Iceberg]]||[[Media:Music380.swf|380]]
+|-
+|[[Media:OperationPuffleRoomsLight.swf|Lighthouse]]|| style="background: #ececec; color: grey;" class="table-na" |<small>N/A</small>
+|-
+|[[Media:OperationPuffleRoomsAttic.swf|Lodge Attic]]|| style="background: #ececec; color: grey;" class="table-na" |<small>N/A</small>
+|-
+|[[Media:OperationPuffleRoomsShack.swf|Mine Shack]]||[[Media:Music437.swf|437]]
+|-
+|[[Media:OperationPuffleRoomsPet.swf|Pet Shop]]|| style="background: #ececec; color: grey;" class="table-na" |<small>N/A</small>
+|-
+|[[Media:OperationPuffleRoomsPizza.swf|Pizza Parlor]]||[[Media:Music344.swf|344]]
+|-
+|[[Media:OperationPuffleRoomsPlaza.swf|Plaza]]||[[Media:Music383.swf|383]]
+|-
+|[[Media:OperationPuffleRoomsHotelLobby.swf|Puffle Hotel Lobby]]||[[Media:Music362.swf|362]]
+|-
+|[[Media:OperationPuffleRoomsHotelRoof.swf|Puffle Hotel Rooftop]]||[[Media:Music380.swf|360]]
+|-
+|[[Media:OperationPuffleRoomsHotelSpa.swf|Puffle Hotel Spa]]||[[Media:Music361.swf|361]]
+|-
+|[[Media:OperationPuffleRoomsRink.swf|Stadium]]|| style="background: #ececec; color: grey;" class="table-na" |<small>N/A</small>
+|-
+|[[Media:OperationPuffleRoomsShop.swf|Clothes Shop]]||[[Media:Music345.swf|345]]
+|-
+|[[Media:OperationPuffleRoomsMtn.swf|Ski Hill]]||[[Media:Music381.swf|381]]
+|-
+|[[Media:OperationPuffleRoomsLodge.swf|Ski Lodge]]|| style="background: #ececec; color: grey;" class="table-na" |<small>N/A</small>
+|-
+|[[Media:OperationPuffleRoomsVillage.swf|Ski Village]]||[[Media:Music381.swf|381]]
+|-
+|[[Media:RoomsDojosnow-OperationPuffle.swf|Snow Dojo]]||[[Media:Music407.swf|407]]
+|-
+|[[Media:OperationPuffleRoomsForts.swf|Snow Forts]]||[[Media:Music382.swf|382]]
+|-
+|[[Media:OperationPuffleRoomsTown.swf|Town]]||[[Media:Music383.swf|383]]
+|-
+|[[Media:RoomsSchool-OperationPuffle.swf|School]]||[[Media:Music436.swf|436]]
+|-
+|[[Media:OperationPuffleRoomsEffectsAvatar.swf|Avatar Effects]]|| style="background: #ececec; color: grey;" class="table-na" |<small>N/A</small>
+|}
+</center>
+
+====Party Rooms====
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:OperationPuffleRoomsParty1.swf|EPF Rescue HQ (exterior)]]||[[Media:Music522.swf|522]]
+|-
+|[[Media:OperationPuffleRoomsParty2.swf|EPF Rescue HQ (interior)]]||[[Media:Music523.swf|523]]
+|-
+|[[Media:OperationPuffleRoomsParty3.swf|EPF Bootcamp]]||[[Media:Music524.swf|524]]
+|-
+|[[Media:OperationPuffleRoomsParty4.swf|Lava Cliffs]]||[[Media:Music525.swf|525]]
+|-
+|[[Media:OperationPuffleRoomsParty5.swf|EPF Puffle Vet Station]]||[[Media:Music526.swf|526]]
+|-
+|[[Media:OperationPuffleRoomsParty6.swf|Ice Falls]]||[[Media:Music527.swf|527]]
+|-
+|[[Media:OperationPuffleRoomsParty7.swf|Rapids]]||[[Media:Music528.swf|528]]
+|-
+|[[Media:OperationPuffleRoomsParty8.swf|River Cave]]||[[Media:Music529.swf|529]]
+|-
+|[[Media:OperationPuffleRoomsParty9.swf|EPF Treehouses]]||[[Media:Music530.swf|530]]
+|-
+|[[Media:OperationPuffleRoomsParty10.swf|Herbert's Lair]]||[[Media:Music531.swf|531]]
+|-
+|[[Media:OperationPuffleRoomsParty10Solo.swf|Herbert's Lair (solo)]]|| style="background: #ececec; color: grey;" class="table-na" |<small>N/A</small>
+|}
+</center>
+
+==Catalogs==
+<center>
+{|class="wikitable" border="1"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)!!Deutsch (German)
+|-
+|[[Media:ENOperationPuffleCatalog.swf|Operation: Puffle Catalog]]||[[Media:PTOperationPuffleCatalog.swf|Operation: Puffle Catalog]]||[[Media:FROperationPuffleCatalog.swf|Operation: Puffle Catalog]]||[[Media:ESOperationPuffleCatalog.swf|Operation: Puffle Catalog]]||[[Media:DEOperationPuffleCatalog.swf|Operation: Puffle Catalog]]
+|}
+</center>
+
+==Close Ups==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+|-
+|[[Media:ENCloseUpsChipsMatchingGame-OperationPuffle.swf|Chip Matching Game]]||[[Media:PTCloseUpsChipsMatchingGame-OperationPuffle.swf|Chip Matching Game]]||[[Media:FRCloseUpsChipsMatchingGame-OperationPuffle.swf|Chip Matching Game]]||[[Media:ESCloseUpsChipsMatchingGame-OperationPuffle.swf|Chip Matching Game]]||[[Media:DECloseUpsChipsMatchingGame-OperationPuffle.swf|Chip Matching Game]]
+|-
+|[[Media:OperationPuffleCloseUpsQuestInterface.swf|Quest Interface]]||colspan="4" rowspan="1" align="center" |Missing
+|}
+</center>
+
+===Dialogue===
+<center>
+{|class="wikitable" border="1"
+!Dialogue
+|-
+|[[Media:Close upsCharacter dialogue gary chipscollected-OperationPuffle.swf|Chips Collected]]
+|-
+|[[Media:Close upsCharacter dialogue herbert 1-OperationPuffle.swf|Herbert (1)]]
+|-
+|[[Media:Close upsCharacter dialogue herbert 2-OperationPuffle.swf|Herbert (2)]]
+|-
+|[[Media:Close upsCharacter dialogue herbert 3-OperationPuffle.swf|Herbert (3)]]
+|-
+|[[Media:Close upsCharacter dialogue herbert 4-OperationPuffle.swf|Herbert (4)]]
+|-
+|[[Media:Close upsCharacter dialogue herbert 5-OperationPuffle.swf|Herbert (5)]]
+|}
+</center>
+
+==Membership==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+|-
+|[[Media:ENMembershipParty1.swf|Items]]||[[Media:PTMembershipParty1.swf|Items]]||[[Media:FRMembershipParty1.swf|Items]]||[[Media:ESMembershipParty1.swf|Items]]||[[Media:DEMembershipParty1.swf|Items]]
+|}
+</center>
+
+==Login Screen==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+|-
+|[[Media:LoginScreen-ENEpf-puffle-onnow.swf|On Now!]]||[[Media:LoginScreen-PTEpf-puffle-onnow.swf|On Now!]]||[[Media:LoginScreen-FREpf-puffle-onnow.swf|On Now!]]||[[Media:LoginScreen-ESEpf-puffle-onnow.swf|On Now!]]||[[Media:LoginScreen-DEEpf-puffle-onnow.swf|On Now!]]
+|}
+</center>
+
+==Puffle Chase Game==
+*[[Media:GamesChaseChase.swf|Puffle Chase]]
+*[[Media:GamesChaseLangEnLocale.swf|Locale]]
+*[[Media:OperationPuffleCloseUpsPreGameInterface.swf|Pre-game Interface]]
+*[[Media:OperationPuffleCloseUpsPostGameInterface.swf|Post-game Interface]]
+
+==Others==
+*[[Media:OperationPuffleGlobalTelescopeEpfnightsky.swf|Beacon Telescope]]
+*[[Media:OperationPuffleGlobalBinocularsEpfnightsky.swf|Cove Binoculars]]
+{{Parties}}
+
+[[Category:Parties of 2013]]

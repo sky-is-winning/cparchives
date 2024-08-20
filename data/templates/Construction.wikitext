@@ -1,2 +1,5 @@
-{{Ambox|type=notice|image=[[File:Construction_Sign.PNG|48px]]|text='''Page/section under construction'''<br/>This page or section is currently under maintenance or construction by the administration. Please do not edit it until this template is removed, or you are given permission by an administrator.}}
-<includeonly>[[Category:Pages Under Construction]]</includeonly>
+{{ambox
+|type=notice
+|image=[[File:Construction Sign.PNG|48px]]
+|text='''Page/section under construction'''<br/>This page or section is currently under maintenance or construction by the administration. Please do not edit it until this template is removed, or you are given permission by an administrator.
+}}<includeonly>[[Category:Pages Under Construction]]</includeonly>

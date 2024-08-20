@@ -1,5 +1,0 @@
-{{Newspaper2
-|issue=490
-|ask=Gary
-|date=March 12, 2015
-}}

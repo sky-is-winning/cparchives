@@ -1,0 +1,13 @@
+Below are SWF files from issue #359 (September 6, 2012) of the Club Penguin Times:
+
+*[[Media:News359HeaderFront.swf|Header (front)]]
+*[[Media:News359FeatureStory.swf|Feature Story]]
+*[[Media:News359SupportStory.swf|Support Story]]
+*[[Media:News359UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News359NewsFlash.swf|News Flash]]
+*[[Media:News359AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News359HeaderBack.swf|Header (back)]]
+*[[Media:News359AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News359JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News359SecretOverlay.swf|Secret Overlay]]
+*[[Media:News359FeatureMore.swf|Feature More]]

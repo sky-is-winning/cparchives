@@ -1,4 +1,0 @@
-{{Newspaper2
-|issue = 447
-|date = May 15, 2014
-|backstory = Comics}}

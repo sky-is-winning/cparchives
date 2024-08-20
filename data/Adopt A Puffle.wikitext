@@ -1,0 +1,47 @@
+==English: Adopt A Puffle==
+''Club Penguin Wiki article: [[clubpenguinwiki:Adopt A Puffle|Adopt A Puffle]]
+
+<center>
+{|class="wikitable" border="1"
+!Month
+|-
+|[[Media:Adopt_0703.swf|March 2007]]
+|-
+|[[Media:ENNov2007.swf|November 2007]]
+|-
+|[[Media:Mar2009Adopt.swf|March 2009]]
+|-
+|[[Media:February10Pompoms.swf|February 2010]]
+|-
+|[[Media:Feb2011Adopt.swf|February 2011]]
+|}
+</center>
+
+==Portuguese==
+<center>
+{|class="wikitable" border="1"
+!Month
+|-
+|[[Media:PTCataloguesAdoptFeb2011.swf|February 2011]]
+|}
+</center>
+
+==French==
+<center>
+{|class="wikitable" border="1"
+!Month
+|-
+|[[Media:FRCataloguesAdoptFeb2011.swf|February 2011]]
+|}
+</center>
+
+==Spanish==
+<center>
+{|class="wikitable" border="1"
+!Month
+|-
+|[[Media:AdoptaPuffleESFeb2010.swf|February 2010]]
+|-
+|[[Media:ESCataloguesAdoptFeb2011.swf|February 2011]]
+|}
+</center>

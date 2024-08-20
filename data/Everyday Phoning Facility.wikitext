@@ -1,0 +1,44 @@
+{{CPW|Everyday Phoning Facility}}
+
+==Normal==
+<center>
+{|class="wikitable" border="1"
+!SWF!!Years!!Music
+|-
+|[[Media:RoomsAgentlobbymulti.swf|Agent Lobby Multi]]||2010-2012||N/A
+|-
+|[[Media:RoomsAgentlobbysolo.swf|Agent Lobby Solo]]||2010-2012||N/A
+|-
+|[[Media:RoomsAgentLobbyMulti 2.swf|Agent Lobby Multi]]||2013-May 2015||N/A
+|-
+|[[Media:RoomsAgentlobbymulti-May2015.swf|Agent Lobby Multi||May 2015-Current]]||[[Media:Music922.swf|922]]
+|}
+</center>
+
+==Parties and Events==
+<center>
+{|class="wikitable" border="1"
+!Event
+!Year
+|-
+|[[Media:BattleofDoomAgentlobbymulti.swf|Battle of Doom (Multi)]]||2011
+|-
+|[[Media:BattleofDoomAgentlobbysolo.swf|Battle of Doom (Solo)]]||2011
+|-
+|[[Media:RoomsAgentlobbymulti-OperationBlackout.swf|Operation: Blackout]]||2012
+|-
+|[[Media:ENRoomsAgentLobbyMultiDec2012.swf|December 2012 (Multi)]]||2012
+|-
+|[[Media:ENRoomsAgentLobbySoloDec2012.swf|December 2012 (Solo)]]||2012
+|-
+|[[Media:HolidayParty2012EPFLobby.swf|Holiday Party (Multi)]]||2012
+|-
+|[[Media:HolidayParty2012EPFLobbySolo.swf|Holiday Party (Solo)]]||2012
+|-
+|[[Media:RoomsAgentLobbyEPFConstruction.swf|EPF Construction (Stage 1)]]||2013
+|-
+|[[Media:RoomsAgentLobbyEPFConstruction2.swf|EPF Construction (Stage 2)]]||2013
+|}
+</center>
+
+{{Places}}

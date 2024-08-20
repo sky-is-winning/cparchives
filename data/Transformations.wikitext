@@ -11,7 +11,13 @@
 |-
 |Road Racer ([[Media:PlayV2ContentGlobalPenguinPenguin car 01.swf|Blue]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 02.swf|Green]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 03.swf|Pink]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 04.swf|Black]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 05.swf|Red]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 06.swf|Orange]]<br>{{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 07.swf|Yellow]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 08.swf|Dark Purple]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 09.swf|Brown]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 10.swf|Peach]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 11.swf|Dark Green]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 12.swf|Light Blue]]<br>{{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 13.swf|Lime Green]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 14.swf|Sensei Gray]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 15.swf|Aqua]] {{·}} [[Media:PlayV2ContentGlobalPenguinPenguin car 16.swf|Arctic White]])
 |-
-|rowspan="8"|2013||rowspan="5"|[[Medieval Party 2013|Medieval Party]]||[[Media:AvatarSprites-Chicken Puffle.swf|Chicken Puffle]]
+|rowspan="11"|2013||rowspan="3"|[[Prehistoric Party 2013|Prehistoric Party]]||Pterodactyl ([[Media:Penguin-Pterodactyl Red.swf|Red]] {{·}} [[Media:Penguin-Pterodactyl Yellow.swf|Yellow]] {{·}} [[Media:Penguin-Pterodactyl Green.swf|Green]] {{·}} [[Media:Penguin-Pterodactyl Purple.swf|Purple]])
+|-
+|Trex ([[Media:Penguin-Trex Special.swf|Special]] {{·}} [[Media:Penguin-Trex Green.swf|Green]] {{·}} [[Media:Penguin-Trex Blue.swf|Blue]] {{·}} [[Media:Penguin-Trex Red.swf|Red]])
+|-
+|Triceratops ([[Media:Penguin-Triceratops Orange.swf|Orange]] {{·}} [[Media:Penguin-Triceratops Green.swf|Green]] {{·}} [[Media:Penguin-Triceratops Purple.swf|Purple]] {{·}} [[Media:Penguin-Triceratops Red.swf|Red]])
+|-
+|rowspan="5"|[[Medieval Party 2013|Medieval Party]]||[[Media:AvatarSprites-Chicken Puffle.swf|Chicken Puffle]]
 |-
 |[[Media:AvatarSpritesDragon.swf|Dragon]]
 |-
@@ -27,15 +33,9 @@
 |-
 |Zombie ([[Media:AvatarSpritesZombieA-HalloweenParty2013.swf|Green]] {{·}} [[Media:AvatarSpritesZombieB-HalloweenParty2013.swf|Purple]] {{·}} [[Media:AvatarSpritesZombieC-HalloweenParty2013.swf|Blue]])
 |-
-|rowspan="8"|2014||rowspan="5"|[[Prehistoric Party 2014|Prehistoric Party]]||Pterodactyl ([[Media:Penguin-Pterodactyl Red.swf|Red]] {{·}} [[Media:Penguin-Pterodactyl Yellow.swf|Yellow]] {{·}} [[Media:Penguin-Pterodactyl Green.swf|Green]])
-|-
-|Raptor ([[Media:AvatarSpritesRaptorBlack.swf|Black]] {{·}} [[Media:AvatarSpritesRaptorGreen.swf|Green]] {{·}} [[Media:AvatarSpritesRaptorPink.swf|Pink]] {{·}} [[Media:AvatarSpritesRaptorRed.swf|Red]])
+|rowspan="5"|2014||rowspan="2"|[[Prehistoric Party 2014|Prehistoric Party]]||Raptor ([[Media:AvatarSpritesRaptorBlack.swf|Black]] {{·}} [[Media:AvatarSpritesRaptorGreen.swf|Green]] {{·}} [[Media:AvatarSpritesRaptorPink.swf|Pink]] {{·}} [[Media:AvatarSpritesRaptorRed.swf|Red]])
 |-
 |Stegosaurus ([[Media:AvatarSpritesStegosaurusBlue.swf|Blue]] {{·}} [[Media:AvatarSpritesStegosaurusGreen.swf|Green]] {{·}} [[Media:AvatarSpritesStegosaurusPurple.swf|Purple]] {{·}} [[Media:AvatarSpritesStegosaurusYellow.swf|Yellow]])
-|-
-|Trex ([[Media:Penguin-Trex Special.swf|Special]] {{·}} [[Media:Penguin-Trex Green.swf|Green]] {{·}} [[Media:Penguin-Trex Blue.swf|Blue]] {{·}} [[Media:Penguin-Trex Red.swf|Red]])
-|-
-|Triceratops ([[Media:Penguin-Triceratops Orange.swf|Orange]] {{·}} [[Media:Penguin-Triceratops Green.swf|Green]] {{·}} [[Media:Penguin-Triceratops Purple.swf|Purple]] {{·}} [[Media:Penguin-Triceratops Red.swf|Red]])
 |-
 |[[Puffle Party 2014|Puffle Party]]||Puffle ([[Media:AvatarSpritesPuffleBlack.swf|Black]] {{·}} [[Media:AvatarSpritesPuffleBlackTrex.swf|Black Trex]] {{·}} [[Media:AvatarSpritesPuffleBlue.swf|Blue]] {{·}} [[Media:AvatarSpritesPuffleBlueTriceratops.swf|Blue Triceratops]] {{·}} [[Media:AvatarSpritesPuffleBrown.swf|Brown]]<br>{{·}} [[Media:AvatarSpritesPuffleCat.swf|Cat]] {{·}} [[Media:AvatarSpritesPuffleDog.swf|Dog]] {{·}} [[Media:AvatarSpritesPuffleGold.swf|Gold]] {{·}} [[Media:AvatarSpritesPuffleGreen.swf|Green]] {{·}} [[Media:AvatarSpritesPuffleOrange.swf|Orange]]{{·}} [[Media:AvatarSpritesPufflePink.swf|Pink]] {{·}} [[Media:AvatarSpritesPufflePinkStegosaurus.swf|Pink Stegosaurus]]<br>{{·}} [[Media:AvatarSpritesPufflePurple.swf|Purple]] {{·}} [[Media:AvatarSpritesPufflePurpleTrex.swf|Purple Trex]] {{·}} [[Media:AvatarSpritesPuffleRainbow.swf|Rainbow]] {{·}} [[Media:AvatarSpritesPuffleRed.swf|Red]] {{·}} [[Media:AvatarSpritesPuffleRedTriceratops.swf|Red Triceratops]]<br>{{·}} [[Media:AvatarSpritesPuffleWhite.swf|White]] {{·}} [[Media:AvatarSpritesPuffleYellow.swf|Yellow]] {{·}} [[Media:AvatarSpritesPuffleYellowStegosaurus.swf|Yellow Stegosaurus]])
 |-

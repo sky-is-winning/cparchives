@@ -1,0 +1,18 @@
+{{NeedSWFs}}
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[[Media:ArtworkRooms0214Lounge.swf|Dance Lounge]]||{{n/a}}
+|-
+|[[Media:ArtworkRoomsDock3.swf|Dock]]||{{n/a}}
+|-
+|[[Media:ArtworkRoomsRink3.swf|Ice Rink]]||{{n/a}}
+|-
+|{{n/a|Ski Hill}}||{{n/a}}
+|-
+|{{n/a|Ski Village}}||{{n/a}}
+|}
+
+{{Events}}

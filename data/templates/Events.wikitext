@@ -1,7 +1,7 @@
 {{Navbox
 
 | name  = Event
-| title = Events of ''Club Penguin'' <small>([[templates/Parties|Click here to see parties]])</small>
+| title = Events of ''Club Penguin'' <small>([[Template:Parties|Click here to see parties]])</small>
 | group1 = 2005
 | list1  = [[Puffle Discovery]]{{·}}[[Server Testing]]
 
@@ -9,7 +9,7 @@
 | list2  = [[Valentine's Day Celebration]]{{·}}[[Easter Egg Hunt 2006|Easter Egg Hunt]]{{·}}[[Band Scavenger Hunt]]{{·}}[[Lightbulb Scavenger Hunt]]{{·}}[[Launchpad Construction]]
 
 | group3 = 2007
-| list3  = 	[[Storm]]{{·}}[[Easter Egg Hunt 2007|Easter Egg Hunt]]{{·}}[[Avalanche]]{{·}}[[Coins for Change]]
+| list3  = [[Storm]]{{·}}[[Easter Egg Hunt 2007|Easter Egg Hunt]]{{·}}[[Avalanche]]{{·}}[[Coins for Change]]
 
 | group4 = 2008
 | list4  = [[Save The Migrator Project]]{{·}}[[Club Penguin Improvement Project]]{{·}}[[Easter Egg Hunt 2008|Easter Egg Hunt]]{{·}}[[Earthquake]]{{·}}[[Paper Boat Scavenger Hunt 2008|Paper Boat Scavenger Hunt]]{{·}}[[Storm]]{{·}}[[Dig Out the Dojo]]{{·}}[[Dojo Grand Re-Opening]]{{·}}[[Coins for Change]]
@@ -39,4 +39,4 @@
 |list12 = [[Fireworks]]
 }}
 <includeonly>[[Category:Parties & Events]]</includeonly>
-<noinclude>[[Category:Events]]</noinclude>
+<noinclude>[[Category:Templates]]</noinclude>

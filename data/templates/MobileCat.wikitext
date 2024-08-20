@@ -1,0 +1,34 @@
+<includeonly>{{#ifeq:{{{w|}}}|1|{{(!}}class="wikitable mw-collapsible mw-collapsed" style="margin: auto; width:250px;"
+{{!}}+ colspan=10 align=center{{!}}'''List of Files'''
+!Page!!colspan="{{#switch:{{{v|}}}|#default=4|1=6|2=6|3=4}}"{{!}} Languages|}}
+{{ac}}
+|{{#ifeq:{{{p|}}}|1|<small>COVER</small>|{{{d|{{#expr: {{{p|}}} - 1 }}}}}}}||{{#switch:{{{v|}}}|#default=[[Media:ENCatalogues{{{i|}}}-{{{p|}}}.png|EN]]{{!!}}[[Media:PTCatalogues{{{i|}}}-{{{p|}}}.png|PT]]{{!!}}[[Media:FRCatalogues{{{i|}}}-{{{p|}}}.png|FR]]{{!!}}[[Media:ESCatalogues{{{i|}}}-{{{p|}}}.png|ES]]{{#switch:{{{v|}}}|#default=|1={{!!}}[[Media:DECatalogues{{{i|}}}-{{{p|}}}.png|DE]]{{!!}}[[Media:RUCatalogues{{{i|}}}-{{{p|}}}.png|RU]]|4={{!!}}colspan=2 {{n/a}}}}|2= colspan=6{{!}}[[Media:ENCatalogues{{{i|}}}-{{{p|}}}.png|GLOBAL]]|3= colspan=4{{!}}[[Media:ENCatalogues{{{i|}}}-{{{p|}}}.png|GLOBAL]]}}
+{{#ifeq:{{{w|}}}|2|{{!)}}|{{!-}}}}
+</includeonly><noinclude>
+==Parameters==
+<pre>
+{{MobileCat
+|i=
+|d=
+|p=
+|v=
+|w=
+}}
+</pre>
+
+===Explanation===
+<code>{{MobileCat</code> – Opening of the template.<br>
+<code>|i=</code> – Input part of the catalog page's filename to be linked. Do not input the full filename since the template will prefill the portion of the filename that should be shared by all mobile catalog pages according to Club Penguin Archives filename formatting. For instance, if the full filename were [[:File:ENCataloguesClothingJul2015-2.png|ENCataloguesClothingJul2015-2.png]], then you would only need to input <code>i=ClothingJul2015</code> and <code>p=2</code>, and the rest of the filename will have been automatically prefilled.<br>
+<code>|d=</code> – The display page of the catalog, in case something other than the given page number given is needed for display purposes.<br>
+<code>|p=</code> – The page number of the catalog's image. Don't be alarmed if the number you put in is one number less than what was inputted; this is intentional since 1 will always convert to “<small>COVER</small>” and will subtract 1 from any number not equal to 1. Use <code>d</code> to display something other than the reference image's number.<br>
+<code>|v=</code> – Determines the version of the template you wish to use. By default, the template displays English, Portuguese, French and Spanish files for the inputted page. Other possible parameters are as follows:
+*'''1''' – Displays English, Portuguese, French, Spanish, German and Russian versions of the inputted page.
+*'''2''' – Displays a global version of the inputted page from when German and Russian were still actively translated on Club Penguin.
+*'''3''' – Displays a global version of the inputted page from after German and Russian translations were discontinued on Club Penguin.
+*'''4''' – Displays English, Portuguese, French and Spanish versions of inputted page and adds “<small><span style="color:gray;">N/A</span></small>” across the columns that would have featured the German and Russian localizations.
+<code>|w=</code> – Determines if the template is beginning or ending. By default, the template will assume that it is neither beginning nor ending.
+*'''1''' – Adds the opening of the wikitable.
+*'''2''' – Adds the closing of the wikitable.
+<code>}}</code> – Closing of the template.
+
+</noinclude>

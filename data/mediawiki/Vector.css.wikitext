@@ -1,0 +1,7 @@
+/* Sidebar */
+.mediawiki #mw-panel #p-navigation {border-top:none; margin-top:3px;}
+.mediawiki #mw-panel .portal h5 {color:#FFF; margin-left:2px;}
+.mediawiki #mw-panel .portal .body {padding-top:0; border:none; background:none;}
+.mediawiki #mw-panel .portal .body ul { background:#FFF; border:1px solid #ffc0c0; margin-right:10px; padding-top:5px; padding-left:5px; border-radius:7px;}
+.mediawiki #mw-panel .portal .body ul li a, .mediawiki #mw-panel .portal .body ul li a:visited {color:#000;}
+.mediawiki #mw-panel .portal .body ul li a:hover {color:#888; text-decoration:none;}

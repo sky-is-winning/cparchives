@@ -1,0 +1,30 @@
+__TOC__
+
+{{CPW|Puffle Wild (room)|Floresta Puffle (sala)}}
+
+==Normal==
+<center>
+{|class="wikitable" border="1"
+!SWF
+!Time
+|-
+|[[Media:RoomsPufflewild.swf|Normal]]||2015
+|}
+</center>
+
+==Parties and Events==
+<center>
+{|class="wikitable" border="1"
+!Event
+!Music
+!Year
+|-
+|[[Media:RoomsPufflewild-PuffleParty2015.swf|Puffle Party]]||{{n/a}}||2015
+|-
+|[[Media:RoomsPufflewild-TheFair2015.swf|The Fair]]||{{n/a}}||2015
+|-
+|[[Media:Hallo15 pufflewild.swf|Halloween Party]]||[[Media:Music1057.swf|1057]]||2015
+|}
+</center>
+
+{{Places}}

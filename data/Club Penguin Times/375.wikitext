@@ -1,0 +1,13 @@
+Below are SWF files from issue #375 (December 27, 2012) of the Club Penguin Times:
+
+*[[Media:News375HeaderFront.swf|Header (front)]]
+*[[Media:News375FeatureStory.swf|Feature Story]]
+*[[Media:News375SupportStory.swf|Support Story]]
+*[[Media:News375UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News375NewsFlash.swf|News Flash]]
+*[[Media:News375AskAuntArcticFront.swf|Ask Captain Rockhopper (front)]]
+*[[Media:News375HeaderBack.swf|Header (back)]]
+*[[Media:News375AskAuntArcticBack.swf|Ask Captain Rockhopper (back)]]
+*[[Media:News375JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News375SecretOverlay.swf|Secret Overlay]]
+*[[Media:News375FeatureMore.swf|Feature More]]

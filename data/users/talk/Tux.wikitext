@@ -1,0 +1,41 @@
+==RE:Re. image==
+Oh, i understand. I asked him to protect image uploading of users taht aree not admins of [[:File:Logo.png|this image]] to prevent vandalsm, so if you can do it, it will  be great.<br/>
+[[user:Penguin-Pal|<font color="0e92cf">Penguin-Pal</font>]] [[user talk:Penguin-Pal|<font color="2e47aa">(talk)</font>]] 05:36, 26 May 2012 (UTC)
+
+== RE: Removal of [[:Category:SWFs of Club Penguin]]  ==
+
+I agree with your proposal. I'm not too sure whether to have a community vote or not, since I don't think anyone (other than the 3 active Archive users) would vote.
+
+[[User:Mario Rk|Mario Rk]] <sup><span style="color:; text-shadow:grey 0 4px 4px;">(</span>[[User talk:Mario Rk|<span style="color:; text-shadow:grey 0 4px 4px;">T</span>]] <span style="color:; text-shadow:grey 0 4px 4px;">'''<big>·</big>'''</span> [[Special:Contributions/Mario_Rk|<span style="color:; text-shadow:grey 0 4px 4px;">C</span>]]<span style="color:; text-shadow:grey 0 4px 4px;">)</span></sup> 05:18, 9 August 2014 (UTC)
+
+== RE:CP Times upload bot ==
+
+[[Template:Newspaper2]] is the currently used template. [[Template:Newspaper]] doesn't have the Russian language. --[[User:Juca|<span style="color:#ff7c00;"><b>Juca</b></span>]] [[User talk:Juca|<span style="color:#c00000;"><b>(discussão/talk)</b></span>]] [[File:Penguinguitar.png|link=Special:Contributions/Juca|20px]] 20:28, 18 June 2015 (UTC)
+
+== Newspaper Files ==
+
+Hey, Tux.
+
+I've been working on filling in the missing newspaper files on the wiki after Club Penguin recently added back some of the older newspaper files for some reason. They seem to go all the way back until around issue #359 (September 6, 2012). Anyway, would you mind using [[User:TuxBot|TuxBot]] to upload the missing French, Spanish, German, and Russian files on the [[Club Penguin Times/456|Issue #456]] page? I would like to upload the files myself, but uploading 72 files manually takes a while. [http://media1.clubpenguin.com/play/v2/content/local/fr/news/papers/20140716/content/front/header.swf Here] is a link to the first file that is missing on that page.
+
+Have a good day,
+
+--[[User:Kawkeetcp|Kawkeetcp]] ([[User talk:Kawkeetcp|talk]]) 21:50, 28 August 2015 (UTC)
+
+Thanks for uploading those files. I've noticed that the [[Club Penguin Times/392|Issue #392]], [[Club Penguin Times/393|#393]], and [[Club Penguin Times/415|#415]] pages have the [[Template:NeedSWFs|NeedSWFs]] template. May you please upload the files for those pages too? There are also many pages that don't have the template, yet are still missing files, such as files from other languages. Would it be easy to use your bot to add the missing files for all of those pages as well? If not, then it's fine. By the way, does the wiki have any kind of multiple upload page? A page like that would be very useful for uploading files that share the same licensing, like newspaper files.
+
+--[[User:Kawkeetcp|Kawkeetcp]] ([[User talk:Kawkeetcp|talk]]) 05:47, 1 September 2015 (UTC)
+
+== Missed Files ==
+
+Hi, Tux.
+
+It appears that your bot missed the files for [[Club Penguin Times/529|Issue #529]]. The files are [http://media1.clubpenguin.com/play/v2/content/local/en/news/papers/20151209/config.xml still available], so can you please go over them with your bot again?
+
+Happy holidays,
+
+--[[User:Kawkeetcp|Kawkeetcp]] ([[User talk:Kawkeetcp|talk]]) 04:30, 19 December 2015 (UTC)
+
+Thanks for at least uploading half of them. I've uploaded the other half.
+
+--[[User:Kawkeetcp|Kawkeetcp]] ([[User talk:Kawkeetcp|talk]]) 23:20, 27 December 2015 (UTC)

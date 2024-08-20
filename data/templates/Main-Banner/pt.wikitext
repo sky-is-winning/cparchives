@@ -1,0 +1,17 @@
+{| id="mp-topbanner" style="width:100%; background:#f9f9f9; margin:1.2em 0 6px 0; border:1px solid #ddd; border-radius:5px;"
+| style="width:61%; color:#000;" |
+{| align="center" width="100%"
+|-
+|rowspan="2"|
+{| style="width:280px; border:none; background:none;"
+| [[File:FlashLogo.png|65px|left]]
+| style="width:280px; white-space:nowrap; color:#000;" |
+<div style="font-size:1.5em;">'''Bem-vindo(a) ao Club Penguin Archives!'''''<br/><small>Parte da Club Penguin Wiki Network.<br/></small></div>
+
+Desde 12 de dezembro de 2010, arquivamos {{formatnum:{{#expr:{{NUMBEROFFILES:R}} - 1}}}} SWFs do Club Penguin.
+|}
+|[[File:Administrator.png|55px|center|link=Project:Administrators]]||[[File:TodoList.png|55px|center|link=Project:To-do List]]||[[File:Twitter-icon.png|55px|center|link=http://twitter.com/CP_Archives]]||[[File:IRC.png|55px|center|link=Special:Webchat]]
+|-
+|'''<div style="text-align:center">[[Project:Administrators|Administradores]]</div>'''||'''<div style="text-align:center">[[Project:To-do List|Lista de afazeres]] </div>'''||'''<div style="text-align:center" class="plainlinks">'''[http://twitter.com/CP_Archives Twitter]'''</div>||'''<div style="text-align:center"><span class="plainlinks">[[Special:WebChat|Chat IRC]]</span></div>'''
+|}
+|}

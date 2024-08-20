@@ -1,0 +1,48 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:April Fools' Party 2012|April Fools' Party 2012]]''
+
+==Rooms==
+*[[Media:AprilFools2012Box.swf|Box Dimension]]
+*[[Media:AprilFools2012Party4.swf|Candy Dimension]]
+*[[Media:AprilFools2012Party5.swf|Cream Soda Dimension]]
+*[[Media:AprilFools2012Party1.swf|Desert Dimension]]
+*[[Media:AprilFools2012Party7.swf|Doodle Dimension]]
+*[[Media:AprilFools2012Party9.swf|Fun House Dimension]]
+*[[Media:AprilFools2012Party8.swf|Lost Dimension]]
+*[[Media:AprilFools2012Party10.swf|Orange Dimension]]
+*[[Media:AprilFools2012Plaza.swf|Plaza]]
+*[[Media:AprilFools2012Party6.swf|Silly Place]]
+*[[Media:AprilFools2012Forts.swf|Snow Forts]]
+*[[Media:AprilFools2012Party3.swf|Space Dimension]]
+*[[Media:AprilFools2012Party2.swf|Stair Dimension]]
+*[[Media:RoomsTown-AprilFoolsParty2012.swf|Town]]
+
+==Music==
+*[[Media:Music232.swf|Main theme]]
+*[[Media:Music264.swf|Box Dimension, Fun House Dimension and Orange Dimension]]
+*[[Media:Music229.swf|Desert Dimension]]
+*[[Media:Music220.swf|Doodle Dimension]]
+*[[Media:Music265.swf|Space Dimension]]
+*[[Media:Music209.swf|Silly Place]]
+*[[Media:Music307.swf|Stair Dimension]] 
+*[[Media:Music208.swf|Cream Soda Dimension]]
+*[[Media:Music215.swf|Candy Dimension]]
+*[[Media:Music11.swf|Lost Dimension]]
+
+==Login Screens==
+*[[Media:AprilFools2012PreStartBillboards.swf|Login Screen #1]]
+*[[Media:AprilFools2012StartBillboards.swf|Login Screen #2]]
+
+==Notes==
+*[[Media:AprilFools2012Party_map_note.swf|Map Note]]
+
+==Membership Notes==
+*[[Media:AprilFools2012Membership.swf|Notice when trying to enter in Fun House Dimension]]
+
+==Catalog==
+*[[Media:AprilFools2012PartyCatalog.swf|Dimension Catalog EN]]
+*[[Media:AprilFools2012CatalogPT.swf|Catálogo de Dimensões PT]]
+*[[Media:AprilFools2012CatalogES.swf|Catálogo de Dimensiones ES]]
+*[[Media:AprilFools2012CatalogDE.swf|Dimension Katalog DE]]
+{{Parties}}
+
+[[Category:Parties of 2012]]

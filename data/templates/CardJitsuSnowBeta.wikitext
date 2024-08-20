@@ -1,0 +1,13 @@
+{{Box
+|background=#CEECF5
+|border=#00BFFF
+|image=CardJitsuSnowLogo.PNG
+|imagesize=50
+|imagelink=
+|textcolor=
+|text1=This file is from the beta of Card-Jitsu Snow. [[File:Items.png|50px|right|link=]]
+|textcolor2=
+|text2=This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.
+}}
+<includeonly>[[Category:Card-Jitsu Snow Beta]][[Category:Card-Jitsu Snow]][[Category:Games]]</includeonly>
+<noinclude>[[Category:Templates]]</noinclude>

@@ -1,0 +1,15 @@
+
+==Files==
+{| class="wikitable" style="margin: auto;"
+!Name!!Date!!colspan=6|JSON!!colspan=6|JSONP
+|-
+|puffle_items||May 7, 2015||[[Media:GameConfigsEN2015May06puffle_items.json|EN]]||[[Media:GameConfigsPT2015May13puffle_items.json|PT]]||[[Media:GameConfigsFR2015May13puffle_items.json|FR]]||[[Media:GameConfigsES2015May13puffle_items.json|ES]]||[[Media:GameConfigsDE2015May13puffle_items.json|DE]]||[[Media:GameConfigsRU2015May13puffle_items.json|RU]]||[[Media:GameConfigsEN2015May06puffle_items.jsonp|EN]]||[[Media:GameConfigsPT2015May06puffle_items.jsonp|PT]]||[[Media:GameConfigsFR2015May06puffle_items.jsonp|FR]]||[[Media:GameConfigsES2015May06puffle_items.jsonp|ES]]||[[Media:GameConfigsDE2015May06puffle_items.jsonp|DE]]||[[Media:GameConfigsRU2015May06puffle_items.jsonp|RU]]
+|-
+|puffle_items||May 21, 2015||[[Media:GameConfigsEN2015May20puffle_items.json|EN]]||[[Media:GameConfigsPT2015May20puffle_items.json|PT]]||[[Media:GameConfigsFR2015May20puffle_items.json|FR]]||[[Media:GameConfigsES2015May20puffle_items.json|ES]]||[[Media:GameConfigsDE2015May20puffle_items.json|DE]]||[[Media:GameConfigsRU2015May20puffle_items.json|RU]]||[[Media:GameConfigsEN2015May20puffle_items.jsonp|EN]]||[[Media:GameConfigsPT2015May20puffle_items.jsonp|PT]]||[[Media:GameConfigsFR2015May20puffle_items.jsonp|FR]]||[[Media:GameConfigsES2015May20puffle_items.jsonp|ES]]||[[Media:GameConfigsDE2015May20puffle_items.jsonp|DE]]||[[Media:GameConfigsRU2015May20puffle_items.jsonp|RU]]
+|-
+|puffle_items||June 11, 2015||rowspan=3|[[Media:GameConfigsEN2015May06puffle_items.json|EN]]||rowspan=2|[[Media:GameConfigsPT2015May13puffle_items.json|PT]]||[[Media:GameConfigsFR2015May13puffle_items.json|FR]]||[[Media:GameConfigsES2015May13puffle_items.json|ES]]||[[Media:GameConfigsDE2015May13puffle_items.json|DE]]||rowspan=3|[[Media:GameConfigsRU2015May13puffle_items.json|RU]]||rowspan=3|[[Media:GameConfigsEN2015May06puffle_items.jsonp|EN]]||rowspan=2|[[Media:GameConfigsPT2015May06puffle_items.jsonp|PT]]||[[Media:GameConfigsFR2015May06puffle_items.jsonp|FR]]||[[Media:GameConfigsES2015May06puffle_items.jsonp|ES]]||[[Media:GameConfigsDE2015May06puffle_items.jsonp|DE]]||rowspan=3|[[Media:GameConfigsRU2015May06puffle_items.jsonp|RU]]
+|-
+|puffle_items||July 30, 2015||rowspan=2|[[Media:GameConfigsFR2015Aug02puffle_items.json|FR]]||rowspan=2|[[Media:GameConfigsES2015Aug02puffle_items.json|ES]]||rowspan=2|[[Media:GameConfigsDE2015Aug02puffle_items.json|DE]]||rowspan=2|[[Media:GameConfigsFR2015Aug02puffle_items.jsonp|FR]]||rowspan=2|[[Media:GameConfigsES2015Aug02puffle_items.jsonp|ES]]||rowspan=2|[[Media:GameConfigsDE2015Aug02puffle_items.jsonp|DE]]
+|-
+|puffle_items||August 13, 2015||[[Media:GameConfigsPT2015Aug13puffle_items.json|PT]]||[[Media:GameConfigsPT2015Aug13puffle_items.jsonp|PT]]
+|}

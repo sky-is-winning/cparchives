@@ -1,0 +1,32 @@
+/*** Any JavaScript here will be loaded for all users on every page load. ***/
+/* PURGE CACHE */
+$( function () {
+    if ( !$( '#ca-purge' ).length && mw.config.get( 'wgIsArticle' ) ) {
+        mw.util.addPortletLink(
+            'p-cactions',
+            mw.util.getUrl( mw.config.get( 'wgPageName' ) ) + '?action=purge', 'Purge',
+            'ca-purge',
+            'Purge the server cache of this page',
+            '*'
+        );
+    }
+});
+/* SHOW/HIDE ROWS - By Grunny for Wookieepedia */
+$( function () {
+	if( !$( '.row-toggles' ).length ) {
+		return;
+	}
+	$( '.row-toggles' ).find( 'td > a' ).click( function () {
+		var	hideBtnClass = $( this ).parent().attr( 'class' ),
+			$hideContent = $( 'tr.' + hideBtnClass );
+		if( !$hideContent.length ) {
+			return;
+		}
+		$hideContent.toggle();
+		if ( $( this ).text().indexOf( 'hide' ) >= 1 ) {
+			$( this ).text( $( this ).text().replace( 'hide', 'show' ) );
+		} else {
+			$( this ).text( $( this ).text().replace( 'show', 'hide' ) );
+		}
+	} );
+} );

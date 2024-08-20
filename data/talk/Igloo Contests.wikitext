@@ -1,0 +1,3 @@
+Hello. Can any admin lock the page, so only registered / autoconfirmed users can edit it? There's currently a person who keeps changing the "latest" section's content to "a very nice site"... It happened 3 times already, each time from a different IP  {{User:Misabr/sig2}} 08:01, 27 August 2015 (UTC)
+
+Done. This is probably a spambot. --[[User:Juca|<span style="color:#ff7c00;"><b>Juca</b></span>]] [[User talk:Juca|<span style="color:#c00000;"><b>(discussão/talk)</b></span>]] [[File:Penguinguitar.png|link=Special:Contributions/Juca|20px]] 03:44, 30 August 2015 (UTC)

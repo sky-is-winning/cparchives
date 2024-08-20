@@ -1,0 +1,20 @@
+{{CPW|Popcorn Explosion|Explosion Pipoquenta}}
+
+==Rooms==
+<center>
+{|class="wikitable sortable"
+!Room!!Music!!Stage
+|-
+|[[Media:RoomsAgent-PopcornExplosion.swf|HQ]]||[[Media:Music7.swf|7]]||1
+|-
+|[[Media:RoomsVillage-PopcornExplosion.swf|Ski Village]]||N/A||1
+|-
+|[[Media:RoomsSport-PopcornExplosion.swf|Sports Shop]]||N/A||1
+|-
+|[[Media:RoomsAgent-PopcornExplosion 2.swf|HQ]]||[[Media:Music7.swf|7]]||2
+|-
+|[[Media:RoomsVillage-PopcornExplosion 2.swf|Ski Village]]||N/A||2
+|}
+
+
+{{Events}}

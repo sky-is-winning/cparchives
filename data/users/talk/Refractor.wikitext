@@ -1,0 +1,18 @@
+== Fine ==
+
+If you so demand. See me in IRC if you want MySQL access. --<span style='background:green'>[[User:Andrew|and<span style="color:red">rew</span>]]</span><staff/><sup>[[User talk:Andrew|merry christmas. have a sad new year! ;P]]</sup> 23:51, 12 December 2010 (UTC)
+
+== Can't upload file ==
+
+Hello,
+
+When I'm trying to upload a file called "PTNews447SecretOverlay.swf", the following error appears: http://i.imgur.com/HP6w3uQ.png
+
+I have already tried to upload it again a lot of times, but the error always pops up. Could you please help me?
+
+--[[User:JucaSLP|<span style="color:#ff7c00;"><b>Juca</b></span>]] [[User talk:JucaSLP|<span style="color:#c00000;"><b>(discussão/talk)</b></span>]] [[File:Penguinguitar.png|link=Special:Contributions/JucaSLP|20px]] 21:20, 2 June 2014 (UTC)
+
+*Update: This is also happening all the time: http://i.imgur.com/PBdJTP3.png --[[User:JucaSLP|<span style="color:#ff7c00;"><b>Juca</b></span>]] [[User talk:JucaSLP|<span style="color:#c00000;"><b>(discussão/talk)</b></span>]] [[File:Penguinguitar.png|link=Special:Contributions/JucaSLP|20px]] 21:47, 2 June 2014 (UTC)
+
+
+Still not working. I can't upload the file, but now I get a blank screen instead of an error. It only happens with this specific file. --[[User:JucaSLP|<span style="color:#ff7c00;"><b>Juca</b></span>]] [[User talk:JucaSLP|<span style="color:#c00000;"><b>(discussão/talk)</b></span>]] [[File:Penguinguitar.png|link=Special:Contributions/JucaSLP|20px]] 18:40, 3 June 2014 (UTC)

@@ -1,0 +1,170 @@
+{{NeedSWFs}}
+{{CPW|Town|Centro}}
+__TOC__
+
+==Normal==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Years!!Stadium!!Music
+|-
+|[[Media:ArtworkRoomsTown4.swf|town4]]||2005||Ice Rink||{{n/a}}
+|-
+|[[Media:ArtworkRoomsTown10.swf|town10]]||2005||Ice Rink||{{n/a}}
+|-
+|[[Media:ArtworkRoomsTown12.swf|town12]]||2006||Ice Rink||{{n/a}}
+|-
+|[[Media:ArtworkRoomsTown40.swf|town40]]||2007||Ice Rink||{{n/a}}
+|-
+|[[Media:RoomsTown.swf|town]]||2008-2011||Ice Rink||{{n/a}}
+|-
+|[[Media:RoomsTown 2.swf|town]]||2008-2011||Soccer Pitch||{{n/a}}
+|-
+|[[Media:RoomsTown 3.swf|town]]||2011-2012||Ice Rink||{{n/a}}
+|-
+|[[Media:RoomsTown 4.swf|town]]||2012||Soccer Pitch||{{n/a}}
+|-
+|[[Media:RoomsTown 5.swf|town]]||2012-2014||Ice Rink||{{n/a}}
+|-
+|[[Media:RoomsTown 6.swf|town]]||2013||Soccer Pitch||{{n/a}}
+|-
+|[[Media:RoomsTown 7.swf|town]]||2013-2014||Soccer Pitch||N/A (2013-2014)<br>[[Media:Music581.swf|581]] (2014)
+|-
+|[[media:RoomsTown-January2014.swf|town]]||January 2014-??? 2014||Ice Rink||[[media:Music581.swf|581]]
+|-
+|[[Media:RoomsTown 8.swf|town]]||??? 2014-Jul 2014||Ice Rink||[[Media:Music581.swf|581]]
+|-
+|[[Media:RoomsTown 9.swf|town]]||Jul 2014-May 2015||Soccer Pitch||[[Media:Music581.swf|581]]
+|-
+|[[Media:RoomsTown 10.swf|town]]||May 2015-September 2015||Ice Rink||[[Media:Music581.swf|581]]
+|-
+|[[Media:RoomsTown-September2015.swf|town]]||September 2015-November 2015||Soccer Pitch||[[Media:Music950.swf|950]]
+|-
+|[[Media:RoomsTown-November2015.swf|town]]||November 2015-May 2016||Ice Rink||[[Media:Music950.swf|950]]
+|}
+
+==Parties and Events==
+{|class="wikitable" border="1" style="margin: auto;"
+!{{n/a|<!--BLANK-->}}!!colspan="2"|2005!!rowspan="99"| !!colspan="2"|2006!!rowspan="99"| !!colspan="2"|2007!!rowspan="99"| !!colspan="2"|2008
+|-
+!Month!!Party/Event!!Music!!Party/Event!!Music!!Party/Event!!Music!!Party/Event!!Music
+|-
+|rowspan="2" align="center"|'''January'''||colspan="2" rowspan="11" {{n/a}}||[[Media:ArtworkRoomsTown-newyears.swf|New Years]]||{{n/a|?}}||rowspan="2" {{n/a|Winter Fiesta}}||rowspan="2"|[[Media:Music206.swf|206]]||rowspan="2"|[[Media:RoomsTown-WinterFiesta2008.swf|Winter Fiesta]]||rowspan="2"|[[Media:Music206.swf|206]]
+|-
+|{{n/a|Winter Luau}}||{{n/a|?}}
+|-
+|align="center"|'''February'''||{{n/a|Valentine's Day Celebration}}||{{n/a}}||{{n/a|Festival of Snow}}||[[Media:Music207.swf|207]]||[[Media:RoomsTown-SubMarine.swf|Sub-Marine Party]]||[[Media:Music230.swf|230]]
+|-
+|rowspan="2" align="center"|'''March'''||rowspan="2" {{n/a|St. Patrick's Day Party}}||rowspan="2"|[[Media:Music208.swf|208]]||{{n/a|St. Patrick's Day Party}}||[[Media:Music208.swf|208]]||[[Media:ArtworkRooms0314Town40.swf|St. Patrick's Day Party]]||[[Media:Music208.swf|208]]
+|-
+|{{n/a|April Fools' Party}}||[[Media:Music201.swf|201]]||[[Media:ArtworkRooms0328Town40.swf|April Fools' Party]]||[[Media:Music232.swf|232]]
+|-
+|align="center"|'''April'''||[[Media:ArtworkRooms0401Town.swf|April Fools' Party]]||{{n/a}}||[[Media:RoomsTown-PirateParty2007.swf|Pirate Party]]||[[Media:Music212.swf|212]]||[[Media:ArtworkRooms0425Town50.swf|Rockhopper's Arrival Party]]||[[Media:Music212.swf|212]]
+|-
+|align="center"|'''May'''||{{n/a|Cave Opening Party}}||{{n/a}}||colspan="2" {{n/a}}||[[Media:ArtworkRooms0516Town51.swf|Medieval Party]]||[[Media:Music233.swf|233]]
+|-
+|rowspan="2" align="center"|'''June'''||rowspan="2"|[[Media:ArtworkRooms0615Town12.swf|Summer Party]]||rowspan="2"|[[Media:Music204.swf|204]]||rowspan="2" {{n/a|Summer Kickoff Party}}||rowspan="2"|[[Media:Music204.swf|204]]||[[Media:WPTown.swf|Water Party]]||[[Media:Music218.swf|218]]
+|-
+|{{n/a|Earthquake}}||{{n/a}}
+|-
+|align="center"|'''July'''||[[Media:ArtworkRoomsTown14.swf|Wild West Party]]||{{n/a|?}}||{{n/a|Water Party}}||[[Media:Music218.swf|218]]||[[Media:RoomsTown-MusicJam2008.swf|Music Jam]]||[[Media:Music242.swf|242]]
+|-
+|align="center"|'''August'''||[[Media:ArtworkRoomsTown15.swf‎|Sports Party]]||{{n/a|?}}||{{n/a|Camp Penguin}}||[[Media:Music219.swf|219]]||[[Media:RoomsTown-PenguinGames.swf|Penguin Games]]||[[Media:Music213.swf|213]]
+|-
+|align="center"|'''September'''||{{n/a|Beta Test Party}}||{{n/a}}||colspan="2" {{n/a}}||[[Media:RoomsTown-FallFair2007.swf|Fall Fair]]||[[Media:Music221.swf|221]]||[[Media:FFTown.swf|Fall Fair]]||[[Media:Music221.swf|221]]
+|-
+|rowspan="2" align="center"|'''October'''||rowspan="2"|[[Media:ArtworkRoomsTown11.swf|Halloween Party]]||rowspan="2" {{n/a}}||rowspan="2" {{n/a|Halloween Party}}||rowspan="2"|[[Media:Music205.swf|205]]||rowspan="2" |[[Media:RoomsTown-HalloweenParty2007.swf|Halloween Party]]||rowspan="2"|[[Media:Music223.swf|223]]||[[Media:3rdAnniversaryPartyTown.swf|3rd Anniversary Party]]||[[Media:Music250.swf|250]]
+|-
+|[[Media:HPTown.swf|Halloween Party]]||[[Media:Music251.swf|251]]
+|-
+|align="center"|'''November'''||[[Media:ArtworkRoomsTown12.swf|Puffle Discovery]]||{{n/a}}||colspan="2" {{n/a}}||[[Media:RoomsTown-SurpriseParty.swf|Surprise Party]]||{{n/a}}||colspan="2" {{n/a}}
+|-
+|align="center"|'''December'''||{{n/a|Christmas Party}}||{{n/a}}||{{n/a|Christmas Party}}||[[Media:Music200.swf|200]]||[[Media:RoomsTown-ChristmasParty2007.swf|Christmas Party]]||[[Media:Music227.swf|227]]||[[Media:RoomsTown-ChristmasParty2008.swf|Christmas Party]]||[[Media:Music254.swf|254]]
+|-
+|colspan="3"| ||colspan="2"| ||colspan="2"| ||colspan="2"|
+|-
+!{{n/a|<!--BLANK-->}}!!colspan="2"|2009!!colspan="2"|2010!!colspan="2"|2011!!colspan="2"|2012
+|-
+!Month!!Party/Event!!Music!!Party/Event!!Music!!Party/Event!!Music!!Party/Event!!Music
+|-
+|rowspan="2" align="center"|'''January'''||[[Media:RoomsTown-DanceAThon.swf|Dance-A-Thon]]||{{n/a}}||colspan="2" rowspan="2" {{n/a}}||rowspan="2"|[[Media:RoomsTown-WildernessExpedition.swf|Wilderness Expedition]]||rowspan="2" {{n/a}}||rowspan="2"|[[Media:RoomsTown-UnderwaterExpedition.swf|Underwater Expedition]]||rowspan="2" {{n/a}}
+|-
+|[[Media:WinterFiesta2009Town.swf|Winter Fiesta]]||[[Media:Music206.swf|206]]
+|-
+|align="center"|'''February'''||[[Media:Rooms0220Town.swf|Puffle Party]]||[[Media:Music259.swf|259]]||[[Media:RoomsTown-PuffleParty2010.swf|Puffle Party]]||[[Media:Music282.swf|282]]||[[Media:RoomsTown-PuffleParty2011.swf|Puffle Party]]||[[Media:Music261.swf|261]]||[[Media:RoomsTown-RockhoppersQuest.swf|Rockhopper's Quest]]||{{n/a}}
+|-
+|rowspan="2" align="center"|'''March'''||rowspan="2"|[[Media:Rooms0313Town.swf|St. Patrick's Day Party]]||rowspan="2" {{n/a|?}}||[[Media:RoomsTown-PenguinPlayAwards2010.swf|Penguin Play Awards]]||{{n/a}}||rowspan="2"|[[Media:RoomsTown-AprilFoolsParty2011.swf|April Fools' Party]]||rowspan="2"|[[Media:Music232.swf|232]]||[[Media:RoomsTown-PuffleParty2012.swf|Puffle Party]]||[[Media:Music261.swf|261]]
+|-
+|[[Media:RoomsTown-AprilFoolsParty2010.swf|April Fools' Party]]||[[Media:Music232.swf|232]]||[[Media:RoomsTown-AprilFoolsParty2012.swf|April Fools' Party]]||[[Media:Music232.swf|232]]
+|-
+|rowspan="2" align="center"|'''April'''||[[Media:RoomsTown-AprilFoolsParty2009.swf|April Fools' Party]]||[[Media:Music232.swf|232]]||rowspan="2"|[[Media:RoomsTown-EarthDay2010.swf|Earth Day]]||rowspan="2" {{n/a}}||rowspan="2"|[[Media:RoomsTown-March2011.swf|Earth Day]]||rowspan="2" {{n/a}}||rowspan="2"|[[Media:RoomsTown-EarthDay2012.swf|Earth Day]]||rowspan="2" {{n/a}}
+|-
+|[[Media:RoomsTown-Easter2009.swf|Easter Egg Hunt]]||{{n/a}}
+|-
+|align="center"|'''May'''||[[Media:Rooms0508Town.swf|Medieval Party]]||[[Media:Music233.swf|233]]||[[Media:RoomsTown-MedievalParty2010.swf|Medieval Party]] <small>([[Media:RoomsTown-MedievalParty2010Pre.swf|pre]])</small>||[[Media:Music233.swf|233]]||[[Media:RoomsTown-MedievalParty2011.swf|Medieval Party]] <small>([[Media:RoomsTown-MedievalParty2010Pre.swf|pre]])</small>||[[Media:Music233.swf|233]]||[[Media:RoomsTown-MedievalParty2012.swf|Medieval Party]]||[[Media:Music233.swf|233]]
+|-
+|align="center"|'''June'''||[[Media:RoomsTown-AdventureParty2009.swf|Adventure Party]] <small>([[Media:RoomsTown-AdventureParty2009Const.swf|pre]])</small>||[[Media:Music267.swf|267]]||[[Media:RoomsTown-IslandAdventureParty2010.swf|Island Adventure Party]] <small>([[Media:RoomsTown-IslandAdventureParty2010Pre.swf|pre]])</small>||[[Media:Music268.swf|268]]||[[Media:RoomsTown-MusicJam2011.swf|Music Jam]]||[[Media:Music271.swf|271]]||[[Media:RoomsTown-Marvel2012.swf|Marvel Super Hero Takeover]]||[[Media:Music325.swf|325]]
+|-
+|align="center"|'''July'''||[[Media:RoomsTown-MusicJam2009.swf|Music Jam]]||[[Media:Music271.swf|271]]||[[Media:RoomsTown-MusicJam2010.swf|Music Jam]]||[[Media:Music271.swf|271]]||[[Media:RoomsTown-IslandAdventureParty2011.swf|Island Adventure Party]] <small>([[Media:RoomsTown-IslandAdventureParty2010Pre.swf|pre]])</small>||[[Media:Music268.swf|268]]||[[Media:RoomsTown-UltimateJam.swf|Make Your Mark: Ultimate Jam]] <small>([[Media:RoomsTown-UltimateJamPre.swf|pre]])</small>||[[Media:Music336.swf|336]]
+|-
+|align="center"|'''August'''||[[Media:RoomsTown-FestivalofFlight.swf|Festival of Flight]] <small>([[Media:RoomsTown-FestivalofFlightPre.swf|pre]])</small>||[[Media:Music277.swf|277]]||[[Media:RoomsTown-MtnExpedition.swf|Mountain Expedition]]||{{n/a}}||[[Media:RoomsTown-GreatSnowRace.swf|The Great Snow Race]]||{{n/a}}||[[Media:RoomsTown-TempleofFruit.swf|Adventure Party: Temple of Fruit]]||[[Media:Music267.swf|267]]
+|-
+|rowspan="2" align="center"|'''September'''||[[Media:RoomsTown-TheFair2009.swf|The Fair]]||[[Media:Music221.swf|221]]||rowspan="2"|[[Media:RoomsTown-TheFair2010.swf|The Fair]]||rowspan="2"|[[Media:Music297.swf|297]]||rowspan="2"|[[Media:RoomsTown-TheFair2011.swf|The Fair]]||rowspan="2"|[[Media:Music297.swf|297]]||rowspan="2"|[[Media:RoomsTown-TheFair2012.swf|The Fair]]||rowspan="2"|[[Media:Music297.swf|297]]
+|-
+|[[Media:RoomsTown-FireScavengerHunt.swf|Fire Scavenger Hunt]]||{{n/a}}
+|-
+|rowspan="2" align="center"|'''October'''||[[Media:RoomsTown-4thAnniversaryParty.swf|4th Anniversary Party]]||{{n/a|?}}||[[Media:RoomsTown-5thAnniversaryParty.swf|5th Anniversary Party]]||{{n/a|?}}||[[Media:RoomsTown-HalloweenParty2011.swf|Halloween Party]]||rowspan="2"|[[Media:Music251.swf|251]]||rowspan="2"|[[Media:RoomsTown-HalloweenParty2012.swf|Halloween Party]] <small>([[Media:RoomsTown-HalloweenParty2012Pre.swf|pre]])</small>||rowspan="2"|[[Media:Music251.swf|251]]
+|-
+|[[Media:RoomsTown-HalloweenParty2009.swf|Halloween Party]]||[[Media:Music251.swf|251]]||[[Media:RoomsTown-HalloweenParty2010.swf|Halloween Party]]||[[Media:Music251.swf|251]]||[[Media:RoomsTown-6thAnniversaryParty.swf|6th Anniversary Party]]
+|-
+|rowspan="2" align="center"|'''November'''||rowspan="2" colspan="2" {{n/a}}||[[Media:RoomsTown-Storm2010.swf|Storm]] <small>([[Media:RoomsTown-Storm2010Pre.swf|pre]])</small>||{{n/a}}||rowspan="2"|[[Media:RoomsTown-CardJitsuParty.swf|Card-Jitsu Party]] <small>([[Media:RoomsTown-CardJitsuPartyPre.swf|pre]])</small>||rowspan="2"|[[Media:Music313.swf|313]]||rowspan="2"|[[Media:RoomsTown-OperationBlackout.swf|Operation: Blackout]]||rowspan="2"|[[Media:Music342.swf|342]]
+|-
+|[[Media:RoomsTown-WaterScavengerHunt.swf|Water Scavenger Hunt]]||{{n/a}}
+|-
+|align="center"|'''December'''||[[Media:RoomsTown-HolidayParty2009.swf|Holiday Party]] <small>([[Media:RoomsTown-HolidayParty2009Construction.swf|pre]])</small>||[[Media:Music254.swf|254]]||[[Media:RoomsTown-HolidayParty2010.swf|Holiday Party]] <small>([[Media:RoomsTown-HolidayParty2010 2.swf|rink]])</small>||[[Media:Music254.swf|254]]||[[Media:RoomsTown-HolidayParty2011.swf|Holiday Party]] <small>([[Media:RoomsTown-HolidayParty2011Pre.swf|pre]])</small>||[[Media:Music254.swf|254]]||[[Media:RoomsTown-HolidayParty2012.swf|Holiday Party]]||[[Media:Music254.swf|254]]
+|-
+|colspan="3"| ||colspan="2"| ||colspan="2"| ||colspan="2"|
+|-
+!{{n/a|<!--BLANK-->}}!!colspan="2"|2013!!colspan="2"|2014!!colspan="2"|2015!!colspan="2"|2016
+|-
+!Month!!Party/Event!!Music!!Party/Event!!Music!!Party/Event!!Music!!Party/Event!!Music
+|-
+|'''January'''||colspan="2" {{n/a}}||colspan="2" {{n/a}}||[[Media:RoomsTown-StarWarsRebelsTakeover.swf|Star Wars Rebels Takeover]]||[[Media:Music836.swf|836]]||colspan="2" {{n/a}}
+|-
+|'''February'''||[[Media:RoomsTown-HollywoodParty.swf|Hollywood Party]]||[[Media:Music360.swf|360]]||[[Media:RoomsTown-TheFair2014.swf|The Fair]]||{{n/a|?}}||[[Media:RoomsTown-SoundStudioParty2015.swf|SoundStudio Party]]||[[Media:Music867.swf|867]]||[[Media:RoomsTown-OperationDoom.swf|Operation:Tri-umph]]||[[Media:Music1109.swf|1109]]
+|-
+|rowspan="2"|'''March'''||rowspan="2"|[[Media:RoomsTown-PuffleParty2013.swf|Puffle Party]]||rowspan="2"|[[Media:Music369.swf|369]]||rowspan="2"|[[Media:RoomsTown-MuppetsWorldTour.swf|Muppets World Tour]]||rowspan="2"|[[Media:Music636.swf|636]]||[[Media:RoomsTown-PiDay.swf|Pi Day]]||{{n/a|?}}||rowspan="2"|[[Media:RoomsTown-PuffleParty2016.swf|Puffle Party]]||rowspan="2"|[[Media:Music896.swf|896]]
+|-
+|[[Media:RoomsTown-PuffleParty2015.swf|Puffle Party]]||[[Media:Music896.swf|896]]
+|-
+|rowspan="2"|'''April'''||[[Media:RoomsTown-HotSauce.swf|Operation: Hot Sauce]]||[[Media:Music383.swf|383]]||rowspan="2"|[[Media:RoomsTown-PuffleParty2014.swf|Puffle Party]]||rowspan="2"|[[Media:Music659.swf|659]]||[[Media:RoomsTown-CaveMaze.swf|Cave Maze]]||[[Media:Music581.swf|581]]||rowspan="2" colspan="2" {{n/a}}
+|-
+|[[Media:RoomsTown-Marvel2013.swf|Marvel Super Hero Takeover]]||[[Media:Music389.swf|389]]||[[Media:RoomsTown-FrozenFeverParty.swf|Frozen Fever Party]]||[[Media:Music910.swf|910]]
+|-
+|'''May'''||[[Media:RoomsTown-CardJitsuParty2013.swf|Card-Jitsu Party]]||[[Media:Music411.swf|411]]||colspan="2" {{n/a}}||[[Media:RoomsTown-TheFair2015.swf|The Fair]]||[[Media:Music581.swf|581]]||[[Media:RoomsTown-ZootopiaParty.swf|Zootopia Party]]||[[Media:Music1123.swf|1123]]
+|-
+|'''June'''||[[Media:RoomsTown-MUTakeover2013.swf|Monsters University Takeover]]||[[Media:Music419.swf|419]]||[[Media:RoomsTown-PenguinCup.swf|Penguin Cup]]||[[Media:Music715.swf|715]]||[[Media:RoomsTown-FestivalofSnow2015.swf|Festival of Snow]] <small>([[Media:RoomsTown-FestivalofSnow2015Pre.swf|pre]])</small>||[[Media:Music924.swf|924]]||[[Media:RoomsTown-FindingDoryParty.swf|Finding Dory Party]]||[[Media:Music1128.swf|1128]]
+|-
+|'''July'''||[[Media:RoomsTown-StarWarsTakeover.swf|Star Wars Takeover]] <small>([[Media:RoomsTown-StarWarsTakeoverPre.swf|pre1]] {{·}} [[Media:RoomsTown-StarWarsTakeoverPre2.swf|pre2]])</small>||[[Media:Music383.swf|383]]||[[Media:RoomsTown-MusicJam2014.swf|Music Jam]]||[[Media:Music723.swf|723]]||colspan="2" {{n/a}}||colspan="2" {{n/a}}
+|-
+|'''August'''||[[Media:RoomsTown-TeenBeachMovieSummerJam.swf|Teen Beach Movie Summer Jam]]||[[Media:Music472.swf|472]]||[[Media:RoomsTown-FrozenParty.swf|Frozen Party]]||[[Media:Music743.swf|743]]||[[Media:RoomsTown-FashionFestival.swf|Fashion Festival]]||[[Media:Music947.swf|947]]||[[Media:RoomsTown-FrozenFeverParty2016.swf|Frozen Fever Party]]||[[Media:Music1132.swf|1132]]
+|-
+|'''September'''||[[Media:RoomsTown-MedievalParty2013.swf|Medieval Party]] <small>([[Media:RoomsTown-MedievalParty2013Construction.swf|pre]])</small>||[[Media:Music490.swf|490]]||colspan="2" {{n/a}}||[[Media:RoomsTown-10thAnniversaryParty.swf|10th Anniversary Party]]||[[Media:Music1030.swf|1030]]||[[Media:RoomsTown-HalloweenParty2016.swf|Halloween Party]]||rowspan="3"|[[Media:Music1035.swf|1035]]
+|-
+|rowspan="2"|'''October'''||[[Media:RoomsTown-HalloweenParty2013.swf|Halloween Party]]||rowspan="2"|[[Media:Music512.swf|512]]||rowspan="2"|[[Media:RoomsTown-HalloweenParty2014.swf|Halloween Party]]||rowspan="2"|[[Media:Music779.swf|779]]||rowspan="2"|[[Media:RoomsTown-HalloweenParty2015.swf|Halloween Party]]||rowspan="2"|[[Media:Music1052.swf|1052]]||rowspan="2"|[[Media:RoomsTown-11thAnniversaryParty.swf|11th Anniversary Party]]
+|-
+|[[Media:RoomsTown-8thAnniversaryParty.swf|8th Anniversary Party]]
+|-
+|rowspan="2"|'''November'''||rowspan="2"|[[Media:OperationPuffleRoomsTown.swf|Operation: Puffle]]||rowspan="2"|[[Media:Music383.swf|383]]||rowspan="2"|[[Media:RoomsTown-PirateParty2014.swf|Pirate Party]]||rowspan="2"|[[Media:Music792.swf|792]]||rowspan="2" colspan="2" {{n/a}}||[[Media:RoomsTown-MusicJam2016.swf|Music Jam]]||[[Media:Music1147.swf|1147]]
+|-
+|[[Media:RoomsTown-HolidayParty2016.swf|Holiday Party]]||[[Media:Music1084.swf|1084]]
+|-
+|'''December'''||[[Media:RoomsTown-HolidayParty2013.swf|Holiday Party]]||[[Media:Music556.swf|556]]||[[Media:RoomsTown-MerryWalrusParty2014.swf|Merry Walrus Party]]||[[Media:Music820.swf|820]]||[[Media:RoomsTown-HolidayParty2015.swf|Holiday Party]]||[[Media:Music1084.swf|1084]]||colspan="2" {{n/a}}
+|-
+!{{n/a|<!--BLANK-->}}!!colspan="2"|2017!!colspan="8"|
+|-
+|'''January'''||[[Media:RoomsTown-ClubPenguinIslandParty.swf|Club Penguin Island Party]]||[[Media:Music1160.swf|1160]]||colspan="2" rowspan="2" {{n/a}}||colspan="2" rowspan="2" {{n/a}}||colspan="2" rowspan="2" {{n/a}}
+|-
+|'''February'''||[[Media:RoomsTown-WaddleOnParty.swf|Waddle On Party]]||[[Media:Music1160.swf|1160]]
+|}
+
+
+{{Places}}

@@ -1,0 +1,88 @@
+{{NeedSWFs}}
+
+
+{{CPW|Adventure Party 2009|Festa da Aventura 2009}}
+
+
+==Rooms==
+===Construction===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsBeach-AdventureParty2009Const.swf|Beach]] ([http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/beach.swf With the Migrator])||N/A
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/shipnest.swf Crow's Nest]||N/A
+|-
+|[[Media:RoomsCove-AdventureParty2009Const.swf|Cove]]||N/A
+|-
+|[[Media:RoomsDock-AdventureParty2009Const.swf|Dock]]||N/A
+|-
+|[[Media:RoomsForest-AdventureParty2009Const.swf|Forest]]||N/A
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/ship.swf Pirate Ship]||N/A
+|-
+|[[Media:RoomsPlaza-AdventureParty2009Const.swf|Plaza]]||N/A
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/ship.swf Ship's Hold]||N/A
+|-
+|[[Media:RoomsForts-AdventureParty2009Const.swf|Snow Forts]]||N/A
+|-
+|[[Media:RoomsTown-AdventureParty2009Const.swf|Town]]||N/A
+|}
+</center>
+
+
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsBeach-AdventureParty2009.swf|Beach]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:RoomsCave-AdventureParty2009.swf|Cave]]||[[Media:Music268.swf|268]]
+|-
+|[[Media:RoomsCove-AdventureParty2009.swf|Cove]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:RoomsDock-AdventureParty2009.swf|Dock]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:RoomsForest-AdventureParty2009.swf|Forest]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:RoomsBerg-AdventureParty2009.swf|Iceberg]]||[[Media:Music268.swf|268]]
+|-
+|[[Media:RoomsMine-AdventureParty2009.swf|Mine]]||[[Media:Music268.swf|268]]
+|-
+|[[Media:RoomsDance-AdventureParty2009.swf|Night Club]]||[[Media:Music269.swf|269]]
+|-
+|[[Media:RoomsPlaza-AdventureParty2009.swf|Plaza]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:RoomsForts-AdventureParty2009.swf|Snow Forts]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:RoomsRink-AdventureParty2009.swf|Soccer Pitch]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:RoomsTown-AdventureParty2009.swf|Town]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:TreeForts-AdventureParty2009.swf|Tree Fort]]||[[Media:Music267.swf|267]]
+|}
+</center>
+
+==Login Screen==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+|-
+|[[Media:AdventureParty2009ENLoginScreen1.swf|Login Screen #1]]||||
+|-
+|[[Media:AdventureParty2009ENLoginScreen2.swf|Login Screen #2]]||||
+|}
+</center>
+
+==Telescope==
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/telescope/comingfaraway.swf Far away]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/rockhopper_may_2009/telescope/comingclose.swf Close]
+
+{{Parties}}
+
+[[Category:Parties of 2009]]

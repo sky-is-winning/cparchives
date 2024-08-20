@@ -1,0 +1,1412 @@
+{{NeedSWFs|'''English''': <br>'''Português''': Edições N<small><sup>o</sup></small>. 161-190, 266-371, 373-383.<br>'''Français''': <br>'''Español''': <br>'''Deutsch''': <br>'''Русский''':}}
+
+__TOC__
+
+{{CPW|Club Penguin Times|Club Penguin News}}
+== Misc ==
+*[[Media:Earlypenguintimessending.swf|The message when requesting to send a joke, poem, riddle etc. in 2007-2008]]
+*[[media:NewspaperSprites.swf|The newspaper, the penguin is holding, while it's reading it (May 2012)]]
+*[[media:ClothingBooksNews.swf|The newspaper, the penguin is holding, while it's reading it (November 2012)]]
+*[[Newspapers|The JSON, that Club Penguin uses to determine, which newspaper is the current one]]
+
+== 2005 ==
+{|class="wikitable" style="margin: 1em auto;"
+!colspan=3|Issue and Date!!colspan=2|Languages
+|-
+|#1||rowspan="2"|October||24||[[Media:News1.swf|English]]
+|-
+|<small>Fan</small>||28||[[Media:NewsFan.swf|English]]
+|-
+|#2||rowspan="6"|November||3||[[Media:News2.swf|English]]
+|-
+|#3||8||[[Media:News3.swf|English]]
+|-
+|#4||11||[[Media:News4.swf|English]]
+|-
+|#5||16||[[Media:News5.swf|English]]
+|-
+|#6||21||[[Media:News6.swf|English]]
+|-
+|#6||24||[[Media:News6 2.swf|English]]
+|-
+|#7||rowspan="5"|December||1||[[Media:News7.swf|English]]
+|-
+|#8||7||[[Media:News8.swf|English]]
+|-
+|#9||15||[[Media:News9.swf|English]]
+|-
+|#10||22||[[Media:News10.swf|English]]
+|-
+|#11||29||[[Media:News11.swf|English]]
+|}
+
+== 2006 ==
+{|class="wikitable" style="margin: 1em auto;"
+!colspan=3|Issue and Date!!colspan=2|Languages
+|-
+|#12||rowspan="4"|January||5||[[Media:News12.swf|English]]
+|-
+|#13||12||[[Media:News13.swf|English]]
+|-
+|#14||19||[[Media:News14.swf|English]]
+|-
+|#15||26||[[Media:News15.swf|English]]
+|-
+|#16||rowspan="4"|February||2||[[Media:News16.swf|English]]
+|-
+|#17||9||[[Media:News17.swf|English]]
+|-
+|#18||16||[[Media:News18.swf|English]]
+|-
+|#19||23||[[Media:News19.swf|English]]
+|-
+|#20||rowspan="5"|March||2||[[Media:News20.swf|English]]
+|-
+|#21||9||[[Media:News21.swf|English]]
+|-
+|#22||16||[[Media:News22.swf|English]]
+|-
+|#23||23||[[Media:News23.swf|English]]
+|-
+|#24||30||[[Media:News24.swf|English]]
+|-
+|#25||rowspan="4"|April||6||[[Media:News25.swf|English]]
+|-
+|#26||13||[[Media:News26.swf|English]]
+|-
+|#27||20||[[Media:News27.swf|English]]
+|-
+|#28||27||[[Media:News28.swf|English]]
+|-
+|#29||rowspan="4"|May||4||[[Media:News29.swf|English]]
+|-
+|#30||11||[[Media:News30.swf|English]]
+|-
+|#31||18||[[Media:News31.swf|English]]
+|-
+|#32||25||[[Media:News32.swf|English]]
+|-
+|#33||rowspan="5"|June||1||[[Media:News33.swf|English]]
+|-
+|#34||8||[[Media:News34.swf|English]]
+|-
+|#35||15||[[Media:News35.swf|English]]
+|-
+|#36||22||[[Media:News36.swf|English]]
+|-
+|#37||29||[[Media:News37.swf|English]]
+|-
+|#38||rowspan="4"|July||6||[[Media:News38.swf|English]]
+|-
+|#39||13||[[Media:News39.swf|English]]
+|-
+|#40||20||[[Media:News40.swf|English]]
+|-
+|#41||27||[[Media:News41.swf|English]]
+|-
+|#42||rowspan="5"|August||3||[[Media:News42.swf|English]]
+|-
+|#43||10||[[Media:News43.swf|English]]
+|-
+|#44||17||[[Media:News44.swf|English]]
+|-
+|#45||24||[[Media:News45.swf|English]]
+|-
+|#46||31||[[Media:News46.swf|English]]
+|-
+|#47||rowspan="4"|September||7||[[Media:News47.swf|English]]
+|-
+|#48||14||[[Media:News48.swf|English]]
+|-
+|#49||21||[[Media:News49.swf|English]]
+|-
+|#50||28||[[Media:News50.swf|English]]
+|-
+|#51||rowspan="4"|October||5||[[Media:News51.swf|English]]
+|-
+|#52||12||[[Media:News52.swf|English]]
+|-
+|#53||19||[[Media:News53.swf|English]]
+|-
+|#54||26||[[Media:News54.swf|English]]
+|-
+|#55||rowspan="5"|November||2||[[Media:News55.swf|English]]
+|-
+|#56||9||[[Media:News56.swf|English]]
+|-
+|#57||16||[[Media:News57.swf|English]]
+|-
+|#58||23||[[Media:News58.swf|English]]
+|-
+|#59||30||[[Media:News59.swf|English]]
+|-
+|#60||rowspan="4"|December||7||[[Media:News60.swf|English]]
+|-
+|#61||14||[[Media:News61.swf|English]]
+|-
+|#62||21||[[Media:News62.swf|English]]
+|-
+|#63||28||[[Media:News63.swf|English]]
+|}
+
+== 2007 ==
+{|class="wikitable" style="margin: 1em auto;"
+!colspan=3|Issue and Date!!colspan=2|Languages
+|-
+|#64||rowspan="4"|January||4||[[Media:News64.swf|English]]
+|-
+|#65||11||[[Media:News65.swf|English]]
+|-
+|#66||18||[[Media:News66.swf|English]]
+|-
+|#67||25||[[Media:News67.swf|English]]
+|-
+|#68||rowspan="4"|February||4||[[Media:News68.swf|English]]
+|-
+|#69||8||[[Media:News69.swf|English]]
+|-
+|#70||15||[[Media:News70.swf|English]]
+|-
+|#71||22||[[Media:News71.swf|English]]
+|-
+|#72||rowspan="6"|March||1||[[Media:News72.swf|English]]
+|-
+|#73||8||[[Media:News73.swf|English]]
+|-
+|#74||15||[[Media:News74.swf|English]]
+|-
+|#75||22||[[Media:News75.swf|English]]
+|-
+|#75 (1)||22||[[Media:News75(1).swf|English]]
+|-
+|#76||29||[[Media:News76.swf|English]]
+|-
+|#77||rowspan="4"|April||5||[[Media:News77.swf|English]]
+|-
+|#78||12||[[Media:News78.swf|English]]
+|-
+|#79||19||[[Media:News79.swf|English]]
+|-
+|#80||26||[[Media:News80.swf|English]]
+|-
+|#81||rowspan="5"|May||3||[[Media:News81.swf|English]]
+|-
+|#82||10||[[Media:News82.swf|English]]
+|-
+|#83||17||[[Media:News83.swf|English]]
+|-
+|#84||24||[[Media:News84.swf|English]]
+|-
+|#85||31||[[Media:News85.swf|English]]
+|-
+|#86||rowspan="4"|June||7||[[Media:News86.swf|English]]
+|-
+|#87||14||[[Media:News87.swf|English]]
+|-
+|#88||21||[[Media:News88.swf|English]]
+|-
+|#89||28||[[Media:News89.swf|English]]
+|-
+|#90||rowspan="4"|July||5||[[Media:News90.swf|English]]
+|-
+|#91||12||[[Media:News91.swf|English]]
+|-
+|#92||19||[[Media:News92.swf|English]]
+|-
+|#93||26||[[Media:News93.swf|English]]
+|-
+|#94||rowspan="5"|August||2||[[Media:News94.swf|English]]
+|-
+|#95||9||[[Media:News95.swf|English]]
+|-
+|#96||16||[[Media:News96.swf|English]]
+|-
+|#97||23||[[Media:News97.swf|English]]
+|-
+|#98||30||[[Media:News98.swf|English]]
+|-
+|#99||rowspan=4|September||6||[[Media:News99.swf|English]]
+|-
+|#100||13||[[Media:News100.swf|English]]
+|-
+|#101||20||[[Media:News101.swf|English]]
+|-
+|#102||27||[[Media:News102.swf|English]]
+|-
+|#103||rowspan=4|October||4||[[Media:News103.swf|English]]
+|-
+|#104||11||[[Media:News104.swf|English]]
+|-
+|#105||18||[[Media:News105.swf|English]]
+|-
+|#106||25||[[Media:News106.swf|English]]
+|-
+|#107||rowspan=5|November||1||[[Media:News107.swf|English]]
+|-
+|#108||8||[[Media:News108.swf|English]]
+|-
+|#109||15||[[Media:News109.swf|English]]
+|-
+|#110||22||[[Media:News110.swf|English]]
+|-
+|#111||29||[[Media:News111.swf|English]]
+|-
+|#112||rowspan=4|December||6||[[Media:ENNews112.swf|English]]
+|-
+|#113||13||[[Media:News113.swf|English]]
+|-
+|#114||20||[[Media:News114.swf|English]]
+|-
+|#115||25||[[Media:News115.swf|English]]
+|}
+
+== 2008 ==
+{|class="wikitable" style="margin: 1em auto;"
+!colspan=3|Issue and Date!!colspan=2|Languages
+|-
+|#116||rowspan=5|January||3||[[Media:News116.swf|English]]|| rowspan="39" {{n/a}}
+|-
+|#117||10||[[Media:News117.swf|English]]
+|-
+|#118||17||[[Media:News118.swf|English]]
+|-
+|#119||24||[[Media:News119.swf|English]]
+|-
+|#120||31||[[Media:News120.swf|English]]
+|-
+|#121||rowspan=4|February||7||[[Media:News121.swf|English]]
+|-
+|#122||14||[[Media:News122.swf|English]]
+|-
+|#123||21||[[Media:News123.swf|English]]
+|-
+|#124||28||[[Media:News124.swf|English]]
+|-
+|#125||rowspan=4|March||7||[[Media:ENNews125.swf|English]]
+|-
+|#126||13||[[Media:News126.swf|English]]
+|-
+|#127||20||[[Media:News127.swf|English]]
+|-
+|#128||27||[[Media:News128.swf|English]]
+|-
+|#129||rowspan=4|April||3||[[Media:News129.swf|English]]
+|-
+|#130||10||[[Media:News130.swf|English]]
+|-
+|#131||17||[[Media:News131.swf|English]]
+|-
+|#132||21||[[Media:News132.swf|English]]
+|-
+|#133||rowspan=5|May||1||[[Media:News133.swf|English]]
+|-
+|#134||8||[[Media:News134.swf|English]]
+|-
+|#135||15||[[Media:News135.swf|English]]
+|-
+|#136||22||[[Media:News136.swf|English]]
+|-
+|#137||29||[[Media:News137.swf|English]]
+|-
+|#138||rowspan=4|June||5||[[Media:News138.swf|English]]
+|-
+|#139||12||[[Media:News139.swf|English]]
+|-
+|#140||19||[[Media:News140.swf|English]]
+|-
+|#141||26||[[Media:News141.swf|English]]
+|-
+|#142||rowspan=4|July||3||[[Media:News142.swf|English]]
+|-
+|#143||10||[[Media:News143.swf|English]]
+|-
+|#144||17||[[Media:News144.swf|English]]
+|-
+|#145||24||[[Media:News145.swf|English]]
+|-
+|#146||rowspan=5|August||1||[[Media:News146.swf|English]]
+|-
+|#147||8||[[Media:News147.swf|English]]
+|-
+|#148||15||[[Media:News148.swf|English]]
+|-
+|#149||22||[[Media:News149.swf|English]]
+|-
+|#150||29||[[Media:News150.swf|English]]
+|-
+|#151||rowspan=4|September||5||[[Media:News151.swf|English]]
+|-
+|#152||12||[[Media:News152.swf|English]]
+|-
+|#153||19||[[Media:News153.swf|English]]
+|-
+|#154||26||[[Media:News154.swf|English]]
+|-
+|#155||rowspan=5|October||2||[[Media:ENNews155.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#156||9||[[Media:ENNews156.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#157||16||[[Media:ENNews157.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#158||23||[[Media:ENNews158.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#159||30||[[Media:ENNews159.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#160||rowspan=4|November||6||[[Media:ENNews160.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#161||13||[[Media:ENNews161.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#162||20||[[Media:ENNews162.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#163||27||[[Media:ENNews163.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#164||rowspan=4|December||4||[[Media:ENNews164.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#165||11||[[Media:ENNews165.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#166||18||[[Media:ENNews166.swf|English]]||<small>''SWF Necessário''</small>
+|-
+|#167||25||[[Media:ENNews167.swf|English]]||<small>''SWF Necessário''</small>
+|}
+
+== 2009 ==
+{|class="wikitable" style="margin: 1em auto;"
+!colspan=3|Issue and Date!!colspan=4|Languages
+|-
+|#168||rowspan=5|January||1||[[Media:ENNews168.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||rowspan="19" {{n/a}}
+|-
+|#169||8||[[Media:ENNews169.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#170||15||[[Media:ENNews170.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#171||22||[[Media:ENNews171.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#172||29||[[Media:ENNews172.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#173||rowspan=4|February||5||[[Media:ENNews173.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#174||12||[[Media:ENNews174.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#175||19||[[Media:ENNews175.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#176||26||[[Media:ENNews176.swf|English]]||[[Media:PTNews176.swf|Português]]||<small>''French SWF Needed''</small>
+|-
+|#177||rowspan=4|March||5||[[Media:ENNews177.swf|English]]||[[Media:PTNews177.swf|Português]]||<small>''French SWF Needed''</small>
+|-
+|#178||12||[[Media:ENNews178.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#179||19||[[Media:ENNews179.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#180||26||[[Media:ENNews180.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#181||rowspan=5|April||2||[[Media:ENNews181.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#182||9||[[Media:ENNews182.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#183||16||[[Media:ENNews183.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#184||23||[[Media:ENNews184.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#185||30||[[Media:ENNews185.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#186||rowspan=4|May||7||[[Media:ENNews186.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>
+|-
+|#187||14||[[Media:ENNews187.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#188||21||[[Media:ENNews188.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#189||28||[[Media:ENNews189.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#190||rowspan=4|June||4||[[Media:ENNews190.swf|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#191||11||[[Media:ENNews191.swf|English]]||[[Media:PTNews191.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#192||18||[[Media:ENNews192.swf|English]]||[[Media:PTNews192.swf|Português]]||[[Media:FRNews192.swf|Français]]||[[Media:ESNews192.swf|Español]]
+|-
+|#193||25||[[Media:ENNews193.swf|English]]||[[Media:PTNews193.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#194||rowspan=5|July||2||[[Media:ENNews194.swf|English]]||[[Media:PTNews194.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#195||9||[[Media:ENNews195.swf|English]]||[[Media:PTNews195.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#196||16||[[Media:ENNews196.swf|English]]||[[Media:PTNews196.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#197||23||[[Media:ENNews197.swf|English]]||[[Media:PTNews197.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#198||30||[[Media:ENNews198.swf|English]]||[[Media:PTNews198.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#199||rowspan=4|August||6||[[Media:ENNews199.swf|English]]||[[Media:PTNews199.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#200||13||[[Media:ENNews200.swf|English]]||[[Media:PTNews200.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#201||20||[[Media:ENNews201.swf|English]]||[[Media:PTNews201.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#202||27||[[Media:ENNews202.swf|English]]||[[Media:PTNews202.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#203||rowspan=4|September||3||[[Media:ENNews203.swf|English]]||[[Media:PTNews203.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#204||10||[[Media:ENNews204.swf|English]]||[[Media:PTNews204.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#205||17||[[Media:ENNews205.swf|English]]||[[Media:PTNews205.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#206||24||[[Media:ENNews206.swf|English]]||[[Media:PTNews206.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#207||rowspan=5|October||1||[[Media:ENNews207.swf|English]]||[[Media:PTNews207.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#208||8||[[Media:ENNews208.swf|English]]||[[Media:PTNews208.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#209||15||[[Media:ENNews209.swf|English]]||[[Media:PTNews209.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#210||22||[[Media:ENNews210.swf|English]]||[[Media:PTNews210.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#211||29||[[Media:ENNews211.swf|English]]||[[Media:PTNews211.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#212||rowspan=4|November||5||[[Media:ENNews212.swf|English]]||[[Media:PTNews212.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#213||12||[[Media:ENNews213.swf|English]]||[[Media:PTNews213.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#214||19||[[Media:ENNews214.swf|English]]||[[Media:PTNews214.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#215||26||[[Media:ENNews215.swf|English]]||[[Media:PTNews215.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#216||rowspan=5|December||3||[[Media:ENNews216.swf|English]]||[[Media:PTNews216.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#217||10||[[Media:ENNews217.swf|English]]||[[Media:PTNews217.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews217.swf|Español]]
+|-
+|#218||17||[[Media:ENNews218.swf|English]]||[[Media:PTNews218.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews218.swf|Español]]
+|-
+|#219||24||[[Media:ENNews219.swf|English]]||[[Media:PTNews219.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews219.swf|Español]]
+|-
+|#220||31||[[Media:ENNews220.swf|English]]||[[Media:PTNews220.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews220.swf|Español]]
+|}
+
+== 2010 ==
+{|class="wikitable" style="margin: 1em auto;"
+!colspan=3|Issue and Date!!colspan=4|Languages
+|-
+|#221||rowspan=4|January||7||[[Media:News221.swf|English]]||[[Media:PTNews221.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#222||14||[[Media:News222.swf|English]]||[[Media:PTNews222.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews222.swf|Español]]
+|-
+|#223||21||[[Media:ENNews223.swf|English]]||[[Media:PTNews223.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ClubPenguinTimesIssue-223ES.swf|Español]]
+|-
+|#224||28||[[Media:ENNews224.swf|English]]||[[Media:PTNews224.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews224.swf|Español]]
+|-
+|#225||rowspan=4|February||4||[[Media:ENNews225.swf|English]]||[[Media:PTNews225.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews225.swf|Español]]
+|-
+|#226||11||[[Media:ENNews226.swf|English]]||[[Media:PTNews226.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews226.swf|Español]]
+|-
+|#227||18||[[Media:ENNews227.swf|English]]||[[Media:PTNews227.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews227.swf|Español]]
+|-
+|#228||25||[[Media:ENNews228.swf|English]]||[[Media:PTNews228.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews228.swf|Español]]
+|-
+|#229||rowspan=4|March||4||[[Media:ENNews229.swf|English]]||[[Media:PTNews229.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews229.swf|Español]]
+|-
+|#230||11||[[Media:ENNews230.swf|English]]||[[Media:PTNews230.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#231||18||[[Media:ENNews231.swf|English]]||[[Media:PTNews231.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews231.swf|Español]]
+|-
+|#232||25||[[Media:ENNews232.swf|English]]||[[Media:PTNews232.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews232.swf|Español]]
+|-
+|#233||rowspan=5|April||1||[[Media:ENNews233.swf|English]]||[[Media:PTNews233.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews233.swf|Español]]
+|-
+|#234||8||[[Media:ENNews234.swf|English]]||[[Media:PTNews234.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews234.swf|Español]]
+|-
+|#235||15||[[Media:ENNews235.swf|English]]||[[Media:PTNews235.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#236||22||[[Media:ENNews236.swf|English]]||[[Media:PTNews236.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#237||29||[[Media:ENNews237.swf|English]]||[[Media:PTNews237.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews237.swf|Español]]
+|-
+|#238||rowspan=4|May||6||[[Media:ENNews238.swf|English]]||[[Media:PTNews238.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews238.swf|Español]]
+|-
+|#239||13||[[Media:ENNews239.swf|English]]||[[Media:PTNews239.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews239.swf|Español]]
+|-
+|#240||20||[[Media:ENNews240.swf|English]]||[[Media:PTNews240.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews240.swf|Español]]
+|-
+|#241||27||[[Media:ENNews241.swf|English]]||[[Media:PTNews241.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews241.swf|Español]]
+|-
+|#242||rowspan=4|June||3||[[Media:ENNews242.swf|English]]||[[Media:PTNews242.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews242.swf|Español]]
+|-
+|#243||10||[[Media:ENNews243.swf|English]]||[[Media:PTNews243.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews243.swf|Español]]
+|-
+|#244||17||[[Media:ENNews244.swf|English]]||[[Media:PTNews244.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews244.swf|Español]]
+|-
+|#245||24||[[Media:ENNews245.swf|English]]||[[Media:PTNews245.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#246||rowspan=5|July||1||[[Media:ENNews246.swf|English]]||[[Media:PTNews246.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews246.swf|Español]]
+|-
+|#247||8||[[Media:ENNews247.swf|English]]||[[Media:PTNews247.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#248||15||[[Media:ENNews248.swf|English]]||[[Media:PTNews248.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews248.swf|Español]]
+|-
+|#249||22||[[Media:ENNews249.swf|English]]||[[Media:PTNews249.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews249.swf|Español]]
+|-
+|#250||29||[[Media:ENNews250.swf|English]]||[[Media:PTNews250.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#251||rowspan=4|August||5||[[Media:ENNews251.swf|English]]||[[Media:PTNews251.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#252||12||[[Media:ENNews252.swf|English]]||[[Media:PTNews252.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews252.swf|Español]]
+|-
+|#253||19||[[Media:ENNews253.swf|English]]||[[Media:PTNews253.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews253.swf|Español]]
+|-
+|#254||26||[[Media:ENNews254.swf|English]]||[[Media:PTNews254.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews254.swf|Español]]
+|-
+|#255||rowspan=5|September||2||[[Media:ENNews255.swf|English]]||[[Media:PTNews255.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#256||9||[[Media:ENNews256.swf|English]]||[[Media:PTNews256.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews256.swf|Español]]
+|-
+|#257||16||[[Media:ENNews257.swf|English]]||[[Media:PTNews257.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews257.swf|Español]]
+|-
+|#258||23||[[Media:ENNews258.swf|English]]||[[Media:PTNews258.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews258.swf|Español]]
+|-
+|#259||30||[[Media:ENNews259.swf|English]]||[[Media:PTNews259.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews259.swf|Español]]
+|-
+|#260||rowspan=4|October||8||[[Media:ENNews260.swf|English]]||[[Media:PTNews260.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews260.swf|Español]]
+|-
+|#261||14||[[Media:ENNews261.swf|English]]||[[Media:PTNews261.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews261.swf|Español]]
+|-
+|#262||21||[[Media:ENNews262.swf|English]]||[[Media:PTNews262.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews262.swf|Español]]
+|-
+|#263||28||[[Media:ENNews263.swf|English]]||[[Media:PTNews263.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews263.swf|Español]]
+|-
+|#264||rowspan=4|November||4||[[Media:ENNews264.swf|English]]||[[Media:PTNews264.swf|Português]]||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#265||11||[[Media:ENNews265.swf|English]]||[[Media:PTNews265.swf|Português]]||<small>''French SWF Needed''</small>||[[Media:ESNews265.swf|Español]]
+<!-- BEGIN NEW NEWSPAPER FORMAT -->
+<!-- NOTE: There will not be separate pages for different languages. Please try to keep this up to date depending on whether the other languages exist for that issue or not -->
+|-
+|#266||19||[[Club Penguin Times/266|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#267||26||[[Club Penguin Times/267|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#268||rowspan=5|December||3||[[Club Penguin Times/268|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#269||10||[[Club Penguin Times/269|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#270||17||[[Club Penguin Times/270|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#271||24||[[Club Penguin Times/271|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#272||31||[[Club Penguin Times/272|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|}
+
+== 2011 ==
+<!-- NOTE: There will not be separate pages for different languages. Please try to keep this up to date depending on whether the other languages exist for that issue or not -->
+{|class="wikitable" style="margin: 1em auto;"
+!colspan=3|Issue and Date!!colspan=5|Languages
+|-
+|#273||rowspan=4|January||7||[[Club Penguin Times/273|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||rowspan="36" {{n/a}}
+|-
+|#274||14||[[Club Penguin Times/274|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#275||21||[[Club Penguin Times/275|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#276||28||[[Club Penguin Times/276|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#277||rowspan=4|February||4||[[Club Penguin Times/277|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#278||11||[[Club Penguin Times/278|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#279||18||[[Club Penguin Times/279|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#280||25||[[Club Penguin Times/280|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#281||rowspan=4|March||4||[[Club Penguin Times/281|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#282||11||[[Club Penguin Times/282|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#283||18||[[Club Penguin Times/283|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#284||25||[[Club Penguin Times/284|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#285||rowspan=5|April||1||[[Club Penguin Times/285|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#286||8||[[Club Penguin Times/286|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#287||15||[[Club Penguin Times/287|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#288||22||[[Club Penguin Times/288|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#289||29||[[Club Penguin Times/289|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#290||rowspan=4|May||6||[[Club Penguin Times/290|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#291||13||[[Club Penguin Times/291|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#292||20||[[Club Penguin Times/292|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#293||27||[[Club Penguin Times/293|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#294||rowspan=4|June||3||[[Club Penguin Times/294|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#295||10||[[Club Penguin Times/295|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#296||17||[[Club Penguin Times/296|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#297||24||[[Club Penguin Times/297|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#298||rowspan=4|July||6||[[Club Penguin Times/298|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#299||14||[[Club Penguin Times/299|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#300||22||[[Club Penguin Times/300|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#301||28||[[Club Penguin Times/301|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#302||rowspan=4|August||4||[[Club Penguin Times/302|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#303||11||[[Club Penguin Times/303|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#304||18||[[Club Penguin Times/304|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#305||25||[[Club Penguin Times/305|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#306||rowspan="5"|September||1||[[Club Penguin Times/306|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#307||8||[[Club Penguin Times/307|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#308||15||[[Club Penguin Times/308|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>
+|-
+|#309||22||[[Club Penguin Times/309|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#310||29||[[Club Penguin Times/310|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#311||rowspan=4|October||6||[[Club Penguin Times/311|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#312||13||[[Club Penguin Times/312|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#313||20||[[Club Penguin Times/313|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#314||27||[[Club Penguin Times/314|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#315||rowspan=4|November||3||[[Club Penguin Times/315|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#316||10||[[Club Penguin Times/316|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#317||17||[[Club Penguin Times/317|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#318||24||[[Club Penguin Times/318|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#319||rowspan="5"|December||1||[[Club Penguin Times/319|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#320||8||[[Club Penguin Times/320|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#321||15||[[Club Penguin Times/321|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#322||22||[[Club Penguin Times/322|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|-
+|#323||29||[[Club Penguin Times/323|English]]||<small>''SWF Necessário''</small>||<small>''French SWF Needed''</small>||<small>''Spanish SWF Needed''</small>||<small>''German SWF Needed''</small>
+|}
+
+== 2012 ==
+* [[Club Penguin Times/324|Issue #324]]
+* [[Club Penguin Times/325|Issue #325]]
+* [[Club Penguin Times/326|Issue #326]]
+* [[Club Penguin Times/327|Issue #327]]
+* [[Club Penguin Times/328|Issue #328]]
+* [[Club Penguin Times/329|Issue #329]]
+* [[Club Penguin Times/330|Issue #330]]
+* [[Club Penguin Times/331|Issue #331]]
+* [[Club Penguin Times/332|Issue #332]]
+* [[Club Penguin Times/333|Issue #333]]
+* [[Club Penguin Times/334|Issue #334]]
+* [[Club Penguin Times/335|Issue #335]]
+* [[Club Penguin Times/336|Issue #336]]
+* [[Club Penguin Times/337|Issue #337]]
+* [[Club Penguin Times/338|Issue #338]]
+* [[Club Penguin Times/339|Issue #339]]
+* [[Club Penguin Times/340|Issue #340]]
+* [[Club Penguin Times/341|Issue #341]]
+* [[Club Penguin Times/342|Issue #342]]
+* [[Club Penguin Times/343|Issue #343]]
+* [[Club Penguin Times/344|Issue #344]]
+* [[Club Penguin Times/345|Issue #345]]
+* [[Club Penguin Times/346|Issue #346]]
+* [[Club Penguin Times/347|Issue #347]]
+* [[Club Penguin Times/348|Issue #348]]
+* [[Club Penguin Times/349|Issue #349]]
+* [[Club Penguin Times/350|Issue #350]]
+* [[Club Penguin Times/351|Issue #351]]
+* [[Club Penguin Times/352|Issue #352]]
+* [[Club Penguin Times/353|Issue #353]]
+* [[Club Penguin Times/354|Issue #354]]
+* [[Club Penguin Times/355|Issue #355]]
+* [[Club Penguin Times/356|Issue #356]]
+* [[Club Penguin Times/357|Issue #357]]
+* [[Club Penguin Times/358|Issue #358]]
+* [[Club Penguin Times/359|Issue #359]]
+* [[Club Penguin Times/360|Issue #360]]
+* [[Club Penguin Times/361|Issue #361]]
+* [[Club Penguin Times/362|Issue #362]]
+* [[Club Penguin Times/363|Issue #363]]
+* [[Club Penguin Times/364|Issue #364]]
+* [[Club Penguin Times/365|Issue #365]]
+* [[Club Penguin Times/366|Issue #366]]
+* [[Club Penguin Times/367|Issue #367]]
+* [[Club Penguin Times/368|Issue #368]]
+* [[Club Penguin Times/369|Issue #369]]
+* [[Club Penguin Times/370|Issue #370]]
+* [[Club Penguin Times/371|Issue #371]]
+* [[Club Penguin Times/372|Issue #372]]
+* [[Club Penguin Times/373|Issue #373]]
+* [[Club Penguin Times/374|Issue #374]]
+* [[Club Penguin Times/375|Issue #375]]
+
+== 2013 ==
+* [[Club Penguin Times/376|Issue #376]]
+* [[Club Penguin Times/377|Issue #377]]
+* [[Club Penguin Times/378|Issue #378]]
+* [[Club Penguin Times/379|Issue #379]]
+* [[Club Penguin Times/380|Issue #380]]
+* [[Club Penguin Times/381|Issue #381]]
+* [[Club Penguin Times/382|Issue #382]]
+* [[Club Penguin Times/383|Issue #383]]
+* [[Club Penguin Times/384|Issue #384]]
+* [[Club Penguin Times/385|Issue #385]]
+* [[Club Penguin Times/386|Issue #386]]
+* [[Club Penguin Times/387|Issue #387]]
+* [[Club Penguin Times/388|Issue #388]]
+* [[Club Penguin Times/389|Issue #389]]
+* [[Club Penguin Times/390|Issue #390]]
+* [[Club Penguin Times/391|Issue #391]]
+* [[Club Penguin Times/392|Issue #392]]
+* [[Club Penguin Times/393|Issue #393]]
+* [[Club Penguin Times/394|Issue #394]]
+* [[Club Penguin Times/395|Issue #395]]
+* [[Club Penguin Times/396|Issue #396]]
+* [[Club Penguin Times/397|Issue #397]]
+* [[Club Penguin Times/398|Issue #398]]
+* [[Club Penguin Times/399|Issue #399]]
+* [[Club Penguin Times/400|Issue #400]]
+* [[Club Penguin Times/401|Issue #401]]
+* [[Club Penguin Times/402|Issue #402]]
+* [[Club Penguin Times/403|Issue #403]]
+* [[Club Penguin Times/404|Issue #404]]
+* [[Club Penguin Times/405|Issue #405]]
+* [[Club Penguin Times/406|Issue #406]]
+* [[Club Penguin Times/407|Issue #407]]
+* [[Club Penguin Times/408|Issue #408]]
+* [[Club Penguin Times/409|Issue #409]]
+* [[Club Penguin Times/410|Issue #410]]
+* [[Club Penguin Times/411|Issue #411]]
+* [[Club Penguin Times/412|Issue #412]]
+* [[Club Penguin Times/413|Issue #413]]
+* [[Club Penguin Times/414|Issue #414]]
+* [[Club Penguin Times/415|Issue #415]]
+* [[Club Penguin Times/416|Issue #416]]
+* [[Club Penguin Times/417|Issue #417]]
+* [[Club Penguin Times/418|Issue #418]]
+* [[Club Penguin Times/419|Issue #419]]
+* [[Club Penguin Times/420|Issue #420]]
+* [[Club Penguin Times/421|Issue #421]]
+* [[Club Penguin Times/422|Issue #422]]
+* [[Club Penguin Times/423|Issue #423]]
+* [[Club Penguin Times/424|Issue #424]]
+* [[Club Penguin Times/425|Issue #425]]
+* [[Club Penguin Times/426|Issue #426]]
+* [[Club Penguin Times/427|Issue #427]]
+
+== 2014 ==
+* [[Club Penguin Times/428|Issue #428]]
+* [[Club Penguin Times/429|Issue #429]]
+* [[Club Penguin Times/430|Issue #430]]
+* [[Club Penguin Times/431|Issue #431]]
+* [[Club Penguin Times/432|Issue #432]]
+* [[Club Penguin Times/433|Issue #433]]
+* [[Club Penguin Times/434|Issue #434]]
+* [[Club Penguin Times/435|Issue #435]]
+* [[Club Penguin Times/436|Issue #436]]
+* [[Club Penguin Times/437|Issue #437]]
+* [[Club Penguin Times/438|Issue #438]]
+* [[Club Penguin Times/439|Issue #439]]
+* [[Club Penguin Times/440|Issue #440]]
+* [[Club Penguin Times/441|Issue #441]]
+* [[Club Penguin Times/442|Issue #442]]
+* [[Club Penguin Times/443|Issue #443]]
+* [[Club Penguin Times/444|Issue #444]]
+* [[Club Penguin Times/445|Issue #445]]
+* [[Club Penguin Times/446|Issue #446]]
+* [[Club Penguin Times/447|Issue #447]]
+* [[Club Penguin Times/448|Issue #448]]
+* [[Club Penguin Times/449|Issue #449]]
+* [[Club Penguin Times/450|Issue #450]]
+* [[Club Penguin Times/451|Issue #451]]
+* [[Club Penguin Times/452|Issue #452]]
+* [[Club Penguin Times/453|Issue #453]]
+* [[Club Penguin Times/454|Issue #454]]
+* [[Club Penguin Times/455|Issue #455]]
+* [[Club Penguin Times/456|Issue #456]]
+* [[Club Penguin Times/457|Issue #457]]
+* [[Club Penguin Times/458|Issue #458]]
+* [[Club Penguin Times/459|Issue #459]]
+* [[Club Penguin Times/460|Issue #460]]
+* [[Club Penguin Times/461|Issue #461]]
+* [[Club Penguin Times/462|Issue #462]]
+* [[Club Penguin Times/463|Issue #463]]
+* [[Club Penguin Times/464|Issue #464]]
+* [[Club Penguin Times/465|Issue #465]]
+* [[Club Penguin Times/466|Issue #466]]
+* [[Club Penguin Times/467|Issue #467]]
+* [[Club Penguin Times/468|Issue #468]]
+* [[Club Penguin Times/469|Issue #469]]
+* [[Club Penguin Times/470|Issue #470]]
+* [[Club Penguin Times/471|Issue #471]]
+* [[Club Penguin Times/472|Issue #472]]
+* [[Club Penguin Times/473|Issue #473]]
+* [[Club Penguin Times/474|Issue #474]]
+* [[Club Penguin Times/475|Issue #475]]
+* [[Club Penguin Times/476|Issue #476]]
+* [[Club Penguin Times/477|Issue #477]]
+* [[Club Penguin Times/478|Issue #478]]
+* [[Club Penguin Times/479|Issue #479]]
+* [[Club Penguin Times/480|Issue #480]]
+
+== 2015 ==
+{{News
+|open=1
+|issue=481
+|month=January
+|monthrow=4
+|day=8
+|lang=2
+}}
+{{News
+|issue=482
+|day=15
+|lang=2
+|ask=Gary
+}}
+{{News
+|issue=483
+|day=22
+|lang=2
+|ask=A Stormtrooper
+}}
+{{News
+|issue=484
+|day=29
+|lang=2
+|ask=The Inquisitor
+}}
+{{News
+|issue=485
+|month=February
+|monthrow=4
+|day=3
+|lang=2
+}}
+{{News
+|issue=486
+|day=12
+|lang=2
+|ask=P.H.
+}}
+{{News
+|issue=487
+|day=19
+|lang=2
+|ask=DJ Cadence
+}}
+{{News
+|issue=488
+|day=26
+|lang=2
+|ask=Franky
+}}
+{{News
+|issue=489
+|month=March
+|monthrow=4
+|day=5
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=490
+|day=12
+|lang=2
+|ask=Gary
+}}
+{{News
+|issue=491
+|day=19
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=492
+|day=26
+|lang=2
+|ask=P.H.
+}}
+{{News
+|issue=493
+|month=April
+|monthrow=5
+|day=2
+|lang=2
+|ask=P.H.
+|backstory=Making of a Comic
+}}
+{{News
+|issue=494
+|day=9
+|lang=2
+|ask=Rookie
+}}
+{{News
+|issue=495
+|day=15
+|lang=2
+}}
+{{News
+|issue=496
+|day=23
+|lang=2
+|ask=Rookie
+|backstory=Fan Art
+}}
+{{News
+|issue=497
+|day=30
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=498
+|month=May
+|monthrow=4
+|day=7
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=499
+|day=14
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=500
+|day=21
+|lang=2
+|ask=P.H.
+|backstory=Comic
+}}
+{{News
+|issue=501
+|day=28
+|lang=2
+|backstory=Comic
+}}
+{{News
+|issue=502
+|month=June
+|monthrow=4
+|day=5
+|lang=2
+|ask=P.H.
+|backstory=Fan Art
+}}
+{{News
+|issue=503
+|day=11
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=504
+|day=18
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=505
+|day=24
+|lang=2
+|backstory=Bonus Story
+}}
+{{News
+|issue=506
+|month=July
+|monthrow=5
+|day=1
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=507
+|day=9
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=508
+|day=16
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=509
+|day=23
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=510
+|day=30
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=511
+|month=August
+|monthrow=4
+|day=6
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=512
+|day=13
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=513
+|day=20
+|lang=2
+|ask=Rookie
+|backstory=Fan Art
+}}
+{{News
+|issue=514
+|day=27
+|lang=2
+|backstory=Fan Art
+}}
+{{News
+|issue=515
+|month=September
+|monthrow=4
+|day=3
+|backstory=Fan Art
+}}
+{{News
+|issue=516
+|day=10
+|backstory=Fan Art
+}}
+{{News
+|issue=517
+|day=17
+|ask=P.H.
+|backstory=Fan Art
+}}
+{{News
+|issue=518
+|day=24
+|backstory=Fan Art
+}}
+{{News
+|issue=519
+|month=October
+|monthrow=5
+|day=1
+|ask=Gary
+|backstory=Fan Art
+}}
+{{News
+|issue=520
+|day=15
+|ask=Gary
+}}
+{{News
+|issue=521
+|day=15
+|backstory=Fan Art
+}}
+{{News
+|issue=522
+|day=22
+|backstory=Fan Art
+}}
+{{News
+|issue=523
+|day=29
+|backstory=Fan Art
+}}
+{{News
+|issue=524
+|month=November
+|monthrow=4
+|day=5
+|backstory=Fan Art
+}}
+{{News
+|issue=525
+|day=11
+|backstory=Fan Art
+}}
+{{News
+|issue=526
+|day=19
+|backstory=Fan Art
+}}
+{{News
+|issue=527
+|day=26
+|backstory=Fan Art
+}}
+{{News
+|issue=528
+|month=December
+|monthrow=5
+|day=3
+|backstory=Fan Art
+}}
+{{News
+|issue=529
+|day=10
+|ask=Gary
+|backstory=Fan Art
+}}
+{{News
+|issue=530
+|day=17
+|ask=Dot
+|backstory=Fan Art
+}}
+{{News
+|issue=531
+|day=24
+|ask=Dot
+|backstory=Fan Art
+}}
+{{News
+|issue=532
+|day=31
+|ask=Gary
+|backstory=Fan Art
+|end=1
+}}
+
+== 2016 ==
+{{News
+|open=1
+|issue=533
+|month=January
+|monthrow=4
+|day=6
+|backstory=Fan Art
+}}
+{{News
+|issue=534
+|day=13
+|backstory=Fan Art
+}}
+{{News
+|issue=535
+|day=20
+|backstory=Fan Art
+}}
+{{News
+|issue=536
+|day=27
+|backstory=Fan Art
+}}
+{{News
+|issue=537
+|month=February
+|monthrow=4
+|day=3
+|backstory=Fan Art
+}}
+{{News
+|issue=538
+|day=10
+|ask=Rockhopper
+|backstory=Fan Art
+}}
+{{News
+|issue=539
+|day=17
+|backstory=Fan Art
+}}
+{{News
+|issue=540
+|day=24
+|backstory=Fan Art
+}}
+{{News
+|issue=541
+|month=March
+|monthrow=5
+|day=2
+|backstory=Fan Art
+|ask=Gary
+}}
+{{News
+|issue=542
+|day=9
+|backstory=Fan Art
+}}
+{{News
+|issue=543
+|day=16
+|backstory=Fan Art
+}}
+{{News
+|issue=544
+|day=23
+|backstory=Fan Art
+|ask=P.H.
+}}
+{{News
+|issue=545
+|day=30
+|backstory=Fan Art
+|ask=DJ Cadence
+}}
+{{News
+|issue=546
+|month=April
+|monthrow=2
+|day=6
+|backstory=Fan Art
+}}
+{{News
+|issue=547
+|day=20
+|ask=Sensei
+|backstory=Fan Art
+}}
+{{News
+|issue=548
+|month=May
+|monthrow=2
+|day=4
+|backstory=Fan Art
+}}
+{{News
+|issue=549
+|day=18
+|backstory=Fan Art
+}}
+{{News
+|issue=550
+|month=June
+|monthrow=2
+|day=8
+|ask=P.H.
+|backstory=Fan Art
+}}
+{{News
+|issue=551
+|day=22
+|ask=Gary
+|backstory=Fan Art
+}}
+{{News
+|issue=552
+|month=July
+|monthrow=2
+|day=6
+|ask=Sam
+|backstory=Fan Art
+}}
+{{News
+|issue=553
+|day=20
+|ask=Gary
+|backstory=Fan Art
+}}
+{{News
+|issue=554
+|month=August
+|monthrow=3
+|day=3
+|ask=Rookie
+|backstory=Fan Art
+}}
+{{News
+|issue=555
+|day=17
+|ask=Rookie
+|backstory=Fan Art
+}}
+{{News
+|issue=556
+|day=31
+|ask=P.H.
+|backstory=Fan Art
+}}
+{{News
+|issue=557
+|month=September
+|monthrow=2
+|day=14
+|backstory=Fan Art
+}}
+{{News
+|issue=558
+|day=28
+|backstory=Fan Art
+}}
+{{News
+|issue=559
+|month=October
+|day=19
+|backstory=Fan Art
+}}
+{{News
+|issue=560
+|month=November
+|monthrow=2
+|day=3
+|ask=P.H.
+|backstory=Fan Art
+}}
+{{News
+|issue=561
+|day=17
+|ask=Cadence
+|backstory=Fan Art
+}}
+{{News
+|issue=562
+|month=December
+|monthrow=2
+|day=1
+|ask=Gary
+|backstory=Fan Art
+}}
+{{News
+|issue=563
+|day=15
+|backstory=Fan Art
+|end=1
+}}
+
+== 2017 ==
+{{News
+|open=1
+|issue= 564
+|month=January
+|day=5
+|backstory=Fan Art
+}}
+{{News
+|issue= 565
+|month=February
+|day=1
+|ask=Jet Pack Guy
+|backstory=Fan Art
+}}
+{{News
+|issue= 566
+|month=March
+|day=23
+|end=1
+}}

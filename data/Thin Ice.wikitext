@@ -1,0 +1,18 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Thin Ice|Thin Ice]]''
+==Old==
+*[[Media:ThinIce.swf|Thin Ice]]
+==New==
+*[[Media:GamesThiniceThinIce.swf|Main]]
+*[[Media:GamesThiniceBootstrap.swf|Bootstrap]]
+*[[Media:GamesThiniceLangEnTitle.swf|English Title]]
+*[[Media:GamesThiniceLangPtTitle.swf|Portuguese Title]]
+*[[Media:GamesThiniceLangFrTitle.swf|French Title]]
+*[[Media:GamesThiniceLangEsTitle.swf|Spanish Title]]
+*[[Media:GamesThiniceLangDeTitle.swf|German Title]]
+*[[Media:GamesThiniceLangRuTitle.swf|Russian Title]]
+*[[Media:GamesThiniceLangEnLocale.swf|English Locale]]
+*[[Media:GamesThiniceLangPtLocale.swf|Portuguese Locale]]
+*[[Media:GamesThiniceLangFrLocale.swf|French Locale]]
+*[[Media:GamesThiniceLangEsLocale.swf|Spanish Locale]]
+*[[Media:GamesThiniceLangDeLocale.swf|German Locale]]
+*[[Media:GamesThiniceLangRuLocale.swf|Russian Locale]]

@@ -639,7 +639,9 @@
 |-
 |905||Cut-out Background||[[Media:ClothingIcons905.swf|Icon]]||style="background: #ececec; color: grey;" class="table-na" |N/A||style="background: #ececec; color: grey;" class="table-na" |N/A||[[Media:ClothingPhotos905.swf|Photo]]
 |-
-|906||Target Background||[[Media:ClothingIcons906.swf|Icon]]||style="background: #ececec; color: grey;" class="table-na" |N/A||style="background: #ececec; color: grey;" class="table-na" |N/A||[[Media:ClothingPhotos906.swf|Photo]]
+|rowspan="2"|906||rowspan="2"|Target Background||[[Media:ClothingIcons906.swf|Icon (1)]]||rowspan="2" style="background: #ececec; color: grey;" class="table-na" |N/A||rowspan="2" style="background: #ececec; color: grey;" class="table-na" |N/A||[[Media:ClothingPhotos906.swf|Photo (1)]]
+|-
+|[[Media:ClothingIcons906 2.swf|Icon (2)]]||[[Media:ClothingPhotos906 2.swf|Photo (2)]]
 |-
 |907||Camo Background||[[Media:ClothingIcons907.swf|Icon]]||style="background: #ececec; color: grey;" class="table-na" |N/A||style="background: #ececec; color: grey;" class="table-na" |N/A||[[Media:ClothingPhotos907.swf|Photo]]
 |-

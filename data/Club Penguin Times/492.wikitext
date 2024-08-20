@@ -1,0 +1,7 @@
+{{Newspaper2
+|issue=492
+|date=March 26, 2015
+|ask=PH
+|backstory=Catchin' Waves
+|events=Island Rumors
+}}

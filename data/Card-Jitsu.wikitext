@@ -1,69 +1,146 @@
+{{CPW|Card-Jitsu|Desafio Ninja}}
 
-
-==Instructions==
-<center>
-{|class="wikitable" border="1"
-!SWF Name
-!SWF
-|-
-|SenseiWidget||[[Media:GamesSenseiSenseiWidget.swf|Sensei Widget (1)]]<br>[[Media:GamesSenseiSenseiWidget 2.swf|Sensei Widget (2)]]
+==Sensei==
+{| class="wikitable" style="margin:auto;"
+!Filename!!Date!!colspan=5|SWF
+{{ac}}
+|rowspan=2|SenseiWidget||2009||colspan=5|[[Media:GamesSenseiSenseiWidget.swf|SenseiWidget]]
+{{ac}}
+|January 2013||colspan=5|[[Media:GamesSenseiSenseiWidget 2.swf|SenseiWidget]]
+{{ac}}
+|locale||May 2013||[[Media:GamesSenseiLangEnLocale.swf|EN]]||[[Media:GamesSenseiLangPtLocale.swf|PT]]||[[Media:GamesSenseiLangEsLocale.swf|ES]]||[[Media:GamesSenseiLangFrLocale.swf|FR]]||[[Media:GamesSenseiLangDeLocale.swf|DE]]
 |}
-</center>
-
-==Locale==
-*[[Media:GamesSenseiLangEnLocale.swf|English]]
-*[[Media:GamesSenseiLangPtLocale.swf|Portuguese]]
-*[[Media:GamesSenseiLangEsLocale.swf|Spanish]]
-*[[Media:GamesSenseiLangFrLocale.swf|French]]
-*[[Media:GamesSenseiLangDeLocale.swf|German]]
-
-==Bootstrap==
-*[[Media:CardJitsuBootstrap2009.swf|Bootstrap 1]] (2009)
-*[[Media:CardJitsuBootstrap20092.swf|Bootstrap 2]] (2009)
 
 ==Game==
-<center>
-{|class="wikitable" border="1"
-!Card ID
-!SWF
-|-
-|N/A||[[Media:GamesCardBattlesTie.swf|Tie]]
-|-
-|N/A||[[Media:GamesCardBattlesWalk.swf|Walk]]
-|-
-|N/A||[[Media:GamesCardBattlesAmbient.swf|Ambient]]
+{| class="wikitable" style="margin:auto;"
+!Filename!!Date!!SWF
+{{ac}}
+|rowspan=2|boostrap||2009||[[Media:CardJitsuBootstrap2009.swf|boostrap]]
+{{ac}}
+|2009||[[Media:CardJitsuBootstrap20092.swf|bootstrap]]
+{{ac}}
+|rowspan=2|card||2009||[[Media:card.swf|card]]
+{{ac}}
+|January 2013||[[Media:Card-Jitsu.swf|card]]
 |}
-</center>
 
-===Attack===
-<center>
-{|class="wikitable" border="1"
-!Card ID
-!Element
-!Card Name
-|-
-|N/A||Any Fire||[[Media:GamesCardBattlesFAttack.swf|Fire]]
-|-
-|N/A||Any Water||[[Media:GamesCardBattlesWAttack.swf|Water]]
-|-
-|N/A||Any Snow||[[Media:GamesCardBattlesSAttack.swf|Snow]]
-|-
-|572||Fire||[[Media:GamesCardBattlesPow_572_attack.swf|Orange Puffle]]
+==Battles==
+{| class="wikitable sortable" style="margin:auto;"
+!ID!!Type!!Filename
+{{ac}}
+|{{n/a}}||Ambient||[[Media:GamesCardBattlesAmbient.swf|ambient]]
+{{ac}}
+|{{n/a}}||Tie||[[Media:GamesCardBattlesTie.swf|tie]]
+{{ac}}
+|{{n/a}}||Walk||[[Media:GamesCardBattlesWalk.swf|walk]]
+{{ac}}
+|rowspan=2|F||Attack||[[Media:GamesCardBattlesFAttack.swf|f attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesFReact.swf|f react]]
+{{ac}}
+|rowspan=2|W||Attack||[[Media:GamesCardBattlesWAttack.swf|w attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesWReact.swf|w react]]
+{{ac}}
+|rowspan=2|S||Attack||[[Media:GamesCardBattlesSAttack.swf|s attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesSReact.swf|s react]]
+{{ac}}
+|rowspan=2|572||Attack||[[Media:GamesCardBattlesPow_572_attack.swf|pow 572 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_572_react.swf|pow 572 react]]
+{{ac}}
+|rowspan=2|573||Attack||[[Media:GamesCardBattlesPow_573_attack.swf|pow 573 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_573_react.swf|pow 573 react]]
+{{ac}}
+|rowspan=2|574||Attack||[[Media:GamesCardBattlesPow_574_attack.swf|pow 574 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_574_react.swf|pow 574 react]]
+{{ac}}
+|rowspan=2|575||Attack||[[Media:GamesCardBattlesPow_575_attack.swf|pow 575 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_575_react.swf|pow 575 react]]
+{{ac}}
+|rowspan=2|576||Attack||[[Media:GamesCardBattlesPow_576_attack.swf|pow 576 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_576_react.swf|pow 576 react]]
+{{ac}}
+|rowspan=2|577||Attack||[[Media:GamesCardBattlesPow_577_attack.swf|pow 577 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_577_react.swf|pow 577 react]]
+{{ac}}
+|rowspan=2|578||Attack||[[Media:GamesCardBattlesPow_578_attack.swf|pow 578 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_578_react.swf|pow 578 react]]
+{{ac}}
+|rowspan=2|579||Attack||[[Media:GamesCardBattlesPow_579_attack.swf|pow 579 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_579_react.swf|pow 579 react]]
+{{ac}}
+|rowspan=2|580||Attack||[[Media:GamesCardBattlesPow_580_attack.swf|pow 580 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_580_react.swf|pow 580 react]]
+{{ac}}
+|rowspan=2|581||Attack||[[Media:GamesCardBattlesPow_581_attack.swf|pow 581 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_581_react.swf|pow 581 react]]
+{{ac}}
+|rowspan=2|582||Attack||[[Media:GamesCardBattlesPow_582_attack.swf|pow 582 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_582_react.swf|pow 582 react]]
+{{ac}}
+|rowspan=2|583||Attack||[[Media:GamesCardBattlesPow_583_attack.swf|pow 583 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_583_react.swf|pow 583 react]]
+{{ac}}
+|rowspan=2|584||Attack||[[Media:GamesCardBattlesPow_584_attack.swf|pow 584 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_584_react.swf|pow 584 react]]
+{{ac}}
+|rowspan=2|585||Attack||[[Media:GamesCardBattlesPow_585_attack.swf|pow 585 attack]]
+{{ac}}
+|React||[[Media:GamesCardBattlesPow_585_react.swf|pow 585 react]]
+{{ac}}
+|586||Attack||[[Media:GamesCardBattlesPow_586_attack.swf|pow 586 attack]]
+{{ac}}
+|587||Attack||[[Media:GamesCardBattlesPow_587_attack.swf|pow 587 attack]]
+{{ac}}
+|588||Attack||[[Media:GamesCardBattlesPow_588_attack.swf|pow 588 attack]]
+{{ac}}
+|589||Attack||[[Media:GamesCardBattlesPow_589_attack.swf|pow 589 attack]]
+{{ac}}
+|590||Attack||[[Media:GamesCardBattlesPow_590_attack.swf|pow 590 attack]]
+{{ac}}
+|591||Attack||[[Media:GamesCardBattlesPow_591_attack.swf|pow 591 attack]]
+{{ac}}
+|592||Attack||[[Media:GamesCardBattlesPow_592_attack.swf|pow 592 attack]]
+{{ac}}
+|593||Attack||[[Media:GamesCardBattlesPow_593_attack.swf|pow 593 attack]]
+{{ac}}
+|594||Attack||[[Media:GamesCardBattlesPow_594_attack.swf|pow 594 attack]]
+{{ac}}
+|595||Attack||[[Media:GamesCardBattlesPow_595_attack.swf|pow 595 attack]]
+{{ac}}
+|724||Attack||[[Media:GamesCardBattlesPow_724_attack.swf|pow 724 attack]]
+{{ac}}
+|725||Attack||[[Media:GamesCardBattlesPow_725_attack.swf|pow 725 attack]]
 |}
-</center>
-===React===
-When getting hit from an attack of a particular element.
-*[[Media:GamesCardBattlesFReact.swf|Fire]]
-*[[Media:GamesCardBattlesWReact.swf|Water]]
-*[[Media:GamesCardBattlesSReact.swf|Snow]]
 
-==Instructions==
-*[[Media:ENInstructionsCardJitsu.swf|English]]
-*[[Media:PTInstructionsCardJitsu.swf|Portuguese]]
-*[[Media:FRInstructionsCardJitsu.swf|French]]
-*[[Media:ESInstructionsCardJitsu.swf|Spanish]]
-*[[Media:DEInstructionsCardJitsu.swf|German]]
-*[[Media:RUInstructionsCardJitsu.swf|Russian]]
-==Others==
+==Miscellaneous==
+===Instructions===
+{| class="wikitable" style="margin:auto;"
+!Filename!!Date!!colspan=6|SWF
+{{ac}}
+|card jitsu||December 2012||[[Media:ENInstructionsCardJitsu.swf|EN]]||[[Media:PTInstructionsCardJitsu.swf|PT]]||[[Media:FRInstructionsCardJitsu.swf|FR]]||[[Media:ESInstructionsCardJitsu.swf|ES]]||[[Media:DEInstructionsCardJitsu.swf|DE]]||[[Media:RUInstructionsCardJitsu.swf|RU]]
+|}
+
+===Others===
 *[[Media:CARDJITSU TUTORIAL.swf|Card-Jitsu tutorial]]
-*[[Media:card.swf|Game Engine]] (2009)
+*[[Media:CardJitsuMiniSite.swf|Card-Jitsu site]]
+
+==See Also==
+*[[Card-Jitsu Cards]]
+*[[Card-Jitsu Fire]]
+*[[Card-Jitsu Snow]]
+*[[Card-Jitsu Water]]

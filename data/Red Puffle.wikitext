@@ -1,0 +1,88 @@
+''Club Penguin Wiki articles: [[clubpenguinwiki:Red Puffle|Red Puffle]] and [[clubpenguinwiki:Red Triceratops|Red Triceratops]]''
+
+==Basic==
+<center>
+{|class="wikitable" border="1"
+!Type!!Puffle
+|-
+|Icon||[[Media:PuffleIconsRed.swf|Red Puffle]]
+|-
+|Sprites||[[Media:PuffleSpritesRed.swf|Red Puffle]]
+|-
+|Item Sprites||[[Media:ClothingSprites755.swf|Red Puffle]]
+|-
+| rowspan="2"|Igloo Sprites||[[Media:PuffleSpritesIglooPuffle red igloo.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesIglooPuffle red1002 igloo.swf|Red Triceratops]]
+|-
+| rowspan="2"|Walking Sprites||[[Media:PuffleSpritesWalkPuffle red walk.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesWalkPuffle red1002 walk.swf|Red Triceratops]]
+|-
+| rowspan="2"|Digging Animation||[[Media:PuffleSpritesDigPuffle red dig.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesDigPuffle red1002 dig.swf|Red Triceratops]]
+|-
+| rowspan="2"|Player Card||[[Media:ClothingPaper755.swf|Red Puffle]]
+|-
+|[[Media:PufflePaperPuffle red1002 paper.swf|Red Triceratops]]
+|}
+</center>
+
+==Tricks==
+<center>
+{|class="wikitable" border="1"
+!Trick!!Puffle
+|-
+| rowspan="2"|Nuzzle||[[Media:PuffleSpritesTricksPuffle red nuzzle.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle red1002 nuzzle.swf|Red Triceratops]]
+|-
+| rowspan="2"|Speak||[[Media:PuffleSpritesTricksPuffle red speak.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle red1002 speak.swf|Red Triceratops]]
+|-
+| rowspan="2"|Jump Forward||[[Media:PuffleSpritesTricksPuffle red jumpForward.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle red1002 jumpForward.swf|Red Triceratops]]
+|-
+| rowspan="2"|Stand on Head||[[Media:PuffleSpritesTricksPuffle red standOnHead.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle red1002 standOnHead.swf|Red Triceratops]]
+|-
+| rowspan="2"|Roll||[[Media:PuffleSpritesTricksPuffle red roll.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle red1002 roll.swf|Red Triceratops]]
+|-
+| rowspan="2"|Jump Spin||[[Media:PuffleSpritesTricksPuffle red jumpSpin.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesTricksPuffle red1002 jumpSpin.swf|Red Triceratops]]
+|}
+</center>
+
+==Other Actions==
+<center>
+{|class="wikitable" border="1"
+!Action!!Puffle
+|-
+| rowspan="2"|Splash||[[Media:PuffleSpritesAnimationSplashPuffle red splash.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesAnimationSplashPuffle red1002 splash.swf|Red Triceratops]]
+|-
+| rowspan="2"|Celebrate||[[Media:PuffleSpritesAnimationCelebratePuffle red 100 percent.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesAnimationCelebratePuffle red1002 100 percent.swf|Red Triceratops]]
+|-
+| rowspan="2"|Tire Swing||[[Media:PuffleSpritesPuffleparkTireswingPuffle red TireSwing.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesPuffleparkTireswingPuffle red1002 TireSwing.swf|Red Triceratops]]
+|-
+| rowspan="2"|Hydrant||[[Media:PuffleSpritesPuffleparkHydrantPuffle red Hydrant.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesPuffleparkHydrantPuffle red1002 Hydrant.swf|Red Triceratops]]
+|-
+| rowspan="2"|Scratch Post||[[Media:PuffleSpritesPuffleparkScratchpostPuffle red scratchpost.swf|Red Puffle]]
+|-
+|[[Media:PuffleSpritesPuffleparkScratchpostPuffle red1002 scratchpost.swf|Red Triceratops]]
+|}
+</center>

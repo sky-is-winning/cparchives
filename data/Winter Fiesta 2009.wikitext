@@ -1,0 +1,39 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Winter Fiesta 2009|Winter Fiesta 2009]]''
+
+==Rooms==
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:WinterFiesta2009Beach.swf|Beach]]||[[Media:Music229.swf|229]]
+|-
+|[[Media:WinterFiesta2009Coffee.swf|Coffee Shop]]||[[Media:Music229.swf|229]]
+|-
+|[[Media:WinterFiesta2009Cove.swf|Cove]]||[[Media:Music206.swf|206]]
+|-
+|[[Media:WinterFiesta2009Dock.swf|Dock]]||[[Media:Music229.swf|229]]
+|-
+|[[Media:WinterFiesta2009Forest.swf|Forest]]||[[Media:Music206.swf|206]]
+|-
+|[[Media:WinterFiesta2009Dance.swf|Night Club]]||[[Media:Music206.swf|206]]
+|-
+|[[Media:WinterFiesta2009Pizza.swf|Pizza Parlor]]||[[Media:Music206.swf|206]]
+|-
+|[[Media:WinterFiesta2009Plaza.swf|Plaza]]||[[Media:Music206.swf|206]]
+|-
+|[[Media:WinterFiesta2009SkiLodge.swf|Ski Lodge]]||[[Media:Music229.swf|229]]
+|-
+|[[Media:WinterFiesta2009Village.swf|Ski Village]]||[[Media:Music229.swf|229]]
+|-
+|[[Media:WinterFiesta2009Forts.swf|Snow Forts]] ||[[Media:Music206.swf|206]]
+|-
+|[[Media:WinterFiesta2009Town.swf|Town]]||[[Media:Music206.swf|206]]
+|}
+</center>
+
+==Music==
+*[[Media:Music206.swf|Main Theme]]
+*[[Media:Music229.swf|Other Places]]
+{{Parties}}
+
+[[Category:Parties of 2009]]

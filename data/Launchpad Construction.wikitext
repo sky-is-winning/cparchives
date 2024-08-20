@@ -1,0 +1,12 @@
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Music
+|-
+|[[Media:ArtworkRoomsBeacon40.swf|Beacon]]||{{n/a}}
+|-
+|[[Media:Plaza31.swf|Plaza]]||{{n/a}}
+|-
+|[[Media:RoomsTown-LaunchPadConstruction.swf|Town]]||{{n/a}}
+|}
+
+{{Events}}

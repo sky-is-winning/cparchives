@@ -1,0 +1,22 @@
+<noinclude>
+{| class="wikitable sortable" style="margin: auto;"
+!'''ID'''!!'''Item name'''!!class=unsortable colspan=3|SWF</noinclude>
+{{#switch:{{{v|}}}
+ |#default=
+{{!-}}
+{{!}}align=center{{!}}{{{id|101}}}{{!!}}{{{name|Black Sunglasses}}}{{!!}}align=center{{!}}[[Media:ClothingIcons{{{id|101}}}.swf|Icon]]{{!!}}align=center{{!}}[[Media:ClothingPaper{{{id|101}}}.swf|Paper]]{{!!}}align=center{{!}}[[Media:ClothingSprites{{{id|101}}}.swf|Sprites]]
+ |0=
+{{!-}}
+{{!}}align=center{{!}}{{{id|101}}}{{!!}}{{{name|Black Sunglasses}}}{{!!}}align=center {{n/a}}{{!!}}align=center {{n/a}}{{!!}}align=center {{n/a}}
+ |1=
+{{!-}}
+{{!}}align=center{{!}}{{{id|101}}}{{!!}}{{{name|Black Sunglasses}}}{{!!}}align=center{{!}}[[Media:ClothingIcons{{{id|101}}}.swf|Icon]]{{!!}}align=center {{n/a}}{{!!}}align=center {{n/a}}
+ |2=
+{{!-}}
+{{!}}rowspan=2{{!}}{{{id|101}}}{{!!}}rowspan=2{{!}}{{{name|Black Sunglasses}}}{{!!}}align=center{{!}}[[Media:ClothingIcons{{{id|101}}}.swf|Icon <small>(1)</small>]]{{!!}}rowspan=2{{!}}[[Media:ClothingPaper{{{id|101}}}.swf|Paper]]{{!!}}rowspan=2{{!}}[[Media:ClothingSprites{{{id|101}}}.swf|Sprites]]
+{{!-}}
+{{!}}align=center{{!}}[[Media:ClothingIcons{{{id|101}}} 2.swf|Icon <small>(2)</small>]]
+ |3=
+{{!-}}
+{{!}}align=center{{!}}{{{id|101}}}{{!!}}{{{name|Black Sunglasses}}}{{!!}}align=center {{n/a}}{{!!}}align=center{{!}}[[Media:ClothingPaper{{{id|101}}}.swf|Paper]]{{!!}}align=center{{!}}[[Media:ClothingSprites{{{id|101}}}.swf|Sprites]]}}
+<noinclude>|}</noinclude>

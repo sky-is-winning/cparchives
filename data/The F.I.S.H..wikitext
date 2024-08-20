@@ -1,0 +1,13 @@
+{{CPW|The F.I.S.H.|F.I.S.H.}}
+
+{|class="wikitable plainlinks" style="margin: auto;"
+!SWF
+|-
+|[[Media:ArtworkCatalogueFish.swf|2006]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/catalogues/old_2007-2008/fish_0703.swf 2007-2008]
+|-
+|[[Media:TheFish2008.swf|2008]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/catalogues/old_2009/fish.swf 2009]
+|}

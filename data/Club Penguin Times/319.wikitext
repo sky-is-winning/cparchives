@@ -1,0 +1,12 @@
+Below are SWF files from issue #319 (December 1, 2011) of the Club Penguin Times:
+*[[Media:News319HeaderFront.swf|Header (front)]]
+*[[Media:News319FeatureStory.swf|Feature Story]]
+*[[Media:News319SupportStory.swf|Support Story]]
+*[[Media:News319UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News319NewsFlash.swf|News Flash]]
+*[[Media:News319AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News319HeaderBack.swf|Header (back)]]
+*[[Media:News319AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News319JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News319SecretOverlay.swf|Secret Overlay]]
+*[[Media:News319FeatureMore.swf|Feature More]]

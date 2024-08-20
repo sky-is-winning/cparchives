@@ -1,0 +1,51 @@
+This is the official Club Penguin Archives to-do list. As this is a collaborative project, we expect everyone to contribute collectively to make this wiki full of useful information. Below, there is a list of tasks dedicated to the improvement of Club Penguin Archives for its viewers and editors. Although not always necessary, a team effort is recommended for the achievement of these tasks.
+
+Each tasks has been put into their corresponding section and you can sign up by listing your username in it. Each user participating should have a status, if they are regularly working on the task, if they have put it on hold temporarily or if they have stopped the task. Complete tasks should be indicated, and will be put in the [[Project:To-do List/Archive|archive]] after a week. If a user is inactive on their task for more than three months (at least 90 days), his or her username will be removed from the objective to ensure everything is up to date. Although their name is removed, they will remain credited on the archive as long as they have contributed.
+
+For assistance with the to-do list, see the help page [[Project:To-do List/Help|here]].
+
+'''Remember, you can add your username to any of these objectives if you are willing to help the wiki accomplish them.'''
+
+<small>''This system was taken from the Club Penguin Wiki and was modified. The Club Penguin Wiki originally took the idea from the Ratchet & Clank wiki and the Final Fantasy Wiki. The format and layout was also taken from the Ratchet & Clank wiki.''</small>
+
+==Suggest new topics==
+You can suggest new topics on this project's talk page, which you will find [[Project Talk:To-do List|here]].
+
+==To-do list==
+=== Articles ===
+{{ToDo1}}
+{{ToDo2
+|Clean up articles from CK's old languages project<br>''<small>Proposed by [[User:Mario Rk|Mario Rk]] on April 14, 2017</small>''
+|{{progress}}
+|[[User:Mario Rk|Mario Rk]]}}
+{{ToDo2
+|Complete the [[Clothing]] and [[Furniture]] lists.<br>''<small>Proposed by [[User:Mario Rk|Mario Rk]] on April 14, 2017</small>''
+|{{progress}}
+|[[User:Mario Rk|Mario Rk]]}}
+|}
+
+=== Files ===
+{{ToDo1}}
+{{ToDo2
+|Import remaining files from [[Project:Mirror|cpcheats.info mirror]]<br>''<small>Proposed by [[User:CK|CK]] on January 2, 2013</small>''
+|{{progress}}<br>{{progress}}
+|[[User:Mario Rk|Mario Rk]]<br>[[User:CK|CK]]}}
+{{ToDo2
+|Import any files from http://icer.ink/ that aren't on-wiki yet<br>''<small>Proposed by [[User:PowerKitten|PowerKitten]] on April 13, 2017</small>''
+|{{progress}}
+|[[User:Mario Rk|Mario Rk]]}}
+|}
+
+=== Templates ===
+''No objectives at this moment.''
+
+=== Categories ===
+''No objectives at this moment.''
+
+=== Other ===
+{{ToDo1}}
+{{ToDo2
+|Setup a dictionary that allows for exploration of the saved files via mock-up of the media.clubpenguin.com directory structure. (Like the page [http://wiibrew.org/wiki/Flash_filesystem Flash filesystem] on the Wiibrew wiki.)<br>''<small>Proposed by [[User:PowerKitten|PowerKitten]] on April 10, 2017</small>''
+|{{progress}}
+|[[User:Mario Rk|Mario Rk]]}}
+|}

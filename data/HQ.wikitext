@@ -1,5 +1,5 @@
 {{NeedSWFs}}
-
+{{CPW|HQ|QG da ASP}}
 ==Normal==
 {|class="wikitable" style="margin: 1em auto;"
 !SWF!!Years!!Music
@@ -22,6 +22,8 @@
 !Event!!Music
 |-
 |[[Media:RoomsAgent-ChristmasParty2008.swf|Christmas Party 2008]]||[[Media:Music7.swf|7]]
+|-
+|[[Media:Sensei Fire Hunt agent.swf|Sensei's Fire Scavenger Hunt]]||[[Media:Music7.swf|7]]
 |-
 |[[Media:HolidayParty2009AgentHQ.swf|Holiday Party 2009]]||[[Media:Music7.swf|7]]
 |-

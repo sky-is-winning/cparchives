@@ -1,4 +1,4 @@
-
+{{CPW|Lighthouse|Farol}}
 
 ==Regular==
 {|class="wikitable" border="1" style="margin: auto;" 
@@ -6,7 +6,7 @@
 |-
 |[[Media:ArtworkRoomsLight40.swf|light40]]||2006-2007||{{n/a}}
 |-
-|[[Media:Lighthouse2007.swf|light]]||2007-2010||[/swf.cpcheats.info/music/Old%20Lighthouse%20Music.swf 2007-2008]
+|[[Media:Lighthouse2007.swf|light]]||2007-2010||[http://archives.clubpenguinwiki.info/swf.cpcheats.info/music/Old%20Lighthouse%20Music.swf 2007-2008]
 |-
 |[[Media:RoomsLight-January2010.swf|light]]||2010||{{n/a|?}}
 |-
@@ -31,23 +31,23 @@
 |-
 |[[Media:RoomsLight-MusicJam2008.swf|Music Jam]]||[[Media:Music241.swf|241]]||2008
 |-
-|[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220light.swf Puffle Party]||[[Media:Music31.swf|31]]||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220light.swf Puffle Party]||[[Media:Music31.swf|31]]||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/medieval_party_2009/light.swf Medieval Party]||[[Media:Music235.swf|235]]||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/medieval_party_2009/light.swf Medieval Party]||[[Media:Music235.swf|235]]||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/music_jam_july_2009/construction/light.swf Music Jam (Construction)]||{{n/a}}||2010
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/construction/light.swf Music Jam (Construction)]||{{n/a}}||2010
 |-
-|[/swf.cpcheats.info/rooms/2009/music_jam_july_2009/light.swf Music Jam]||{{n/a|?}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/light.swf Music Jam]||{{n/a|?}}||2009
 |-
 |[[Media:HalloweenParty2009RoomsLight.swf|Halloween Party]]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/light.swf Holiday Party]||{{n/a|?}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/light.swf Holiday Party]||{{n/a|?}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2010/puffle_party_febuary/light.swf Puffle Party]||[[Media:Music31.swf|31]]||2010
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/puffle_party_febuary/light.swf Puffle Party]||[[Media:Music31.swf|31]]||2010
 |-
 |[http://archive.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/light.swf April Fools Party]||[[Media:Music201.swf|201]]||2010
 |-
-|[/swf.cpcheats.info/rooms/2010/medieval_party_may/light.swf Medieval Party]||[[Media:Music235.swf|235]]||2010
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/medieval_party_may/light.swf Medieval Party]||[[Media:Music235.swf|235]]||2010
 |-
 |[[Media:RoomsLight-MusicJam2010.swf|Music Jam]] <small>([[Media:RoomsLight-MusicJam2010Pre.swf|pre]])</small>||{{n/a|?}}||2010
 |-

@@ -1,4 +1,4 @@
-
+{{CPW|Cave}}
 
 ==Normal==
 <center>
@@ -6,6 +6,8 @@
 !SWF!!Year(s)
 |-
 |[[Media:ArtworkRoomsCave13.swf|cave13]]||2006
+|-
+|[[Media:ArtworkRoomsCave40.swf|cave40]]||2006-2007
 |-
 |[[Media:RoomsCave.swf|cave]]||2007-2012
 |-
@@ -19,6 +21,8 @@
 !Event
 !Music
 !Year
+|-
+|[[Media:ArtworkRoomsCave41.swf|Teddy Bear pin]]||{{n/a}}||2007
 |-
 |[[Media:RoomsCave-AdventureParty2009.swf|Adventure Party]]||{{n/a}}||2009
 |-

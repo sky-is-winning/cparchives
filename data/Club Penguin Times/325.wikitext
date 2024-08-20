@@ -1,0 +1,12 @@
+Below are SWF files from issue #325 (January 12, 2012) of the Club Penguin Times:
+*[[Media:News325HeaderFront.swf|Header (front)]]
+*[[Media:News325FeatureStory.swf|Feature Story]]
+*[[Media:News325SupportStory.swf|Support Story]]
+*[[Media:News325UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News325NewsFlash.swf|News Flash]]
+*[[Media:News325AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News325HeaderBack.swf|Header (back)]]
+*[[Media:News325AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News325JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News325SecretOverlay.swf|Secret Overlay]]
+*[[Media:News325FeatureMore.swf|Feature More]]

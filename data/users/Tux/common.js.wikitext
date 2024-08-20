@@ -1,0 +1,1 @@
+$('a[href^="/static/images/"]').each(function() {var s = $(this); s.after($('<sup><a href="/wiki/File:' + s.prop('href').replace(/.*\/([^/]+)$/, '$1') + '" style="color:#a3a3a2;">⌘</a></sup>'));})

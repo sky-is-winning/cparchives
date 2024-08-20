@@ -1,0 +1,6 @@
+<noinclude>{{ToDo1}}</noinclude>
+|-
+| {{{1|Objective}}}
+| {{{2|{{progress}}}}}
+| {{{3|[[User:Example|Example]]}}}<noinclude>
+|}</noinclude>

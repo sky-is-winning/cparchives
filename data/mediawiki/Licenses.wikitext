@@ -1,0 +1,27 @@
+*CP|Club Penguin file
+*Rooms|Room file
+*ClothingIcons|Clothing icon
+*ClothingPaper|Clothing Player Card sprite
+*ClothingSprites|Clothing in-game sprites
+*ClothingPhotos|Player Card background
+*CPTimes|Club Penguin Times article
+*Catalog|Catalog
+*CloseUps|Close ups
+*Membership|Membership Notice
+*Music|Music file
+*GameSWF|Game file
+*PartyGame|Temporary Party Game
+*LoginScreen|Login Screen
+*Postcard|Postcard
+*Book|Book
+*Client|Client
+*Content|Content
+*Homepage|Homepage files
+*GameConfig|Game configuration file
+*SoundStudio|SoundStudio file (temporary)
+*PuffleSprites|Puffle Sprites (temporary)
+*PuffleCareIcons|Puffle Care icons (temporary)
+*PuffleCare|Puffle Care sprites (temporary)
+*CardJitsuSnow|Card-Jitsu Snow file (temporary)
+*Widget|Community widget (temporary)
+*Image|Image

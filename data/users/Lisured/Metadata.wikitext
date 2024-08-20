@@ -1,0 +1,30 @@
+Draft of Metadata system for Archives automation.
+
+== [[Template:Metadata/Room]] (1 = party, 2 = room) ==
+<pre><nowiki>
+[[Category:RoomContent/{{{1}}}/{{{2}}}]]
+</nowiki></pre>
+
+== Template:RoomList (1 = room) ==
+<pre><nowiki>
+{{#invoke:RoomList|{{{1}}}}}
+</nowiki></pre>
+
+== Module:RoomList ==
+# get list of pages that contain <code><nowiki>{{Metadata/Room|…|{{{1}}}}}</nowiki></code> and are ''room files'' (contain <code><nowiki>{{Rooms}}</nowiki></code> “license”)
+# order the list by party field (specified using the second argument of room template)
+# for each row:
+## find music that have the same room and party specified
+## print a table row
+
+== File:RoomsTown-HalloweenParty2010.swf ==
+<pre><nowiki>
+{{Rooms}}
+
+{{Metadata/Room|Halloween 2010|Town}}
+</nowiki></pre>
+
+== [[Town]] ==
+<pre><nowiki>
+{{RoomList|Town}}
+</nowiki></pre>

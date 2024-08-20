@@ -32,6 +32,32 @@ const REPLACERS = [
             ["~", "%7E"]
         ];
 
+const INTERWIKI_LINKS = [
+    ["archives", "http://archives.clubpenguinwiki.info/wiki/$1"],
+    ["central", "http://central.clubpenguinwiki.info/wiki/$1"],
+    ["clubpenguinarchives", "http://archives.clubpenguinwiki.info/wiki/$1"],
+    ["clubpenguinfanon", "http://fanon.clubpenguinwiki.info/wiki/$1"],
+    ["clubpenguinshops", "http://shops.clubpenguinwiki.info/wiki/$1"],
+    ["clubpenguinwiki", "http://clubpenguinwiki.info/wiki/$1"],
+    ["fanon", "http://fanon.clubpenguinwiki.info/wiki/$1"],
+    ["hewikisource", "http://he.wikisource.org/wiki/$1"],
+    ["mediazilla", "https://bugzilla.media.org/$1"],
+    ["oldwiki", "http://clubpenguin.wikia.com/wiki/$1"],
+    ["ptwiki", "http://pt.clubpenguinwiki.info/wiki/$1"],
+    ["shops", "http://shops.clubpenguinwiki.info/wiki/$1"],
+    ["uncp", "http://humor.clubpenguinwiki.info/wiki/$1"],
+    ["wikibooks", "http://en.wikibooks.org/wiki/$1"],
+    ["wikinews", "http://en.wikinews.org/wiki/$1"],
+    ["wikipedia", "http://en.wikipedia.org/wiki/$1"],
+    ["wikiquote", "http://en.wikiquote.org/wiki/$1"],
+    ["wikisource", "http://wikisource.org/wiki/$1"],
+    ["wikispecies", "http://species.wikimedia.org/wiki/$1"],
+    ["wikiversity", "http://en.wikiversity.org/wiki/$1"],
+    ["wikt", "http://en.wiktionary.org/wiki/$1"],
+    ["wiktionary", "http://en.wiktionary.org/wiki/$1"],
+    ["www", "http://clubpenguinwiki.info/wiki/$1"]
+];
+
 export default class GeneratePageData {
     constructor(webserver) {
         this.webserver = webserver;
@@ -49,7 +75,7 @@ export default class GeneratePageData {
         if (this.wikitextCache.has(page)) {
             if (this.wikitextCache.get(page) === wikitext) {
                 if (this.cache.has(page)) {
-                    console.log("Cache hit for", page);
+                    console.info("Cache hit for", page);
                     return this.cache.get(page);
                 }
             }
@@ -82,41 +108,35 @@ export default class GeneratePageData {
         return `
     <head>
 <meta charset="UTF-8">
-<title>${pageName} - Club Penguin Archives Wiki</title>
-<script async="" src="https://analytics.wikitide.net/matomo.js"></script><script type="text/javascript">(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-disabled vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )cparchiveswikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",
-""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e94235174b30f05abf9ff0a5","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"${pageName}","wgTitle":"${pageName}","wgCurRevisionId":49117,"wgRevisionId":49117,"wgArticleId":27525,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"${pageName}","wgRelevantArticleId":27525,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"all","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile",
-"model","platform","platformVersion"],"wgIsMobile":false,"wgCentralAuthMobileDomain":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.MobileDetect.nomobile":"ready","ext.DarkMode.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.checkUser.clientHints","ext.echo.centralauth","ext.eventLogging","ext.DarkMode","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.purge"];</script>
-<script type="text/javascript">(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
-}];});});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.DarkMode.styles%7Cext.MobileDetect.nomobile%7Cskins.vector.icons%2Cstyles&amp;only=styles&amp;skin=vector-2022">
-<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022" type="text/javascript"></script>
-<meta name="ResourceLoaderDynamicStyles" content="">
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
-<meta name="generator" content="MediaWiki 1.41.0">
-<meta name="referrer" content="origin">
-<meta name="referrer" content="origin-when-cross-origin">
-<meta name="robots" content="max-image-preview:standard">
-<meta name="format-detection" content="telephone=no">
-<meta name="twitter:site" content="">
-<meta name="twitter:card" content="summary">
-<meta name="viewport" content="width=1000">
-<meta property="og:title" content="${pageName} - Club Penguin Archives Wiki">
-<meta property="og:type" content="website">
-<link rel="apple-touch-icon" href="/Wiki.png">
-<link rel="icon" href="/favicon.ico">
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Club Penguin Archives Wiki (en)">
-<link rel="EditURI" type="application/rsd+xml" href="/w/api.php?action=rsd">
-<link rel="canonical" href="/wiki/${pageName}">
-<link rel="alternate" type="application/atom+xml" title="Club Penguin Archives Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom">
-<link rel="dns-prefetch" href="https://meta.miraheze.org">
-<meta property="og:title" content="${pageName}">
-<meta property="og:site_name" content="Club Penguin Archives Wiki">
-<meta property="og:url" content="/wiki/${pageName}">
-<meta property="og:image" content="/Wiki.png">
-<meta property="article:modified_time" content="2022-02-03T03:11:01Z">
-<meta property="article:published_time" content="2022-02-03T03:11:01Z">
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","name":"${pageName} - Club Penguin Archives Wiki","headline":"${pageName} - Club Penguin Archives Wiki","mainEntityOfPage":"${pageName}","identifier":"https:\/\/cparchives.miraheze.org\/wiki\/${pageName}","url":"https:\/\/cparchives.miraheze.org\/wiki\/${pageName}","dateModified":"2022-02-03T03:11:01Z","datePublished":"2022-02-03T03:11:01Z","image":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png"},"author":{"@type":"Organization","name":"Club Penguin Archives Wiki","url":"https:\/\/cparchives.miraheze.org","logo":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png","caption":"Club Penguin Archives Wiki"}},"publisher":{"@type":"Organization","name":"Club Penguin Archives Wiki","url":"https:\/\/cparchives.miraheze.org","logo":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/cparchiveswiki\/b\/bc\/Wiki.png","caption":"Club Penguin Archives Wiki"}},"potentialAction":{"@type":"SearchAction","target":"https:\/\/cparchives.miraheze.org\/wiki\/Special:Search?search={search_term}","query-input":"required name=search_term"}}</script>
-<link rel="dns-prefetch" href="//login.miraheze.org">
+<title>${pageName} - Club Penguin Archives</title>
+<meta name="generator" content="Sky's Wikitext Parser">
+<meta name="description" content="The Club Penguin Archives is the most comprehensive archive of Club Penguin, including SWFs and more.">
+<link rel="shortcut icon" href="/Favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Club Penguin Archives (en)">
+<link rel="alternate" hreflang="x-default" href="/wiki/Main_Page">
+<link rel="alternate" type="application/atom+xml" title="Club Penguin Archives Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="stylesheet" href="/styles.css">
+<style>
+.mw-collapsible-toggle{float:right;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;user-select:none}  .mw-content-ltr .mw-collapsible-toggle,.mw-content-rtl .mw-content-ltr .mw-collapsible-toggle{float:right} .mw-content-rtl .mw-collapsible-toggle,.mw-content-ltr .mw-content-rtl .mw-collapsible-toggle{float:left}.mw-customtoggle,.mw-collapsible-toggle{cursor:pointer} caption .mw-collapsible-toggle,.mw-content-ltr caption .mw-collapsible-toggle,.mw-content-rtl caption .mw-collapsible-toggle,.mw-content-rtl .mw-content-ltr caption .mw-collapsible-toggle,.mw-content-ltr .mw-content-rtl caption .mw-collapsible-toggle{float:none} li .mw-collapsible-toggle,.mw-content-ltr li .mw-collapsible-toggle,.mw-content-rtl li .mw-collapsible-toggle,.mw-content-rtl .mw-content-ltr li .mw-collapsible-toggle,.mw-content-ltr .mw-content-rtl li .mw-collapsible-toggle{float:none} .mw-collapsible-toggle-li{list-style:none}
+/* cache key: cparchives:resourceloader:filter:minify-css:7:e1ffd603cbaaa5f1a36e0d13fe843535 */
+.suggestions{overflow:hidden;position:absolute;top:0;left:0;width:0;border:none;z-index:1099;padding:0;margin:-1px 0 0 0}.suggestions-special{position:relative;background-color:white;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0;margin-top:-2px;display:none;padding:0.25em 0.25em;line-height:1.25em}.suggestions-results{background-color:white;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0}.suggestions-result{color:black;margin:0;line-height:1.5em;padding:0.01em 0.25em;text-align:left; overflow:hidden;-o-text-overflow:ellipsis; text-overflow:ellipsis;white-space:nowrap}.suggestions-result-current{background-color:#4C59A6;color:white}.suggestions-special .special-label{color:gray;text-align:left}.suggestions-special .special-query{color:black;font-style:italic;text-align:left}.suggestions-special .special-hover{background-color:silver}.suggestions-result-current .special-label,.suggestions-result-current .special-query{color:white}.highlight{font-weight:bold}
+/* cache key: cparchives:resourceloader:filter:minify-css:7:f8d0c6895ce3ae14434c16b8fca59432 */
+.postedit-container{margin:0 auto;position:fixed;top:0;height:0;left:50%;z-index:1000;font-size:13px}.postedit-container:hover{cursor:pointer}.postedit{position:relative;top:0.6em;left:-50%;padding:.6em 3.6em .6em 1.1em;line-height:1.5625em;color:#626465;background-color:#f4f4f4;border:1px solid #dcd9d9;text-shadow:0 0.0625em 0 rgba(255,255,255,0.5);border-radius:5px;box-shadow:0 2px 5px 0 #ccc;-webkit-transition:all 0.25s ease-in-out;-moz-transition:all 0.25s ease-in-out;-ms-transition:all 0.25s ease-in-out;-o-transition:all 0.25s ease-in-out;transition:all 0.25s ease-in-out}.skin-monobook .postedit{top:6em !important}.postedit-faded{opacity:0}.postedit-icon{padding-left:41px;  line-height:25px;background-repeat:no-repeat;background-position:8px 50%}.postedit-icon-checkmark{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABblBMVEUAAAD///////9PfTf///80aRdTgjn///9Feij///////////9Rfzf///////////9PfjZRgDh1o1xOfTb///////+bwYqLtnj///////9PfTa82K////9WhT6YxIL///9QgDdTgzr////////j7uDl7eLq8efi693k7OH///////9UhjuBr2rp9uRUhjr///9YljVKgir///9WiTlYjT3////9/v57vFlbkT5PjC9dlD/5/fhuq09stUTs9uhxuElctCpfnT1huDFloEZloUZmpENmvDZpvDxpvTxqvjxrvT5rvT9rwTxsqktswD5uwkBvuUdxw0NztFBztU9ztVBzwkp0tlJ1xkd2t1R3uVR4w1F4xk54x014yE15uVZ5v1R5xVB6v1R7yFJ8wVh9xVl9yFR9yVd9ylN+xVh+yFd/x1l/yFeAylmEx1+Ny2uY0Hqe04Wj1Ymv3Ze33qLD47TJ5L3O6cPU7Mrq9eb2+/Q4j37OAAAAQHRSTlMAAQIEBAUFBQwPFB4fJCUoKiosQEhJS01RUlZZXmdydXaChYuSlJSWmJmoq6uur8LExcvM19fg5ejt8fX2+Pr7SljgewAAAKpJREFUGBkFwQNCAwAAAMDLtl3LtrG4rWXbtvX77gAgZ6grFwC0bhwNVgKgdPZx8b0dgLi+s7Wn0VoAqpfOI9+BNADZI7fLrz2pSEwGHZuH+78lSK8ZLkLezF3ooyUG3VPXq2USei9WngeyoG195yBYWDF3E/2pAhl1e9Gr8bGT+bfOFCC2fnvh4X7rcqIAQNNu+HT6sxkAjceTL/2ZAIhv+PorBwBJxfkA//dFHSCBy/UTAAAAAElFTkSuQmCC);background-image:url(//w/resources/src/mediawiki.action/images/green-checkmark.png?2015-08-10T21:21:40Z)!ie;background-position:left}.postedit-close{position:absolute;padding:0 .8em;right:0;top:0;font-size:1.25em;font-weight:bold;line-height:2.3em;color:black;text-shadow:0 0.0625em 0 white;text-decoration:none;opacity:0.2;filter:alpha(opacity=20)}.postedit-close:hover{color:black;text-decoration:none;opacity:0.4;filter:alpha(opacity=40)}
+/* cache key: cparchives:resourceloader:filter:minify-css:7:3a3b3749ce25c0b902a79b1a6f2e0e23 */</style><style>
+.suggestions a.mw-searchSuggest-link,.suggestions a.mw-searchSuggest-link:hover,.suggestions a.mw-searchSuggest-link:active,.suggestions a.mw-searchSuggest-link:focus{color:black;text-decoration:none}.suggestions-result-current a.mw-searchSuggest-link,.suggestions-result-current a.mw-searchSuggest-link:hover,.suggestions-result-current a.mw-searchSuggest-link:active,.suggestions-result-current a.mw-searchSuggest-link:focus{color:white}.suggestions a.mw-searchSuggest-link .special-query{ overflow:hidden;-o-text-overflow:ellipsis; text-overflow:ellipsis;white-space:nowrap}
+/* cache key: cparchives:resourceloader:filter:minify-css:7:ae3fa4570b5ac0c6cf7b3776c8ae4d6f */</style><meta name="ResourceLoaderDynamicStyles" content="">
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: cparchives:resourceloader:filter:minify-css:7:89f66f7f9d0045713185cf069001a483 */</style>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":96218,"wgRevisionId":96218,"wgArticleId":1,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":1,"wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+/* cache key: cparchives:resourceloader:filter:minify-js:7:a5c52c063dc436c1ca7c9f456936a5e9 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=jquery.accessKeyLabel%2Cclient%2CmwExtension%2CtabIndex%2Cthrottle-debounce%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup%7Cskins.vector.js&amp;skin=vector&amp;version=20240816T202117Z&amp;*"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/Vector/csshover.min.htc")}</style><![endif]-->
 <script>
 function hideNav() {
     document.getElementById("mw-panel-toc").style.display = "none";
@@ -126,21 +146,103 @@ function hideNav() {
         `;
     }
 
-    getHeader() {
+    getHeader(truePageName) {
         return `
-<div class="vector-header-container">
-    <header class="vector-header mw-header">
-        <div class="vector-header-start">
-            <a href="/wiki/Main_Page" class="mw-logo">
-                <img class="mw-logo-icon" src="/Wiki.png" alt="" aria-hidden="true" height="50" width="50">
-                <span class="mw-logo-container">
-                    <strong class="mw-logo-wordmark">Club Penguin Archives Wiki</strong>
-                </span>
-            </a>
+<div id="mw-head">
+  <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+    <h3 id="p-personal-label">Personal tools</h3>
+    <ul>
+    </ul>
+  </div>
+  <div id="left-navigation">
+    <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+      <h3 id="p-namespaces-label">Namespaces</h3>
+      <ul>
+        <li id="ca-nstab-main" class="selected">
+          <span>
+            <a href="/wiki/${truePageName}" title="View the content page [alt-shift-c]" accesskey="c">Page</a>
+          </span>
+        </li>
+        <li id="ca-talk">
+          <span>
+            <a href="/wiki/Talk:${truePageName}" title="Discussion about the content page [alt-shift-t]" accesskey="t">Discussion</a>
+          </span>
+        </li>
+      </ul>
+    </div>
+    <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+      <h3 id="p-variants-label" tabindex="0">
+        <span>Variants</span>
+        <a href="#" tabindex="-1"></a>
+      </h3>
+      <div class="menu">
+        <ul></ul>
+      </div>
+    </div>
+  </div>
+  <div id="right-navigation">
+    <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+      <h3 id="p-views-label">Views</h3>
+      <ul>
+        <li id="ca-view" class="selected">
+          <span>
+            <a href="/wiki/Zootopia_Party">Read</a>
+          </span>
+        </li>
+        <li id="ca-viewsource"><span><a href="https://raw.githubusercontent.com/sky-is-winning/cparchives/master/data/${truePageName}.wikitext" title="View page source" accesskey="v">View source</a></span></li>
+        <li id="ca-edit"><span><a href="https://github.com/sky-is-winning/cparchives/edit/master/data/${truePageName}.wikitext" title="Suggest page edit" accesskey="e">Suggest edit</a></span></li>
+      </ul>
+    </div>
+    
+    <div id="p-search" role="search">
+      <h3>
+        <label for="searchInput">Search</label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+        <div id="simpleSearch">
+          <input type="search" name="search" placeholder="Search" title="Search Club Penguin Archives [alt-shift-f]" accesskey="f" id="searchInput" tabindex="1" autocomplete="off">
+          <input type="hidden" value="Special:Search" name="title">
+          <input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchButton" class="searchButton">
         </div>
-    </header>
+      </form>
+    </div>
+  </div>
 </div>
     `;
+    }
+
+    getNavPanel() {
+        return `
+        <div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [alt-shift-z]" accesskey="z">Main page</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [alt-shift-r]" accesskey="r">Recent changes</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [alt-shift-x]" accesskey="x">Random page</a></li>
+													<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Zootopia_Party" title="A list of all wiki pages that link here [alt-shift-j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Zootopia_Party" title="Recent changes in pages linked from this page [alt-shift-k]" accesskey="k">Related changes</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [alt-shift-q]" accesskey="q">Special pages</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Zootopia_Party&amp;printable=yes" rel="alternate" title="Printable version of this page [alt-shift-p]" accesskey="p">Printable version</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Zootopia_Party&amp;oldid=85661" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Zootopia_Party&amp;action=info" title="More information about this page">Page information</a></li>
+											</ul>
+							</div>
+		</div>
+				</div>
+                `;
     }
 
     getSiteNotice() {
@@ -153,68 +255,69 @@ function hideNav() {
 
     getNavigation(wt) {
         let headers = [];
+        let nav = `
+    <div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">&nbsp;[<a href="#" id="togglelink">hide</a>]&nbsp;</span></div><ul><ul>
+    `;
+
+        let h2Count = 0;
+        let h3Count = 0;
+        let currentH2Index = 0;
+
         for (let line of wt.split("\n")) {
-            if (line.startsWith("==")) {
-                headers.push(line.replace(/=/g, "").trim());
+            if (line.startsWith("===")) {  // h3
+                h3Count++;
+                let header = line.replace(/=/g, "").trim();
+                headers.push({ level: 3, text: header });
+                let headerId = header.replace(/ /g, "_");
+                nav += `
+            <li class="toclevel-2 tocsection-${currentH2Index}.${h3Count}"><a href="#${headerId}"><span class="tocnumber">${currentH2Index}.${h3Count}</span> <span class="toctext">${header}</span></a></li>
+            `;
+            } else if (line.startsWith("==")) {  // h2
+                h2Count++;
+                let header = line.replace(/=/g, "").trim();
+                headers.push({ level: 2, text: header });
+                let headerId = header.replace(/ /g, "_");
+                nav += `
+            </ul><li class="toclevel-1 tocsection-${h2Count}"><a href="#${headerId}"><span class="tocnumber">${h2Count}</span> <span class="toctext">${header}</span></a><ul>
+            `;
+                currentH2Index = h2Count;
             }
         }
-        let nav = `
-        <nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
-        <div id="vector-toc-pinned-container" class="vector-pinned-container">
-        <div id="vector-toc" class="vector-toc vector-pinnable-element">
-        <div class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned" data-feature-name="toc-pinned" data-pinnable-element-id="vector-toc">
-                        <h2 class="vector-pinnable-header-label">Contents</h2>
-                        <button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
-                        <button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin" onclick="hideNav()">hide</button>
-                    </div>
-          <ul class="vector-toc-contents" id="mw-panel-toc-list">
-          <li id="toc-mw-content-text" class="vector-toc-list-item vector-toc-level-1">
-              <a href="#" class="vector-toc-link">
-                <div class="vector-toc-text">Beginning</div>
-              </a>
-          </li>
-        `;
-        for (let header of headers) {
-            let headerId = header.replace(/ /g, "_");
-            nav += `
-            <li id="toc-${headerId}" class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-              <a class="vector-toc-link" href="#${headerId}">
-                <div class="vector-toc-text">
-                  <span class="vector-toc-numb">1</span>${header}
-                </div>
-              </a>
-              <ul id="toc-${headerId}-sublist" class="vector-toc-list"></ul>
-            </li>
-            `;
-        }
-        nav += `</ul></div></div></nav>`;
-        return nav;
+
+        // Close any remaining open tags
+        nav += `
+        </ul>
+        </li>
+        </ul>
+        </div>
+    `;
+
+        return { "nav": nav.trim(), "headers": headers };
     }
 
     getFooter() {
         return `
-        <div class="mw-footer-container">
-<footer id="footer" class="mw-footer" role="contentinfo">
-<ul id="footer-info">
+        <div id="footer" role="contentinfo">
+							<ul id="footer-info">
 <li id="footer-info-lastmod"> This site is a mirror of the original Club Penguin Archives Wiki. Hosted and maintained by <a href="https://github.com/sky-is-winning/">sky</a>.</li>
 </ul>
 <ul id="footer-places">
-<li id="footer-places-coffee"><a href="https://buymeacoffee.com/sky.is.winning">Buy me a coffee <3</a></li>
-<li id="footer-spacer"> </li>
+<li id="footer-places-coffee"><a href="https://buymeacoffee.com/sky.is.winning">Buy me a coffee &lt;3</a></li>
+<li id="footer-spacer">&nbsp;</li>
 <li id="footer-places-repo"><a href="https://github.com/sky-is-winning/cparchives">View source on GitHub</a></li>
 </ul>
 <ul id="footer-icons" class="noprint"></ul>
-</footer>
-</div>
+						<div style="clear:both"></div>
+		</div>
 `;
     }
 
     getPageContainer(wt, pageName) {
         let pageContainer = "";
-        pageContainer += `<div class="mw-page-container">`;
-        pageContainer += `<div class="mw-page-container-inner">`;
+        pageContainer += `<div id="mw-page-base" class="noprint"></div>`;
+        pageContainer += `<div id="mw-head-base" class="noprint"></div>`;
+        pageContainer += `<div id="content" class="mw-body" role="main">`;
         pageContainer += this.getSiteNotice();
-        if (pageName != "Main Page") pageContainer += this.getNavigation(wt);
         return pageContainer;
     }
 
@@ -229,6 +332,7 @@ function hideNav() {
         let inTemplate = false;
         let tableLines = "";
         let templateLines = "";
+        let hadFirstHeading = false;
         for (let line of wt.split("\n")) {
             line = line.trim();
             if (inTable) {
@@ -252,16 +356,43 @@ function hideNav() {
                     inTable = true;
                     tableLines += line;
                     continue;
-                } else if (line.startsWith(`{{`) && !line.endsWith("}}")) {
+                } else if (line.startsWith(`{{`) && !line.startsWith("{{#") && !line.includes("}}")) {
                     inTemplate = true;
                     templateLines += line.replace("{{", "");
                     continue;
                 } else if (line.startsWith("===")) {
+                    if (!hadFirstHeading) {
+                        hadFirstHeading = true;
+                        const nav = this.getNavigation(wt);
+                        if ((nav.headers.length > 3 && !wt.includes("__NOTOC__")) || wt.includes("__FORCETOC__")) {
+                            if (content.includes("__TOC__")) {
+                                content = content.replace("__TOC__", nav.nav);
+                            } else if (wt.includes("__TOC__")) {
+                                wt = wt.replace("__TOC__", nav.nav);
+                            } else {
+                                content += nav.nav;
+                            }
+                        }
+                    }
                     content += `<h3 id="${line.replace(/ /g, "_").replace(/=/g, "").trim()}">${line.replace(/=/g, "").trim()}</h3>`;
                 } else if (line.startsWith("==")) {
+                    if (!hadFirstHeading) {
+                        hadFirstHeading = true;
+                        const nav = this.getNavigation(wt);
+                        if ((nav.headers.length > 3 && !wt.includes("__NOTOC__")) || wt.includes("__FORCETOC__")) {
+                            if (content.includes("__TOC__")) {
+                                content = content.replace("__TOC__", nav.nav);
+                            } else if (wt.includes("__TOC__")) {
+                                wt = wt.replace("__TOC__", nav.nav);
+                            } else {
+                                content += nav.nav;
+                            }
+                        }
+                        
+                    }
                     content += `<h2 id="${line.replace(/ /g, "_").replace(/=/g, "").trim()}">${line.replace(/=/g, "").trim()}</h2>`;
                 } else {
-                    const templateRegex = /\{\{([^{}]*?)\}\}(?!\})/g;
+                    const templateRegex = /\{\{(?!#)([^{}]*?)\}\}(?!\})/g;
                     let match;
                     while ((match = templateRegex.exec(line)) !== null) {
                         const replacement = await this.getTemplate(match[1], pageName);
@@ -282,6 +413,11 @@ function hideNav() {
                             }
                             if (urlText.startsWith("Media:")) {
                                 return `<a href="${this.getFileURI(urlText.split(":")[1])}" title="${url}">${text}</a>`;
+                            }
+                            for (const interwikiLink of INTERWIKI_LINKS) {
+                                if (urlText.startsWith(interwikiLink[0])) {
+                                    return `<a href="${interwikiLink[1].replace("$1", urlText.split(":")[1])}" title="${url}">${text}</a>`;
+                                }
                             }
                             return `<a href="/wiki/${urlText}" title="${url}">${text}</a>`;
                         }
@@ -309,75 +445,27 @@ function hideNav() {
         return content;
     }
 
-    async getContentContainer(wt, pageName, truePageName) {
+    async getContentContainer(wt, pageName) {
         let contentContainer = "";
-        contentContainer += `<div class="mw-content-container">`;
-        contentContainer += `<main id="content" class="mw-body" role="main">`;
         if (pageName !== "Main Page")
             contentContainer += `
         <header class="mw-body-header vector-page-titlebar">
-                    <label id="vector-toc-collapsed-button" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only" for="vector-toc-collapsed-checkbox" role="button" aria-controls="vector-toc" tabindex="0" title="Table of Contents">
-                        <span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
-                        <span>Toggle the table of contents</span>
-                    </label>
-                    <nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
-                        <div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left">
-                            <input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox " aria-label="Toggle the table of contents">
-                            <label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true">
-                                <span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
-                                <span class="vector-dropdown-label-text">Toggle the table of contents</span>
-                            </label>
-                            <div class="vector-dropdown-content">
-                                <div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container"></div>
-                            </div>
-                        </div>
-                    </nav>
                     <h1 id="firstHeading" class="firstHeading mw-first-heading">
                         <span class="mw-page-title-main">${pageName}</span>
                     </h1>
                 </header>
         `;
-        contentContainer += `<div class="vector-page-toolbar">`;
-        if (pageName !== "Main Page") {
-            contentContainer += `
-            <div class="vector-page-toolbar-container">
-                <div id="left-navigation"></div>
-                <div id="right-navigation">
-                <nav aria-label="Views">
-                <div id="p-views" style="height: 2.7em;" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views">
-                <div class="vector-menu-content">
-                <ul class="vector-menu-content-list">
-                <li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="https://raw.githubusercontent.com/sky-is-winning/cparchives/master/data/${truePageName}.wikitext" title="View page source" accesskey="v"><span>View source</span></a></li>
-                <li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="https://github.com/sky-is-winning/cparchives/edit/master/data/${truePageName}.wikitext" title="Suggest page edit" accesskey="e"><span>Suggest edit</span></a></li>
-                </ul>
-                </div>
-                </div>
-                </nav>
-                </div>
-                </div>
-                `;
-        }
         contentContainer += `
-                <div class="vector-column-end">
-                    <nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
-                        <div id="vector-page-tools-pinned-container" class="vector-pinned-container"></div>
-                    </nav>
-                </div>
-                <div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container="">
-                    <div class="vector-body-before-content">
-                        <div class="mw-indicators"></div>
-                        <div id="siteSub" class="noprint">From Club Penguin Archives Wiki</div>
-                    </div>
-                    <div id="contentSub">
-                        <div id="mw-content-subtitle"></div>
-                    </div>
-                    <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr">
-                        <div class="mw-parser-output">
-                       <meta property="mw:PageProp/toc">
-        `;
+        <div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Club Penguin Archives</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+                `;
         contentContainer += pageName.startsWith("templates/") ? await this.getTemplate(pageName.split("templates/")[1], pageName, true) : await this.getContentFromWikiText(wt, pageName);
         contentContainer += `</div></main>`;
-        contentContainer += this.getFooter();
         contentContainer += `</div></div></div>`;
         return contentContainer;
     }
@@ -403,10 +491,15 @@ function hideNav() {
     async getBody(page, pageName, truePageName) {
         let wt = await this.getWikiText(page);
         let body = "";
-        body += this.getHeader();
         body += this.getPageContainer(wt, pageName);
-        body += await this.getContentContainer(wt, pageName, truePageName);
+        body += await this.getContentContainer(wt, pageName);
+        body += `<div id="mw-navigation">`
+        body += this.getHeader(truePageName);
+        body += this.getNavPanel();
         body += `</div></div>`;
+        body += this.getFooter();
+        body += `</div>`;
+        body = body.replaceAll("__NOTOC__", "").replaceAll("__FORCETOC__", "").replaceAll("__TOC__", "");
         return body;
     }
 

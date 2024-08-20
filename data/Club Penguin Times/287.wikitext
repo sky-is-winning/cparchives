@@ -1,0 +1,10 @@
+{{NeedSWFs}}
+Below are SWF files from issue #287 (April 15, 2011) of the Club Penguin Times:
+
+*[[Media:News287AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News287AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News287FeatureStory.swf|Feature Story]]
+*[[Media:News287NewsFlash.swf|News Flash]]
+*[[Media:News287SecretOverlay.swf|Secret Overlay]]
+*[[Media:News287SupportStory.swf|Support Story]]
+*[[Media:News287UpcomingEvents.swf|Upcoming Events]]

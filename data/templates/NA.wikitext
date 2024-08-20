@@ -1,5 +1,0 @@
-<noinclude>
-{|class="wikitable"
-|-
-|</noinclude>style="color: grey; background: #ececec;" class="table-na" | {{{1|<small>N/A</small>}}}<noinclude>
-|}

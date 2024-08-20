@@ -1,0 +1,14 @@
+''These are just proposed policies.''
+
+== The Four Important Rules ==
+
+* [[User:Tux/Policy/On-Topic|Rule 1: Stay on-topic]].
+* [[User:Tux/Policy/Power|Rule 2: Don't abuse your power.]]
+* [[User:Tux/Policy/Vandalism|Rule 3: Don't vandalize.]]
+* [[User:Tux/Policy/Vandalism|Rule 4: Don't harass others.]]
+
+== Other Policies ==
+
+* [[User:Tux/Policy/Bots|Bot Policy]]
+* [[User:Tux/Policy/Rights|Rights Policy]]
+* [[User:Tux/Policy/Uploads|Uploading Files]]

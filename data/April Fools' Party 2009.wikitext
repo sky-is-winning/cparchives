@@ -1,0 +1,65 @@
+{{CPW|April Fools' Party 2009|Festa de 1º de Abril 2009}}
+
+==Rooms==
+<center>
+{|class="wikitable"
+!Room!!Music
+|-
+|[[Media:RoomsBeach-AprilFoolsParty2009.swf|Beach]]||[[Media:Music232.swf|232]]
+|-
+|[[Media:RoomsBeacon-AprilFoolsParty2009.swf|Beacon]]||[[Media:Music201.swf|201]]
+|-
+|[[Media:RoomsBoiler-AprilFoolsParty2009.swf|Boiler Room]]||[[Media:Music201.swf|201]]
+|-
+|[[Media:RoomsParty2-AprilFoolsParty2009.swf|Box Dimension]]||[[Media:Music264.swf|264]]
+|-
+|[[Media:RoomsParty3-AprilFoolsParty2009.swf|Box Store]]||[[Media:Music264.swf|264]]
+|-
+|[[Media:RoomsCave-AprilFoolsParty2009.swf|Cave]]||[[Media:Music201.swf|201]]
+|-
+|[[Media:RoomsCoffee-AprilFoolsParty2009.swf|Coffee Shop]]||[[Media:Music201.swf|201]]
+|-
+|[[Media:RoomsCove-AprilFoolsParty2009.swf|Cove]]||[[Media:Music232.swf|232]]
+|-
+|[[Media:RoomsDock-AprilFoolsParty2009.swf|Dock]]||[[Media:Music232.swf|232]]
+|-
+|[[Media:RoomsDojo-AprilFoolsParty2009.swf|Dojo]]||[[Media:Music21.swf|21]]
+|-
+|[[Media:RoomsDojoext-AprilFoolsParty2009.swf|Dojo Courtyard]]||{{n/a}}
+|-
+|[[Media:RoomsForest-AprilFoolsParty2009.swf|Forest]]||[[Media:Music232.swf|232]]
+|-
+|[[Media:RoomsBerg-AprilFoolsParty2009.swf|Iceberg]]||[[Media:Music232.swf|232]]
+|-
+|[[Media:RoomsLight-AprilFoolsParty2009.swf|Lighthouse]]||[[Media:Music201.swf|201]]
+|-
+|[[Media:RoomsMine-AprilFoolsParty2009.swf|Mine]]||[[Media:Music201.swf|201]]
+|-
+|[[Media:RoomsShack-AprilFoolsParty2009.swf|Mine Shack]]||[[Media:Music232.swf|232]]
+|-
+|[[Media:RoomsDance-AprilFoolsParty2009.swf|Night Club]]||[[Media:Music201.swf|201]]
+|-
+|[[Media:RoomsDojohide-AprilFoolsParty2009.swf|Ninja Hideout]]||[[Media:Music21.swf|21]]
+|-
+|[[Media:RoomsPizza-AprilFoolsParty2009.swf|Pizza Parlor]]||[[Media:Music201.swf|201]]
+|-
+|[[Media:RoomsPlaza-AprilFoolsParty2009.swf|Plaza]]||[[Media:Music232.swf|232]]
+|-
+|[[Media:RoomsLodge-AprilFoolsParty2009.swf|Ski Lodge]]||[[Media:Music201.swf|201]]
+|-
+|[[Media:RoomsVillage-AprilFoolsParty2009.swf|Ski Village]]||[[Media:Music232.swf|232]]
+|-
+|[[Media:RoomsForts-AprilFoolsParty2009.swf|Snow Forts]]||[[Media:Music232.swf|232]]
+|-
+|[[Media:RoomsTown-AprilFoolsParty2009.swf|Town]]||[[Media:Music232.swf|232]]
+|}
+</center>
+
+==Other==
+*[[Media:LoginScreenAprilFools2009.swf|Login Screen]]
+*[[Media:AprilFoolMembership.swf|Membership Notice]]
+*[[Media:BoxCatalog.swf|Box Catalog]]
+
+{{Parties}}
+
+[[Category:Parties of 2009]]

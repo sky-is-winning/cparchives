@@ -1,0 +1,3 @@
+<font color=orange>On hold</font><noinclude><br>
+Template for the [[Project:To-do List|To-do list]].
+[[Category:Templates|{{PAGENAME}}]]</noinclude>

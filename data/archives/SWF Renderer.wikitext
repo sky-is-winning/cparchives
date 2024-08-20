@@ -1,0 +1,24 @@
+Can people try the [http://www.clubpenguinwiki.info/scripts/swfrender/ new SWF renderer] on the server? It essentially automates what the [[clubpenguinwiki:Project:SWFs Guide|guide]] does, but some people have rendering problems (it seems to vary by server)
+
+An extension has been made to do this thumbnailing automatically, on-wiki.
+
+== Comments ==
+It works perfectly with items, but catalogs are not rendered. --[[User:JucaSLP|<span style="color:#ff7c00;"><b>Juca</b></span>]] [[User talk:JucaSLP|<span style="color:#c00000;"><b>(discussão/talk)</b></span>]] [[File:Chapeudehelice.png|link=Special:Contributions/JucaSLP|20px]] 13:34, 15 February 2014 (UTC)
+
+Do catalogs display anything normally in browser/post-rendering manually? --'''[[User:Refractor|<span style="color:#263852;padding:1px">refractor</span>]]''' 23:49, 15 February 2014 (UTC)
+
+:The display for certain items, especially unlockable (such as [http://media1.clubpenguin.com/play/v2/content/global/clothing/icons/11224.swf The Firey Flare] or [http://media1.clubpenguin.com/play/v2/content/global/clothing/icons/11334.swf The Tree Topper]) isn't very good, it kinda reminds me some problems when converting certain swf files using Swiffy, but beside that it's really amazing &#58;) I've found a way that can properly convert the SWF file if you have [http://www.swixkit.com/ SWiX] and Kurst SWF Renderer  ([http://swfrenderer.kurst.co.uk/app/SWFRendererV1.air v1.0]), if you dump the XML into [http://cps05box.wikia.com/wiki/Cp-s05box_Wiki:SWF_Tricks/Tutorials/Scaling_up_SWF_files#Quick_Drop this input textarea], copy the output, save back in SWiX and then export a PNG version, if anyone may find it useful for these problematic cases.
+:P.S. why converting SVG to PNG? when it's uploaded in the wiki, SVG files are given a PNG thumb anyway.
+:[[user:Penguin-Pal|<font color="0e92cf">Penguin-Pal</font>]] [[user talk:Penguin-Pal|<font color="2e47aa">(talk)</font>]] 19:28, 8 March 2014 (UTC)
+::I'm using swftools to scale, fix, and render - afaik it doesn't do SWF output - I'll see about that --'''[[User:Refractor|<span style="color:#263852;padding:1px">refractor</span>]]''' 15:19, 30 March 2014 (UTC)
+::Updated with SVG support --'''[[User:Refractor|<span style="color:#263852;padding:1px">refractor</span>]]''' 23:45, 30 March 2014 (UTC)
+
+Is it broken? Not working anymore, now the icon shows on the top right corner of the screen. --[[User:JucaSLP|<span style="color:#ff7c00;"><b>Juca</b></span>]] [[User talk:JucaSLP|<span style="color:#c00000;"><b>(discussão/talk)</b></span>]] [[File:Penguinguitar.png|link=Special:Contributions/JucaSLP|20px]] 00:50, 8 April 2014 (UTC)
+A quick test makes everything seem fine. Can you show what file causes problems, and what browser you use? --'''[[User:Refractor|<span style="color:#263852;padding:1px">refractor</span>]]''' 23:43, 23 April 2014 (UTC)
+:It happens with all item's SWF files in all browsers, using Mac OS X. --[[User:JucaSLP|<span style="color:#ff7c00;"><b>Juca</b></span>]] [[User talk:JucaSLP|<span style="color:#c00000;"><b>(discussão/talk)</b></span>]] [[File:Penguinguitar.png|link=Special:Contributions/JucaSLP|20px]] 16:23, 25 April 2014 (UTC)
+::It works for me on Firefox. Make sure you have the bounding box repair checked. --'''[[User:Refractor|<span style="color:#263852;padding:1px">refractor</span>]]''' 12:12, 24 May 2014 (UTC)
+
+I tested it on [[File:ENNews442AskAuntArcticBack.swf|this file]]. The png mode breaks it and the svg looks perfect. I'm not sure if its a bug or whatever. [[User:Mario Rk|Mario Rk]] <sup><span style="color:; text-shadow:grey 0 4px 4px;">(</span>[[User talk:Mario Rk|<span style="color:; text-shadow:grey 0 4px 4px;">T</span>]] <span style="color:; text-shadow:grey 0 4px 4px;">'''<big>·</big>'''</span> [[Special:Contributions/Mario_Rk|<span style="color:; text-shadow:grey 0 4px 4px;">C</span>]]<span style="color:; text-shadow:grey 0 4px 4px;">)</span></sup> 22:08, 24 May 2014 (UTC)
+The renderers are different: you've hit a bug with swfrender, while Flash Exploit is rendering it fine. --'''[[User:Refractor|<span style="color:#263852;padding:1px">refractor</span>]]''' 13:29, 26 May 2014 (UTC)
+
+I used the Rainbow Puffle's action when interacting with a hydrant in Puffle Park, nothing showed up --[[User:Revern|Revern]] ([[User talk:Revern|talk]]) 08:41, 13 December 2014 (UTC)

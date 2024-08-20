@@ -1,0 +1,35 @@
+{{NeedSWFs}}
+
+{{CPW|Binoculars}}
+
+{|class="wikitable" style="margin: auto;"
+!SWF
+!Usage
+|-
+|[[Media:BinocularsNormal.swf|Binoculars]]||2007-2017
+|-
+|[[Media:ContentBinoculars-HalloweenParty2007.swf|Binoculars]]||[[Halloween Party 2007]]
+|-
+|[[Media:Binoculars-AprilFools2008.swf|Binoculars]]||[[April Fools' Party 2008]]
+|-
+|[[Media:Halloween2012BinocularsStormy.swf|Binoculars/Stormy]]||[[Halloween Party 2012]]
+|-
+|[[Media:BinocularsHotsauceHerbert.swf|Binoculars/Hotsauce Herbert]]||[[Operation: Hot Sauce]]
+|-
+|[[Media:OperationPuffleGlobalBinocularsEpfnightsky.swf|Binoculars/Epfnightsky]]||[[Operation: Puffle]]
+|-
+|[[Media:Binoculars-FashionFestival.swf|Binoculars]]||[[Fashion Festival]]
+|-
+|[[Media:Binoculars-HalloweenParty2015.swf|Binoculars]]||[[Halloween Party 2015]]
+|-
+|[[Media:Binoculars-HolidayParty2015.swf|Binoculars]]||[[Holiday Party 2015]]<br>[[Holiday Party 2016]]
+|-
+|[[Media:Binoculars-HalloweenParty2016.swf|Binoculars]]||[[Halloween Party 2016]]
+|-
+|[[Media:Binoculars-MusicJam2016.swf|Binoculars]]||[[Music Jam 2016]]
+|}
+
+==See also==
+*[[Beacon Telescope]]
+
+[[Category:Content]]

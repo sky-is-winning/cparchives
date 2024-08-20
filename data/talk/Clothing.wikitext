@@ -1,0 +1,43 @@
+== Merging the clothing pages ==
+
+I've come up with an idea (and I also hope I used the right tense)... What about merging the clothing subpages and do something like this (the list is almost empty here, because it's just to show off my idea):
+
+
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Item name'''!!Icon!!Paper!!Sprites!!Photo
+|-
+|1||Blue||[[Media:ClothingIcons1.swf|Icon]]|| style="background: #ececec; color: grey;" class="table-na" |N/A|| style="background: #ececec; color: grey;" class="table-na" |N/A|| style="background: #ececec; color: grey;" class="table-na" |N/A
+|-
+|2||Green||[[Media:ClothingIcons2.swf|Icon]]|| style="background: #ececec; color: grey;" class="table-na" |N/A|| style="background: #ececec; color: grey;" class="table-na" |N/A|| style="background: #ececec; color: grey;" class="table-na" |N/A
+|-
+|3||Pink||[[Media:ClothingIcons3.swf|Icon]]|| style="background: #ececec; color: grey;" class="table-na" |N/A|| style="background: #ececec; color: grey;" class="table-na" |N/A|| style="background: #ececec; color: grey;" class="table-na" |N/A
+|-
+|4||Black||[[Media:ClothingIcons4.swf|Icon]]|| style="background: #ececec; color: grey;" class="table-na" |N/A|| style="background: #ececec; color: grey;" class="table-na" |N/A|| style="background: #ececec; color: grey;" class="table-na" |N/A
+|-
+|101||Black Sunglasses||[[Media:ClothingIcons101.swf|Icon]]||[[Media:ClothingPaper101.swf|Sprites]]||[[Media:ClothingSprites101.swf|Sprites]]|| style="background: #ececec; color: grey;" class="table-na" |N/A
+|-
+|102||Dark Vision Goggles||[[Media:ClothingIcons102.swf|Icon]]||[[Media:ClothingPaper102.swf|Sprites]]||[[Media:ClothingSprites102.swf|Sprites]]|| style="background: #ececec; color: grey;" class="table-na" |N/A
+|-
+|103||3D Glasses||[[Media:ClothingIcons103.swf|Icon]]||[[Media:ClothingPaper103.swf|Sprites]]||[[Media:ClothingSprites103.swf|Sprites]]|| style="background: #ececec; color: grey;" class="table-na" |N/A
+|-
+|104||Ninja Mask||[[Media:ClothingIcons104.swf|Icon]]||[[Media:ClothingPaper104.swf|Sprites]]||[[Media:ClothingSprites104.swf|Sprites]]|| style="background: #ececec; color: grey;" class="table-na" |N/A
+|-
+|105||Eyepatch||[[Media:ClothingIcons105.swf|Icon]]||[[Media:ClothingPaper105.swf|Sprites]]||[[Media:ClothingSprites105.swf|Sprites]]|| style="background: #ececec; color: grey;" class="table-na" |N/A
+|-
+|901||Heart Background||[[Media:ClothingIcons901.swf|Icon]]|| style="background: #ececec; color: grey;" class="table-na" |N/A|| style="background: #ececec; color: grey;" class="table-na" |N/A||[[Media:ClothingPhotos901.swf|Photo]]
+|-
+|902||Flower Background||[[Media:ClothingIcons902.swf|Icon]]|| style="background: #ececec; color: grey;" class="table-na" |N/A|| style="background: #ececec; color: grey;" class="table-na" |N/A||[[Media:ClothingPhotos902.swf|Photo]]
+|-
+|903||Nightime Background||[[Media:ClothingIcons903.swf|Icon]]|| style="background: #ececec; color: grey;" class="table-na" |N/A|| style="background: #ececec; color: grey;" class="table-na" |N/A||[[Media:ClothingPhotos903.swf|Photo]]
+|}
+
+BTW It would make me no problem to convert the entire list, I can use a script to generate the page...
+
+ {{user:Misabr/sig2}} 20:59, 9 April 2015 (UTC)
+
+I also think it would make managing the page (like adding new items) easier... Of course we need to keep the ID subpages, we'll also need to split the 1-5,000 ids to more subpages... it's still giant!  {{user:Misabr/sig2}} 22:30, 9 April 2015 (UTC)
+
+:I love this idea, more efficient and maybe even space-saving than our current format. While I'm at it, can I ask what's up with your bot adding the empty description, source, date, author and permission sections? Your bot's really good at uploading files but I don't see why it adds so many empty sections and the batch section. It WOULD be nice to have more information on the file (example: This file is the Black Superhero Mask and ect), but I don't think the information you're putting in (Aside from licensing) is necessary. If you know how to, could you remove it? lol it just kind of bothers me seeing all the empty sections. Aside from that your bot's great! Keep up the good work! [[User:Mario Rk|Mario Rk]] <sup><span style="color:; text-shadow:grey 0 4px 4px;">(</span>[[User talk:Mario Rk|<span style="color:; text-shadow:grey 0 4px 4px;">T</span>]] <span style="color:; text-shadow:grey 0 4px 4px;">'''<big>·</big>'''</span> [[Special:Contributions/Mario_Rk|<span style="color:; text-shadow:grey 0 4px 4px;">C</span>]]<span style="color:; text-shadow:grey 0 4px 4px;">)</span></sup> 02:46, 10 April 2015 (UTC)
+::For the bot, I'd have to modify the software I use to upload (commonist) or use a different one... I'll probabbly modify the software I use later...  {{user:Misabr/sig2}} 13:09, 10 April 2015 (UTC)
+:::Also to more complete your question, right now I don't know a way to remove the text from current pages...  {{user:Misabr/sig2}} 17:45, 10 April 2015 (UTC)
+::::Since nobody said anything for or against the idea, I'm going to do it right now!  {{user:Misabr/sig2}} 10:58, 11 April 2015 (UTC)

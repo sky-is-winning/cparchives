@@ -1,0 +1,30 @@
+{|style="padding:0px;font-variant:small-caps"{| cellspacing=2 cellpadding=2 width="100%" style="border:0px solid blue; float:center; font-variant:small-caps"
+|-
+|<center>[[File:Catalog.png|60px|link=Catalogs]]</center>
+|<center>[[File:Igloo.png|50px|link=Igloo]]</center>
+|<center>[[File:Items.png|50px|link=Items]]</center>
+|<center>[[File:JoystickEmote.PNG|65px|link=Minigames]]</center>
+|<center>[[File:SpeakerPin.PNG|55px|link=Music]]</center>
+|<center>[[File:Sitenotice.png|60px|link=Club Penguin Times]]</center>
+|-
+|<center>'''[[Catalogs|Catálogos]]'''</center>
+|<center>'''[[Igloo|Iglus]]'''</center>
+|<center>'''[[Items|Itens]]</center>
+|<center>'''[[Minigames|Minijogos]]'''</center>
+|<center>'''[[Music|Música]]'''</center>
+|<center>'''[[Club Penguin Times|Jornais]]'''</center>
+|}
+{|style="padding:0px;font-variant:small-caps"{| cellspacing=2 cellpadding=2 width="100%" style="border:0px solid blue; float:center; font-variant:small-caps"
+|-
+|<center>[[File:Parties.png|55px|link=Parties & Events]]</center>
+|<center>[[File:MailIcon.PNG|55px|link=Postcards]]</center>
+|<center>[[File:Map.PNG|60px|link=Rooms]]</center>
+|<center>[[File:Stamp.png|75px|link=Stamps]]</center>
+|<center>[[File:Other.png|55px|link=Other]]</center>
+|-
+|<center>'''[[Parties & Events|Festas e eventos]]'''</center>
+|<center>'''[[Postcards|Cartões postais]]'''</center>
+|<center>'''[[Rooms|Salas]]'''</center>
+|<center>'''[[Stamps|Selos]]'''</center>
+|<center>'''[[Other|Outros]]'''</center>
+|}

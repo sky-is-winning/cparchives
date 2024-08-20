@@ -1,0 +1,22 @@
+MediaWiki:Common.css
+MediaWiki:Common.js
+MediaWiki:Copyright
+MediaWiki:Deletereason-dropdown
+MediaWiki:Filedelete-reason-dropdown
+MediaWiki:Gadget-HotCat
+MediaWiki:Gadget-HotCat.js
+MediaWiki:Gadget-section-tools
+MediaWiki:Gadgets-definition
+MediaWiki:Group-uploader
+MediaWiki:Ipbreason-dropdown
+MediaWiki:Licenses
+MediaWiki:Mediawarning
+MediaWiki:Mobile.css
+MediaWiki:Monaco-sidebar
+MediaWiki:Protect-dropdown
+MediaWiki:Recentchangestext
+MediaWiki:Sidebar
+MediaWiki:Sitenotice
+MediaWiki:Sitenotice id
+MediaWiki:Uploadtext
+MediaWiki:Vector.css

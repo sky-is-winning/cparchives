@@ -1,0 +1,6 @@
+{{Newspaper2
+|issue=502
+|date=June 4th, 2015
+|ask= P.H.
+|backstory=Fan Art
+}}

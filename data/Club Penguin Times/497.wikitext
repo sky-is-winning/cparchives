@@ -1,0 +1,5 @@
+{{Newspaper2
+|issue=497
+|date=April 30, 2015
+|backstory=DJ Fan Art
+}}

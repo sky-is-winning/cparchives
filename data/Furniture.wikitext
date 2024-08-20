@@ -1,5 +1,5 @@
 ==List==
-:''This is a list of every Furniture SWF. Because Club Penguin has too many items to be displayed on one page, it was split into subpages:''
+''This is a list of every Furniture SWF. Because Club Penguin has too many items to be displayed on one page, it was split into subpages:''
 <center>
 {|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
 !'''ID range'''

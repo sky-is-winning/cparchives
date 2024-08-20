@@ -1,0 +1,5 @@
+{{Newspaper2
+|issue=503
+|date=June 11th, 2015
+|events = Island Rumors
+}}

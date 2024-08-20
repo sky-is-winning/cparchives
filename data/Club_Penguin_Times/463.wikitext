@@ -1,6 +1,0 @@
-{{Newspaper2
-|issue=463
-|date=September 4, 2014
-|ask=Gary
-|backstory=Comic
-}}

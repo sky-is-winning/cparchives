@@ -1,0 +1,53 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Adventure Party: Temple of Fruit|Adventure Party: Temple of Fruit]]''
+
+==Rooms==
+===Normal===
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:APToFBeach.swf|Beach]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:APToFCove.swf|Cove]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:APToFDock.swf|Dock]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:APToFForest.swf|Forest]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:APToFPlaza.swf|Plaza]]||[[Media:Music268.swf|268]]
+|-
+|[[Media:APToFForts.swf|Snow Forts]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:RoomsTown-TempleofFruit.swf|Town]]||[[Media:Music267.swf|267]]
+|-
+|[[Media:APToFPizza.swf|Pizza Parlor]]||[[Media:Music268.swf|268]]
+|-
+|[[Media:APToFDance.swf|Dance Club]]||[[Media:Music267.swf|267]]
+
+|-
+|[[Media:APToFShop.swf|Clothes Shop]]||N/A
+|}
+===Temple of Fruit===
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:APToFParty2.swf|Temple Entrance]]||[[Media:Music268.swf|268]]
+|-
+|[[Media:APToFParty3.swf|Kahuna Kave]]||[[Media:Music268.swf|268]]
+|-
+|[[Media:APToFParty1.swf|Volcano Mouth]]||[[Media:Music269.swf|269]]
+|}
+
+==Note==
+*[[Media:APToFParty_note.swf|Party Note]]
+
+==Scavenger Hunt==
+*[[Media:APToFPartyScavengerHuntIcon.swf|Scavenger Hunt Icon]]
+*[[Media:APToFPartyScavengerHunt.swf|Scavenger Hunt menu]]
+
+==Catalog==
+*[[Media:APToFCatalogParty.swf|Fruit Catalog]]
+==Billboard==
+*[[Media:AdventureParty2012PreBillboard.swf|Pre-party]]
+{{Parties}}
+
+[[Category:Parties of 2012]]

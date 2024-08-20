@@ -1,4 +1,0 @@
-{{Newspaper2
-|issue=480
-|date=December 31, 2014
-}}

@@ -1,0 +1,6 @@
+__NOTOC__
+[[File:MarioRkPenguin.png|left|100x100px|link=]]
+{| id="mp-upper" style="width: 88%; margin: auto;"
+| style="width:55%; border:1px solid #FF7373; background:#FFE0E0; vertical-align:top; color:#000; border-radius:5px;" |
+<center><big>'''Hello! I'm Mario Rk, the administrator of Club Penguin Archives.'''</big><br>'''[[User talk:Mario Rk|Discussion]] | [[Special:Contributions/Mario Rk|Contributions]] | [[Special:Editcount/Mario Rk|Editcount]] | [[Special:Log/Mario Rk|Logs]]'''<br>''Feel free to contact me on my [[User talk:Mario Rk|talk page]] if you need any assistance. Alternatively, you are free to contact me <span class="plainlinks">[https://anotsonormalday.fandom.com/wiki/Message_Wall:Mario_Rk through my personal wiki]</span>.<br>I do not email users and will not ever contact anyone via email. I also do not play on any Club Penguin private servers.''</center>
+|}

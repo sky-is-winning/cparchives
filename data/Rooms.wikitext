@@ -1,4 +1,4 @@
-
+{{CPW|List of rooms|Lista de Salas}}
 
 ==Normal Rooms==
 *[[Beach]]
@@ -20,7 +20,7 @@
 *[[Forest]]
 *[[Gold Mine]]
 *[[Hidden Lake]]
-*[[Ice Berg|Iceberg]]
+*[[Ice Berg]]
 *[[Lighthouse]]
 *[[Lodge Attic]]
 *[[Lounge]]
@@ -53,7 +53,7 @@
 *[[HQ]]
 *[[Ninja Hideout]]
 *[[Sports Shop]]
-*[[Eco|Recycling Plant]]
+*[[Recycling Plant]]
 *[[VR Room]]
 *[[Welcome Solo]]
 

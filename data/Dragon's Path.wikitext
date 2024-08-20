@@ -1,0 +1,5 @@
+{| class="wikitable"
+!Party!!Year!!SWF!!Music
+|-
+|[[Medieval Party 2012|Medieval Party]]||2012||[[media:MedievalParty2012party25.swf|party24.swf]]||{{n/a}}
+|}

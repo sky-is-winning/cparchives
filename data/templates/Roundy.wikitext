@@ -1,0 +1,4 @@
+border-radius: {{{1|10px}}}; -moz-border-radius: {{{1|10px}}}; -webkit-border-radius: {{{1|10px}}}; -khtml-border-radius: {{{1|10px}}}; -icab-border-radius: {{{1|10px}}}; -o-border-radius: {{{1|10px}}};<noinclude>
+
+'''If you update this template, make sure to make the necessary updates to {{tl|roundytr}}, {{tl|roundytl}}, {{tl|roundybr}}, {{tl|roundybl}}, {{tl|roundytop}}, {{tl|roundybottom}}, {{tl|roundyright}}, and {{tl|roundyleft}}.''' 
+</noinclude>

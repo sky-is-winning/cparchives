@@ -1,0 +1,78 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:April Fools' Party 2011|April Fools' Party 2011]]''
+
+==Rooms==
+===Constructions===
+*[[Media:BeachConstructionAprilFoolsParty2011.swf|Beach]]
+*[[Media:BoxDimensionConstructionAprilFoolsParty2011.swf|Box Dimension]]
+*[[Media:DockCostructionAprilFoolsParty2011.swf|Dock]]
+*[[Media:IceBergConstructionAprilFoolsParty2011.swf|Iceberg]]
+*[[Media:SkiVillageCostructionAprilFoolsParty2011.swf|Ski Village]]
+*[[Media:SnowFortsContructionAprilFoolsParty2011.swf|Snow Forts]]
+
+===Party===
+*[[Media:AprilFools'Party2011Party6.swf|A Silly Place]]
+*[[Media:AprilFools'Party2011Party8.swf|A Strange Dimension]]
+*[[Media:AprilFools'Party2011Beach.swf|Beach]]
+*[[Media:AprilFools'Party2011Beacon.swf|Beacon]]
+*[[Media:AprilFools'Party2011Boiler.swf|Boiler Room]]
+*[[Media:AprilFools'Party2011Boxdimension.swf|Box Dimension]]
+*[[Media:AprilFools'Party2011Party4.swf|Candy Dimension]]
+*[[Media:AprilFools'Party2011Cave.swf|Cave]]
+*[[Media:AprilFools'Party2011Coffee.swf|Coffee Shop]]
+*[[Media:AprilFools'Party2011Cove.swf|Cove]]
+*[[Media:AprilFools'Party2011Party5.swf|Cream Soda Dimension]]
+*[[Media:AprilFools'Party2011Dance.swf|Dance Club]]
+*[[Media:AprilFools'Party2011Party1.swf|Desert Dimension]]
+*[[Media:AprilFools'Party2011Dock.swf|Dock]]
+*[[Media:AprilFools'Party2011Party7.swf|Doodle Dimension]]
+*[[Media:AprilFools'Party2011Shop.swf|Gift Shop]]
+*[[Media:AprilFools'Party2011Berg.swf|Iceberg]]
+*[[Media:AprilFools'Party2011Light.swf|Lighthouse]]
+*[[Media:AprilFools'Party2011Mine.swf|Mine]]
+*[[Media:AprilFools'Party2011Pizza.swf|Pizza Parlor]]
+*[[Media:AprilFools'Party2011Eco.swf|Recycling Plant]]
+*[[Media:AprilFools'Party2011Lodge.swf|Ski Lodge]]
+*[[Media:AprilFools'Party2011Village.swf|Ski Village]]
+*[[Media:AprilFools'Party2011Forts.swf|Snow Forts]]
+*[[Media:AprilFools'Party2011Party3.swf|Space Dimension]]
+*[[Media:AprilFools'Party2011Party2.swf|Stair Dimension]]
+*[[Media:RoomsTown-AprilFoolsParty2011.swf|Town]]
+
+===Music===
+*[[Media:Music232.swf|Outdoors]]
+*[[Media:Music201.swf|Indoors]]
+*[[Media:Music231.swf|Night Club]]
+*[[Media:Music264.swf|Box Dimension]]
+*[[Media:Music229.swf|Desert Dimension]]
+*[[Media:Music220.swf|Doodle Dimension]]
+*[[Media:Music265.swf|Space Dimension]]
+*[[Media:Music209.swf|A Silly Place]]
+*[[Media:Music307.swf|Stair Dimension]]
+*[[Media:Music208.swf|Cream Soda Dimension]]
+*[[Media:Music215.swf|Candy Dimension]]
+*[[Media:Music11.swf|A Strange Dimension]]
+
+==Catalogs==
+*[[Media:AprilFoolsParty2011PartyCatalog.swf|Party Catalog]]
+
+==Posters==
+*[[Media:AprilFools'Party2011Poster.swf|Poster]]
+
+==Membership notices==
+*[[Media:AprilFools'Party2011MembershipParty2.swf|Party2]]
+
+==Scavenger Hunt==
+*[[Media:AprilFools'Party2011Scavenger_hunt.swf|Scavenger Hunt]]
+*[[Media:AprilFools'Party2011Scavenger hunt icon.swf|Scavenger Hunt icon]]
+
+==Login Screens==
+{|class="wikitable" border="1"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)
+|-
+|[[Media:LoginAprilFools2011.swf|April Fools 1]]||[[Media:PTLoginAprilFools2011.swf|April Fools 1]]||[[Media:FRLoginAprilFools2011.swf|April Fools 1]]||[[Media:ESLoginAprilFools2011.swf|April Fools 1]]
+|-
+|[[Media:LoginAprilfools2.swf|April Fools 2]]||{{N/a}}||{{N/a}}||{{N/a}}
+|}
+{{Parties}}
+
+[[Category:Parties of 2011]]

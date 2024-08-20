@@ -1,0 +1,8 @@
+#REDIRECT [[Template:Userlinks]]
+<span class="plainlinks">[[User:{{{1|Krinkle}}}|{{{1|Krinkle}}}]] ([[User talk:{{{1|Krinkle}}}|talk]] | [[Special:Contributions/{{{1|Krinkle}}}|contribs]] | [[Special:DeletedContributions/{{{1|Krinkle}}}|deleted contribs]] | [{{fullurl:Special:Log|type=block&page=User:{{urlencode:{{{1|Krinkle}}}}}}} blocks] | [[Special:EmailUser/{{{1|Krinkle}}}|email]])</span><noinclude>
+== Usage ==
+<pre>{{ul|Username}}</pre>
+== Example ==
+{{ul|Seahorseruler}}
+</noinclude>
+<noinclude>[[Category:Templates]]</noinclude>

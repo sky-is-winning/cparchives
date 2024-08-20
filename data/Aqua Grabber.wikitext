@@ -1,0 +1,42 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Aqua Grabber|Aqua Grabber]]''
+
+*[[Media:AquaGrabber.swf|Aqua Grabber (old)]]
+*[[Media:AquaGrabberSubgame.swf|Aqua Grabber]]
+*[[Media:AquaGrabberBootstrap.swf|Bootstrap]]
+*[[Media:AquaGrabberTitlescreens.swf|Title screen]]
+
+==Localizations==
+*[[Media:AquaGrabberLocaleEN.swf|English]]
+*[[Media:AquaGrabberLocalePT.swf|Portuguese]]
+*[[Media:AquaGrabberLocaleFR.swf|French]]
+*[[Media:AquaGrabberLocaleES.swf|Spanish]]
+*[[Media:AquaGrabberLocaleDE.swf|German]]
+*[[Media:AquaGrabberLocaleRU.swf|Russian]]
+
+==Titles==
+*[[Media:AquaGrabberTitleEN.swf|English]]
+*[[Media:AquaGrabberTitlePT.swf|Portuguese]]
+*[[Media:AquaGrabberTitleFR.swf|French]]
+*[[Media:AquaGrabberTitleES.swf|Spanish]]
+*[[Media:AquaGrabberTitleDE.swf|German]]
+*[[Media:AquaGrabberTitleRU.swf|Russian]]
+
+==Objects==
+*[[Media:GamesSubLevel1MiscFluffy1.swf|Fluffy]]
+*[[Media:AquaGrabberLevel2MiscFluffy1.swf|Soda Seas Fluffy]]
+*[[Media:GamesSubLevel1MiscMullet1.swf|Mullet]]
+*[[Media:AquaGrabberLevel2MiscMullet1.swf|Soda Seas Mullet]]
+*[[Media:AquaGrabberLevel1MiscClamSmall1.swf|Small Clam]]
+*[[Media:AquaGrabberLevel1MiscClamBig1.swf|Big Clam (mouth)]]
+*[[Media:AquaGrabberLevel1MiscPuffy1.swf|Puffer fish]]
+*[[Media:AquaGrabberLevel1MiscGrandPuffy1.swf|Giant puffer fish]]
+*[[Media:AquaGrabberLevel1MiscCrabby1.swf|Crab]]
+*[[Media:GamesSubLevel1MiscKraken1.swf|Giant Squid]]
+*[[Media:AquaGrabberLevel1MiscCrater1.swf|Crater]]
+*[[Media:AquaGrabberLevel2MiscCrater1.swf|Soda Seas Crater]]
+*[[Media:AquaGrabberLevel2MiscCraterb1.swf|Soda Seas Crater (2)]]
+*[[Media:AquaGrabberLevel1MiscShipPartL11.swf|Pearl]]
+*[[Media:AquaGrabberLevel2MiscShipPartL21.swf|Amethyst and Cream Soda Barrel]]
+*[[Media:AquaGrabberLevel2MiscBait1.swf|Worm Place]]
+*[[Media:AquaGrabberLevel2MiscTreasurePile1.swf|Treasure Pile]]
+*[[Media:AquaGrabberLevel2MiscFoilage1.swf|Foliage]]

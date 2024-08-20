@@ -1,0 +1,16 @@
+Welcome to my user page. I'm also known as [http://clubpenguin.wikia.com/wiki/User:Hey.youcp Hey.youcp] on Wikia. On the Club Penguin Wiki Network, I'm mainly active on this wiki. I believe archiving is important, and I like the historical value of it, so I help out here.
+
+----
+
+The following files are crucial for rendering images of item SWFs.
+{| class="wikitable"
+!Loaders
+|-
+|[[:File:Icon loader.swf|Icon loader]]
+|-
+|[[:File:Paper loader.swf|Paper loader]]
+|-
+|[[:File:Sprite loader.swf|Sprite loader]]
+|-
+|[[:File:Player card loader.swf|Player card loader]]
+|}

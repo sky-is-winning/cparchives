@@ -1,0 +1,32 @@
+{{#ifeq:{{{small|}}}|yes
+| {{tmbox/core
+  | small = yes
+  | type  = {{{type|}}}
+  | image = {{#if:{{{smallimage|}}}| {{{smallimage}}} | {{{image|}}} }}
+  | imageright = {{#if:{{{smallimageright|}}} | {{{smallimageright}}} | {{{imageright|}}} }}
+  | style = {{{style|}}}
+  | class = {{{class|}}}
+  | textstyle = {{{textstyle|}}}
+  | text  = {{#if:{{{smalltext|}}}| {{{smalltext}}} | {{{text}}} }}
+  }}
+| {{tmbox/core
+  | type  = {{{type|}}}
+  | image = {{{image|}}}
+  | imageright = {{{imageright|}}}
+  | style = {{{style|}}}
+  | class = {{{class|}}}
+  | textstyle = {{{textstyle|}}}
+  | text  = {{{text}}}
+  }}
+}}<!--
+
+List all templates that use tmbox in "Category:Talk message boxes":
+--><includeonly>{{#ifeq:{{NAMESPACE}}|Template
+| {{#ifeq:{{BASEPAGENAME}}|{{SUBPAGENAME}}
+  |   <!--We are on a rootpage, not a /doc or /sandbox page-->
+    {{#ifeq:{{{nocat|}}}|true
+    |   <!--Don't categorise-->
+    | [[Category:Talk message boxes]]
+    }}
+  }}
+}}</includeonly>

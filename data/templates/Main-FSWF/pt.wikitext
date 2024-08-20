@@ -1,0 +1,12 @@
+'''SWF em destaque:'''
+----
+''O SWF em destaque de maio é a Roda Gigante durante a [[The Fair 2014|Festa Feverina 2014]]. Para ver SWFs em destaque anteriores, clique [[Project:Featured SWF|aqui]].''
+
+
+<div class="toccolours mw-collapsible mw-collapsed">
+<big>Expanda para ver o SWF em destaque</big>
+<div class="mw-collapsible-content">
+<center>
+{{#Widget:Featured}}
+</center>
+</div></div>

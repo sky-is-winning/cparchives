@@ -1,0 +1,130 @@
+==Normal==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF!!Year(s)
+|-
+|[[Media:ArtworkRoomsBook4.swf|book4]]||2005
+|-
+|[[Media:ArtworkRoomsBook10.swf|book10]]||2005
+|-
+|[[Media:ArtworkRoomsBook11.swf|book11]]||2006
+|-
+|[[Media:ArtworkRoomsBook40.swf|book40]]||2007
+|-
+|[[Media:BookPrePenguinArt.swf|book]]||2007-2010
+|-
+|[[Media:BookWithPenguinArt.swf|book]]|||2010-2012
+|-
+|[[Media:RoomsBookRoom_2.swf|book]]||2012
+|-
+|[[Media:RoomsBookRoom_3.swf|book]]||2012-May 2015
+|-
+|[[Media:RoomsBook-May2015.swf|book]]||May 2015-March 2017
+|}
+
+==English: Book Room==
+ ''Club Penguin Wiki article: [[clubpenguinwiki:Book Room|Book Room]]''
+
+{|class="wikitable" style="margin: 1em auto;"
+!Event!!Music!!Year
+|-
+|[[Media:RoomsBook-SubMarine.swf|Submarine Party]]||||2008
+|-
+|[[Media:ArtworkRooms0328Book43.swf|April Fools' Party]]||||2008
+|-
+|[[Media:Rooms0508Book.swf|Medieval Party]]||||2009
+|-
+|[[Media:RoomsBook-4thAnniversary.swf|4th Anniversary Party]]||||2009
+|-
+|<span class = "plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/book.swf Holiday Party]</span>||||2009
+|-
+|<span class = "plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/book.swf Earth Day]</span>||||2010
+|-
+|<span class = "plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/medieval_party_may/book.swf Medieval Party]</span>||||2010
+|-
+|[[Media:5thAnniversaryPartyBook.swf|5th Anniversary Party]]||||2010
+|-
+|[[Media:HalloweenParty2010Book.swf|Halloween Party]]||||2010
+|-
+|[[Media:WaterHuntBook.swf|Water Scavenger Hunt]]||||2010
+|-
+|[[Media:HolidayParty2010Book.swf|Holiday Party]]||||2010
+|-
+|[[Media:MedievalParty2011Book.swf|Medieval Party]]||||2011
+|-
+|[[Media:EasterEggHunt2012Book.swf|Easter Egg Hunt]]||||2012
+|-
+|[[Media:MarvelSuperheroTakeoverBook.swf|Marvel Superhero Takeover]]||||2012
+|-
+|[[Media:HalloweenParty2012Book.swf|Halloween Party]]||||2012
+|-
+|[[Media:RoomsBook-OperationBlackout.swf|Operation: Blackout]]||||2012
+|}
+
+==Português (Portuguese): Redação/Sala de Leitura==
+ ''Club Penguin Wiki Português article: <span class="plainlinks">[http://pt.clubpenguinwiki.info/wiki/Redação Redação]</span>''
+
+{{OnlyPT}}
+
+{|class="wikitable" style="margin: 1em auto;"
+!Event!!Music!!Year
+|-
+|[[Media:MarvelSuperheroTakeoverBook.swf|Marvel Superhero Takeover]]||||2012
+|-
+|[[Media:HalloweenParty2012Book.swf|Halloween Party]]||||2012
+|-
+|[[Media:RoomsBook-OperationBlackout.swf|Operation: Blackout]]||||2012
+|}
+
+==Français (French): Coin Lecture==
+{{OnlyFR}}
+
+{|class="wikitable" style="margin: 1em auto;"
+!Event!!Music!!Year
+|-
+|[[Media:MarvelSuperheroTakeoverBook.swf|Marvel Superhero Takeover]]||||2012
+|-
+|[[Media:HalloweenParty2012Book.swf|Halloween Party]]||||2012
+|-
+|[[Media:RoomsBook-OperationBlackout.swf|Operation: Blackout]]||||2012
+|}
+
+==Español (Spanish): Biblioteca==
+{{OnlyES}}
+
+{|class="wikitable" style="margin: 1em auto;"
+!Event!!Music!!Year
+|-
+|<span class = "plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/halloween_october_2009/book.swf Halloween Party]</span>||||2009
+|-
+|[[Media:HalloweenParty2011Book.swf|Halloween Party]]||||2011
+|-
+|[[Media:6thAnniversaryPartyBook.swf|6th Anniversary Party]]||||2011
+|-
+|[[Media:MarvelSuperheroTakeoverBook.swf|Marvel Superhero Takeover]]||||2012
+|-
+|[[Media:HalloweenParty2012Book.swf|Halloween Party]]||||2012
+|-
+|[[Media:RoomsBook-OperationBlackout.swf|Operation: Blackout]]||||2012
+|}
+
+==Deutsch (German): Lesezimmer==
+{{OnlyDE}}
+
+{|class="wikitable" style="margin: 1em auto;"
+!Event!!Music!!Year
+|-
+|[[Media:HolidayParty2011Book.swf|Holiday Party]]||||2011
+|-
+|[[Media:MedievalParty2012book.swf|Medieval Party]]||||2012
+|-
+|[[Media:MarvelSuperheroTakeoverBook.swf|Marvel Superhero Takeover]]||||2012
+|-
+|[[Media:HalloweenParty2012Book.swf|Halloween Party]]||||2012
+|-
+|[[Media:RoomsBook-OperationBlackout.swf|Operation: Blackout]]||||2012
+|}
+
+==See also==
+* [[Library]]
+
+{{Places}}

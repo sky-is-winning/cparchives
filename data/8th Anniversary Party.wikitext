@@ -1,0 +1,31 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:8th Anniversary Party|8th Anniversary Party]]''
+
+==Rooms==
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsCoffee-8thAnniversaryParty.swf|Coffee Shop]]||[[Media:Music1.swf|1]]
+|-
+|[[Media:RoomsTown-8thAnniversaryParty.swf|Town]]||[[Media:Music512.swf|512]]
+|}
+</center>
+
+==Login Screen==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+|-
+|[[Media:LoginScreen-EN8thAnniversaryParty.swf|8th Anniversary Party]]||N/A||[[Media:LoginScreen-FR8thAnniversaryParty.swf|8th Anniversary Party]]||[[Media:LoginScreen-ES8thAnniversaryParty.swf|8th Anniversary Party]]||[[Media:LoginScreen-DE8thAnniversaryParty.swf|8th Anniversary Party]]
+|}
+
+==Others==
+*[[Media:ENFormsLibrary-2013.swf|The Bookshelf]]
+*[[Media:BooksYear1213.swf|2012-2013 Yearbook]]
+{{Parties}}
+
+[[Category:Parties of 2013]]

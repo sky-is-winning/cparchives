@@ -1,9 +1,0 @@
-==Rooms==
-{|class="wikitable" style="margin: 1em auto;"
-!SWF!!Music
-|-
-|[[Media:ArtworkRoomsBeacon40.swf|Beacon]]||{{n/a}}
-|}
-
-
-{{Events}}

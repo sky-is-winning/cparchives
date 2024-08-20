@@ -1,0 +1,14 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Fashion Show|Fashion Show]]''
+
+==Rooms==
+*[[Media:FashionShowShop.swf|Gift Shop]]
+
+==Music==
+*[[Media:Music321.swf|Main theme]]
+
+==Login Screen==
+*[[Media:FashionShowPreStartBillboards.swf|Login Screen #1]]
+*[[Media:FashionShowMemberStartBillboards.swf|Login Screen #2]]
+*[[Media:FashionShowStartBillboards.swf|Login Screen #3]]
+
+{{Events}}

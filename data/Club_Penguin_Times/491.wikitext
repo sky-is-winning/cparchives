@@ -1,4 +1,0 @@
-{{Newspaper2
-|issue=491
-|date=March 19, 2015
-}}

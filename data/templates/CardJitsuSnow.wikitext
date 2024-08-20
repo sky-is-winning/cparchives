@@ -1,0 +1,13 @@
+{{Box
+|background=#CEECF5
+|border=#00BFFF
+|image=CardJitsuSnowLogo.PNG
+|imagesize=100
+|imagelink=
+|textcolor=
+|text1=This file is from Card-Jitsu Snow.
+|textcolor2=
+|text2=This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.
+}}
+<includeonly>[[Category:Card-Jitsu Snow]][[Category:Games]]</includeonly>
+<noinclude>[[Category:Templates]]</noinclude>

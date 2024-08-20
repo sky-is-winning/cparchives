@@ -1,0 +1,49 @@
+{{CPW|Water Scavenger Hunt|Caçada da Água}}
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room
+|-
+|[[Media:WaterHuntBeach.swf|Beach]]
+|-
+|[[Media:WaterHuntBoiler.swf|Boiler Room]]
+|-
+|[[Media:WaterHuntBook.swf|Book Room]]
+|-
+|[[Media:WaterHuntCave.swf|Cave]]
+|-
+|[[Media:WaterHuntCavemine.swf|Cave Mine]]
+|-
+|[[Media:WaterHuntCoffee.swf|Coffee Shop]]
+|-
+|[[Media:WaterHuntCove.swf|Cove]]
+|-
+|[[Media:WaterHuntLounge.swf|Dance Lounge]]
+|-
+|[[Media:WaterHuntDock.swf|Dock]]
+|-
+|[[Media:WaterHuntDojoext.swf|Dojo Courtyard]]
+|-
+|[[Media:WaterHuntForest.swf|Forest]]
+|-
+|[[Media:WaterHuntLake.swf|Hidden Lake]]
+|-
+|[[Media:WaterHuntMine.swf|Mine]]
+|-
+|[[Media:WaterHuntDojohide.swf|Ninja Hideout]]
+|-
+|[[Media:WaterHuntPlaza.swf|Plaza]]
+|-
+|[[Media:WaterHuntPet.swf|Pet Shop]]
+|-
+|[[Media:WaterHuntForts.swf|Snow Forts]]
+|-
+|[[Media:RoomsTown-WaterScavengerHunt.swf|Town]]
+|-
+|[[Media:WaterDojoConstruction.swf|Water Dojo]]
+|}
+
+==Other==
+*[[Media:Sensei Water Scavenger Hunt closeup.swf|Hunt closeup]]
+
+{{Events}}

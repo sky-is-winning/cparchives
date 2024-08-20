@@ -1,0 +1,27 @@
+This is the archive of all the removed or completed to-do list objectives.
+
+==Completed==
+
+==Scrapped==
+===Articles===
+{{ToDo1}}
+{{ToDo2
+|Create all needed articles, such as all un-created room articles and party articles.<br>''<small>Proposed by [[User:CK|CK]] on January 2, 2013.</small>''<br><small>''Scrapped by [[User:Mario Rk|Mario Rk]] because this is a general goal and therefore should not belong on the to-do list.''</small>
+|{{Stopped}}<br>{{Stopped}}<br>{{Stopped}}<br>{{Stopped}}
+|[[User:Cp kid|Cp kid]]<br>[[User:Snowstormer|Snowstormer]]<br>[[User:Rockhopperfan|Rockhopperfan]]<br>[[User:Misabr|Misabr]]}}
+{{ToDo2
+|Organize all articles that are relevant with foreign languages to Cp kid's foreign language page format (examples coming soon).<br>''<small>Proposed by [[User:CK|CK]] on January 2, 2013.</small>''<br><small>''Scrapped by [[User:Mario Rk|Mario Rk]] because CK's foreign language format is no longer a necessity and seemed to make pages appear disorganized.''</small>
+|{{Stopped}}
+|[[User:CK|CK]]}}
+|}
+===Files===
+{{ToDo1}}
+{{ToDo2
+|Find any files that have not yet been uploaded. Users should be cautious to avoid uploading duplicates.<br>''<small>Proposed by [[User:CK|CK]] on January 2, 2013.</small>''<br><small>''Scrapped by [[User:Mario Rk|Mario Rk]] because this is a general goal and therefore should not belong on the to-do list.''</small>
+|{{Stopped}}<br>{{Stopped}}<br>{{Stopped}}<br>{{Stopped}}
+|[[User:Cp kid|Cp kid]]<br>[[User:Snowstormer|Snowstormer]]<br>[[User:Radykiel|Radykiel]]<br>[[User:Matthewvacc|Matthewvacc]]
+}}{{ToDo2
+|Help upload foreign catalogs.<br>''<small>Proposed by [[User:CK|CK]] on January 2, 2013.</small>''<br><small>''Scrapped by [[User:Mario Rk|Mario Rk]] because this is a general goal and therefore should not belong on the to-do list.''</small>
+|{{stopped}}
+|[[User:CK|CK]]}}
+|}

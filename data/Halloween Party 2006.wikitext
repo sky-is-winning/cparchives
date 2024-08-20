@@ -1,0 +1,33 @@
+{{NoSWFs}}
+{{CPW|Halloween Party 2006|Festa de Halloween 2006}}
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|{{n/a|Beach}}||{{n/a|???}}
+|-
+|{{n/a|Beacon}}||{{n/a|???}}
+|-
+|{{n/a|Dock}}||{{n/a|???}}
+|-
+|{{n/a|Iceberg}}||{{n/a|???}}
+|-
+|{{n/a|Ice Rink}}||{{n/a|???}}
+|-
+|{{n/a|Mine Shack}}||{{n/a|???}}
+|-
+|{{n/a|Pizza Parlor}}||{{n/a|???}}
+|-
+|{{n/a|Plaza}}||{{n/a|???}}
+|-
+|{{n/a|Ski Hill}}||{{n/a|???}}
+|-
+|{{n/a|Snow Forts}}||{{n/a|???}}
+|-
+|{{n/a|Town}}||[[Media:Music205.swf|205]]
+|}
+
+
+{{Parties}}
+[[Category:Parties of 2006]]

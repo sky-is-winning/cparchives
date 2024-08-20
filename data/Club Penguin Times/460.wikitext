@@ -1,0 +1,6 @@
+{{Newspaper2
+|issue=460
+|date=August 14, 2014
+|ask=Aunt Arctic
+|backstory=Comic
+}}

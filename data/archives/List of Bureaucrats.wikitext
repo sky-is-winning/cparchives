@@ -1,0 +1,25 @@
+{{RightsList}}
+
+This is a list of the official designated bureaucrats of Club Penguin Archives since its founding. Bots, spare accounts, and bureaucrats that only have their powers because they're staff (like Seahorseruler) are not listed. This system was taken from the Club Penguin Wiki. Current bureaucrats are in '''bold'''.
+
+==List of Bureaucrats==
+
+<small>
+<u>'''Demotion Reasons:'''</u>
+*'''[A] Abuse:''' this user abused their admin rights, leading to an automatic demotion.
+*'''[B] Blocked:''' this user was demoted due to a block.
+*'''[C] Community vote:''' the community voted to demote this user.
+*'''[D] Inactivity:''' this administration has decided to demote this user due to the fact they don't/rarely log in.
+*'''[E] Resigned:''' this user decided to have this right revoked from them, or have retired from the wiki.
+given to this user has expired, or this right was only temporary for a special reason.
+</small>
+
+{|class="wikitable sortable" border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''Num.'''!!class="unsortable"|'''Nat.'''!!'''Username'''!!class="unsortable"|'''Date promoted'''!!class="unsortable"|'''Date demoted'''!!class="unsortable"|'''Reason(s) demoted'''!!class="unsortable"|Term Length (Days)!!Total Length (Days)
+|-
+|1||[[File:FlagUSA.svg|30px]]||ClubPenguinMaster||December 8, 2012||April 14, 2013||[D] [C]||{{TermLength|2012|12|8|2013|4|14}}||{{TermLength|2012|12|8|2013|4|14}}
+|-
+|2||[[File:FlagUSA.svg|30px]]||CK||April 14, 2013||April 14, 2014||[E]||{{TermLength|2013|4|14|2014|4|14}}||{{TermLength|2013|4|14|2014|4|14}}
+|-
+|3||[[File:FlagUSA.svg|30px]]||'''Mario Rk'''||April 13, 2017||||||{{TermLength|2017|4|13}}||'''{{TermLength|2017|4|13}}'''
+|}

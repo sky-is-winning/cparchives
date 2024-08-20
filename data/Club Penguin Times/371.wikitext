@@ -1,0 +1,12 @@
+Below are the SWF files from Issue #371 (November 29, 2012) of the Club Penguin Times:
+*[[Media:News371HeaderFront.swf|Front Header]]
+*[[Media:News371FeatureStory.swf|Feature Story]]
+*[[Media:News371SupportStory.swf|Support Story]]
+*[[Media:News371UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News371NewsFlash.swf|News Flash]]
+*[[Media:News371AskAuntArcticFront.swf|Ask Herbert (front)]]
+*[[Media:News371HeaderBack.swf|Back Header]]
+*[[Media:News371AskAuntArcticBack.swf|Ask Herbert (back)]]
+*[[Media:News371JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News371SecretOverlay.swf|Secret Overlay]]
+*[[Media:News371FeatureMore.swf|Feature More]]

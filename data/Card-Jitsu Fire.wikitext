@@ -1,0 +1,18 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Card-Jitsu Fire|Card-Jitsu Fire]]''
+==Current==
+*[http://media1.clubpenguin.com/play/v2/games/fire/fire.swf Card-Jitsu Fire]
+
+===Assets===
+*[http://media1.clubpenguin.com/play/v2/games/fire/assets/avatar.swf Avatar]
+
+===English===
+*[http://media1.clubpenguin.com/play/v2/games/fire/lang/en/locale.swf English Locale]
+
+==Archived==
+===Instructions===
+*[[Media:ENInstructionsCardJitsuFire.swf|English]]
+*[[Media:PTInstructionsCardJitsuFire.swf|Portuguese]]
+*[[Media:FRInstructionsCardJitsuFire.swf|French]]
+*[[Media:ESInstructionsCardJitsuFire.swf|Spanish]]
+*[[Media:DEInstructionsCardJitsuFire.swf|German]]
+*[[Media:RUInstructionsCardJitsuFire.swf|Russian]]

@@ -1,0 +1,28 @@
+===Current Administrators===
+{| cellspacing=2 cellpadding=2 width="100%" style="border:1px solid blue; background:lightblue;" class="accent sortable" 
+|-
+|style="padding:4px 4px 4px 4px; background:blue; font-weight:bold;" class="color1"|<span style="color:white;">Administrator name</span>
+|style="padding:4px 4px 4px 4px; background:blue;  font-weight:bold;" class="color1 unsortable"|<span style="color:white;">Signature</span> <!-- Use raw signature in this column-->
+|style="padding:4px 4px 4px 4px; background:blue;  font-weight:bold;" class="color1"|<span style="color:white;">Date Promoted</span>
+|style="padding:4px 4px 4px 4px; background:blue;  font-weight:bold;" class="color1"|<span style="color:white;">IRC nick(s)</span>
+|style="padding:4px 4px 4px 4px; background:blue;  font-weight:bold;" class="color1"|<span style="color:white;">Time zone</span>
+|style="padding:4px 4px 4px 4px; background:blue;  font-weight:bold;" class="color1"|<span style="color:white;">Bureaucrat?</span>
+|style="padding:4px 4px 4px 4px; background:blue;  font-weight:bold;" class="color1"|<span style="color:white;">Status</span>
+|-
+|[[File:FlagUSA.svg|25px|link=]] {{userlinks|Mario Rk}}
+|{{:User:Mario Rk/Signature}}
+|17 November 2012
+|Mario-Rk
+|GMT -5 (Eastern Standard Time)
+|Yes
+|style="background:orange"|Almost Fully Active
+|}
+'''Legend:'''
+<small><small>
+*'''Fully Active''' - These are the best users to contact when you need an administrator. They log on and edit every few days.
+*'''Almost Fully Active''' - These users log in once a week or so. They are good to contact in an emergency, but it would be better to contact a fully active administrator.  
+*'''Partially Active''' - These users log on from time to time, usually once every few weeks. These users are good to contact, but not for emergencies. These users may be active on IRC, but not fully active here. You may wish to visit our IRC channel to see them and the rest of the active admins.
+*'''Inactive''' - Do not contact these users. They do not log on at all, and will likely be demoted soon. 
+*'''Away''' - These users are currently away. (e.g. on vacation.), and their temporary inactivity has been excused.
+</small></small>
+<noinclude>[[Category:Templates]]</noinclude>

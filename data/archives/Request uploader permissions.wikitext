@@ -1,0 +1,26 @@
+Here you may request the '''uploader''' permssion, which allows you to upload and move files on this wiki. If you would like to request administrator powers, go [[Club Penguin Archives:Request permissions/Administrator|here]].
+
+<small>'''Note to administrators and other users:''' Remember to archive all processed requests, successful or not, [[Club Penguin Archives:Request uploader permissions/Archive|here]].</small>
+<center><big>[http://archives.clubpenguinwiki.info/w/index.php?title=Club_Penguin_Archives:Request_uploader_permissions&action=edit&section=new&editintro=Template:RequestInfo&preload=Template:Permissionrequest Make a request]</big></center>
+
+== Request rights ==
+To apply for a certain user right, use the "Make a request" link above. Once an administrator sees your request, they will respond on here as to whether or not you have been given the requested rights.
+
+{{Perm|Example|Uploader|I would like to help Club Penguin Archives!}}
+
+{{Perm|So|Upload Permission|Just in case I want to add something}}
+
+== I have some non party files mine shack and more ==
+
+{{Perm|176.234.88.248|PERMISSION|REASON}}
+i can upload some swf for people download it and use ^^
+{{NotDone}} Please make a Club Penguin Wiki Network account and then refill the application using it. Until then, I cannot grant your request. --[[User:Mario Rk|'''<span class="Xc6" style="color:#FF0000;">Mario Rk</span>''']] <sup>[[User talk:Mario Rk|<span class="Xc6" style="color:#FF0000;">(T)</span>]] [[Special:Contributions/Mario Rk|<span class="Xc6" style="color:#FF0000;">(C)</span>]]</sup> 07:59, 25 February 2019 (UTC)
+
+{{Perm|LoopyTheHedgehog|Uploader|My previous account was MasterLoopy on here but I forgot the password to it.}}
+{{Done}} --[[User:Mario Rk|'''<span class="Xc6" style="color:#FF0000;">Mario Rk</span>''']] <sup>[[User talk:Mario Rk|<span class="Xc6" style="color:#FF0000;">(T)</span>]] [[Special:Contributions/Mario Rk|<span class="Xc6" style="color:#FF0000;">(C)</span>]]</sup> 19:36, 11 July 2019 (UTC)
+
+{{Perm|Joeee|Beta Party Page Editing|I've obtained the original Beta Party files, however I've got no way of adding them to the page}}
+
+{{Perm|Asph|Uploader|https://icer.ink/media1.clubpenguin.com/play/v2/games/shuffle/shuffle.swf}}
+
+{{Perm|Tyviebrock|Uploader|I keep finding unarchived SWF's and don't want to bug Kawkeet each time I find something.}}

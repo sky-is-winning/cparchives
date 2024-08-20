@@ -1,0 +1,8 @@
+<center>
+{| width="50%" align="center" style="background: #A4A4A4; border: #8A0808 3px solid; {{roundy|20px}}"
+|- align="center"
+| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:JoystickEmote.PNG|link=|65px]]
+|<span style=color:white><big><big>This is a game file.</big></big><br><small>This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</small></span>
+|}</center>
+<includeonly>[[Category:Games]]</includeonly>
+<noinclude>[[Category:Templates]]</noinclude>

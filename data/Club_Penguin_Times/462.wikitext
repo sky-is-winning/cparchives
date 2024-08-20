@@ -1,6 +1,0 @@
-{{Newspaper2
-|issue=462
-|date=August 28, 2014
-|ask=Aunt Arctic
-|backstory=Bonus Story
-}}

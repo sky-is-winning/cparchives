@@ -94,7 +94,7 @@ export default class GenerateTemplate {
                 let [url, text] = p1.split("|");
                 let urlText = url.replace(/ /g, "_"); // Replace spaces with underscores for the URL
                 if (urlText.startsWith("File:")) {
-                    return this.templateGenerator.getMWImageElement(match);
+                    return this.getMWImageElement(match);
                 }
                 if (urlText.startsWith("Media:")) {
                     return `<a href="${this.wikiParser.getFileURI(urlText.split(":")[1])}" title="${url}">${text}</a>`;
@@ -342,7 +342,10 @@ export default class GenerateTemplate {
     }
 
     async generateTemplate(template, bypassNoInclude = false) {
-        template = template.replaceAll("n/a", "NA");
+        // Enforce capitilisation of first letter
+        let templateArr = template.split("")
+        templateArr[0] = templateArr[0].toUpperCase();
+        template = templateArr.join("")
 
         if (template === "BASEPAGENAME") {
             return this.getPageName();
@@ -379,8 +382,24 @@ export default class GenerateTemplate {
             }
         });
 
+        let ifStatement = this.parseIfStatement(wikitext);
+        if (ifStatement) {
+            let match = ifStatement.condition.match(/\{\{\{([^|}]+)(?:\|(.*?))?\}\}\}/);
+            if (match) {
+                const dataIndex = match[1];
+
+                if (!dataSwappers[dataIndex]) {
+                    wikitext = wikitext.replace(ifStatement.statement, ifStatement.falsePart);
+                } else {
+                    wikitext = wikitext.replace(ifStatement.statement, ifStatement.truePart);
+                }
+            } else {
+                wikitext = wikitext.replace(ifStatement.statement, ifStatement.falsePart);
+            }
+        }
+
         while (wikitext.includes("{{{")) {
-            let match = wikitext.match(/{{{(.*?)\|([^}]*)}}}/);
+            let match = wikitext.match(/\{\{\{([^|}]+)(?:\|(.*?))?\}\}\}/);
             if (match) {
                 const wholeMatch = match[0];
                 const dataIndex = match[1];
@@ -395,7 +414,7 @@ export default class GenerateTemplate {
                 break; // Break the loop if no match is found to avoid an infinite loop
             }
         }
-
+        
         let template;
         if (wikitext.includes("{{Ambox")) {
             template = this.generateAmbox(wikitext);
@@ -407,4 +426,80 @@ export default class GenerateTemplate {
 
         return template;
     }
+
+    parseIfStatement(wikitext) {
+        if (wikitext.includes("{{#if")) {
+            let openDoubleCurlyBrackets = 0;
+            let openTripleCurlyBrackets = 0;
+            let openSquareBrackets = 0;
+            let startIndex = wikitext.indexOf("{{#if");
+        
+            // Object to hold condition, truePart, and falsePart
+            let parts = {
+                condition: "",
+                truePart: "",
+                falsePart: ""
+            };
+            let currentPart = "condition"; // Start by capturing the condition part
+
+            for (let i = startIndex; i < wikitext.length; i++) {
+                // Handle triple curly braces
+                if (wikitext.substr(i, 3) === "{{{") {
+                    openTripleCurlyBrackets++;
+                    parts[currentPart] += "{{{";
+                    i += 2; // Move the index to skip the extra characters of triple braces
+                }
+                // Handle triple closing curly braces
+                else if (wikitext.substr(i, 3) === "}}}") {
+                    openTripleCurlyBrackets--;
+                    parts[currentPart] += "}}}";
+                    i += 2; // Move the index to skip the extra characters of triple braces
+                }
+                // Handle double curly braces
+                else if (wikitext.substr(i, 2) === "{{") {
+                    openDoubleCurlyBrackets++;
+                    parts[currentPart] += "{{";
+                    i += 1; // Move the index to skip the extra characters of double braces
+                }
+                // Handle double closing curly braces
+                else if (wikitext.substr(i, 2) === "}}") {
+                    openDoubleCurlyBrackets--;
+                    parts[currentPart] += "}}";
+                    i += 1; // Move the index to skip the extra characters of double braces
+                }
+                // Handle square brackets
+                else if (wikitext[i] === "[") {
+                    openSquareBrackets++;
+                    parts[currentPart] += "[";
+                } else if (wikitext[i] === "]") {
+                    openSquareBrackets--;
+                    parts[currentPart] += "]";
+                }
+                // Handle the first '|' that is not inside other brackets
+                else if (wikitext[i] === "|" && openDoubleCurlyBrackets === 1 && openTripleCurlyBrackets === 0 && openSquareBrackets === 0) {
+                    if (currentPart === "condition") {
+                        currentPart = "truePart";
+                    } else if (currentPart === "truePart") {
+                        currentPart = "falsePart";
+                    }
+                } else {
+                    // Capture other characters
+                    parts[currentPart] += wikitext[i];
+                }
+
+                // If all curly brackets are closed, return the result
+                if (openDoubleCurlyBrackets === 0 && openTripleCurlyBrackets === 0) {
+                    return {
+                        statement: wikitext.slice(startIndex, i + 1),
+                        condition: parts.condition.trim().slice(5),
+                        truePart: parts.truePart.trim(),
+                        falsePart: parts.falsePart.trim().substring(0, -2)
+                    };
+                }
+            }
+        }
+        // Return null if no valid if statement is found
+        return null;
+    }
+
 }

@@ -1,0 +1,6 @@
+{|cellspacing="0" style="text-align: left; width:95%; background: #89CFF0; border: 1px solid #318CE7; {{roundy|6px}}; margin:auto"
+|-
+|style="width:85px; padding:4px;"|[[File:Sitenotice.png|center|85px|link=]]
+|<big>'''Announcements'''</big>
+*Please see the [[Project:To-do List|To-do List]] to help improve Club Penguin Archives for the future.
+|}

@@ -1,0 +1,11 @@
+Wrong SWF! The SWF is the Ferris Wheel from the Fair parties 2013-present! [[User:Penguinpuffdude|<font color="orange">'''Penguinpuffdude'''</font>]] [[File:Acousticguin.PNG|50px|link=]] [[User talk:Penguinpuffdude|''<font color="red">I'm in the garage, with my Mabel detector...</font>'']] 01:37, 6 January 2017 (UTC)
+
+The SWF is currently described as the [http://archives.clubpenguinwiki.info/wiki/Template:Main-FSWF?oldid=85658 "Stage during The Twelfth Fish play"], and that is an accurate description of the SWF that is embedded [http://archives.clubpenguinwiki.info/wiki/Widget:Featured?oldid=85660 here]. However, you are correct, the file is still displaying as the [http://archives.clubpenguinwiki.info/wiki/Widget:Featured?oldid=54673 Wagon Wheel] for some reason. Maybe it has something to do with [http://archives.clubpenguinwiki.info/wiki/Widget:Featured?diff=65751&oldid=54673 this] and how it should not be using HTTP. The page is protected, so try contacting an [[Club Penguin Archives:Administrators|admin]] asking them to remove the "http:" part and see if that works.
+
+--[[User:Kawkeetcp|Kawkeetcp]] ([[User talk:Kawkeetcp|talk]]) 04:42, 6 January 2017 (UTC)
+
+Either that, or it's terrible caching on the wiki's part. I wouldn't be surprised if it was.
+
+--[[User:Kawkeetcp|Kawkeetcp]] ([[User talk:Kawkeetcp|talk]]) 06:48, 7 January 2017 (UTC)
+
+It's still showing the wheel, but the widget has the correct SWF ([[:File:FlashVideo6.swf]]) in it. --<small>—Preceding unsigned comment added by [[User:Quackerpingu|Quackerpingu]] ([[User talk:Quackerpingu|talk]] • [[Special:Contributions/Quackerpingu|contribs]]) </small> 13:40, 18 May 2017 (UTC)

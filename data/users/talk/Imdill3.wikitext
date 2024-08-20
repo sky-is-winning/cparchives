@@ -1,0 +1,20 @@
+Leave a message. --[[User:Imdill3|Imdill3]] ([[User talk:Imdill3|talk]]) 07:07, 26 November 2012 (UTC)
+----
+
+== How to upload SWFs ==
+
+Did you request permission to do so?
+
+If you did, go to [[Special:Upload]], and upload your files.
+
+Then, when done, go to a page and add it there, if it's already there, I suppose you ask the file to be removed, or if you're already an autoconfirmed user, you can delete it yourself.
+
+--{{SUBST:CyllySig}} 07:16, 26 November 2012 (UTC)
+
+Oh, go to the SWF files page, like this one [media1.clubpenguin.com/play/v2/content/global//music/343.swf], and click CTRL + S, or select save from the browser's main menu (Firefox - File, Explorer - File, Chrome - Three Lines).
+
+--{{SUBST:CyllySig}} 07:19, 26 November 2012 (UTC)
+
+== Hi! ==
+
+Hi Imdill, welcome to Archives! :) I saw Cylly's above message to you about saving SWFs, and that is one way to do it. However, if you want to upload an item SWF, catalog SWF, and some other SWFs, there is a much easier way. On the "upload" page, there are 2 sections, right? the first one is where you select a file off of your computer. the other option is where you insert a link and it will upload the SWF directly from that link. All you have to do is ctrl+c an SWF link, select the second option on the upload page, paste the link in that box, type your name for the file, and upload! I know that must sound pretty confusing, so if you need more help feel free to contact me or another Archives [[Project:Administrators|administrator]], and we'd be glad to help :) <big><font face="comic sans ms">[[User:Cp kid|<span style="color:blue;background:black">'' Cp kid ''</span>]]</font>[[User talk:Cp kid|<span style="color:lime;background:blue">'' Let's talk! ''</span>]] </big> 01:09, 27 November 2012 (UTC)

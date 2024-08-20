@@ -1,0 +1,103 @@
+{{CPW|Festival of Snow 2015|Festival de Esculturas de Neve 2015}}
+
+==Rooms==
+===Pre-Party===
+<center>
+{|class="wikitable" border="1"
+!Room
+!Music
+|-
+|[[Media:RoomsBeach-FestivalofSnow2015Pre.swf|Beach]]||{{n/a}}
+|-
+|[[Media:RoomsCove-FestivalofSnow2015Pre.swf|Cove]]||{{n/a}}
+|-
+|[[Media:RoomsDock-FestivalofSnow2015Pre.swf|Dock]]||{{n/a}}
+|-
+|[[Media:RoomsForest-FestivalofSnow2015Pre.swf|Forest]]||{{n/a}}
+|-
+|[[Media:RoomsBerg-FestivalofSnow2015Pre.swf|Iceberg]]||{{n/a}}
+|-
+|[[Media:RoomsShack-FestivalofSnow2015Pre.swf|Mine Shack]]||{{n/a}}
+|-
+|[[Media:RoomsPlaza-FestivalofSnow2015Pre.swf|Plaza]]||{{n/a}}
+|-
+|[[Media:RoomsMtn-FestivalofSnow2015Pre.swf|Ski Hill]]||{{n/a}}
+|-
+|[[Media:RoomsVillage-FestivalofSnow2015Pre.swf|Ski Village]]||{{n/a}}
+|-
+|[[Media:RoomsForts-FestivalofSnow2015Pre.swf|Snow Forts]]||{{n/a}}
+|-
+|[[Media:RoomsTown-FestivalofSnow2015Pre.swf|Town]]||{{n/a}}
+|}
+</center>
+
+===Party===
+<center>
+{|class="wikitable" border="1"
+!Room
+!Music
+|-
+|[[Media:RoomsBeach-FestivalofSnow2015.swf|Beach]]||[[Media:Music923.swf|923]]
+|-
+|[[Media:RoomsCove-FestivalofSnow2015.swf|Cove]]||[[Media:Music923.swf|923]]
+|-
+|[[Media:RoomsDock-FestivalofSnow2015.swf|Dock]]||[[Media:Music923.swf|923]]
+|-
+|[[Media:RoomsForest-FestivalofSnow2015.swf|Forest]]||[[Media:Music924.swf|924]]
+|-
+|[[Media:RoomsBerg-FestivalofSnow2015.swf|Iceberg]]||[[Media:Music923.swf|923]]
+|-
+|[[Media:RoomsShack-FestivalofSnow2015.swf|Mine Shack]]||[[Media:Music924.swf|924]]
+|-
+|[[Media:RoomsPlaza-FestivalofSnow2015.swf|Plaza]]||[[Media:Music924.swf|924]]
+|-
+|[[Media:RoomsMtn-FestivalofSnow2015.swf|Ski Hill]]||[[Media:Music925.swf|925]]
+|-
+|[[Media:RoomsVillage-FestivalofSnow2015.swf|Ski Village]]||[[Media:Music925.swf|925]]
+|-
+|[[Media:RoomsForts-FestivalofSnow2015.swf|Snow Forts]]||[[Media:Music924.swf|924]]
+|-
+|[[Media:RoomsTown-FestivalofSnow2015.swf|Town]]||[[Media:Music924.swf|924]]
+|}
+</center>
+
+==Close Ups==
+===Pedestal===
+<center>
+{|class="wikitable" border="1"
+!colspan="7"|SWF (Global)
+|-
+|[[Media:Close upsPedestal adewilsom-FestivalofSnow2015.swf|Pedestal adewilsom]]||[[Media:Close upsPedestal alexisfrio-FestivalofSnow2015.swf|Pedestal alexisfrio]]||[[Media:Close upsPedestal barby015-FestivalofSnow2015.swf|Pedestal barby015]]||[[Media:Close upsPedestal bridgey27-FestivalofSnow2015.swf|Pedestal bridgey27]]||[[Media:Close upsPedestal bristevo-FestivalofSnow2015.swf|Pedestal bristevo]]||[[Media:Close upsPedestal bubblz126-FestivalofSnow2015.swf|Pedestal bubblz126]]||[[Media:Close upsPedestal chilly0ne-FestivalofSnow2015.swf|Pedestal chilly0ne]]
+|-
+|[[Media:Close upsPedestal coco12277-FestivalofSnow2015.swf|Pedestal coco12277]]||[[Media:Close upsPedestal concordio100-FestivalofSnow2015.swf|Pedestal concordio100]]||[[Media:Close upsPedestal didipengy-FestivalofSnow2015.swf|Pedestal didipengy]]||[[Media:Close upsPedestal floresita248-FestivalofSnow2015.swf|Pedestal floresita248]]||[[Media:Close upsPedestal janeti86704-FestivalofSnow2015.swf|Pedestal janeti86704]]||[[Media:Close upsPedestal lili3390-FestivalofSnow2015.swf|Pedestal lili3390]]||[[Media:Close upsPedestal mepauset-FestivalofSnow2015.swf|Pedestal mepauset]]
+|-
+|[[Media:Close upsPedestal nellora-FestivalofSnow2015.swf|Pedestal nellora]]||[[Media:Close upsPedestal onelia1234-FestivalofSnow2015.swf|Pedestal onelia1234]]||[[Media:Close upsPedestal opal2004-FestivalofSnow2015.swf|Pedestal opal2004]]||[[Media:Close upsPedestal oscar4570-FestivalofSnow2015.swf|Pedestal oscar4570]]||[[Media:Close upsPedestal patraquim1-FestivalofSnow2015.swf|Pedestal patraquim1]]||[[Media:Close upsPedestal penny2415-FestivalofSnow2015.swf|Pedestal penny2415]]||[[Media:Close upsPedestal pinguinchen-FestivalofSnow2015.swf|Pedestal pinguinchen]]
+|-
+|[[Media:Close upsPedestal purble2553-FestivalofSnow2015.swf|Pedestal purble2553]]||[[Media:Close upsPedestal rightangle-FestivalofSnow2015.swf|Pedestal rightangle]]||[[Media:Close upsPedestal sahifira-FestivalofSnow2015.swf|Pedestal sahifira]]||[[Media:Close upsPedestal shivie-FestivalofSnow2015.swf|Pedestal shivie]]||[[Media:Close upsPedestal toon161-FestivalofSnow2015.swf|Pedestal toon161]]||[[Media:Close upsPedestal tsveten1-FestivalofSnow2015.swf|Pedestal tsveten1]]||[[Media:Close upsPedestal waddles5626-FestivalofSnow2015.swf|Pedestal waddles5626]]
+|-
+|colspan="7" align="center"|[[Media:Close upsPedestal largePedestal large-FestivalofSnow2015.swf|Pedestal large]]
+|}
+</center>
+
+===More Fan Art===
+<center>
+{|class="wikitable" border="1"
+!colspan="8"|SWF (Global)
+|-
+|[[Media:Close upsMoreFanArt 1-FestivalofSnow2015.swf|More fan art 1]]||[[Media:Close upsMoreFanArt 2-FestivalofSnow2015.swf|More fan art 2]]||[[Media:Close upsMoreFanArt 3-FestivalofSnow2015.swf|More fan art 3]]||[[Media:Close upsMoreFanArt 4-FestivalofSnow2015.swf|More fan art 4]]||[[Media:Close upsMoreFanArt 5-FestivalofSnow2015.swf|More fan art 5]]||[[Media:Close upsMoreFanArt 6-FestivalofSnow2015.swf|More fan art 6]]||[[Media:Close upsMoreFanArt 7-FestivalofSnow2015.swf|More fan art 7]]||[[Media:Close upsMoreFanArt 8-FestivalofSnow2015.swf|More fan art 8]]
+|-
+|[[Media:Close upsMoreFanArt 9-FestivalofSnow2015.swf|More fan art 9]]||[[Media:Close upsMoreFanArt 10-FestivalofSnow2015.swf|More fan art 10]]||[[Media:Close upsMoreFanArt 11-FestivalofSnow2015.swf|More fan art 11]]||[[Media:Close upsMoreFanArt 12-FestivalofSnow2015.swf|More fan art 12]]||[[Media:Close upsMoreFanArt 13-FestivalofSnow2015.swf|More fan art 13]]||[[Media:Close upsMoreFanArt 14-FestivalofSnow2015.swf|More fan art 14]]||[[Media:Close upsMoreFanArt 15-FestivalofSnow2015.swf|More fan art 15]]||[[Media:Close upsMoreFanArt 16-FestivalofSnow2015.swf|More fan art 16]]
+|-
+|[[Media:Close upsMoreFanArt 17-FestivalofSnow2015.swf|More fan art 17]]||[[Media:Close upsMoreFanArt 18-FestivalofSnow2015.swf|More fan art 18]]||[[Media:Close upsMoreFanArt 19-FestivalofSnow2015.swf|More fan art 19]]||[[Media:Close upsMoreFanArt 20-FestivalofSnow2015.swf|More fan art 20]]||[[Media:Close upsMoreFanArt 21-FestivalofSnow2015.swf|More fan art 21]]||[[Media:Close upsMoreFanArt 22-FestivalofSnow2015.swf|More fan art 22]]||[[Media:Close upsMoreFanArt 23-FestivalofSnow2015.swf|More fan art 23]]||[[Media:Close upsMoreFanArt 24-FestivalofSnow2015.swf|More fan art 24]]
+|-
+|[[Media:Close upsMoreFanArt 25-FestivalofSnow2015.swf|More fan art 25]]||[[Media:Close upsMoreFanArt 26-FestivalofSnow2015.swf|More fan art 26]]||[[Media:Close upsMoreFanArt 27-FestivalofSnow2015.swf|More fan art 27]]||[[Media:Close upsMoreFanArt 28-FestivalofSnow2015.swf|More fan art 28]]||[[Media:Close upsMoreFanArt 29-FestivalofSnow2015.swf|More fan art 29]]||[[Media:Close upsMoreFanArt 30-FestivalofSnow2015.swf|More fan art 30]]||[[Media:Close upsMoreFanArt 31-FestivalofSnow2015.swf|More fan art 31]]||[[Media:Close upsMoreFanArt 32-FestivalofSnow2015.swf|More fan art 32]]
+|-
+|[[Media:Close upsMoreFanArt 33-FestivalofSnow2015.swf|More fan art 33]]||[[Media:Close upsMoreFanArt 34-FestivalofSnow2015.swf|More fan art 34]]||[[Media:Close upsMoreFanArt 35-FestivalofSnow2015.swf|More fan art 35]]||[[Media:Close upsMoreFanArt 36-FestivalofSnow2015.swf|More fan art 36]]||[[Media:Close upsMoreFanArt 37-FestivalofSnow2015.swf|More fan art 37]]||[[Media:Close upsMoreFanArt 38-FestivalofSnow2015.swf|More fan art 38]]||[[Media:Close upsMoreFanArt 39-FestivalofSnow2015.swf|More fan art 39]]||[[Media:Close upsMoreFanArt 40-FestivalofSnow2015.swf|More fan art 40]]
+|-
+|[[Media:Close upsMoreFanArt 41-FestivalofSnow2015.swf|More fan art 41]]||[[Media:Close upsMoreFanArt 42-FestivalofSnow2015.swf|More fan art 42]]||[[Media:Close upsMoreFanArt 43-FestivalofSnow2015.swf|More fan art 43]]||[[Media:Close upsMoreFanArt 44-FestivalofSnow2015.swf|More fan art 44]]||[[Media:Close upsMoreFanArt 45-FestivalofSnow2015.swf|More fan art 45]]||[[Media:Close upsMoreFanArt 46-FestivalofSnow2015.swf|More fan art 46]]||[[Media:Close upsMoreFanArt 47-FestivalofSnow2015.swf|More fan art 47]]||[[Media:Close upsMoreFanArt 48-FestivalofSnow2015.swf|More fan art 48]]
+|}
+</center>
+
+{{Parties}}
+
+[[Category:Parties of 2015]]

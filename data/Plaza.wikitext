@@ -1,5 +1,5 @@
 {{NeedSWFs}}
-
+{{CPW|Plaza|Plaza}}
 
 ==Normal==
 <center>
@@ -103,7 +103,7 @@
 |-
 |[[Media:WinterFiesta2009Plaza.swf|Winter Fiesta]]||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220plaza.swf Puffle Party]||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220plaza.swf Puffle Party]||2009
 |-
 |[[Media:RoomsPlaza-PenguinPlayAwards2009.swf|Penguin Play Awards]]||2009
 |-
@@ -139,7 +139,7 @@
 |-
 |[[Media:RoomsPlaza-PenguinPlayAwards2010.swf|Penguin Play Awards]]||2010
 |-
-|[/swf.cpcheats.info/rooms/2010/earth_day_april/plaza.swf Earth Day]||2010
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/earth_day_april/plaza.swf Earth Day]||2010
 |-
 |[[Media:RoomsPlaza-MtnExpedition.swf|Mountain Expedition]]||2010
 |-

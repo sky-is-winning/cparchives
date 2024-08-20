@@ -1,0 +1,39 @@
+Hi, I am [[clubpenguinwiki:User:Lisured|Lisured]]. I occasionaly update this wiki, recently using [[Wikipedia:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]].
+
+== Pastie ==
+=== Add navbox group to category ===
+# Get source of group
+# Apply following regex replacement: <code>(?:\{\{·\}\})?\[\[(.*?)(?:\|.*?)?\]\]</code> for <code>\1\n</code>, manual fine-tuning of output may be required.
+# Save to file
+# Open file in AWB using ''Make list'' → ''Text file (UTF-8)''
+
+=== Autoupload music using pywikibot (bash) ===
+<pre>
+for i in {766..768}; do
+url="http://media1.clubpenguin.com/play/v2/content/global/music/$i.swf"
+wget $url -O ../Music$i.swf
+python pwb.py upload -keep ../Music$i.swf "== Source ==
+* $url
+
+== Licensing ==
+{{Music}}
+
+[[Category:Halloween Party 2014]]"
+done
+</pre>
+
+=== Autoupload rooms using pywikibot (bash) ===
+<pre>
+for n in plaza park; do
+url="http://media1.clubpenguin.com/play/v2/content/global/rooms/$n.swf"
+name="../Rooms"`echo $n | sed -r 's/\<./\U&/g'`"-HalloweenParty2014.swf"
+wget $url -O $name
+python pwb.py upload -keep $name "== Source ==
+* $url
+
+== Licensing ==
+{{Rooms}}
+
+[[Category:Halloween Party 2014]]"
+done
+</pre>

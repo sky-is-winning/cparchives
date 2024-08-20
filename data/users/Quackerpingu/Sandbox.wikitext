@@ -1,0 +1,30 @@
+{{Box}}
+
+{{Box
+|background=#1dba28
+|border=#0600ba
+|image=Sitenotice.png
+|imagesize=75
+|imagelink=User:Quackerpingu
+|textcolor=red
+|text1=test 1
+|textcolor2=orange
+|text2=test 2
+}}
+
+{{Box
+|background=#0600ba
+|border=#1dba28
+|image=Logo.png
+|imagesize=25
+|imagelink=User talk:Quackerpingu
+|textcolor=green
+|text1=test 1
+|text2=test 2
+}}
+
+{{Box
+|image=LogoExample.png
+|text1=test 1
+|text2=test 2
+}}

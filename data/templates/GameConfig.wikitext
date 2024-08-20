@@ -1,0 +1,8 @@
+<center>
+{| width="50%" align="center" style="background: #a5a5a5; border: #565656 3px solid; {{roundy|20px}}"
+|- align="center"
+| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | 
+|<big><big>This file is a Game Config.</big></big><br><small>This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</small>
+|}</center>
+<includeonly>[[Category:Client]] [[Category:Game Configs]]</includeonly>
+<noinclude>[[Category:Templates]]</noinclude>

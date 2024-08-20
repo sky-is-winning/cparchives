@@ -1,0 +1,12 @@
+'''Bots''' are often used on the Archives to perform repetitive tasks like automatically updating certain pages and uploading files automatically. While they are an extremely powerful tool, they can also be misused.
+
+== Bot requirements ==
+
+''TBD''
+
+Currently, we require that you are an active user and can justify your needs.
+
+== Currently-active bots ==
+
+* [[User:MisabrBot|MisabrBot]] (operated by [[User:Misabr|Misabr]])
+* [[User:TuxBot|TuxBot]] (operated by [[User:Tux|Tux]])

@@ -1,0 +1,11 @@
+This is the page used on Club Penguin Archives to demote people from their Administrator and/or Bureaucrat positions. A demotion vote can be set up on this page by an administrator or CPWN staff member after the person with powers in question (person up for demotion) has been inactive for 3 months. To the people setting up demotion sections, the layout is as follows: 
+
+<nowiki>==Demote <Nominee name> (0)==</nowiki><br />
+It was suggested by <your name> that <nominee name> is demoted from <nowiki>[his/her]</nowiki> '''<position(s) in question>''' rights.<br />
+<nowiki>===For (0)===</nowiki><br />
+<nowiki>===Against (0)===</nowiki><br />
+<nowiki>===Comments ===</nowiki><br />
+
+Once votes are up for two weeks, archive them [[Project:Demotions/Archive|here]] whether they are successful or not.
+
+=Current Demotion Votes=

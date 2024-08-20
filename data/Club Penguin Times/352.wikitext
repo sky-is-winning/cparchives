@@ -1,0 +1,13 @@
+Below are SWF files from issue #352 (July 19, 2012) of the Club Penguin Times:
+
+*[[Media:News352HeaderFront.swf|Header (front)]]
+*[[Media:News352FeatureStory.swf|Feature Story]]
+*[[Media:News352SupportStory.swf|Support Story]]
+*[[Media:News352UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News352NewsFlash.swf|News Flash]]
+*[[Media:News352AskAuntArcticFront.swf|Ask Cadence (front)]]
+*[[Media:News352HeaderBack.swf|Header (back)]]
+*[[Media:News352AskAuntArcticBack.swf|Ask Cadence (back)]]
+*[[Media:News352JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News352SecretOverlay.swf|Secret Overlay]]
+*[[Media:News352FeatureMore.swf|Feature More]]

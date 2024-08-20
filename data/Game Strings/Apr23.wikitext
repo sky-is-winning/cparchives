@@ -1,0 +1,3 @@
+| game_strings || April 23, 2015 || [[Media:ENGameConfigs2015Apr23game_strings.json|en]] {{·}} [[Media:PTGameConfigs2015Apr23game_strings.json|pt]] {{·}} [[Media:FRGameConfigs2015Apr23game_strings.json|fr]] {{·}} [[Media:ESGameConfigs2015Apr23game_strings.json|es]] {{·}} [[Media:DEGameConfigs2015Apr23game_strings.json|de]] {{·}} [[Media:RUGameConfigs2015Apr23game_strings.json|ru]] ||align="center" {{n/a}}
+|-
+|

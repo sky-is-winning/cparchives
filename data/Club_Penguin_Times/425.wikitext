@@ -1,4 +1,0 @@
-{{Newspaper
-|issue=425
-|date=December 12, 2013
-}}

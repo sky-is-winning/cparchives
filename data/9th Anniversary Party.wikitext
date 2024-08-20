@@ -1,0 +1,41 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:9th Anniversary Party|9th Anniversary Party]]''
+
+==Rooms==
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsCoffee-9thAnniversaryParty.swf|Coffee Shop]]||[[Media:Music763.swf|763]]
+|}
+</center>
+
+==Bookshelf==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+!Русский (Russian)
+|-
+|[[Media:ENLibraryOct2014.swf|The Bookshelf]]||[[Media:PTLibraryOct2014.swf|The Bookshelf]]||[[Media:FRLibraryOct2014.swf|The Bookshelf]]||[[Media:ESLibraryOct2014.swf|The Bookshelf]]||[[Media:DELibraryOct2014.swf|The Bookshelf]]||[[Media:RULibraryOct2014.swf|The Bookshelf]]
+|}
+</center>
+
+==Yearbook==
+<center>
+{|class="wikitable" border="1"
+!English
+!Português (Portuguese)
+!Français (French)
+!Español (Spanish)
+!Deutsch (German)
+!Русский (Russian)
+|-
+|[[Media:ENBooksYear1314.swf|2013-2014 Yearbook]]||[[Media:PTBooksYear1314.swf|2013-2014 Yearbook]]||[[Media:FRBooksYear1314.swf|2013-2014 Yearbook]]||[[Media:ESBooksYear1314.swf|2013-2014 Yearbook]]||[[Media:DEBooksYear1314.swf|2013-2014 Yearbook]]||[[Media:RUBooksYear1314.swf|2013-2014 Yearbook]]
+|}
+</center>
+{{Parties}}
+
+[[Category:Parties of 2014]]

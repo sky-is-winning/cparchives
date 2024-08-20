@@ -1,0 +1,36 @@
+{{Navbox
+| name  = PlacesBox
+| title = [[Party Rooms]] with multiple appearances
+| group1 = Medieval Party
+| list1  = [[Treetop Fort]]{{·}}[[Ye Knight's Quest]]{{·}}[[Ye Knight's Quest 2]]{{·}}[[Ye Knight's Quest 3]]{{·}}[[Wizard Library]]
+
+| group2 = Music Jam
+| list2  = [[Back Stage]]{{·}}[[Music Maker 3000]]{{·}}[[Casa Fiesta]]{{·}}[[Ship's Lobby]]{{·}}[[Main Stage]]{{·}}[[Ship's Buffet]]{{·}}[[Bridge]]{{·}}[[Pool Deck]]{{·}}[[Engine Room]]
+
+| group3 = The Fair
+| list3  = [[Bonus Game Room]]{{·}}[[Great Puffle Circus Entrance]]{{·}}[[Great Puffle Circus]]{{·}}[[Park Entrance]]{{·}}[[Galaxy Park]]{{·}}[[Tumbleweed Town]]{{·}}[[Pirate Park]]{{·}}[[The Space Squid]]{{·}}[[Digital World]]{{·}}[[Bulls Eye]]{{·}}[[Wagon Wheel]]{{·}}[[Marooned Lagoon]]{{·}}[[Buccaneer Boats]]
+
+| group4 = Halloween Party
+| list4  = [[Secret Laboratory]]{{·}}[[Haunted House]]{{·}}[[Haunted House Entrance]]{{·}}[[Dark Swamp]]{{·}}[[Dark Chamber]]{{·}}[[Monster Room]]
+
+| group5 = Puffle Party
+| list5  = [[Puffle Feeding Area]]{{·}}[[Puffle Show]]{{·}}[[Puffle Spa]]{{·}}[[Crow's Nest]]
+
+| group6 = April Fools' Party
+| list6 = [[Silly Place]]{{·}}[[Desert Dimension]]{{·}}[[Stair Dimension]]{{·}}[[Space Dimension]]{{·}}[[Candy Dimension]]{{·}}[[Cream Soda Dimension]]{{·}}[[Doodle Dimension]]{{·}}[[Lost Dimension]]
+
+| group7 = Adventure Parties
+| list7 = [[Tree Forts]]{{·}}[[Ship Battle]]
+
+| group8 = Holiday Party
+| list8 = [[Magic Sleigh Ride]]{{·}}[[Bakery]]
+
+| group9 = Expedition Parties
+| list9 = [[Supply Camp]]{{·}}[[Ice Race Cavern]]{{·}}[[Base Camp]]{{·}}[[Mountain]]{{·}}[[Mountain Top]]{{·}}[[Cave (Party Room)]]{{·}}[[Time Trekker]]{{·}}[[Tree Place]]{{·}}[[Stony Town]]{{·}}[[Yum Yum]]{{·}}[[Water Place]]{{·}}[[Fancy Plaza]]{{·}}[[Yuck Swamp]]{{·}}[[Tricera Town]]{{·}}[[Tyranno Town]]{{·}}[[Hunting Spot]]{{·}}[[Ptero Town]]{{·}}[[Scary Ice]]
+
+| group10 = Takeover Parties
+| list10 = [[Epic Wave]]{{·}}[[Highway]]{{·}}[[Anna's Ice Palace]]{{·}}[[Anna's Room]]
+
+| group11 = Other
+| list11 = [[Night Club Rooftop]]{{·}}[[Backstage]]{{·}}[[Ninja Headquarters]]{{·}}[[Limo]]
+}}

@@ -1,0 +1,23 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Bits & Bolts|Bits & Bolts]]''
+
+==SWFs==
+{|class="wikitable" style="margin: 1em auto;"
+!SWF Name
+!Languages
+|-
+|locale SWF||[[Media:GamesChaseLangEnLocale.swf|English]]<br>[[Media:GamesBitsNBoltsLangPTLocale.swf|Portuguese]]<br>[[Media:GamesBitsNBoltsLangFRLocale.swf|French]]<br>[[Media:GamesBitsNBoltsLangESLocale.swf|Spanish]]<br>[[Media:GamesBitsNBoltsLangDELocale.swf|German]]<br>[[Media:GamesBitsNBoltsLangRULocale.swf|Russian]]
+|-
+|Main||[[Media:GamesBitsNBoltsMain.swf|All]]
+|-
+|PuffleMania Content||[[Media:GamesBitsNBoltsPuffleManiaContent.swf|All]]
+|}
+
+==Music==
+{|class="wikitable" style="margin: 1em auto;"
+!File Name
+!File
+|-
+|bitsandbolts.mp3||[[Media:GamesBitsNBolts.mp3|Bits & Bolts music]]
+|-
+|bitsandbolts_panic.mp3||[[Media:GamesBitsNBoltsPanic.mp3|Bits & Bolts panic music]]<br>(plays when too many bolts are on the screen)
+|}

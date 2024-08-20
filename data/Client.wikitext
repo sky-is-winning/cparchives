@@ -1,6 +1,6 @@
 {{NeedSWFs}}
 ==Unknown==
-:''These files come from unknown dates, if you know them, please categorize them.''
+''These files come from unknown dates, if you know them, please categorize them.''
 *[[Media:ClientLoad.swf|Load]]
 *[[Media:ClientClub penguin.swf|Club penguin]]
 *[[Media:ClientShell.swf|Shell]]
@@ -14,8 +14,7 @@
 *[[Media:ClientCourtyard_sensei.swf|Sensei (Dojo Exterior)]]
 *[[Media:PlayV2ClientIgloo.swf|Igloo]]
 *[[Media:Editaccountmenu.swf|Edit Account Menu]]
-==2005==
-[https://download941.mediafire.com/zh7fql7jq4qgWKaRxzdZtZrxBAcPBPC4yaKnVDoQS6uDZMOgLKGbgVRcMbV6PkJwDv7ZHMC0w0su_g2lFUr2HaJ55PRZ8w/vojdw68mr27h1dg/create.swf create.swf]
+
 ==2014==
 ===April===
 *[[Media:ClientTricks hud assets-04102014.swf|Tricks Hud Assets (April 4, 2014)]]

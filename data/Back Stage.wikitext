@@ -1,0 +1,19 @@
+{{CPW|Back Stage|Camarim VIP}}
+
+The '''Back Stage''' was a [[Party Room]] available during the [[Music Jam 2008|2008]], [[Music Jam 2009|2009]], [[Music Jam 2010|2010]], [[Music Jam 2011|2011]] and [[Music Jam 2016|2016 Music Jams]]. From 2008 to 2011, only members who purchased that year's All-Access Pass (or Backstage Pass in 2008) could enter. It was accessible from the [[Dock]] from 2008-2011, as well as the [[Casa Fiesta]] in 2010. In 2016, it was accessible from the [[Snow Forts]].
+
+<center>
+{|class="wikitable" border="1"
+!Event!!Music
+|-
+|[[Media:RoomsParty1-MusicJam2008.swf|Music Jam 2008]]||[[Media:Music242.swf|242]]
+|-
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/party3.swf Music Jam 2009]||
+|-
+|[[Media:RoomsParty3-MusicJam2010.swf|Music Jam 2010]]||rowspan=2|[[Media:Music293.swf|293]]
+|-
+|[[Media:MusicJam2011Party3.swf|Music Jam 2011]]
+|-
+|[[Media:RoomsParty11-MusicJam2016.swf|Music Jam 2016]]||[[Media:Music1143.swf|1143]]
+|}
+</center>

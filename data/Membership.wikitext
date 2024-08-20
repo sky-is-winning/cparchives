@@ -1,0 +1,169 @@
+{{NeedSWFs}}
+
+==General==
+{|class="wikitable sortable" style="margin: auto;"
+!class="unsortable"|Reason!!Filename!!class="unsortable" colspan=5|Languages
+{{ac}}
+|{{n/a}}||general||[[Media:ENMembershipGeneral.swf|EN]]||[[Media:PTMembershipGeneral.swf|PT]]||[[Media:FRMembershipGeneral.swf|FR]]||[[Media:ESMembershipGeneral.swf|ES]]||[[Media:DEMembershipGeneral.swf|DE]]
+{{ac}}
+|Member furniture item||furniture||[[Media:ENMembershipFurniture.swf|EN]]||[[Media:PTMembershipFurniture.swf|PT]]||[[Media:FRMembershipFurniture.swf|FR]]||[[Media:ESMembershipFurniture.swf|ES]]||[[Media:DEMembershipFurniture.swf|DE]]
+{{ac}}
+|Member clothing item||inventory||[[Media:ENMembershipInventory.swf|EN]]||[[Media:PTMembershipInventory.swf|PT]]||[[Media:FRMembershipInventory.swf|FR]]||[[Media:ESMembershipInventory.swf|ES]]||[[Media:DEMembershipInventory.swf|DE]]
+{{ac}}
+|Equip member item||inventory_equip||[[Media:ENMembershipInventoryEquip.swf|EN]]||[[Media:PTMembershipInventoryEquip.swf|PT]]||[[Media:FRMembershipInventoryEquip.swf|FR]]||[[Media:ESMembershipInventoryEquip.swf|ES]]||[[Media:DEMembershipInventoryEquip.swf|DE]]
+{{ac}}
+|Member igloo||igloo||[[Media:ENMembershipIgloo.swf|EN]]||[[Media:PTMembershipIgloo.swf|PT]]||[[Media:FRMembershipIgloo.swf|FR]]||[[Media:ESMembershipIgloo.swf|ES]]||[[Media:DEMembershipIgloo.swf|DE]]
+{{ac}}
+|Adopt >2 puffles||puffle||[[Media:ENMembershipPuffle.swf|EN]]||[[Media:PTMembershipPuffle.swf|PT]]||[[Media:FRMembershipPuffle.swf|FR]]||[[Media:ESMembershipPuffle.swf|ES]]||[[Media:DEMembershipPuffle.swf|DE]]
+|}
+
+==Catalogs==
+
+==Games==
+{|class="wikitable sortable" style="margin: auto;"
+!Game!!Filename!!class="unsortable" colspan=5|Languages
+{{ac}}
+|[[Card-Jitsu Fire]]||game_fire||[[Media:ENMembershipGameFire.swf|EN]]||[[Media:PTMembershipGameFire.swf|PT]]||[[Media:FRMembershipGameFire.swf|FR]]||[[Media:ESMembershipGameFire.swf|ES]]||[[Media:DEMembershipGameFire.swf|DE]]
+{{ac}}
+|[[Card-Jitsu Water]]||game_water||[[Media:ENMembershipGameWater.swf|EN]]||[[Media:PTMembershipGameWater.swf|PT]]||[[Media:FRMembershipGameWater.swf|FR]]||[[Media:ESMembershipGameWater.swf|ES]]||[[Media:DEMembershipGameWater.swf|DE]]
+{{ac}}
+|[[Dance Contest]] multiplayer||game_dance||[[Media:ENMembershipGameDance.swf|EN]]||[[Media:PTMembershipGameDance.swf|PT]]||[[Media:FRMembershipGameDance.swf|FR]]||[[Media:ESMembershipGameDance.swf|ES]]||[[Media:DEMembershipGameDance.swf|DE]]
+{{ac}}
+|[[Dance Contest]] member songs||game_dance_songs||[[Media:ENMembershipGameDanceSongs.swf|EN]]||[[Media:PTMembershipGameDanceSongs.swf|PT]]||[[Media:FRMembershipGameDanceSongs.swf|FR]]||[[Media:ESMembershipGameDanceSongs.swf|ES]]||[[Media:DEMembershipGameDanceSongs.swf|DE]]
+{{ac}}
+|[[Puffle Rescue]] Underground levels||game_rescue_level1||[[Media:ENMembershipGameRescueLevel1.swf|EN]]||[[Media:PTMembershipGameRescueLevel1.swf|PT]]||[[Media:FRMembershipGameRescueLevel1.swf|FR]]||[[Media:ESMembershipGameRescueLevel1.swf|ES]]||[[Media:DEMembershipGameRescueLevel1.swf|DE]]
+{{ac}}
+|[[Puffle Rescue]] Underwater levels||game_rescue_level2||[[Media:ENMembershipGameRescueLevel2.swf|EN]]||[[Media:PTMembershipGameRescueLevel2.swf|PT]]||[[Media:FRMembershipGameRescueLevel2.swf|FR]]||[[Media:ESMembershipGameRescueLevel2.swf|ES]]||[[Media:DEMembershipGameRescueLevel2.swf|DE]]
+|}
+
+==Puffles==
+{|class="wikitable sortable" style="margin: auto;"
+!Filename!!class="unsortable" colspan=5|Languages
+{{ac}}
+|puffle_brown||[[Media:ENMembershipPuffle Brown-2011.swf|EN]]||[[Media:PTMembershipPuffle Brown-2011.swf|PT]]||[[Media:FRMembershipPuffle Brown-2011.swf|FR]]||[[Media:ESMembershipPuffle Brown-2011.swf|ES]]||[[Media:DEMembershipPuffle Brown.swf|DE]]
+{{ac}}
+|puffle_rainbow||[[Media:ENMembershipPuffle Rainbow.swf|EN]]||[[Media:PTMembershipPuffle Rainbow.swf|PT]]||[[Media:FRMembershipPuffle Rainbow.swf|FR]]||[[Media:ESMembershipPuffle Rainbow.swf|ES]]||[[Media:DEMembershipPuffle Rainbow.swf|DE]]
+|}
+
+==Miscellaneous==
+{|class="wikitable sortable" style="margin: auto;"
+!class="unsortable"|Reason!!Filename!!class="unsortable" colspan=5|Languages
+{{ac}}
+|[[cpw:Flare|Flare]]||puffle_whistle||[[Media:ENMembershipPuffleWhistle.swf|EN]]||[[Media:PTMembershipPuffleWhistle.swf|PT]]||[[Media:FRMembershipPuffleWhistle.swf|FR]]||[[Media:ESMembershipPuffleWhistle.swf|ES]]||{{n/a}}
+{{ac}}
+|TraceTracker 3000||epf_tracetracker||[[Media:ENMembershipEpf Tracetracker3000.swf|EN]]||[[Media:PTMembershipEpf Tracetracker3000.swf|PT]]||[[Media:FRMembershipEpf Tracetracker3000.swf|FR]]||[[Media:ESMembershipEpf Tracetracker3000.swf|ES]]||[[Media:DEMembershipEpf Tracetracker3000.swf|DE]]
+{{ac}}
+|[[Underwater]]||underwater||[[Media:ENMembershipUnderwater.swf|EN]]||[[Media:PTMembershipUnderwater.swf|PT]]||[[Media:FRMembershipUnderwater.swf|FR]]||[[Media:ESMembershipUnderwater.swf|ES]]||[[Media:DEMembershipUnderwater.swf|DE]]
+|}
+
+==Parties==
+{|class="wikitable sortable" style="margin: auto;"
+!Party!!Reason!!Filename!!class="unsortable" colspan=5|Languages
+{{ac}}
+|[[April Fools' Party 2009]]||[[cpw:Box Store|Box Store]]||{{n/a|?}}||[[Media:AprilFoolMembership.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||colspan=2 {{n/a}}
+|- align="center"
+|Holiday Parties [[Holiday Party 2009|2009]], [[Holiday Party 2010|2010]] & [[Holiday Party 2011|2011]]||[[cpw:Magic Sleigh Ride|Magic Sleigh Ride]]||party||[[Media:HolidayParty2011Membership.swf|EN]]||[[Media:PTHoliday2012MembershipNotice-party.swf|PT]]||[[Media:FRMembershipParty.swf|FR]]||[[Media:ESMembershipParty.swf|ES]]||[[Media:DEMembershipParty.swf|DE]]
+{{ac}}
+|[[April Fools' Party 2010]]||[[cpw:A Silly Place|A Silly Place]]||{{n/a|?}}||[[Media:AprilFoolsParty2010MembershipOopsAprilFools.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||colspan=2 {{n/a}}
+{{ac}}
+|[[Halloween Party 2010]]||[[cpw:Dark Chamber|Dark Chamber]]||party3||[[Media:HalloweenParty2010MembershipParty3.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|[[Mountain Expedition]]||[[cpw:Ice Race Cavern|Ice Race Cavern]]||{{n/a|?}}||[[Media:MountainExpeditionMembershipOopsExpedition.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|rowspan=2|[[Wilderness Expedition 2011]]||[[cpw:Bay|Bay]]||party1||[[Media:WildernessExpeditionMembershipParty1.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|[[cpw:Bay|Bay]]||party2||[[Media:WildernessExpeditionMembershipParty2.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|rowspan=2|[[Puffle Party 2011]]||[[cpw:Puffle Show|Puffle Show]]||party2||[[Media:PuffleParty2011MembershipParty2.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|[[cpw:Night Club Rooftop|Night Club Rooftop]]||party3||[[Media:PuffleParty2011MembershipParty3.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|[[April Fools' Party 2011]]||[[cpw:A Silly Place|A Silly Place]]||party2||[[Media:PuffleParty2011MembershipParty2.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|[[Medieval Party 2011]]||[[cpw:Ye Knight's Quest|Ye Knight's Quest]]||party2||[[Media:MedievalParty2011MembershipParty2.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|[[Music Jam 2011]]||[[cpw:Party Rooms|Party Rooms]]||party2||[[Media:MusicJam2011MembershipParty2.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|rowspan=2|[[Island Adventure Party 2011]]||[[cpw:Hidden Lake Catalog|Hidden Lake Catalog]]||party1||[[Media:IslandAdventureParty2011MembershipParty1.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|[[cpw:Ship Battle|Ship Battle]]||party2||[[Media:IslandAdventureParty2011MembershipParty2.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|[[The Fair 2011]]||[[cpw:Great Puffle Circus|Great Puffle Circus]]||party2||[[Media:TheFair2011MembershipParty2.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a}}
+{{ac}}
+|[[Halloween Party 2011]]||[[cpw:Dark Chamber|Dark Chamber]]||party3||[[Media:HalloweenParty2011NoticeParty3.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|[[Holiday Party 2011]]||[[cpw:Bakery|Bakery]]||{{n/a|?}}||[[Media:HolidayParty2011Membership2.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|[[Underwater Expedition]]||[[cpw:The Deep|The Deep]]||{{n/a|?}}||[[Media:UnderwaterExpeditionMembership.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|[[Rockhopper's Quest]]||[[cpw:Viking Hall|Viking Hall]]||{{n/a|?}}||[[Media:RockhoppersQuestMembership.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|rowspan=2|[[Puffle Party 2012]]||[[cpw:Night Club Rooftop|Night Club Rooftop]]||{{n/a|?}}||[[Media:PuffleParty20121Membership.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|[[cpw:Puffle Spa|Puffle Spa]]||{{n/a|?}}||[[Media:PuffleParty20122Membership.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|[[April Fools' Party 2012]]||[[cpw:Fun House Dimension|Fun House Dimension]]||{{n/a|?}}||[[Media:AprilFools2012Membership.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|rowspan=2|[[Medieval Party 2012]]||[[cpw:Ye Knight's Quest 2|Ye Knight's Quest 2]] & [[cpw:Ye Knight's Quest 3|3]]||{{n/a|?}}||[[Media:MedievalParty2012Member1.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|[[cpw:Misery Mountain|Misery Mountain]]||{{n/a|?}}||[[Media:MedievalParty2012Member2.swf|EN]]||[[Media:PTMembershipParty26-Medieval2012.swf|PT]]||[[Media:FRMembershipParty26-Medieval2012.swf|FR]]||[[Media:ESMembershipParty26-Medieval2012.swf|ES]]||[[Media:DEMembershipParty26-Medieval2012.swf|DE]]
+{{ac}}
+|[[Marvel Super Hero Takeover 2012]]||[[cpw:Downtown|Downtown]]||{{n/a|?}}||[[Media:MarvelSuperheroTakeoverMember1.swf|EN]]||{{n/a|PT}}||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|[[Halloween Party 2012]]||[[cpw:Ghosts|Ghost]] [[transformations|transformation]]||{{n/a|?}}||[[Media:ENMembershipPartyHalloween2012.swf|EN]]||[[Media:PTMembershipPartyHalloween2012.swf|PT]]||[[Media:FRMembershipPartyHalloween2012.swf|FR]]||[[Media:ESMembershipPartyHalloween2012.swf|ES]]||[[Media:DEMembershipPartyHalloween2012.swf|DE]]
+{{ac}}
+|rowspan=8|[[Holiday Party 2012]]||[[cpw:Frost Bite|Frost Bite]] [[transformations|transformation]]||party1||[[Media:HolidayParty2012Member1.swf|EN]]||[[Media:PTHoliday2012MembershipNotice-party1.swf|PT]]||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|[[cpw:Frost Bite Palace|Frost Bite Palace]]||party2||[[Media:HolidayParty2012Member2.swf|EN]]||[[Media:PTHoliday2012MembershipNotice-party2.swf|PT]]||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|[[cpw:Festive Chair|Festive Chair]]||party3||[[Media:HolidayParty2012Member3.swf|EN]]||[[Media:PTHoliday2012MembershipNotice-party3.swf|PT]]||{{n/a|FR}}||{{n/a|ES}}||{{n/a|DE}}
+{{ac}}
+|[[cpw:Holly Jolly Couch|Holly Jolly Couch]]||party4||[[Media:HolidayParty2012Member4.swf|EN]]||[[Media:PTHoliday2012MembershipNotice-party4.swf|PT]]||[[Media:FRMembershipParty4-Holiday2012.swf|FR]]||[[Media:ESMembershipParty4-Holiday2012.swf|ES]]||[[Media:DEMembershipParty4-Holiday2012.swf|DE]]
+{{ac}}
+|[[cpw:Festive Light|Festive Light]]||party5||[[Media:HolidayParty2012Member5.swf|EN]]||[[Media:PTHoliday2012MembershipNotice-party5.swf|PT]]||[[Media:FRMembershipParty5-Holiday2012.swf|FR]]||[[Media:ESMembershipParty5-Holiday2012.swf|ES]]||[[Media:DEMembershipParty5-Holiday2012.swf|DE]]
+{{ac}}
+|[[cpw:Make and Bake Kitchen|Make and Bake Kitchen]]||party6||[[Media:HolidayParty2012Member6.swf|EN]]||[[Media:PTHoliday2012MembershipNotice-party6.swf|PT]]||[[Media:FRMembershipParty6-Holiday2012.swf|FR]]||[[Media:ESMembershipParty6-Holiday2012.swf|ES]]||[[Media:DEMembershipParty6-Holiday2012.swf|DE]]
+{{ac}}
+|[[cpw:Santa Desk|Santa Desk]]||party7||[[Media:HolidayParty2012Member7.swf|EN]]||[[Media:PTHoliday2012MembershipNotice-party7.swf|PT]]||[[Media:FRMembershipParty7-Holiday2012.swf|FR]]||[[Media:ESMembershipParty7-Holiday2012.swf|ES]]||[[Media:DEMembershipParty7-Holiday2012.swf|DE]]
+{{ac}}
+|[[cpw:Reindeer Puffle|Reindeer Puffle]] [[transformations|transformation]]||party8||[[Media:HolidayParty2012Member8.swf|EN]]||[[Media:PTHoliday2012MembershipNotice-party8.swf|PT]]||[[Media:FRMembershipParty8-Holiday2012.swf|FR]]||[[Media:ESMembershipParty8-Holiday2012.swf|ES]]||[[Media:DEMembershipParty8-Holiday2012.swf|DE]]
+{{ac}}
+|rowspan=3|[[Marvel Super Hero Takeover 2013]]||[[cpw:Marvel Catalog|Marvel Catalog]]||party1||[[Media:ENMembershipParty1-Marvel2013.swf|EN]]||[[Media:PTMembershipParty1-Marvel2013.swf|PT]]||[[Media:FRMembershipParty1-Marvel2013.swf|FR]]||[[Media:ESMembershipParty1-Marvel2013.swf|ES]]||[[Media:DEMembershipParty1-Marvel2013.swf|DE]]
+{{ac}}
+|Deploy Robots||party2||[[Media:ENMembershipParty2-Marvel2013.swf|EN]]||[[Media:PTMembershipParty2-Marvel2013.swf|PT]]||[[Media:FRMembershipParty2-Marvel2013.swf|FR]]||[[Media:ESMembershipParty2-Marvel2013.swf|ES]]||[[Media:DEMembershipParty2-Marvel2013.swf|DE]]
+{{ac}}
+|Power Gloves||party3||[[Media:ENMembershipParty3-Marvel2013.swf|EN]]||[[Media:PTMembershipParty3-Marvel2013.swf|PT]]||[[Media:FRMembershipParty3-Marvel2013.swf|FR]]||[[Media:ESMembershipParty3-Marvel2013.swf|ES]]||[[Media:DEMembershipParty3-Marvel2013.swf|DE]]
+{{ac}}
+|[[Star Wars Takeover]]||Member items||party3||[[Media:ENMembershipParty3-SWTakeover.swf|EN]]||[[Media:PTMembershipParty3-SWTakeover.swf|PT]]||[[Media:FRMembershipParty3-SWTakeover.swf|FR]]||[[Media:ESMembershipParty3-SWTakeover.swf|ES]]||[[Media:DEMembershipParty3-SWTakeover.swf|DE]]
+{{ac}}
+|rowspan=2|[[Teen Beach Movie Summer Jam]]||[[Transformations]]||party1||[[Media:ENMembershipParty1-Medieval2013.swf|EN]]||[[Media:PTMembershipParty1-Medieval2013.swf|PT]]||[[Media:FRMembershipParty1-Medieval2013.swf|FR]]||[[Media:ESMembershipParty1-Medieval2013.swf|ES]]||[[Media:DEMembershipParty1-Medieval2013.swf|DE]]
+{{ac}}
+|[[cpw:Medieval Catalog|Medieval Catalog]]||party2||[[Media:ENMembershipParty2-Medieval2013.swf|EN]]||[[Media:PTMembershipParty2-Medieval2013.swf|PT]]||[[Media:FRMembershipParty2-Medieval2013.swf|FR]]||[[Media:ESMembershipParty2-Medieval2013.swf|ES]]||[[Media:DEMembershipParty2-Medieval2013.swf|DE]]
+{{ac}}
+|rowspan=2|[[Operation: Puffle]]||TraceTracker 3000||epf_tracetracker||[[Media:ENMemberhipEPFTraceTracker3000.swf|EN]]||[[Media:PTMembershipEPFTraceTracker3000.swf|PT]]||[[Media:FRMembershipEPFTraceTracker3000.swf|FR]]||[[Media:ESMembershipEPFTraceTracker3000.swf|ES]]||[[Media:DEMembershipEPFTraceTracker3000.swf|DE]]
+{{ac}}
+|Member awards||party1||[[Media:ENMembershipParty1.swf|EN]]||[[Media:PTMembershipParty1.swf|PT]]||[[Media:FRMembershipParty1.swf|FR]]||[[Media:ESMembershipParty1.swf|ES]]||[[Media:DEMembershipParty1.swf|DE]]
+{{ac}}
+|rowspan=2|[[Future Party]]||Robos [[transformations|transformation]]||party1||colspan=5|[[Media:MembershipParty1-FutureParty.swf|GLOBAL]]
+{{ac}}
+|[[cpw:Future Catalog|Future Catalog]]||party2||colspan=5|[[Media:MembershipParty2-FutureParty.swf|GLOBAL]]
+{{ac}}
+|[[Penguin Cup]]||Power Shoes||party1||colspan=5|[[Media:MembershipParty1-PenguinCup.swf|GLOBAL]]
+{{ac}}
+|[[Music Jam 2014]]||Member items||party1||colspan=5|[[Media:MembershipParty1-MusicJam2014.swf|GLOBAL]]
+{{ac}}
+|[[Frozen Party]]||General||party1||colspan=5|[[Media:MembershipParty1-FrozenParty.swf|GLOBAL]]
+{{ac}}
+|[[School & Skate Party]]||General||party1||colspan=5|[[Media:MembershipParty1-School&SkateParty.swf|GLOBAL]]
+{{ac}}
+|rowspan=2|[[Halloween Party 2014]]||Member awards||party1||colspan=5|[[Media:MembershipParty1-HalloweenParty2014.swf|GLOBAL]]
+{{ac}}
+|[[cpw:Ghost Puffle|Ghost Puffle]]s||party2||colspan=5|[[Media:MembershipParty2-HalloweenParty2014.swf|GLOBAL]]
+{{ac}}
+|[[Pirate Party 2014]]||Member awards||party1||colspan=5|[[Media:MembershipParty1-PirateParty2014.swf|GLOBAL]]
+{{ac}}
+|[[Merry Walrus Party]]||Member awards||party1||colspan=5|[[Media:MembershipParty1-MerryWalrusParty2014.swf|GLOBAL]]
+|}
+
+==Notes==
+*Around early 2014, membership notices began using global files instead of individual localized files.

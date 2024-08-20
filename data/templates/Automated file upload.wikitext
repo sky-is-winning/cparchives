@@ -1,0 +1,4 @@
+This file, {{PAGENAME}}, was automatically uploaded to the wiki by {{REVISIONUSER}}.
+
+<includeonly>[[Category:Automatically uploaded files]]</includeonly>
+<noinclude>Bots should use <tt><nowiki>{{subst:Automated file upload}}<br/>{{CP}}</nowiki></tt> to mark automatic file uploads so these can be separated easily.</noinclude>

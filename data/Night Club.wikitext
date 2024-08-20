@@ -1,0 +1,115 @@
+{{CPW|Night Club}}
+
+==Normal==
+<center>
+{|class="wikitable" border="1"
+!SWF!!Years!!Music
+|-
+|[[Media:ArtworkRoomsDance0.swf|dance0]]||2005||rowspan="15"|[[Media:Music5.swf|5]]
+|-
+|[[Media:ArtworkRoomsDance2.swf|dance2]]||2005
+|-
+|[[Media:ArtworkRoomsDance10.swf|dance10]]||2006
+|-
+|[[Media:ArtworkRoomsDance11.swf|dance11]]||2006
+|-
+|[[Media:ArtworkRoomsDance14.swf|dance14]]||2006
+|-
+|[[Media:ArtworkRoomsDance50.swf|dance50]]||May 2006-Jul 2008
+|-
+|dance??||Jul 2008-Mar 2009
+|-
+|dance||Mar 2009-Jun 2009
+|-
+|[[Media:RoomsDance 2.swf|dance]]||Jun 2009-Jan 2010
+|-
+|[[Media:Dance.swf|dance]]||Jan 2010-Aug 2011
+|-
+|[[Media:RoomsDance 3.swf|dance]]||Aug 2011-Nov 2012
+|-
+|[[Media:RoomsDance 4.swf|dance]]||Nov 2012-Dec 2012
+|-
+|[[Media:RoomsDance 5.swf|dance]]||Dec 2012-??? 2013
+|-
+|[[Media:RoomsDance 6.swf|dance]]||???-Mar 2013
+|-
+|[[Media:RoomsDance 7.swf|dance]]||Mar 2013-Oct 2013
+|-
+|[[Media:RoomsDance 8.swf|dance]]||Oct 2013-May 2014||rowspan="2"|[[Media:Music673.swf|673]]
+|-
+|[[Media:RoomsDance 9.swf|dance]]||May 2014-July 2014
+|-
+|[[Media:RoomsDance 10.swf|dance]]||July 2014-May 2015||rowspan="2"|[[SoundStudio]]
+|-
+|[[Media:RoomsDance-May2015.swf|dance]]||May 2015-March 2017
+|}
+</center>
+
+==Parties and Events==
+===2005-2010===
+<center>
+{|class="wikitable" border="1"
+!Event
+!Music
+!Year
+|-
+|[[Media:ArtworkRoomsDance11.swf|Halloween Party]]||{{n/a}}||2005
+|-
+|[[Media:3rdAnniversaryPartyDance.swf|3rd Anniversary Party]]||{{n/a}}||2008
+|-
+|[[Media:RoomsDance-DanceAThon.swf|Dance-A-Thon Party]]||[[media:Music258.swf|258]]||2009
+|-
+|[[Media:WinterFiesta2009Dance.swf|Winter Fiesta]]||{{n/a}}||2009
+|-
+|[[Media:RoomsDance-AdventureParty2009.swf|Adventure Party]]||{{n/a}}||2009
+|-
+|[[Media:FestivalOfFlightDance.swf|Festival of Flight]]||{{n/a}}||2009
+|}
+</center>
+
+===2010-2015===
+<center>
+{|class="wikitable" border="1"
+!Event
+!Music
+!Year
+|-
+|[[Media:RoomsDance-MusicJam2010.swf|Music Jam]]||{{n/a}}||2010
+|-
+|[[Media:PuffleParty2011Dance.swf|Puffle Party]]||{{n/a}}||2011
+|-
+|[[Media:AprilFools'Party2011Dance.swf|April Fools' Party]]||{{n/a}}||2011
+|-
+|[[Media:MedievalParty2011Dance.swf|Medieval Party]]||{{n/a}}||2011
+|-
+|[[Media:MusicJam2011Dance.swf|Music Jam]]||{{n/a}}||2011
+|-
+|[[Media:IslandAdventureParty2011Dance.swf|Island Adventure Party]]||{{n/a}}||2011
+|-
+|[[Media:TheFair2011Dance.swf|The Fair]]||{{n/a}}||2011
+|-
+|[[Media:HalloweenParty2011Dance.swf|Halloween Party]]||{{n/a}}||2011
+|-
+|[[Media:Card-JitsuPartyDance.swf|Card-Jitsu Party]]||{{n/a}}||2011
+|-
+|[[Media:HolidayParty2011Dance.swf|Holiday Party]]||{{n/a}}||2011
+|-
+|[[Media:PuffleParty2012Dance.swf|Puffle Party]]||{{n/a}}||2012
+|-
+|[[Media:UltimateJamDance.swf|Make Your Mark: Ultimate Jam]]||{{n/a}}||2012
+|-
+|[[Media:Fair2012Dance.swf|The Fair]]||{{n/a}}||2012
+|-
+|[[Media:HalloweenParty2012Dance.swf|Halloween Party]]||{{n/a}}||2012
+|-
+|[[Media:HollywoodPartyRoomsDance.swf|Hollywood Party]]||{{n/a}}||2013
+|-
+|[[Media:RoomsDance-PuffleParty2013.swf|Puffle Party]]||{{n/a}}||2013
+|-
+|[[Media:RoomsDance-MedievalParty2013.swf|Medieval Party]]||{{n/a}}||2013
+|-
+|[[Media:RoomsDance-HalloweenParty2013.swf|Halloween Party]]||{{n/a}}||2013
+|}
+</center>
+
+{{Places}}

@@ -1,0 +1,1 @@
+<span class="plainlinks">[http://media1.clubpenguin.com/play/v2/{{{1|}}} {{{2|Default}}}]</span>

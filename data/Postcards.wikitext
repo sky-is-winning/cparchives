@@ -1,4 +1,4 @@
-
+{{CPW|Postcards|Cartão Postal}}
 
 ==Postcard SWFs==
 ===2006–2008===
@@ -163,7 +163,7 @@
 |-
 |41||[[Media:ENPostcards41.swf|English]]||[[Media:PTPostcards41.swf|Português]]||[[Media:ESPostcards41.swf|Español]]||[[Media:FRPostcards41.swf|Français]]||[[Media:DEPostcards41.swf|Deutsch]]||[[Media:RUPostcards41.swf|русский]]
 |-
-|42||[[Media:ENPostcards42_2.swf|English]]||[[Media:PTPostcards42.swf|Português]]||[[Media:ESPostcards42.swf|Español]]||[[Media:FRPostcards42.swf|Français]]||[[Media:DEPostcards42.swf|Deutsch]]||[[Media:RUPostcards42.swf|русский]]
+|42||[[Media:ENPostcards42.swf|English]]||[[Media:PTPostcards42.swf|Português]]||[[Media:ESPostcards42.swf|Español]]||[[Media:FRPostcards42.swf|Français]]||[[Media:DEPostcards42.swf|Deutsch]]||[[Media:RUPostcards42.swf|русский]]
 |-
 |43||[[Media:ENPostcards43.swf|English]]||[[Media:PTPostcards43.swf|Português]]||[[Media:ESPostcards43.swf|Español]]||[[Media:FRPostcards43.swf|Français]]||[[Media:DEPostcards43.swf|Deutsch]]||[[Media:RUPostcards43.swf|русский]]
 |-

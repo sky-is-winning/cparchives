@@ -1,0 +1,19 @@
+''Club Penguin Wiki Article: [[clubpenguinwiki:Puffle Handbook|Puffle Handbook]]''
+
+==Book==
+<center>
+{|class="wikitable" border="1"
+!'''Month'''
+|-
+|March 2011
+|-
+|[[Media:ClientPuffle manuel 2.swf|March 2013]]
+|}
+</center>
+
+==Logos==
+*[[Media:CilentPuffleManualLangENCover.swf|English Cover]]
+*[[Media:CilentPuffleManualLangPTCover.swf|Portuguese Cover]]
+*[[Media:CilentPuffleManualLangFRCover.swf|French Cover]]
+*[[Media:CilentPuffleManualLangESCover.swf|Spanish Cover]]
+*[[Media:CilentPuffleManualLangDECover.swf|German Cover]]

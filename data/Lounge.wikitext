@@ -1,4 +1,4 @@
-
+{{CPW|Lounge|Area VIP}}
 
 ==Normal==
 {|class="wikitable" style="margin: 1em auto;"
@@ -7,6 +7,8 @@
 |[[Media:ArtworkRoomsLounge4.swf|Lounge4]]||2006||[[Media:Music6.swf|6]]
 |-
 |[[Media:ArtworkRoomsLounge10.swf|Lounge10]]||2006||[[Media:Music6.swf|6]]
+|-
+|[[Media:ArtworkRoomsLounge40.swf|Lounge40]]||2006||[[Media:Music6.swf|6]]
 |-
 |[[Media:RoomsLounge.swf|Lounge]]||2009||[[Media:Music6.swf|6]]
 |-

@@ -1,0 +1,52 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Jet Pack Adventure|Jet Pack Adventure]]''
+
+<center>
+{|class="wikitable" border="1"
+!SWF Name
+!Languages
+|-
+|balloon coffee||[[Media:GamesJetPackAdventureLangENBalloonCoffee.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTBalloonCoffee.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangENBalloonCoffee.swf|French]]<br>[[Media:GamesJetPackAdventureLangENBalloonCoffee.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDEBalloonCoffee.swf|German]]<br>[[Media:GamesJetPackAdventureLangRUBalloonCoffee.swf|Russian]]
+|-
+|bootstrap||[[Media:GamesJetPackAdventureBootstrap.swf|All]]
+|-
+|Cave||[[Media:GamesJetPackAdventureLangENCave.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTCave.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRCave.swf|French]]<br>[[Media:GamesJetPackAdventureLangESCave.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDECave.swf|German]]<br>[[Media:GamesJetPackAdventureLangRUCave.swf|Russian]]
+|-
+|Coffee Shop||[[Media:GamesJetPackAdventureLangFRCoffee.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTCoffee.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRCoffee.swf|French]]<br>[[Media:GamesJetPackAdventureLangESCoffee.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDECoffee.swf|German]]<br>[[Media:GamesJetPackAdventureLangRUCoffee.swf|Russian]]
+|-
+|Gift Shop||[[Media:GamesJetPackAdventureLangENGiftShop.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTGiftShop.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRGiftShop.swf|French]]<br>[[Media:GamesJetPackAdventureLangESGiftShop.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDEGiftShop.swf|German]]<br>[[Media:GamesJetPackAdventureLangRUGiftShop.swf|Russian]]
+|-
+|java||[[Media:GamesJetPackAdventureLangENJava.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTJava.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRJava.swf|French]]<br>[[Media:GamesJetPackAdventureLangESJava.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDEJava.swf|German]]<br>[[Media:GamesJetPackAdventureLangRUJava.swf|Russian]]
+|-
+|land here||[[Media:GamesJetPackAdventureLangENLandHere.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTLandHere.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRLandHere.swf|French]]<br>[[Media:GamesJetPackAdventureLangESLandHere.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDELandHere.swf|German]]<br>[[Media:GamesJetPackAdventureLangRULandHere.swf|Russian]]
+|-
+|land sign||[[Media:GamesJetPackAdventureLangENLandSign.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTLandSign.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRLandSign.swf|French]]<br>[[Media:GamesJetPackAdventureLangESLandSign.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDELandSign.swf|German]]<br>[[Media:GamesJetPackAdventureLangRULandSign.swf|Russian]]
+|-
+|Level 1||[[Media:GamesJetPackAdventureLevel1.swf|All]]
+|-
+|Level 2||[[Media:GamesJetPackAdventureLevel2.swf|All]]
+|-
+|Level 3||[[Media:GamesJetPackAdventureLevel3.swf|All]]
+|-
+|Level 4||[[Media:GamesJetPackAdventureLevel4.swf|All]]
+|-
+|Level 5||[[Media:GamesJetPackAdventureLevel5.swf|All]]
+|-
+|locale||[[Media:GamesJetPackAdventureLangENLocale.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTLocale.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRLocale.swf|French]]<br>[[Media:GamesJetPackAdventureLangESLocale.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDELocale.swf|German]]<br>[[Media:GamesJetPackAdventureLangRULocale.swf|Russian]]
+|-
+|Main||[[Media:GamesJetPackAdventureMain.swf|All]]
+|-
+|music||[[Media:Music110.swf|All]]
+|-
+|Night Club||[[Media:GamesJetPackAdventureLangENNightClub.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTNightClub.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRNightClub.swf|French]]<br>[[Media:GamesJetPackAdventureLangESNightClub.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDENightClub.swf|German]]<br>[[Media:GamesJetPackAdventureLangRUNightClub.swf|Russian]]
+|-
+|Pet Shop||[[Media:GamesJetPackAdventureLangENPetShop.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTPetShop.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRPetShop.swf|French]]<br>[[Media:GamesJetPackAdventureLangESPetShop.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDEPetShop.swf|German]]<br>[[Media:GamesJetPackAdventureLangRUPetShop.swf|Russian]]
+|-
+|Stage||[[Media:GamesJetPackAdventureLangENStage.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTStage.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRStage.swf|French]]<br>[[Media:GamesJetPackAdventureLangESStage.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDEStage.swf|German]]<br>[[Media:GamesJetPackAdventureLangRUStage.swf|Russian]]
+|-
+|title||[[Media:GamesJetPackAdventureLangENTitle.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTTitle.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRTitle.swf|French]]<br>[[Media:GamesJetPackAdventureLangESTitle.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDETitle.swf|German]]<br>[[Media:GamesJetPackAdventureLangRUTitle.swf|Russian]]
+|-
+|wind generator||[[Media:GamesJetPackAdventureLangENWindGenerator.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTWindGenerator.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRWindGenerator.swf|French]]<br>[[Media:GamesJetPackAdventureLangESWindGenerator.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDEWindGenerator.swf|German]]<br>[[Media:GamesJetPackAdventureLangRUWindGenerator.swf|Russian]]
+|-
+|wind generator mirrored||[[Media:GamesJetPackAdventureLangENWindGeneratorMirrored.swf|English]]<br>[[Media:GamesJetPackAdventureLangPTWindGeneratorMirrored.swf|Portuguese]]<br>[[Media:GamesJetPackAdventureLangFRWindGeneratorMirrored.swf|French]]<br>[[Media:GamesJetPackAdventureLangESWindGeneratorMirrored.swf|Spanish]]<br>[[Media:GamesJetPackAdventureLangDEWindGeneratorMirrored.swf|German]]<br>[[Media:GamesJetPackAdventureLangRUWindGeneratorMirrored.swf|Russian]]
+|}
+</center>

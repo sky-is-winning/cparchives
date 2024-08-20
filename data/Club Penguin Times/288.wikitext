@@ -1,0 +1,10 @@
+{{NeedSWFs}}
+Below are SWF files from issue #288 (April 22, 2011) of the Club Penguin Times:
+
+*[[Media:News288AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News288AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News288FeatureStory.swf|Feature Story]]
+*[[Media:News288NewsFlash.swf|News Flash]]
+*[[Media:News288SecretOverlay.swf|Secret Overlay]]
+*[[Media:News288SupportStory.swf|Support Story]]
+*[[Media:News288UpcomingEvents.swf|Upcoming Events]]

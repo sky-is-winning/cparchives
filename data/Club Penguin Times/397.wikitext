@@ -1,0 +1,27 @@
+Below are SWF files from issue #397 (May 30, 2013) of the Club Penguin Times:
+
+<center>
+{|class="wikitable" border="1"
+!Header (front)
+!Feature Story
+!Support Story
+!Upcoming Events
+!News Flash
+!Ask Sensei (front)
+!Header (back)
+!Ask Sensei (back)
+!Jokes and Riddles
+!Secrets
+!Feature More
+|-
+|[[Media:ENNews397HeaderFront.swf|English]]||[[Media:ENNews397FeatureStory.swf|English]]||[[Media:ENNews397SupportStory.swf|English]]||[[Media:ENNews397UpcomingEvents.swf|English]]||[[Media:ENNews397NewsFlash.swf|English]]||[[Media:ENNews397AskAuntArcticFront.swf|English]]||[[Media:ENNews397HeaderBack.swf|English]]||[[Media:ENNews397AskAuntArcticBack.swf|English]]||[[Media:ENNews397JokesAndRiddles.swf|English]]||[[Media:ENNews397Secrets.swf|English]]||[[Media:ENNews397FeatureMore.swf|English]]
+|-
+|[[Media:PTNews397HeaderFront.swf|Português]]||[[Media:PTNews397FeatureStory.swf|Português]]||[[Media:PTNews397SupportStory.swf|Português]]||[[Media:PTNews397UpcomingEvents.swf|Português]]||[[Media:PTNews397NewsFlash.swf|Português]]||[[Media:PTNews397AskAuntArcticFront.swf|Português]]||[[Media:PTNews397HeaderBack.swf|Português]]||[[Media:PTNews397AskAuntArcticBack.swf|Português]]||[[Media:PTNews397JokesAndRiddles.swf|Português]]||[[Media:PTNews397Secrets.swf|Português]]||[[Media:PTNews397FeatureMore.swf|Português]]
+|-
+|[[Media:FRNews397HeaderFront.swf|Français]]||[[Media:FRNews397FeatureStory.swf|Français]]||[[Media:FRNews397SupportStory.swf|Français]]||[[Media:FRNews397UpcomingEvents.swf|Français]]||[[Media:FRNews397NewsFlash.swf|Français]]||[[Media:FRNews397AskAuntArcticFront.swf|Français]]||[[Media:FRNews397HeaderBack.swf|Français]]||[[Media:FRNews397AskAuntArcticBack.swf|Français]]||[[Media:FRNews397JokesAndRiddles.swf|Français]]||[[Media:FRNews397Secrets.swf|Français]]||[[Media:FRNews397FeatureMore.swf|Français]]
+|-
+|[[Media:ESNews397HeaderFront.swf|Español]]||[[Media:ESNews397FeatureStory.swf|Español]]||[[Media:ESNews397SupportStory.swf|Español]]||[[Media:ESNews397UpcomingEvents.swf|Español]]||[[Media:ESNews397NewsFlash.swf|Español]]||[[Media:ESNews397AskAuntArcticFront.swf|Español]]||[[Media:ESNews397HeaderBack.swf|Español]]||[[Media:ESNews397AskAuntArcticBack.swf|Español]]||[[Media:ESNews397JokesAndRiddles.swf|Español]]||[[Media:ESNews397Secrets.swf|Español]]||[[Media:ESNews397FeatureMore.swf|Español]]
+|-
+|[[Media:DENews397HeaderFront.swf|Deutsch]]||[[Media:DENews397FeatureStory.swf|Deutsch]]||[[Media:DENews397SupportStory.swf|Deutsch]]||[[Media:DENews397UpcomingEvents.swf|Deutsch]]||[[Media:DENews397NewsFlash.swf|Deutsch]]||[[Media:DENews397AskAuntArcticFront.swf|Deutsch]]||[[Media:DENews397HeaderBack.swf|Deutsch]]||[[Media:DENews397AskAuntArcticBack.swf|Deutsch]]||[[Media:DENews397JokesAndRiddles.swf|Deutsch]]||[[Media:DENews397Secrets.swf|Deutsch]]||[[Media:DENews397FeatureMore.swf|Deutsch]]
+|}
+</center>

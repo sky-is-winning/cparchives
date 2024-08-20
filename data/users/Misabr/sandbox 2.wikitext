@@ -1,0 +1,9 @@
+[[/Clothing]]
+
+[[/Rooms]]
+
+[[/Redirect]]
+
+[[/Rooms2]]
+
+[[/app]]

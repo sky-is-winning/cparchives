@@ -1,0 +1,8 @@
+<center>
+{| width="50%" align="center" style="background: #045FB4; border: #0B2161 3px solid; {{roundy|20px}}"
+|- align="center"
+| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:CardJitsuCards.PNG|75px|link=]]
+|<span style=color:white><big><big>This is a [[Card-Jitsu|<span style=color:white>Card-Jitsu</span>]] card icon.</big></big><br><small>This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</small></span>
+|}</center>
+<includeonly>[[Category:Card icons]][[Category:Card-Jitsu]][[Category:Card-Jitsu Fire]][[Category:Card-Jitsu Water]]</includeonly>
+<noinclude>[[Category:Templates]]</noinclude>

@@ -1,7 +1,7 @@
 {{Navbox
 
 | name  = Party
-| title = Parties of ''Club Penguin'' <small>([[templates/Events|Click here to see events]])</small>
+| title = Parties of ''Club Penguin'' <small>([[Template:Events|Click here to see events]])</small>
 | group1 = 2005
 | list1  = [[Beta Test Party]]{{·}}[[Halloween Party 2005|Halloween Party]]{{·}}[[Christmas Party 2005|Christmas Party]]
 
@@ -41,3 +41,5 @@
 |group13 = 2017
 |list13 = [[Club Penguin Island Party]]{{·}}[[Waddle On Party]]
 }}
+<includeonly>[[Category:Parties & Events]]</includeonly>
+<noinclude>[[Category:Templates]]</noinclude>

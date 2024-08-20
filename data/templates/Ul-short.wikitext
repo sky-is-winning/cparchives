@@ -1,0 +1,7 @@
+<span class="plainlinks">[[User:{{{1|User}}}|{{{1|User}}}]] <small>([[User talk:{{{1|User}}}|talk]] | [[Special:Contributions/{{{1|User}}}|contribs]] | [[Special:Log/{{{1|User}}}|logs]])</small></span><noinclude>
+== Usage ==
+<pre>{{Ul-short|Username}}</pre>
+== Example ==
+{{Ul-short|Seahorseruler}}
+</noinclude>
+<noinclude>[[Category:Templates]]</noinclude>

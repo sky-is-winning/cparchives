@@ -1,0 +1,8 @@
+{| border=0 cellpadding=3 cellspacing=3 style="border: 8px solid #00AAFO; background-color: skyblue"
+|- 
+| [[File:Disambiguation.png|80px|link=]]
+| style="font-size: 90%" | The following page is a '''Disambiguation''' Page. It shows links to other articles that are related to the one you are viewing. They may have similar names or be about the same subject. Find the one you wanted on this page. Do '''NOT''' mark this article as a stub.
+|}
+
+<includeonly>[[Category:Disambiguation Pages]]</includeonly>
+<noinclude>[[Category:Templates|{{PAGENAME}}]]</noinclude>

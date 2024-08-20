@@ -1,4 +1,4 @@
-
+{{CPW|Dock}}
 
 ==Normal==
 <center>
@@ -30,37 +30,37 @@
 |-
 |[[Media:ArtworkRoomsDock3.swf|Server Testing 2005]]||{{n/a}}||2005
 |-
-|[/swf.cpcheats.info/rooms/2008/st._patricks_day_08/0314dock43.swf The St. Patricks Day]||{{n/a}}||2008
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/st._patricks_day_08/0314dock43.swf The St. Patricks Day]||{{n/a}}||2008
 |-
-|[/swf.cpcheats.info/rooms/2008/april_fools_08/0328dock43.swf The April Fools Day Party]||{{n/a}}||2008
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/april_fools_08/0328dock43.swf The April Fools Day Party]||{{n/a}}||2008
 |-
-|[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/party/dock43.swf The Submarine Party]||{{n/a}}||2008
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/party/dock43.swf The Submarine Party]||{{n/a}}||2008
 |-
-|[/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/party_after_rebuild/0425dock50.swf The Pirate Party]||{{n/a}}||2008
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/rockhopper_crash_full_files/party_after_rebuild/0425dock50.swf The Pirate Party]||{{n/a}}||2008
 |-
-|[/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220dock.swf The Puffle Party]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/puffle_party_febuary_2009/0220dock.swf The Puffle Party]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/stpatricksparty2009/dock.swf The St. Patricks Day Party]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/stpatricksparty2009/dock.swf The St. Patricks Day Party]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/medieval_party_2009/dock.swf The Medieval Party 2009]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/medieval_party_2009/dock.swf The Medieval Party 2009]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/adventure_party_june_2009/rooms_before_party/dock.swf Before The Adventure Party 2009]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/adventure_party_june_2009/rooms_before_party/dock.swf Before The Adventure Party 2009]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/adventure_party_june_2009/dock.swf The Adventure Party 2009]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/adventure_party_june_2009/dock.swf The Adventure Party 2009]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/music_jam_july_2009/construction/dock.swf Before The Music Jam 2009]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/construction/dock.swf Before The Music Jam 2009]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/music_jam_july_2009/dock.swf The Music Jam 2009]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/music_jam_july_2009/dock.swf The Music Jam 2009]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/festival_of_flight_august_2009/rooms_before_party/dock.swf Before The Festival Of Fight 2009]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/festival_of_flight_august_2009/rooms_before_party/dock.swf Before The Festival Of Fight 2009]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/the_fair_september_2009/dock.swf The Fair Fall 2009]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/the_fair_september_2009/dock.swf The Fair Fall 2009]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/senseis_scavenger_hunt_september_2009/dock.swf Sensei's Scavenger Hunt 2009]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/senseis_scavenger_hunt_september_2009/dock.swf Sensei's Scavenger Hunt 2009]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/halloween_october_2009/dock.swf The Halloween Party]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/halloween_october_2009/dock.swf The Halloween Party]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/dock.swf The Christmas Party]||{{n/a}}||2009
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/christmas_december_2009/main_party/rooms/dock.swf The Christmas Party]||{{n/a}}||2009
 |-
 |[[Media:WinterFiesta2009Dock.swf|Winter Fiesta]]||{{n/a}}||2009
 |-
@@ -70,9 +70,9 @@
 |-
 |[[Media:FestivalOfFlightDock.swf|Festival of Flight]]||{{n/a}}||2009
 |-
-|[/swf.cpcheats.info/rooms/2010/puffle_party_febuary/dock.swf The Puffle Party]||{{n/a}}||2010
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/puffle_party_febuary/dock.swf The Puffle Party]||{{n/a}}||2010
 |-
-|[/swf.cpcheats.info/rooms/2010/april_fools_party_april/dock.swf Aprils Fools Party]||{{n/a}}||2010
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/april_fools_party_april/dock.swf Aprils Fools Party]||{{n/a}}||2010
 |-
 |[[Media:RoomsDock-MusicJam2010.swf|Music Jam]]||{{n/a}}||2010
 |-

@@ -1,0 +1,9 @@
+<center>
+{| width="50%" align="center" style="background: #2E64FE; border: darkblue 3px solid; {{roundy|20px}}"
+|- align="center"
+| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:OldBlue.PNG|50px|link=]]
+|<big><big><span style="color: ;">This file is a color.</span></big></big><br><small><span style="color: ;">This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</span></small>
+|}</center>
+
+<includeonly>[[Category:Colors]]</includeonly>
+<noinclude>[[Category:Templates]]</noinclude>

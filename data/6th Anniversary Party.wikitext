@@ -1,0 +1,16 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:6th Anniversary Party|6th Anniversary Party]]''
+
+==Rooms==
+*[[Media:6thAnniversaryPartyBook.swf|Book Room]]
+*[[Media:6thAnniversaryPartyCoffee.swf|Coffee Shop]]
+*[[Media:RoomsTown-6thAnniversaryParty.swf|Town]]
+
+==Music==
+*[[Media:Music251.swf|Town]]
+*[[Media:Music252.swf|Coffee Shop and Book Room]]
+
+==Login Screen==
+*[[Media:6AnniversaryPStartBillboards.swf|Login Screen #1]]
+{{Parties}}
+
+[[Category:Parties of 2011]]

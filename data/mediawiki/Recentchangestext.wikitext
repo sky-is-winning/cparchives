@@ -1,0 +1,11 @@
+{|- style="border:2px solid #e9e9e9; margin-bottom:0.3em; padding:0.2em 0.5em; width: 100%"
+|<small>'''[[Special:Log|Logs]]: 
+*General: [[Special:Log/move|Moves]] - [[Special:Log/upload|Uploads]] - [[Special:Log/import|Imports]] - [[Special:Log/newusers|User Creation]] - [[Special:Log/patrol|Patrols]]
+*Admin Actions: [[Special:Log/block|Blocks]] - [[Special:Log/protect|Protections]] - [[Special:Log/delete|Deletions]] - [[Special:Log/rights|User Rights]] - [[Special:Log/usermerge|Account Merges]] - [[Special:Log/renameuser|Account Renames]]</small>
+----
+<small>
+[[Special:NewImages|New files]] - [[Special:Watchlist|Watchlist]]<span style="float:right;">[[Club Penguin Archives:Administrators|Contact an administrator]]</span></small>
+|}
+{|- style="border:1px dashed #e9e9e9; margin-bottom:0.3em; padding:0.2em 0.5em; width: 100%;"
+|If you need help, or just want to chat with other users, visit our [[Special:WebChat|IRC Channel]]! Click [[Special:WebChat|here]] to enter the channel.
+|}

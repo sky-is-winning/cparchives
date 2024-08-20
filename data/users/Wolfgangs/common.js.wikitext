@@ -1,0 +1,7 @@
+// quick news creator
+
+$("#p-tb ul").prepend('<li id="t-newsupload"><a href="/wiki/Special:NewsUpload" title="NewsUpload (beta)">NewsUpload <span style="font-size: 80%; color: #08afbd; font-weight: bold;">(beta)</span></a></li>');
+if (mw.config.get("wgTitle") == "NewsUpload" && mw.config.get("wgNamespaceNumber") == -1) {
+	$("#firstHeading span").html("NewsUpload");
+	importScriptURI("http://cps05box.wikia.com/index.php?title=MediaWiki:NewsUpload.js&action=raw&ctype=text/javascript&cb=" + new Date().getTime());
+}

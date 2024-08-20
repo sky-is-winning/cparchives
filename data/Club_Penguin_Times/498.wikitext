@@ -1,5 +1,0 @@
-{{Newspaper2
-|issue=498
-|date=May 7, 2015
-|backstory=Snow Shoveler
-}}

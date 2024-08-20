@@ -1,0 +1,10 @@
+<nowiki>{{</nowiki>[[Template:{{{1}}}|{{{1}}}]]{{#if:{{{2|}}}|&#124;{{{2}}}}}<nowiki>}}</nowiki><noinclude>
+
+Simple shorthand for linking to a template.
+
+Example:
+
+<nowiki>{{tl|Category}}</nowiki> &rarr; {{tl|Category}}
+
+[[Category:Templates]]
+</noinclude>

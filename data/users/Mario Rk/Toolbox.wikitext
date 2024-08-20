@@ -1,0 +1,37 @@
+This is Mario's toolbox!
+
+==Links==
+*[[Special:Random/File]]
+*[http://archives.clubpenguinwiki.info/swf.cpcheats.info/ cpcheats.info Mirror]
+
+==JSON==
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/game_strings.json Game Strings]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/games.json  Games]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/safe_chat_messages.json Safe Chat messages]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/general.json General]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/mascot_messages.json Mascot message]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/penguin_action_frames.json Action frames]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/postcards.json Postcards]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/newspapers.json Newspaper]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/cards.json Card-Jitsu]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/player_colors.json Player Colors]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/stage_script_messages.json Stage script]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/stamps.json Stamps]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/igloos.json Igloos]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/igloo_locations.json Igloo Locations]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/igloo_floors.json Igloo floor]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/jokes.json Jokes]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/tour_guide_messages.json Tour Guide Messages]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/rooms.json Rooms]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/puffles.json Puffles]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/paper_items.json Clothing]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/puffle_items.json Puffle items]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/furniture_items.json Furniture]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/paths.json Paths]
+*[http://media1.clubpenguin.com/play/en/web_service/game_configs/mascots.json Mascots]
+*[http://media1.clubpenguin.com/play/v2/client/map_triggers.json Map trigger]
+*[http://media1.clubpenguin.com/play/v2/client/dependencies.json Dependencies]
+
+==Other==
+*http://media1.friends.go.com/images/CP/character_1_88.png
+*http://media1.friends.go.com/images/CP/character_1_88Off.png

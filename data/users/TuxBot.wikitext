@@ -1,0 +1,7 @@
+This is a bot operated by [[User:Tux|Tux]]. It uses pywikibot and automatic tasks written using node.js.
+
+== Tasks ==
+
+* Automatically uploads SWFs and creates pages for the ''[[Club Penguin Times]]''.
+** Checked once an hour, but in practice the ''Times'' only releases each Wednesday.
+* Categorization: Sometimes performed.

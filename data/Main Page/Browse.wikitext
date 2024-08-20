@@ -1,0 +1,52 @@
+<div class="mainpage-explore-links">
+<div class="mainpage-explore-links-link">
+[[File:PenguinStyle.svg|60x60px|center|link=Catalogs]]
+[[Catalogs]]
+</div>
+<div class="mainpage-explore-links-link">
+[[File:Map-MyIgloo.svg|60x60px|center|link=Igloo|Igloos]]
+[[Igloo|Igloos]]
+</div>
+<div class="mainpage-explore-links-link">
+[[File:Items.png|60x60px|center|link=Items]]
+[[Items]]
+</div>
+<div class="mainpage-explore-links-link">
+[[File:JoystickEmote.PNG|60x60px|center|link=Mini-Games]]
+[[Mini-Games]]
+</div>
+<div class="mainpage-explore-links-link">
+[[File:Map.PNG|60x60px|center|link=Rooms]]
+[[Rooms]]
+</div>
+
+<div class="mainpage-explore-links-link">
+[[File:Sitenotice.png|60x60px|center|link=Club Penguin Times|Newspapers]]
+[[Club Penguin Times|Newspapers]]
+</div>
+</div>
+<div class="mainpage-explore-links">
+<div class="mainpage-explore-links-link">
+[[File:Parties.png|60x60px|center|link=Parties & Events]]
+[[Parties & Events]]
+</div>
+<div class="mainpage-explore-links-link">
+[[File:MailIcon.PNG|60x60px|center|link=Postcards]]
+[[Postcards]]
+</div>
+<div class="mainpage-explore-links-link">
+[[File:SpeakerPin.PNG|60x60px|center|link=Music]]
+[[Music|Music]]
+</div>
+<div class="mainpage-explore-links-link">
+[[File:Stamp.png|60x60px|center|link=Stamps]]
+[[Stamps]]
+</div>
+<div class="mainpage-explore-links-link">
+[[File:Map-Lighthouse.png|60x60px|center|link=Website]]
+[[Website]]
+</div>
+<div class="mainpage-explore-links-link">
+[[File:Other.png|60x60px|center|link=Other]]
+[[Other]]
+</div>

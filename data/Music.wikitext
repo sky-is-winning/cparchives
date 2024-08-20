@@ -1,5 +1,5 @@
 {{Construction}}
-
+''Club Penguin Wiki articles: [[clubpenguinwiki:Music|Music]], [[clubpenguinwiki:Party Music|Party Music]] & [[clubpenguinwiki:List of Club Penguin Music|List of Club Penguin Music]]
 
 {|class="wikitable" style="margin: 1em auto; font-size:9pt;" 
 !colspan="2" style="center"|Legend
@@ -96,7 +96,7 @@
 |-
 |{{Tablebox|white}}[[Media:Music33.swf|33]]||{{M|33}}||Team Power
 |-
-|{{Tablebox|white|rowspan=2}} rowspan=2|[[Media:Music34.swf|34]]||rowspan=2|{{M|34}}||Egyptian Wrap
+|rowspan=2 {{Tablebox|white}}rowspan=2|[[Media:Music34.swf|34]]||rowspan=2|{{M|34}}||Egyptian Wrap
 |-
 |Quest for the Golden Puffle
 |-
@@ -264,7 +264,7 @@
 |-
 |{{Tablebox|white}}[[Media:Music216.swf|216]]||{{M|216}}||Summer Song
 |-
-|{{Tablebox|white|rowspan=2}}rowspan=2|[[Media:Music217.swf|217]]||rowspan=2|{{M|217}}||Water Kongo
+|rowspan=2 {{Tablebox|white}}rowspan=2|[[Media:Music217.swf|217]]||rowspan=2|{{M|217}}||Water Kongo
 |-
 |Water Party
 |-
@@ -324,7 +324,7 @@
 |-
 |{{Tablebox|white}}[[Media:Music235.swf|235]]||{{M|235}}||In the Tower
 |-
-|{{Tablebox|white|rowspan=2 }}rowspan=2|[[Media:Music236.swf|236]]||rowspan=2|{{M|236}}||Epic Battle
+|rowspan=2 {{Tablebox|white}}rowspan=2|[[Media:Music236.swf|236]]||rowspan=2|{{M|236}}||Epic Battle
 |-
 |To Battle!
 |-
@@ -338,7 +338,7 @@
 |-
 |{{Tablebox|lightblue}}[[Media:Music241 2.swf|241]]
 |-
-|{{Tablebox|white|rowspan=2}}rowspan=2|[[Media:Music242.swf|242]]||rowspan=2|{{M|242}}||Mix Maestro
+|rowspan=2 {{Tablebox|white}}rowspan=2|[[Media:Music242.swf|242]]||rowspan=2|{{M|242}}||Mix Maestro
 |-
 |DJ3K Mix
 |-

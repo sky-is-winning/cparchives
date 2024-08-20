@@ -1,0 +1,26 @@
+{{CPW|Puffle Berry Mall|Shopping de Puffitos Silvestres}}
+
+== Normal ==
+<center>
+{|class="wikitable"
+!SWF!!Year!!Music
+|-
+|[[Media:RoomsMall.swf|Puffle Berry Mall]]||2015||[[Media:Music749.swf|749]]
+|}
+</center>
+
+== Events ==
+<center>
+{|class="wikitable"
+!SWF!!Year!!Music
+|-
+|[[Media:RoomsStage-School&SkateParty.swf|School & Skate Party]]<ref name="Stage">Even though these are still technically [[the Stage]] room, they are listed here, because they are the first appearances of the mall</ref>||2014||[[Media:Music749.swf|749]]
+|-
+|[[Media:RoomsStage-MerryWalrusParty2014.swf|Merry Walrus Party]]<ref name="Stage" />||2014||[[Media:Music819.swf|819]]
+|}
+</center>
+
+== References ==
+<references></references>
+
+{{Places}}

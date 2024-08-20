@@ -1,0 +1,77 @@
+==English: Treasure Book==
+
+''Club Penguin Wiki article: [[clubpenguinwiki:Treasure Book|Treasure Book]]''
+
+<center>
+{|class="wikitable" border="1"
+!colspan="7"|Version
+|-
+|[[Media:Unlock catalog.swf|Series 1]]
+|[[Media:Book02.swf|Series 2]]
+|[[Media:Book03.swf|Series 3]]
+|[[Media:TreasureBook4.swf|Series 4]]
+|[[Media:TreasureBook5.swf|Series 5]]
+|[[Media:TreasureBook6.swf|Series 6]]
+|[[Media:TreasureBook7.swf|Series 7]]
+|-
+|[[Media:TreasureBook8.swf|Series 8]]
+|[[Media:TreasureBook9.swf|Series 9]]
+|[[Media:TreasureBook10.swf|Series 10]]
+|[[Media:TreasureBook11.swf|Series 11]]
+|[[Media:TreasureBook12.swf|Series 12]]
+|[[Media:TreasureBook13.swf|Series 13]]
+|{{n/a|Series 14}}
+|-
+|{{n/a|Series 15}}
+|[[Media:TreasureBook16.swf|Series 16]]
+|[[Media:TreasureBook17.swf|Series 17]]
+|[[Media:TreasureBook18.swf|Series 18]]
+|[[Media:TreasureBook19.swf|Series 19]]
+|[[Media:TreasureBook20.swf|Series 20]]
+|[[Media:TreasureBook21.swf|Series 21]]
+|}
+</center>
+
+==Português (Portuguese)==
+
+{{OnlyPT}}
+
+<center>
+{|class="wikitable" border="1"
+!Version
+|-
+|}
+</center>
+
+==Español (Spanish)==
+
+{{OnlyES}}
+
+<center>
+{|class="wikitable" border="1"
+!Version
+|-
+|}
+</center>
+
+==Français (French)==
+
+{{OnlyFR}}
+
+<center>
+{|class="wikitable" border="1"
+!Version
+|-
+|}
+</center>
+
+==Deutsch (German)==
+
+{{OnlyDE}}
+
+<center>
+{|class="wikitable" border="1"
+!Version
+|-
+|}
+</center>

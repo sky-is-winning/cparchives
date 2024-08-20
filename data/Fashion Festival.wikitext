@@ -1,0 +1,161 @@
+{{CPW|Fashion Festival|Festival de Moda}}
+__TOC__
+''Note: Due to some files being updated after bug fixes, there are some alternate versions.''
+==Rooms==
+===Party===
+<center>
+{|class="wikitable"
+!Room!!Music
+|-
+|[[Media:RoomsDock-FashionFestival.swf|Dock]] ([[Media:RoomsDock-FashionFestival 2.swf|alternate]]) ([[Media:RoomsDock-FashionFestival 3.swf|winners]])||[[Media:Music946.swf|946]]
+|-
+|[[Media:RoomsParty1-FashionFestival.swf|Epic Wave]]||[[Media:Music948.swf|948]]
+|-
+|[[Media:RoomsForest-FashionFestival.swf|Forest]] ([[Media:RoomsForest-FashionFestival 2.swf|alternate]]) ([[Media:RoomsForest-FashionFestival 3.swf|winners]])||[[Media:Music945.swf|945]]
+|-
+|[[Media:RoomsPlaza-FashionFestival.swf|Plaza]]||[[Media:Music947.swf|947]]
+|-
+|[[Media:RoomsForts-FashionFestival.swf|Snow Forts]] ([[Media:RoomsForts-FashionFestival 2.swf|alternate]]) ([[Media:RoomsForts-FashionFestival 3.swf|winners]])||[[Media:Music949.swf|949]]
+|-
+|[[Media:RoomsRink-FashionFestival.swf|Stadium]]||[[Media:Music941.swf|941]]
+|-
+|[[Media:RoomsTown-FashionFestival.swf|Town]]||[[Media:Music947.swf|947]]
+|}
+</center>
+
+===Regular===
+<center>
+{|class="wikitable"
+!Room!!Music
+|-
+|[[Media:RoomsBeach-TheFair2015.swf|Beach]]||[[Media:Music582.swf|582]]
+|-
+|[[Media:RoomsBeacon-TheFair2015.swf|Beacon]]||[[Media:Music583.swf|583]]
+|-
+|[[Media:RoomsBook-TheFair2015.swf|Book Room]]||[[Media:Music669.swf|669]]
+|-
+|[[Media:RoomsShop-FashionFestival.swf|Clothes Shop]]||[[Media:Music943.swf|943]]
+|-
+|[[Media:RoomsCloudforest-TheFair2015.swf|Cloud Forest]]||[[Media:Music363.swf|363]]
+|-
+|[[Media:RoomsCoffee-TheFair2015.swf|Coffee Shop]]||[[Media:Music944.swf|944]]
+|-
+|[[Media:RoomsCove-TheFair2015.swf|Cove]]||[[Media:Music579.swf|579]]
+|-
+|[[Media:RoomsDojo-TheFair2015.swf|Dojo]]||[[Media:Music403.swf|403]]
+|-
+|[[Media:RoomsDojoext-TheFair2015.swf|Dojo Courtyard]]||[[Media:Music404.swf|404]]
+|-
+|[[Media:TheFair2014EverydayPhoningFacility.swf|Everyday Phoning Facility]]||[[Media:Music922.swf|922]]
+|-
+|[[Media:RoomsDojofire-TheFair2015.swf|Fire Dojo]]||[[Media:Music405.swf|405]]
+|-
+|[[Media:RoomsBerg-TheFair2015.swf|Iceberg]]||[[Media:Music584.swf|584]]
+|-
+|[[Media:RoomsLight-TheFair2015.swf|Lighthouse]]||[[Media:Music588.swf|588]]
+|-
+|[[Media:RoomsAttic-TheFair2015.swf|Lodge Attic]]||[[Media:Music884.swf|884]]
+|-
+|[[Media:RoomsShack-TheFair2015.swf|Mine Shack]]||[[Media:Music580.swf|580]]
+|-
+|[[Media:RoomsPet-TheFair2015.swf|Pet Shop]]||[[Media:Music659.swf|659]]
+|-
+|[[Media:RoomsPizza-TheFair2015.swf|Pizza Parlor]]||[[Media:Music676.swf|676]]
+|-
+|[[Media:RoomsHotellobby-TheFair2015.swf|Puffle Hotel Lobby]]||[[Media:Music362.swf|362]]
+|-
+|[[Media:RoomsHotelroof-TheFair2015.swf|Puffle Hotel Roof]]||[[Media:Music360.swf|360]]
+|-
+|[[Media:RoomsHotelspa-TheFair2015.swf|Puffle Hotel Spa]]||[[Media:Music361.swf|361]]
+|-
+|[[Media:RoomsPark-TheFair2015.swf|Puffle Park]]||[[Media:Music658.swf|658]]
+|-
+|[[Media:RoomsPufflewild-TheFair2015.swf|Puffle Wild]]||[[Media:Music897.swf|897]]
+|-
+|[[Media:RoomsSchool-TheFair2015.swf|School]]||[[Media:Music436.swf|436]]
+|-
+|[[Media:RoomsSkatepark-TheFair2015.swf|Skatepark]]||[[Media:Music754.swf|754]]
+|-
+|[[Media:RoomsMtn-TheFair2015.swf|Ski Hill]]||[[Media:Music590.swf|590]]
+|-
+|[[Media:RoomsLodge-TheFair2015.swf|Ski Lodge]]||[[Media:Music589.swf|589]]
+|-
+|[[Media:RoomsVillage-FashionFestival.swf|Ski Village]]||[[Media:Music591.swf|591]]
+|-
+|[[Media:RoomsDojosnow-TheFair2015.swf|Snow Dojo]]||[[Media:Music407.swf|407]]
+|}
+</center>
+
+==Client==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:ClientInterface-FashionFestival.swf|Interface]] ([[Media:ClientInterface-FashionFestival 2.swf|alternate 1]]) ([[Media:ClientInterface-FashionFestival 3.swf|alternate 2]])
+|}
+</center>
+
+==Close Ups==
+===Pre-Party===
+<center>
+{|class="wikitable"
+!SWF (Global)
+|-
+|[[Media:Close upsCharacter dialogue login-FashionFestivalPre.swf|Character dialogue login]]
+|}
+</center>
+
+===Party===
+<center>
+{|class="wikitable"
+!SWF (Global)
+|-
+|[[Media:Close upsCharacter dialogue login-FashionFestival.swf|Character dialogue login]]
+|-
+|[[Media:Close upsCharacter dialogue login winners-FashionFestival.swf|Character dialogue login winners]] ([[Media:Close upsCharacter dialogue login winners-FashionFestival 2.swf|alternate]])
+|-
+|[[Media:Close upsCharacter dialogue submit-FashionFestival.swf|Character dialogue submit]] ([[Media:Close upsCharacter dialogue submit-FashionFestival 2.swf|alternate]])
+|-
+|[[Media:Close upsMy submissions interface-FashionFestival.swf|My submissions interface]] ([[Media:Close upsMy submissions interface-FashionFestival 2.swf|alternate]])
+|-
+|[[Media:Close upsQuest interface-FashionFestival.swf|Quest interface]]
+|-
+|[[Media:Close upsSubmit contest-FashionFestival.swf|Submit contest]]
+|-
+|[[Media:Close upsSubmitfail duplicate-FashionFestival.swf|Submit fail duplicate]] ([[Media:Close upsSubmitfail duplicate-FashionFestival 2.swf|alternate]])
+|-
+|[[Media:Close upsSubmitfail error-FashionFestival.swf|Submit fail error]]
+|-
+|[[Media:Close upsSubmitfail noclothes-FashionFestival.swf|Submit fail no clothes]] ([[Media:Close upsSubmitfail noclothes-FashionFestival 2.swf|alternate]])
+|-
+|[[Media:Close upsSubmitfail notickets-FashionFestival.swf|Submit fail no tickets]]
+|-
+|[[Media:Close upsVoting interface-FashionFestival.swf|Voting interface]] ([[Media:Close upsVoting interface-FashionFestival 2.swf|alternate]])
+|}
+</center>
+
+==Content==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:ContentLogo-FashionFestival.swf|Logo]]
+|-
+|[[Media:ContentParty icon-FashionFestival.swf|Party icon]]
+|}
+</center>
+
+==Other==
+<center>
+{|class="wikitable"
+!SWF
+|-
+|[[Media:Telescope-FashionFestival.swf|Beacon Telescope]]
+|-
+|[[Media:Binoculars-FashionFestival.swf|Cove Binoculars]]
+|}
+</center>
+
+{{Parties}}
+
+[[Category:Parties of 2015]]

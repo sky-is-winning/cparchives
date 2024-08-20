@@ -1,0 +1,27 @@
+Below are SWF files from issue #405 (July 25, 2013) of the Club Penguin Times:
+
+<center>
+{|class="wikitable" border="1"
+!Header (front)
+!Feature Story
+!Support Story
+!Upcoming Events
+!News Flash
+!Ask Obi-Wan Sensei (front)
+!Header (back)
+!Ask Obi-Wan Sensei (back)
+!Jokes and Riddles
+!Secrets
+!Feature More
+|-
+|[[Media:ENNews405HeaderFront.swf|English]]||[[Media:ENNews405FeatureStory.swf|English]]||[[Media:ENNews405SupportStory.swf|English]]||[[Media:ENNews405UpcomingEvents.swf|English]]||[[Media:ENNews405NewsFlash.swf|English]]||[[Media:ENNews405AskAuntArcticFront.swf|English]]||[[Media:ENNews405HeaderBack.swf|English]]||[[Media:ENNews405AskAuntArcticBack.swf|English]]||[[Media:ENNews405JokesAndRiddles.swf|English]]||[[Media:ENNews405Secrets.swf|English]]||[[Media:ENNews405FeatureMore.swf|English]]
+|-
+|[[Media:PTNews405HeaderFront.swf|Português]]||[[Media:PTNews405FeatureStory.swf|Português]]||[[Media:PTNews405SupportStory.swf|Português]]||[[Media:PTNews405UpcomingEvents.swf|Português]]||[[Media:PTNews405NewsFlash.swf|Português]]||[[Media:PTNews405AskAuntArcticFront.swf|Português]]||[[Media:PTNews405HeaderBack.swf|Português]]||[[Media:PTNews405AskAuntArcticBack.swf|Português]]||[[Media:PTNews405JokesAndRiddles.swf|Português]]||[[Media:PTNews405Secrets.swf|Português]]||[[Media:PTNews405FeatureMore.swf|Português]]
+|-
+|[[Media:FRNews405HeaderFront.swf|Français]]||[[Media:FRNews405FeatureStory.swf|Français]]||[[Media:FRNews405SupportStory.swf|Français]]||[[Media:FRNews405UpcomingEvents.swf|Français]]||[[Media:FRNews405NewsFlash.swf|Français]]||[[Media:FRNews405AskAuntArcticFront.swf|Français]]||[[Media:FRNews405HeaderBack.swf|Français]]||[[Media:FRNews405AskAuntArcticBack.swf|Français]]||[[Media:FRNews405JokesAndRiddles.swf|Français]]||[[Media:FRNews405Secrets.swf|Français]]||[[Media:FRNews405FeatureMore.swf|Français]]
+|-
+|[[Media:ESNews405HeaderFront.swf|Español]]||[[Media:ESNews405FeatureStory.swf|Español]]||[[Media:ESNews405SupportStory.swf|Español]]||[[Media:ESNews405UpcomingEvents.swf|Español]]||[[Media:ESNews405NewsFlash.swf|Español]]||[[Media:ESNews405AskAuntArcticFront.swf|Español]]||[[Media:ESNews405HeaderBack.swf|Español]]||[[Media:ESNews405AskAuntArcticBack.swf|Español]]||[[Media:ESNews405JokesAndRiddles.swf|Español]]||[[Media:ESNews405Secrets.swf|Español]]||[[Media:ESNews405FeatureMore.swf|Español]]
+|-
+|[[Media:DENews405HeaderFront.swf|Deutsch]]||[[Media:DENews405FeatureStory.swf|Deutsch]]||[[Media:DENews405SupportStory.swf|Deutsch]]||[[Media:DENews405UpcomingEvents.swf|Deutsch]]||[[Media:DENews405NewsFlash.swf|Deutsch]]||[[Media:DENews405AskAuntArcticFront.swf|Deutsch]]||[[Media:DENews405HeaderBack.swf|Deutsch]]||[[Media:DENews405AskAuntArcticBack.swf|Deutsch]]||[[Media:DENews405JokesAndRiddles.swf|Deutsch]]||[[Media:DENews405Secrets.swf|Deutsch]]||[[Media:DENews405FeatureMore.swf|Deutsch]]
+|}
+</center>

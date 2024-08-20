@@ -1,0 +1,25 @@
+{{CPW|St. Patrick's Day Party 2008|St. Patrick's Day Party 2008}}
+
+==Rooms==
+{|class="wikitable" style="margin: 1em auto;"
+!Room!!Music
+|-
+|[[Media:ArtworkRooms0314Coffee42.swf|Coffee Shop]]||[[Media:Music208.swf|208]]
+|-
+|[[Media:ArtworkRooms0314Dock43.swf|Dock]]||[[Media:Music208.swf|208]]
+|-
+|[[Media:ArtworkRooms0314Forest42.swf|Forest]]||[[Media:Music208.swf|208]]
+|-
+|[[Media:ArtworkRooms0314Dance43.swf|Night Club]]||[[Media:Music208.swf|208]]
+|-
+|[[Media:ArtworkRooms0314Plaza47.swf|Plaza]]||[[Media:Music208.swf|208]]
+|-
+|[[Media:ArtworkRooms0314Village43.swf|Ski Village]]||[[Media:Music208.swf|208]]
+|-
+|[[Media:ArtworkRooms0314Forts41.swf|Snow Forts]]||[[Media:Music208.swf|208]]
+|-
+|[[Media:ArtworkRooms0314Town40.swf|Town]]||[[Media:Music208.swf|208]]
+|}
+
+{{Parties}}
+[[Category:Parties of 2008]]

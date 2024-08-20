@@ -1,0 +1,12 @@
+'''Featured SWF:'''
+----
+''This Month's featured SWF is the original homepage video. To see past featured SWFs, go [[Project:Featured SWF|here]].''
+
+
+<div class="toccolours mw-collapsible mw-collapsed">
+<big>Expand to see the Featured SWF</big>
+<div class="mw-collapsible-content">
+<center>
+{{#Widget:Featured}}
+</center>
+</div></div>

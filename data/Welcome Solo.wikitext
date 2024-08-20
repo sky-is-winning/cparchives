@@ -1,0 +1,15 @@
+''Club Penguin Wiki article: [[www:Welcome Solo|Welcome Solo]]''
+
+==Normal==
+{|class="wikitable" border="1" style="margin: auto;" 
+!SWF!!Timeline!!Music
+|-
+|[[Media:RoomsWelcomesolo.swf|welcomesolo]]||2012||{{n/a|?}}
+|-
+|[[Media:RoomsWelcomesolo-June2015.swf|welcomesolo]]||June 2015<ref>While Welcome Solo was retired by November 2013, the room file was updated anyway.</ref>||{{n/a}}
+|}
+
+==Notes==
+<references></references>
+
+{{Places}}

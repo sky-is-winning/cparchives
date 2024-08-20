@@ -1,0 +1,12 @@
+Below are SWF files from issue #308 (September 15, 2011) of the Club Penguin Times:
+*[[Media:News308HeaderFront.swf|Header (front)]]
+*[[Media:News308FeatureStory.swf|Feature Story]]
+*[[Media:News308SupportStory.swf|Support Story]]
+*[[Media:News308UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News308NewsFlash.swf|News Flash]]
+*[[Media:News308AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News308HeaderBack.swf|Header (back)]]
+*[[Media:News308AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News308JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News308SecretOverlay.swf|Secret Overlay]]
+*[[Media:News308FeatureMore.swf|Feature More]]

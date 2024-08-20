@@ -1,0 +1,40 @@
+''Club Penguin Wiki article: [[clubpenguinwiki:Card-Jitsu Party 2011|Card-Jitsu Party 2011]]''
+
+==Rooms==
+===Construction===
+*[[Media:Card-JitsuPartyConsPlaza.swf|Plaza]]
+*[[Media:Card-JitsuPartyConsRink.swf|Stadium]]
+*[[Media:RoomsTown-CardJitsuPartyPre.swf|Town]]
+
+===Party===
+*[[Media:Card-JitsuPartyBeach.swf|Beach]]
+*[[Media:Card-JitsuPartyCoffee.swf|Coffee Shop]]
+*[[Media:Card-JitsuPartyCove.swf|Cove]]
+*[[Media:Card-JitsuPartyLounge.swf|Dance Lounge]]
+*[[Media:Card-JitsuPartyDock.swf|Dock]]
+*[[Media:Card-JitsuPartyForest.swf|Forest]]
+*[[Media:Card-JitsuPartyDance.swf|Night Club]]
+*[[Media:Card-JitsuPartyParty1.swf|Ninja Headquarters]]
+*[[Media:Card-JitsuPartyPizza.swf|Pizza Parlor]]
+*[[Media:Card-JitsuPartyPlaza.swf|Plaza]]
+*[[Media:Card-JitsuPartyForts.swf|Snow Forts]]
+*[[Media:Card-JitsuPartyRink.swf|Stadium]]
+*[[Media:11242011Stage.swf|Stage]]
+*[[Media:RoomsTown-CardJitsuParty.swf|Town]]
+
+==Music==
+*[[Media:Music313.swf|Outdoors]]
+*[[Media:Music314.swf|Indoors]]
+*[[Media:Music116.swf|Stadium]]
+
+==Login Screen==
+*[[Media:StartBillboardsCardJitsuPartyPre.swf|Login Screen- before the party]]
+*[[Media:CardJitsuPartyPreStartBillboards.swf|Login Screen #1]]
+*[[Media:BillboardsCard-jitsu-party.swf|Login Screen #2]]
+
+==Notes==
+*[[Media:Card-JitsuPartyCardjitsu duringparty.swf|Card-Jitsu Note]]
+*[[Media:Card-JitsuPartyParty map note.swf|Map Note]]
+{{Parties}}
+
+[[Category:Parties of 2011]]

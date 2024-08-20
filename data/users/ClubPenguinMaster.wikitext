@@ -1,0 +1,9 @@
+{| style="background:white;padding:.5em; width:100%;-moz-border-radius:10px;border-width:10px; outline:black dotted thick;; border-color:black; margin:0px;"
+|-
+| <div style="background:black; color:white;-moz-border-radius:10px;text-align:center;padding:.1em; font-weight:bold; font-size:20pt;font-family:Segoe Print;">'''ClubPenguinMaster'''<br></div>
+<div style="background:white; color:black; text-align:center;padding:.1em;font-size:12pt;font-family:Arial;">
+----
+|-
+|<center>Hello! I am '''ClubPenguinMaster'''. I'm a helper throughout the Club Penguin Wiki network. I'm fix grammar & spelling errors, upload pictures, create new pages, revert vandalism, and other helpful suggestions.
+----
+<big><big>Thank you for visiting my user page! Have a nice day!</big></big>

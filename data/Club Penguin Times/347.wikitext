@@ -1,0 +1,14 @@
+Below are SWF files from issue #347 (June 14, 2012) of the Club Penguin Times:
+
+*[[Media:News347HeaderFront.swf|Super Hero - Header (front)]]
+*[[Media:News347FeatureStory.swf|Super Hero - Feature Story]]
+*[[Media:News347SupportStory.swf|Super Hero - Support Story]]
+*[[Media:News347UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News347NewsFlash.swf|News Flash]]
+*[[Media:News347AskAuntArcticFront.swf|Super Hero - Ask Aunt Arctic (front)]]
+*[[Media:News347HeaderBack.swf|Super Villain - Header (back)]]
+*[[Media:News347AskAuntArcticBack.swf|Super Villain - Feature Story and Support Story (back)]]
+*[[Media:News347JokesAndRiddles.swf|Super Villain - Ask Aunt Arctic]]
+*[[Media:News347SecretOverlay.swf|Secret Overlay]]
+*[[Media:News347FeatureMore.swf|Super Hero - Feature More]]
+*[[Media:News347SupportMore.swf|Super Villain - Feature More]]

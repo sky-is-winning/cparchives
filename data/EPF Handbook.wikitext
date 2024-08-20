@@ -1,0 +1,9 @@
+{{CPW|EPF Handbook|Manual do EPF}}
+
+<center>
+{|class="wikitable"
+!English!!Português (Portuguese)!!Français (French)!!Español (Spanish)
+|-
+|[[Media:ENBooksEPF-handbook.swf|EPF Handbook]]||[[Media:PTBooksEPF-handbook.swf|EPF Handbook]]||[[Media:FRBooksEPF-handbook.swf|EPF Handbook]]||[[Media:ESBooksEPF-handbook.swf|EPF Handbook]]
+|}
+</center>

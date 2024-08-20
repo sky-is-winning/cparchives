@@ -1,0 +1,8 @@
+<center>
+{| width="50%" align="center" style="background: #EFF5FB; border: #0B2161 3px solid; {{roundy|20px}}"
+|- align="center"
+| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:MiningHelmet3.png|60px|link=]]
+|<big><big><span style="color: #0B2161;">This file is an action.</span></big></big><br><small><span style="color: #0B2161;">This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</span></small>
+|}</center>
+<includeonly>[[Category:Penguin Actions|{{PAGENAME}}]]</includeonly>
+<noinclude>[[Category:Templates]]</noinclude>

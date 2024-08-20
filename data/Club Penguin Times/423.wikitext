@@ -1,0 +1,50 @@
+Below are SWF files from issue #423 (November 28, 2013) of the Club Penguin Times:
+
+==Front==
+<center>
+{|class="wikitable" border="1"
+!Header
+!Navigation
+!Feature Story
+!Support Story
+!Upcoming Events
+!News Flash
+!Ask Aunt Arctic
+!Dividers
+|-
+|[[Media:ENNews423HeaderFront.swf|English]]||[[Media:ENNews423NavigationFront.swf|English]]||[[Media:ENNews423FeatureStory.swf|English]]||[[Media:ENNews423SupportStory.swf|English]]||[[Media:ENNews423UpcomingEvents.swf|English]]||[[Media:ENNews423NewsFlash.swf|English]]||[[Media:ENNews423AskAuntArctic.swf|English]]||[[Media:ENNews423Dividers.swf|English]]
+|-
+|[[Media:PTNews423HeaderFront.swf|Português]]||[[Media:PTNews423NavigationFront.swf|Português]]||[[Media:PTNews423FeatureStory.swf|Português]]||[[Media:PTNews423SupportStory.swf|Português]]||[[Media:PTNews423UpcomingEvents.swf|Português]]||[[Media:PTNews423NewsFlash.swf|Português]]||[[Media:PTNews423AskAuntArctic.swf|Português]]||[[Media:PTNews423Dividers.swf|Português]]
+|-
+|[[Media:FRNews423HeaderFront.swf|Français]]||[[Media:FRNews423NavigationFront.swf|Français]]||[[Media:FRNews423FeatureStory.swf|Français]]||[[Media:FRNews423SupportStory.swf|Français]]||[[Media:FRNews423UpcomingEvents.swf|Français]]||[[Media:FRNews423NewsFlash.swf|Français]]||[[Media:FRNews423AskAuntArctic.swf|Français]]||[[Media:FRNews423Dividers.swf|Français]]
+|-
+|[[Media:ESNews423HeaderFront.swf|Español]]||[[Media:ESNews423NavigationFront.swf|Español]]||[[Media:ESNews423FeatureStory.swf|Español]]||[[Media:ESNews423SupportStory.swf|Español]]||[[Media:ESNews423UpcomingEvents.swf|Español]]||[[Media:ESNews423NewsFlash.swf|Español]]||[[Media:ESNews423AskAuntArctic.swf|Español]]||[[Media:ESNews423Dividers.swf|Español]]
+|-
+|[[Media:DENews423HeaderFront.swf|Deutsch]]||[[Media:DENews423NavigationFront.swf|Deutsch]]||[[Media:DENews423FeatureStory.swf|Deutsch]]||[[Media:DENews423SupportStory.swf|Deutsch]]||[[Media:DENews423UpcomingEvents.swf|Deutsch]]||[[Media:DENews423NewsFlash.swf|Deutsch]]||[[Media:DENews423AskAuntArctic.swf|Deutsch]]||[[Media:DENews423Dividers.swf|Deutsch]]
+|}
+</center>
+==Back==
+<center>
+{|class="wikitable" border="1"
+!Header
+!Navigation
+!Ask Aunt Arctic
+!Jokes and Riddles
+!Secrets
+!Secrets (overlay)
+!Feature More
+!Dividers
+!Submit Your Content
+!Riddle answer
+|-
+|[[Media:ENNews423HeaderBack.swf|English]]||[[Media:ENNews423NavigationBack.swf|English]]||[[Media:ENNews423AskAuntArcticBack.swf|English]]||[[Media:ENNews423JokesAndRiddles.swf|English]]||[[Media:ENNews423Secrets.swf|English]]||[[Media:ENNews423SecretsOverlay.swf|English]]||[[Media:ENNews423FeatureMore.swf|English]]||[[Media:ENNews423DividersBack.swf|English]]||[[Media:ENNews423SubmitYourContent.swf|English]]||[[Media:ENNews423RiddleAnswer.swf|English]]
+|-
+|[[Media:PTNews423HeaderBack.swf|Português]]||[[Media:PTNews423NavigationBack.swf|Português]]||[[Media:PTNews423AskAuntArcticBack.swf|Português]]||[[Media:PTNews423JokesandRiddles.swf|Português]]||[[Media:PTNews423Secrets.swf|Português]]||[[Media:PTNews423SecretsOverlay.swf|Português]]||[[Media:PTNews423FeatureMore.swf|Português]]||[[Media:PTNews423DividersBack.swf|Português]]||[[Media:PTNews423SubmitYourContent.swf|Português]]||[[Media:PTNews423RiddleAnswer.swf|Português]]
+|-
+|[[Media:FRNews423HeaderBack.swf|Français]]||[[Media:FRNews423NavigationBack.swf|Français]]||[[Media:FRNews423AskAuntArcticBack.swf|Français]]||[[Media:FRNews423JokesandRiddles.swf|Français]]||[[Media:FRNews423Secrets.swf|Français]]||[[Media:FRNews423SecretsOverlay.swf|Français]]||[[Media:FRNews423FeatureMore.swf|Français]]||[[Media:FRNews423DividersBack.swf|Français]]||[[Media:FRNews423SubmitYourContent.swf|Français]]||[[Media:FRNews423RiddleAnswer.swf|Français]]
+|-
+|[[Media:ESNews423HeaderBack.swf|Español]]||[[Media:ESNews423NavigationBack.swf|Español]]||[[Media:ESNews423AskAuntArcticBack.swf|Español]]||[[Media:ESNews423JokesandRiddles.swf|Español]]||[[Media:ESNews423Secrets.swf|Español]]||[[Media:ESNews423SecretsOverlay.swf|Español]]||[[Media:ESNews423FeatureMore.swf|Español]]||[[Media:ESNews423DividersBack.swf|Español]]||[[Media:ESNews423SubmitYourContent.swf|Español]]||[[Media:ESNews423RiddleAnswer.swf|Español]]
+|-
+|[[Media:DENews423HeaderBack.swf|Deutsch]]||[[Media:DENews423NavigationBack.swf|Deutsch]]||[[Media:DENews423AskAuntArcticBack.swf|Deutsch]]||[[Media:DENews423JokesandRiddles.swf|Deutsch]]||[[Media:DENews423Secrets.swf|Deutsch]]||[[Media:DENews423SecretsOverlay.swf|Deutsch]]||[[Media:DENews423FeatureMore.swf|Deutsch]]||[[Media:DENews423DividersBack.swf|Deutsch]]||[[Media:DENews423SubmitYourContent.swf|Deutsch]]||[[Media:DENews423RiddleAnswer.swf|Deutsch]]
+|}
+</center>

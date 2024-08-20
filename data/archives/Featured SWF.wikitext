@@ -1,0 +1,53 @@
+Here is a list of all of the past featured SWF files.
+
+{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''Month!!Name!!Link/File
+|-
+|November 2012||[[Dojo Courtyard]], [[Dojo Grand Re-Opening]]||[[Media:DojoExtGrandOpening2008.swf|DojoExtGrandOpening2008.swf]]
+|-
+|December 2012||[[Map]], [[Holiday Party 2010]]||[[Media:HolidayParty2010Map.swf|HolidayParty2010Map.swf]]
+|-
+|January 2013||[[Coffee Shop]], [[Winter Fiesta 2009]]||[[Media:WinterFiesta2009Coffee.swf|WinterFiesta2009Coffee.swf]]
+|-
+|February 2013||Back Stage, [[Penguin Play Awards 2010]]||<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/penguin_play_awards_march/party.swf Back Stage]</span>
+|-
+|March 2013||[[Pet Shop]], Renovation March 2011||[[Media:PetConstructionMar2011.swf|PetConstructionMar2011.swf]]
+|-
+|April 2013||[[Recycling Plant]], [[April Fools' Party 2011]]||[[Media:AprilFools'Party2011Eco.swf|AprilFools'Party2011Eco.swf]]
+|-
+|May 2013||[[Ski Village]], [[Medieval Party 2012]]||[[Media:MedievalParty2012village.swf|MedievalParty2012village.swf]]
+|-
+|July 2013||Musicatron 3000, [[Music Jam 2011]]||[[Media:MusicJam2011Party.swf|MusicJam2011Party.swf]]
+|-
+|September 2013||[[Plaza]], [[Fall Fair 2007]]||[[Media:RoomsPlaza-FallFair2007.swf|RoomsPlaza-FallFair2007.swf]]
+|-
+|October 2013||Party Telescope, [[Halloween Party 2012]]||[[Media:Halloween2012TelescopeParty.swf|Halloween2012TelescopeParty.swf]]
+|-
+|November 2013||[[Party Rooms|Brown Puffle Cave]], [[Wilderness Expedition]]||[[Media:WildernessExpeditionParty13.swf|WildernessExpeditionParty13.swf]]
+|-
+|January 2014||January 2009 [[Penguin Style]]||[[Media:January09Style.swf|January09Style.swf]]
+|-
+|February 2014||[[Snow Forts]], [[The Fair 2012]]||[[Media:Fair2012Forts.swf|Fair2012Forts.swf]]
+|-
+|June 2014||Black Soccer Jersey||[[Media:ClothingIcons779.swf|ClothingIcons779.swf]]
+|-
+|July 2014||[[Ice Berg]], [[Music Jam 2010]]||[[Media:RoomsBerg-MusicJam2010.swf|RoomsBerg-MusicJam2010.swf]]
+|-
+|September 2014||[[Coffee Shop]], [[The Fair 2011]]||[[Media:TheFair2011Coffee.swf|TheFair2011Coffee.swf]]
+|-
+|October 2014||[[Login Screen]], [[Halloween Party 2011]]||[[Media:HalloweenParty2011StartBillboards.swf|HalloweenParty2011StartBillboards.swf]]
+|-
+|February 2015||[[Night Club]], [[Sub-Marine Party]]||<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2008/Water_Party_08/NightClub.swf NightClub.swf]</span>
+|-
+|March 2015||[[Ski Hill]], [[St. Patrick's Day Party 2009]]||<span class="plainlinks">[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2009/stpatricksparty2009/20090313_mtn.swf 2009313_min.swf]</span>
+|-
+|April 2015||[[Coffee Shop]], [[April Fools' Party 2008]]||[[Media:ArtworkRooms0328Coffee42.swf|ArtworkRooms0328Coffee42.swf]]
+|-
+|May 2015||Wagon Wheel, [[The Fair 2014]]||[[Media:TheFair2014Party8.swf|TheFair2014Party8.swf]]
+|-
+|July 2015||Login Screen, [[Music Jam 2011]]||[[Media:LoginMusicJam2010%281%29.swf|LoginMusicJam2010(1).swf]]
+|-
+|July 2016||[[Stage]], Twelfth Fish||[[Media:RoomsStage-Christmas2007.swf|RoomsStage-Christmas2007.swf]]
+|-
+|February 2017||Original homepage video||[[Media:FlashVideo6.swf|FlashVideo6.swf]]
+|}

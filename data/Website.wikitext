@@ -1,3 +1,4 @@
+__TOC__
 
 ==Original Design==
 
@@ -154,7 +155,7 @@
 |}
 
 ===July 2012 Homepage Revamp===
-:''Scenes listed in the same cell are duplicates''
+''Scenes listed in the same cell are duplicates''
 {|class="wikitable" style="margin: auto;"
 !Date/Event!!SWF!!Duplicate ID
 |-

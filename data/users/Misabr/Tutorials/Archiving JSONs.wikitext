@@ -1,0 +1,11 @@
+==Setting up Pywikibot==
+Why do we need it? We'll use it to upload the files! Remember to use '''Python 3, not 2''' when setting up (and to have python in your path envinronment variable, if you're on windows) (if you have python preinstalled, you write "python3" instead of "python" in all commands.)
+*For Windows, you can get python here
+
+There's a nice tutorial on how to setup PyWikibot on the [[mediawikiwiki:Manual:Pywikibot/Installation|Mediawiki Wiki]] (remember to get the core version, not 
+*If you use Windows, remember to follow [[mediawikiwiki:Manual:Pywikibot/Windows|these additional instructions]] after setting up
+
+==Getting [[User:Misabr|Misabr's]] script==
+[[User:Misabr|Misabr]] has made a script, to make this stuff easier... However there's a different version for every os
+* Get Windows version here
+* Get Linux version here

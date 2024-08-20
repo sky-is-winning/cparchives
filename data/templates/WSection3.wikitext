@@ -1,0 +1,6 @@
+{| style="background:transparent; padding:.5em; width:100%;-moz-border-radius:10px;border-width:1px; margin:0px; border: 1px solid #AAA;" class="portal_section" cellspacing="0" cellpadding="0"
+|- 
+! style="-moz-border-radius:8px;  background-color: #3366CC; padding: 5px; color: #FFF; font-size: 110%; font-weight: bold; text-align: left;" valign="middle" | {{{1}}} <span style="float:right; font-size:75%;">[[{{{3}}}|<span style="color:white;font-size:15px">vote</span>]]</span>
+|- 
+| style="border-width: 0 3px 3px 3px; border-style: solid; border-color: #FFF; background-color: #FFF; padding: 5px;" valign="top" | {{#ifeq:{{{news|no}}}|yes||{{#switch:{{{image|empty}}}|empty=|#default={{#ifeq:{{{image_px|empty}}}|empty|[[File:{{{image}}}|right]]|[[File:{{{image}}}|right|{{{image_px}}}px]]}}}}}}{{{{{2}}}}}
+|}

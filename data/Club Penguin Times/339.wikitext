@@ -1,0 +1,13 @@
+Below are SWF files from issue #339 (April 19, 2012) of the Club Penguin Times:
+
+*[[Media:News339HeaderFront.swf|Header (front)]]
+*[[Media:News339FeatureStory.swf|Feature Story]]
+*[[Media:News339SupportStory.swf|Support Story]]
+*[[Media:News339UpcomingEvents.swf|Upcoming Events]]
+*[[Media:News339NewsFlash.swf|News Flash]]
+*[[Media:News339AskAuntArcticFront.swf|Ask Aunt Arctic (front)]]
+*[[Media:News339HeaderBack.swf|Header (back)]]
+*[[Media:News339AskAuntArcticBack.swf|Ask Aunt Arctic (back)]]
+*[[Media:News339JokesAndRiddles.swf|Jokes and Riddles]]
+*[[Media:News339SecretOverlay.swf|Secret Overlay]]
+*[[Media:News339FeatureMore.swf|Feature More]]

@@ -1,0 +1,46 @@
+<span style="color: black"><div style="position: fixed; bottom: 0px; right: 0px; padding: 7px; background: #3A51C4;">'''The current page size in bytes is {{PAGESIZE:{{FULLPAGENAME}}}}! Remember to archive when it reaches 30,000.'''</div></span>
+
+<div style="border: 2px lime; padding: 3px; background:  #3A51C4; vertical-align: top; padding: 2.5px 2.5px 2.5px 2.5px; margin-bottom: 3px; clear: left; -moz-border-radius:3em;-khtml-border-radius:3em; "><big><font color="black"><center><big>'''<u>Talk Pages</u>'''</big><br>[[User talk:1998drpepper/Archive 1|[1]]]•[[User talk:1998drpepper/Archive 2|[2]]]•<br>[[User talk:1998drpepper|Current]] </center></font></big></div>
+
+== Yay ==
+
+Hi buddy! :D How are ya' doin? :P
+
+Anyways, to help complete the Clothing icons page...
+
+*choose a section(ex. 1-499, 500-999, etc.)
+*make a sandbox (User:1998drpepper/sandbox/or something like that :P)
+*Make a chart 
+<pre>{|border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" 
+!'''ID'''!!'''Item name'''
+|-
+|(ID #)||[[Media:ClothingIcons(ID #).swf|(Item Name)]]</pre>
+
+<small>please note that for the "Item Name", that if it was the free or unlockable version of a catalog item, put (free) or (unlockable) next to it :P</small>
+
+*In addition, you should list every item from that section, except bait items...
+*There is also no time limit, and if you'd like a quick way to do some of it; go on IRC and i'll help you somewhat :)
+
+If you have any other questions, or I said something in a confusing way; please lemme know on my userpage or IRC(<nowiki>#clubpenguinwiki-archives</nowiki>). Thanks for helping out! <big><font face="comic sans ms">[[User:Cp kid|<span style="color:blue;background:black">'' Cp kid ''</span>]]</font>[[User talk:Cp kid|<span style="color:lime;background:blue">'' Let's talk! ''</span>]] </big> 23:43, 23 September 2012 (UTC)
+
+== RE: ==
+
+There are three ways.
+
+1. Look them up the loooooooong way; search for the individual ID's on the CPW.
+
+2. find the super secret CP link with all items and IDs on it
+
+3. meet with me on IRC for a few days and I can just tell you them in order :)
+
+Btw, which section would you like to do? <big><font face="comic sans ms">[[User:Cp kid|<span style="color:blue;background:black">'' Cp kid ''</span>]]</font>[[User talk:Cp kid|<span style="color:lime;background:blue">'' Let's talk! ''</span>]] </big> 11:14, 24 September 2012 (UTC)
+
+== Logo Tip ==
+
+Hi drpepper. Just a tip of advice for your logo. I honestly can't read the "archives" part of the logo, so a suggestion I have is maybe find a better thing to put on it :P
+
+P.S.- You can upload up to 5 separate pictures as logos, rather than re-uploading on that same image. <big><font face="comic sans ms">[[User:Cp kid|<span style="color:blue;background:black">'' Cp kid ''</span>]]</font>[[User talk:Cp kid|<span style="color:lime;background:blue">'' Let's talk! ''</span>]] </big> 18:47, 24 November 2012 (UTC)
+
+== Nah ==
+
+That's not really something that would be done on archives, because we don't really care about member/non-member, cost, etc. However, that might be good on the CPW somewhere? <big><font face="comic sans ms">[[User:Cp kid|<span style="color:blue;background:black">'' Cp kid ''</span>]]</font>[[User talk:Cp kid|<span style="color:lime;background:blue">'' Let's talk! ''</span>]] </big> 09:57, 3 December 2012 (UTC)

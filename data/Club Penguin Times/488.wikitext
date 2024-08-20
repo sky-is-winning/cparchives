@@ -1,0 +1,5 @@
+{{Newspaper2
+|issue=488
+|ask=Franky
+|date=February 26, 2015
+}}

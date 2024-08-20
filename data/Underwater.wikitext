@@ -1,4 +1,4 @@
-
+{{CPW|Underwater|Debaixo d'Água}}
 
 ==Normal==
 <center>
@@ -16,7 +16,7 @@
 !Music
 !Year
 |-
-|[/swf.cpcheats.info/rooms/2010/the_great_cave_expedition_january/party3.swf Cave Expedition]||{{n/a}}||2010
+|[http://archives.clubpenguinwiki.info/swf.cpcheats.info/rooms/2010/the_great_cave_expedition_january/party3.swf Cave Expedition]||{{n/a}}||2010
 </center>
 |}
 

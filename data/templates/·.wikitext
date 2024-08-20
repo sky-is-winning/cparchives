@@ -1,1 +1,1 @@
-<b><big>·</big></b>
+<includeonly> '''<big>·</big>''' </includeonly>

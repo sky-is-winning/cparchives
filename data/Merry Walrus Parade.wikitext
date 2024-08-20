@@ -1,0 +1,15 @@
+{{CPW|Merry Walrus Parade|Desfile da Morsa Feliz}}
+
+== Rooms ==
+<center>
+{|class="wikitable" border="1"
+!Room!!Music
+|-
+|[[Media:RoomsVillage-MerryWalrusParade.swf|Ski Village]]||[[Media:Music818.swf|818]]
+|-
+|[[Media:RoomsParty1-MerryWalrusParade.swf|Merry Walrus Parade]]||[[Media:Music811.swf|811]]
+|}
+</center>
+
+{{Events}}
+[[Category:Events of 2014]]

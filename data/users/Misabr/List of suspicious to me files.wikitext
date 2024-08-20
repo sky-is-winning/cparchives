@@ -1,0 +1,5 @@
+{| class="wikitable"
+!File!!Why is it suspicious?
+|-
+|[[media:MedievalParty2012Meteor.swf|MedievalParty2012Meteor.swf]]||I think it's an extracted Movie Clip, but maybe CP really included this in a separate file. Needs verification.
+|}
