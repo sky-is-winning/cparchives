@@ -1,1 +1,0 @@
-mw.loader.load('//www.clubpenguinwiki.info/w/index.php?title=MediaWiki:Gadget-HotCat.js&action=raw&ctype=text/javascript');

@@ -1,8 +1,0 @@
-<center>
-{| width="50%" align="center" style="background: #89CFF0; border: black 3px solid; {{roundy|20px}}"
-|- align="center"
-| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:Photos.png|60px|link=]]
-|<big><big><span style="color: #000000;">This file is an image. </span></big></big><br><small><span style="color: #000000;">This file may or may not be from ''Club Penguin''. Our usage of this file is believed to be fair use.</span></small>
-|}</center>
-<includeonly>[[Category:Images|{{PAGENAME}}]]</includeonly>
-<noinclude>[[Category:Templates]]</noinclude>

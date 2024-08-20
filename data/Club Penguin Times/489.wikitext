@@ -1,4 +1,0 @@
-{{Newspaper2
-|issue=489
-|date=March 5, 2015
-}}

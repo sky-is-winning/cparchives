@@ -1,9 +1,0 @@
-This is where you can suggest new topics for the Club Penguin Archives to-do list. An active [[Project:Administrators|administrator]] will message you after you submit an idea, to let you know if it was added or not. If an administrator doesn't message you within a month of your submission to this section, feel free to message an administrator on their talk and ask them to look at your idea!
-
-== Party Room Pages ==
-Those will be made by me through the next several days. -MasterLoopy
-
-== Add archived CPI media server files? ==
-I have a collection of files from the Club Penguin Island media server (http://1263cf72.content.disney.io) which includes the server data for all versions of the game. It's 4,804 files adding up to roughly 16.4 GB ([https://pastebin.com/PuUu2i0G Click here to see the file list.]) Let me know if and how I should upload these. --[[User:PowerKitten|PowerKitten]] ([[User talk:PowerKitten|talk]]) 23:28, 22 November 2018 (UTC)
-
-I'm open to having these uploaded. I'm not all that familiar with how CPI organized their files, and unless you renamed the files to seemingly randomized hashes. I believe it would be beneficial for the filenames to begin with the directory's name so that we still maintain some sense of organization here. --[[User:Mario Rk|'''<span class="Xc6" style="color:#FF0000;">Mario Rk</span>''']] <sup>[[User talk:Mario Rk|<span class="Xc6" style="color:#FF0000;">(T)</span>]] [[Special:Contributions/Mario Rk|<span class="Xc6" style="color:#FF0000;">(C)</span>]]</sup> 19:33, 26 November 2018 (UTC)

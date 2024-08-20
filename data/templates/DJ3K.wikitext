@@ -1,9 +1,0 @@
-{{GameSWF}}
-<center>
-{| width="50%" align="center" style="background: #585858; border: #00FF00 3px solid; {{roundy|20px}}"
-|- align="center"
-| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:DJ3KLogo.png|link=|100px]]
-|<span style=color:white><big><big>This file is apart of DJ3K.</big></big><br><small>This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</small></span>
-|}</center>
-<includeonly>[[Category:DJ3K]]</includeonly>
-<noinclude>[[Category:Templates]]</noinclude>

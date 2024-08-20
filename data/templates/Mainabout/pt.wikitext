@@ -1,5 +1,0 @@
-O '''[[Project:About/pt|Club Penguin Archives]]''' é um site dedicado à preservação da história do '''Club Penguin''' pelo arquivamento de [[clubpenguinwiki:.swf|SWFs]] que compõem o jogo. {{#ifeq:{{PAGENAME}}|Página principal|Este site é parte da ''[[clubpenguinwiki:|Club Penguin Wiki Network]]''. Se você quiser ajudar enviando arquivos do Club Penguin para o nosso banco de dados, peça permissões [[Project:Request permissions|aqui]]. 
-
-Caso você use os SWFs guardados aqui em ''cutouts'', servidores privados, blogs, ou em qualquer outra coisa, apreciaríamos se fosse adicionado um link para esta página no seu site ou postagem.
-
-{{Mainnav/pt}}|}}

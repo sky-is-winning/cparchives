@@ -1,7 +1,0 @@
-{| width="50%" align="center" style="background: #b7eeff; border: #22a4f3 2px solid; {{roundy|10px}}"
-|- align="center"
-| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:ClubPenguinFavicon.png|35px|link=]]
-|<big>This file is from or related to Club Penguin's homepage.</big><br><small>This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</small>
-|}
-<includeonly>[[Category:Homepage files|{{PAGENAME}}]]</includeonly>
-<noinclude>[[Category:Templates]]</noinclude>

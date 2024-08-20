@@ -1,6 +1,0 @@
-{{Newspaper2
-|issue=445
-|date=May 1, 2014
-|ask=Dot
-|backstory=Comics
-}}

@@ -1,8 +1,0 @@
-<center>
-{| width="50%" align="center" style="background: #E0E0F8; border: #8181F7 2px solid; {{roundy|10px}}"
-|- align="center"
-| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:BuildingsIcons1.svg|link=|50px]]
-|<big>This file is an igloo icon.</big><br><small>This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</small>
-|}</center>
-<includeonly>[[Category:Content]][[Category:Igloo icons]]</includeonly>
-<noinclude>[[Category:Templates]]</noinclude>

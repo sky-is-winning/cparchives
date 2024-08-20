@@ -1,5 +1,0 @@
-<small>—Preceding unsigned comment added by [[User:{{{1}}}|{{{1}}}]] ([[User talk:{{{1}}}|talk]] • [[Special:Contributions/{{{1}}}|contribs]] • [[Special:Editcount/{{{1}}}|edit count]]) {{{2|}}}</small><noinclude>
-
-* It should be used when Users do not sign their posts in talk pages.
-* Its usage is '''<nowiki>{{unsigned|username}}</nowiki>''' where "username" is the name of the user who did not sign their post.
-</noinclude>

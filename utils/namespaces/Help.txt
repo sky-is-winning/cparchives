@@ -1,5 +1,0 @@
-Help:Contents
-Help:Gadget-HotCat
-Help:Preparing SWFs
-Help:Uploading SWFs
-Help:Viewing SWFs

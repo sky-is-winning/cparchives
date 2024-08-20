@@ -1,6 +1,0 @@
-{{Newspaper2
-|issue=496
-|date=April 23, 2015
-|ask=Rookie
-|backstory=Top Secret Fan Art
-}}

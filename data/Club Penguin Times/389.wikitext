@@ -1,8 +1,0 @@
-{{Newspaper
-|issue=389
-|date=April 5, 2013
-|ask=Jet Pack Guy
-|backstory=Ask Jet Pack Guy
-|answers=true
-|answersname=Secret Note
-}}

@@ -1,6 +1,0 @@
-==Basics==
-*[[Help:Uploading SWFs|Uploading SWFs]]
-==Tools==
-*[[Help:Gadget-HotCat|HotCat]]
-==Other==
-* [[Help:Viewing SWFs|Viewing SWFs]]

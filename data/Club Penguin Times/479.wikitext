@@ -1,6 +1,0 @@
-{{Newspaper2
-|issue=479
-|date=December 25, 2014
-|ask=Merry Walrus
-|backstory=Comic
-}}

@@ -1,6 +1,0 @@
-==Other==
-*[[Media:OperationBlackOutPrePlayV2ContentDeClose upsField ops.swf|Field ops]]
-*[[Media:DECloseUpsBlackoutQuestInterface.swf|Blackout Quest Interface]]
-
-==Login Screen==
-*[[Media:DeOperationBlackout2012Pre-Awareness.swf|Login Screen #2]]

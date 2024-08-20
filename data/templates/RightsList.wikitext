@@ -1,5 +1,0 @@
-<div style="background-color:lightblue;border:solid skyblue 2px;width:50%;margin:1px auto;text-align:center">
-''List of all-time users with rights:''
-[[Club Penguin Archives:List of Administrators|Administrators]] • [[Club Penguin Archives:List of Bureaucrats|Bureaucrats]]
-</div>
-<noinclude>[[Category:Templates]]</noinclude>

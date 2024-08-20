@@ -1,12 +1,11 @@
 import http from "http";
-import fs from "fs";
-import {EventEmitter} from "events";
-import mime from "mime-types";
-import CryptoJS from "crypto-js";
-import GeneratePageData from "./generate-page-data.js";
+import https from "https"; // To make HTTPS requests
+import fs from "fs"; // To write to disk
+import { EventEmitter } from "events";
 
 const PORT = process.argv[2] || 80;
-const ROOT_PATH = "./archives.clubpenguinwiki.info";
+const ARCHIVES_WIKI_URL = "https://archives-mw.skyiswinni.ng/";
+const ARCHIVES_API_URL = `${ARCHIVES_WIKI_URL}api.php`;
 const SPECIAL_CHAR_REPLACERS = [
     ["<", "%3C"],
     [">", "%3E"],
@@ -17,251 +16,297 @@ const SPECIAL_CHAR_REPLACERS = [
     ["?", "%3F"],
     ["*", "%2A"],
     ["_", " "],
-    ["%20", " "]
 ];
-const NAMESPACE_REPLACERS = [
-    ["Talk:", "talk/"],
-    ["User:", "users/"],
-    ["User talk:", "users/talk/"],
-    ["Club Penguin Archives:", "archives/"],
-    ["Club Penguin Archives talk:", "archives/talk/"],
-    ["File:", "files/"],
-    ["File talk:", "files/talk/"],
-    ["MediaWiki:", "mediawiki/"],
-    ["MediaWiki talk:", "mediawiki/talk/"],
-    ["Template:", "templates/"],
-    ["Template talk:", "templates/talk/"],
-    ["Help:", "help/"],
-    ["Help talk:", "help/talk/"],
-    ["Category:", "categories/"],
-    ["Category talk:", "categories/talk/"],
-    ["Widget:", "widgets/"],
-    ["Widget talk:", "widgets/talk/"],
-    ["Module:", "modules/"],
-    ["Module talk:", "modules/talk/"]
-];
-const REDIRECT_DOMAINS = {
-    "/static/": "archives.clubpenguinwiki.info",
-    "/media1/": "media1.clubpenguin.com",
-    "/swf.cpcheats.info/": "swf.cpcheats.info"
-};
-const PRERENDER_PAGES = true;
 
 export default class WebServer {
     constructor() {
         this.server = http.createServer();
         this.events = new EventEmitter();
-        this.fileStructure = this.getFileStructure();
         this.cache = {};
-        this.wikiParser = new GeneratePageData(this);
-
-        this.ROOT_PATH = ROOT_PATH;
     }
 
-    getFileStructure() {
-        const file = fs.readFileSync("drive_structure.json");
-        return JSON.parse(file);
-    }
-
-    get indexhtml() {
-        return "<html><head><script>window.location.href = '/wiki/Main_Page';</script></head></html>";
-    }
-
-    get html404() {
-        return fs.readFileSync(`${ROOT_PATH}/404.html`).toString();
-    }
-
-    get loadPhpCss() {
-        return fs.readFileSync(`${ROOT_PATH}/styles.css`).toString();
-    }
-
-    start() {
+    async start() {
         this.server.listen(PORT);
 
         console.info("Server running on port " + PORT);
 
+        this.grabAllPages();
+
         this.server.on("request", async (request, response) => {
             try {
-                if (this.cache[request.url]) {
-                    this.serveFromCache(request, response);
-                    return;
+                if (request.url === "/") {
+                    request.url = "/Main_Page";
                 }
 
-                if (request.url === "/") {
-                    this.serveIndex(response);
-                } else if (request.url.includes("load.php")) {
-                    this.serveCss(response);
-                } else {
-                    this.handleRequest(request, response);
+                if (request.url.includes("wiki/")) {
+                    request.url = request.url.replace("wiki/", "");
                 }
+
+                let url = request.url.startsWith("/archives") ? request.url.substring(1) : "archives"  + request.url
+                SPECIAL_CHAR_REPLACERS.forEach(([char, replacer]) => {
+                    url = url.replaceAll(char, replacer);
+                });
+
+                if (!url.split("/").pop().includes(".")) {
+                    url += ".html";
+                }
+
+                console.info(`Request for ${request.url} (file: ${url})`);
+
+                if (this.cache[request.url]) {
+                    response.writeHead(200, { "Content-Type": "text/html" });
+                    response.end(this.cache[request.url]);
+
+                    this.checkForStalePage(request.url);
+                } else if (fs.existsSync(url)) {
+                    fs.readFile(url, (err, data) => {
+                        if (err) {
+                            response.writeHead(500);
+                            response.end("Sorry, check with the site admin for error: " + err.code + " ..\n");
+                        } else {
+                            response.writeHead(200, { "Content-Type": "text/html" });
+                            response.end(data);
+                        }
+                    });
+
+                    this.checkForStalePage(request.url);
+                } else {
+                    // Try to fetch the page from the wiki
+                    let title = url.split("/").pop().replace(".html", "");
+                    await this.savePageToDisk(title);
+
+                    if (this.cache[title]) {
+                        response.writeHead(200, { "Content-Type": "text/html" });
+                        response.end(this.cache[title]);
+                    } else {
+                        response.writeHead(404);
+                        response.end("404 Not Found");
+                    }
+                }
+
             } catch (error) {
                 console.error(error);
                 response.writeHead(500);
                 response.end("Sorry, check with the site admin for error: " + error.code + " ..\n");
             }
         });
+    }
 
-        if (PRERENDER_PAGES) {
-            setTimeout(() => {
-                this.prerenderPages("./data");
-            }, 3000);
+    async grabAllPages() {
+        let url = `${ARCHIVES_API_URL}?action=query&list=allpages&aplimit=500&format=json`;
+        let allPages = [];
+        let continueToken = true;
+
+        while (continueToken) {
+            let result = await this.fetchFromAPI(url);
+            if (result && result.query && result.query.allpages) {
+                allPages.push(...result.query.allpages.map(page => page.title));
+            }
+
+            if (result && result.continue) {
+                const { apcontinue, continue: cont } = result.continue;
+                url = `${ARCHIVES_API_URL}?action=query&list=allpages&aplimit=500&format=json&apcontinue=${apcontinue}&continue=${cont}`;
+            } else {
+                continueToken = false;
+            }
+        }
+
+        for (let page of allPages) {
+            await this.savePageToDisk(page);
         }
     }
 
-    serveFromCache(request, response) {
-        const cacheEntry = this.cache[request.url];
-        console.info("Served from cache: " + request.url);
-        if (cacheEntry.status === 302) {
-            response.writeHead(302, {Location: cacheEntry.location});
-        } else {
-            response.writeHead(cacheEntry.status, {
-                "Content-Type": cacheEntry.contentType
+    async savePageToDisk(title) {
+        return new Promise((resolve, reject) => {
+            let url = `${ARCHIVES_WIKI_URL}index.php?title=${title}`.replaceAll(" ", "_");
+            SPECIAL_CHAR_REPLACERS.forEach(([char, replacer]) => {
+                        title = title.replaceAll(char, replacer);
             });
-        }
-        response.end(cacheEntry.content, "utf-8");
-    }
+            if (fs.existsSync(`archives/${title}.html`)) {
+                console.info(`Skipping ${title}.html, already exists.`);
+                return resolve();
+            }
+            https.get(url, (res) => {
+                console.info(`Fetching ${url}...`);
+                let data = '';
 
-    serveIndex(response) {
-        this.cache["/"] = {
-            status: 200,
-            contentType: "text/html",
-            content: this.indexhtml
-        };
-        response.writeHead(200, {"Content-Type": "text/html"});
-        response.write(this.indexhtml);
-        response.end();
-    }
+                // Accumulate the data chunks
+                res.on('data', (chunk) => {
+                    data += chunk;
+                });
 
-    serveCss(response) {
-        this.cache["/load.php"] = {
-            status: 200,
-            contentType: "text/css",
-            content: this.loadPhpCss
-        };
-        response.writeHead(200, {"Content-Type": "text/css"});
-        response.write(this.loadPhpCss);
-        response.end();
-    }
+                // Once the response is complete
+                res.on('end', async () => {
+                    this.cache[title] = data;
 
-    async handleRequest(request, response) {
-        let filePath;
-        const contentType = mime.lookup(request.url) || "text/html";
+                    // Ensure the directory exists
+                    const rootFolder = `archives/${title}`.split("/").slice(0, -1).join("/");
+                    if (!fs.existsSync(rootFolder)) {
+                        fs.mkdirSync(rootFolder, { recursive: true });
+                    }
 
-        if (request.url.startsWith("/static/") || request.url.startsWith("/media1/") || request.url.startsWith("/swf.cpcheats.info/")) {
-            this.handleRedirect(request, response, contentType);
-        } else {
-            filePath = this.constructFilePath(request.url);
-            this.processFilePath(filePath, contentType, request, response);
-        }
-    }
+                    data = await this.replaceLinks(data);
 
-    handleRedirect(request, response, contentType) {
-        const domainKey = Object.keys(REDIRECT_DOMAINS).find((key) => request.url.startsWith(key));
-        const url = domainKey == "/static/" ? request.url : request.url.split(domainKey)[1];
-        const gdriveUrl = this.getFileURLFromGDrive(url, REDIRECT_DOMAINS[domainKey]);
+                    // Write the data to a file
+                    fs.writeFile(`archives/${title}.html`, data, (err) => {
+                        if (err) {
+                            console.error(`Error saving ${title}:`, err);
+                            return reject(err);
+                        } else {
+                            console.info(`Saved ${title}.html successfully.`);
+                            resolve(); // Resolve the promise when the file is written
+                        }
+                    });
+                });
 
-        if (!gdriveUrl) {
-            response.writeHead(404, {"Content-Type": "text/html"});
-            response.end("File not found", "utf-8");
-            return;
-        }
-
-        this.cache[request.url] = {status: 302, location: gdriveUrl};
-        response.writeHead(302, {
-            "Content-Type": contentType,
-            Location: gdriveUrl
+                // Handle request errors
+                res.on('error', (err) => {
+                    console.error(`Error fetching ${url}:`, err);
+                    reject(err);
+                });
+            }).on('error', (err) => {
+                console.error(`HTTPS request error for ${url}:`, err);
+                reject(err);
+            });
         });
-        response.end();
     }
 
-    constructFilePath(url) {
-        let filePath = url.includes(".") ? `${ROOT_PATH}${url}` : url;
-        if (filePath.includes("/thumb")) filePath = filePath.replace("/thumb", "");
+    async replaceLinks(data) {
+        const linkRegex = /(?:href|src)="([^"]+)"/g;
+        let match;
+        let updatedData = data;
 
-        for (const replacer of NAMESPACE_REPLACERS) {
-            filePath = filePath.replaceAll(replacer[0], replacer[1]);
-        }
+        while ((match = linkRegex.exec(data)) !== null) {
+            let originalLink = match[1];
+            let newLink = originalLink;
 
-        for (const replacer of SPECIAL_CHAR_REPLACERS) {
-            filePath = filePath.replaceAll(replacer[0], replacer[1]);
-        }
-
-        if (fs.existsSync(filePath) && fs.lstatSync(filePath).isDirectory()) {
-            filePath += "/index";
-        }
-
-        return filePath;
-    }
-
-    async processFilePath(filePath, contentType, request, response) {
-        console.info("Serving: " + filePath);
-
-        if (!filePath.includes(".")) {
-            const pageData = await this.wikiParser.generatePageData(filePath);
-            response.writeHead(200, {"Content-Type": "text/html"});
-            response.end(pageData, "utf-8");
-        } else {
-            fs.readFile(filePath, (error, content) => {
-                if (error) {
-                    this.handleError(error, contentType, response);
-                } else {
-                    response.writeHead(200, {"Content-Type": contentType});
-                    response.end(content, "utf-8");
+            // Determine if the link is in a src or href attribute
+            if (/src="/.test(match[0])) {
+                // Handle src attributes (e.g., images, scripts)
+                if (originalLink.startsWith('/')) {
+                    if (originalLink.includes('.php')) {
+                        // PHP files in src attributes should point to the original server
+                        newLink = `${ARCHIVES_WIKI_URL}${originalLink}`;
+                    } else {
+                        // Download and save the file locally
+                        newLink = await this.downloadAndSaveFile(originalLink);
+                    }
+                } else if (originalLink.startsWith('http')) {
+                    // External resources, leave as is
+                    newLink = originalLink;
                 }
-            });
-        }
-    }
-
-    async prerenderPages(directory) {
-        const pages = fs.readdirSync(directory);
-        for (const page of pages) {
-            if (fs.lstatSync(`${directory}/${page}`).isDirectory()) {
-                if (page !== page.toLowerCase()) {
-                    this.prerenderPages(`${directory}/${page}`);
+            } else if (/href="/.test(match[0])) {
+                // Handle href attributes (e.g., internal links, external links)
+                if (originalLink.startsWith('/')) {
+                    if (originalLink.includes('.php')) {
+                        // PHP files or API calls should point to the original server
+                        newLink = `${ARCHIVES_WIKI_URL}${originalLink}`;
+                    } else {
+                        // Internal wiki page links should remain as is
+                        newLink = originalLink;
+                    }
+                } else if (originalLink.startsWith('http')) {
+                    // External links, leave as is
+                    newLink = originalLink;
                 }
-                continue;
             }
-            let pagePath = directory + "/" + page;
-            pagePath = pagePath.replace("./data/", "/wiki/").replace(".wikitext", "");
-            await this.wikiParser.generatePageData(pagePath);
+
+            // Replace the original link in the HTML content with the updated link
+            updatedData = updatedData.replace(originalLink, newLink);
         }
+
+        return updatedData;
     }
 
-    handleError(error, contentType, response) {
-        if (error.code === "ENOENT") {
-            fs.readFile("${ROOT_PATH}/404.html", (error, content) => {
-                response.writeHead(404, {"Content-Type": contentType});
-                response.end(content, "utf-8");
+    async downloadAndSaveFile(originalLink) {
+        return new Promise((resolve, reject) => {
+            const fileUrl = `${ARCHIVES_WIKI_URL}${originalLink}`;
+            let localPath = `archives${originalLink}`;
+            SPECIAL_CHAR_REPLACERS.forEach(([char, replacer]) => {
+                localPath = localPath.replaceAll(char, replacer);
             });
-        } else {
-            response.writeHead(500);
-            response.end("Sorry, check with the site admin for error: " + error.code + " ..\n");
-        }
-    }
 
-    getFileURLFromGDrive(filePath, originalDomain = "archives.clubpenguinwiki.info") {
-        let fileArr = filePath.split("/");
-        let jsonObject = this.fileStructure[originalDomain];
-        for (let i = 0; i < fileArr.length; i++) {
-            if (!fileArr[i]) continue;
-            if (!jsonObject) {
-                console.warn("Error: " + filePath + " not found in file structure");
-                return null;
+            // Ensure the directory exists
+            const rootFolder = localPath.split("/").slice(0, -1).join("/");
+            if (!fs.existsSync(rootFolder)) {
+                fs.mkdirSync(rootFolder, { recursive: true });
             }
-            if (!jsonObject.children) return jsonObject.id;
-            jsonObject = jsonObject.children[fileArr[i]];
-        }
-        if (!jsonObject) {
-            console.warn("Error: " + filePath + " not found in file structure");
-            return null;
-        }
-        return `https://drive.usercontent.google.com/download?id=${jsonObject.id}&export=download&authuser=0`;
+
+            const file = fs.createWriteStream(localPath);
+
+            https.get(fileUrl, (res) => {
+                res.pipe(file);
+
+                file.on('finish', () => {
+                    file.close(async () => {
+                        // After saving the file, check if it's a JS file and process it
+                        if (localPath.endsWith('.js')) {
+                            try {
+                                const jsData = fs.readFileSync(localPath, 'utf8');
+                                const updatedJsData = await this.replaceLinks(jsData, true);
+                                fs.writeFileSync(localPath, updatedJsData, 'utf8');
+                                console.info(`Updated JS file ${localPath}`);
+                            } catch (err) {
+                                console.error(`Error processing JS file ${localPath}:`, err);
+                                reject(err);
+                            }
+                        }
+                        resolve(localPath); // Resolve with the local path
+                    });
+                });
+            }).on('error', (err) => {
+                fs.unlink(localPath); // Delete the file if there's an error
+                console.error(`Error downloading ${fileUrl}:`, err);
+                reject(err);
+            });
+        });
     }
 
-    getDriveURLFromRedLink(redLink) {
-        const fileArr = redLink.split("=");
-        const fileName = fileArr[fileArr.length - 1];
-        const md5hash = CryptoJS.MD5(fileName).toString();
-        return this.getFileURLFromGDrive(`/static/images/archives/${md5hash[0]}/${md5hash[0]}${md5hash[1]}/${fileName}`);
+    fetchFromAPI(url) {
+        return new Promise((resolve, reject) => {
+            https.get(url, (res) => {
+                let data = '';
+
+                // A chunk of data has been received.
+                res.on('data', (chunk) => {
+                    data += chunk;
+                });
+
+                // The whole response has been received. Print out the result.
+                res.on('end', () => {
+                    resolve(JSON.parse(data));
+                });
+
+            }).on("error", (err) => {
+                reject(err);
+            });
+        });
+    }
+
+    checkForStalePage(title) {
+        if (title.startsWith("/")) {
+            title = title.substring(1);
+        }
+
+        let url = `${ARCHIVES_API_URL}?action=query&prop=revisions&titles=${title}&rvprop=timestamp&format=json`;
+        this.fetchFromAPI(url).then((result) => {
+            if (result && result.query && result.query.pages) {
+                try {
+                    let page = Object.values(result.query.pages)[0];
+                    if (!page.revisions || !page.revisions[0]) {
+                        return;
+                    }
+                    let timestamp = page.revisions[0].timestamp;
+                    let lastModified = new Date(timestamp);
+
+                    if (lastModified > new Date()) {
+                        console.info(`${title} has been updated since last fetched. Updating...`);
+                        this.savePageToDisk(title);
+                    }
+                } catch (error) {
+                    console.error("Error checking for stale page:", error);
+                }
+            }
+        });
     }
 }

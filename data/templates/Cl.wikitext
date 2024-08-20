@@ -1,5 +1,0 @@
-[[:Category:SWFs of {{{1}}}|{{{2|{{{1}}}}}}]]
-<noinclude>
-==Documentation==
-This template will neatly make a properly formatted category link to an SWF archive category. First parameter is the name (if the cat name is ''SWFs of Clothing'', than you would type ''Clothing''), second is the link's text .(by default, param 1)
-</noinclude>

@@ -1,5 +1,0 @@
-== Riddles Answers parameter ==
-
-Can an admin please add a parameter for the riddles answers files as I've done [http://archives.clubpenguinwiki.info/wiki/Template:Newspaper?diff=77315&oldid=63474 here]? The files are not present in every newspaper issue, but for the ones they are present in, they are sometimes used as what the name implies (see [http://media1.clubpenguin.com/play/v2/content/local/en/news/papers/20131127/content/overlays/riddlesAnswers.swf here]) and other times used as secret notes (see [http://media1.clubpenguin.com/play/v2/content/local/en/news/papers/20131106/content/overlays/riddlesAnswers.swf here]).
-
---[[User:Kawkeetcp|Kawkeetcp]] ([[User talk:Kawkeetcp|talk]]) 06:32, 1 September 2015 (UTC)

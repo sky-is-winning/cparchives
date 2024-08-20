@@ -1,8 +1,0 @@
-==Current==
-[http://media2.clubpenguin.com/community/swf/penguin-standard-time.swf PST (Penguin Standard Time)]
-
-[http://media2.clubpenguin.com/community/xml/penguin-standard-time-properties.xml Properties]
-
-[http://media2.clubpenguin.com/community/xml/penguin-standard-time-content.xml Content]
-==Archived==
-*[[Media:Penguin-standard-time.swf|PST (Penguin Standard Time)]]

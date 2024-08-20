@@ -1,5 +1,0 @@
-== Languages ==
-
-I think it's pointless to have this page split into languages, when all languages are contained in room SWFs... I suggest removing the languages split {{user:Misabr/sig2}} 11:32, 6 April 2015 (UTC)
-*Yes, it makes no sense to keep the sections. --[[User:Juca|<span style="color:#ff7c00;"><b>Juca</b></span>]] [[User talk:Juca|<span style="color:#c00000;"><b>(discussão/talk)</b></span>]] [[File:Penguinguitar.png|link=Special:Contributions/Juca|20px]] 22:03, 6 April 2015 (UTC)
-:It's an old format, we used to use that before we started using our current format (ex [[Night Club]]), but we still have to import that format everywhere else. [[User:Mario Rk|Mario Rk]] <sup><span style="color:; text-shadow:grey 0 4px 4px;">(</span>[[User talk:Mario Rk|<span style="color:; text-shadow:grey 0 4px 4px;">T</span>]] <span style="color:; text-shadow:grey 0 4px 4px;">'''<big>·</big>'''</span> [[Special:Contributions/Mario_Rk|<span style="color:; text-shadow:grey 0 4px 4px;">C</span>]]<span style="color:; text-shadow:grey 0 4px 4px;">)</span></sup> 20:52, 7 April 2015 (UTC)

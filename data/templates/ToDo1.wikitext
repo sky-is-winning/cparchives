@@ -1,6 +1,0 @@
-{| width="100%" style="-moz-border-radius:7px; text-align:center" border="1" cellspacing="0" cellpadding="2"
-| Valign="top" width="40%"|'''Objective'''
-| Valign="top" width="20%"|'''Status'''
-| Valign="top" width="20%"|'''Users'''<noinclude>
-{{ToDo2}}
-|}</noinclude>

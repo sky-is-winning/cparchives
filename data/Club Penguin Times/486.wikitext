@@ -1,4 +1,0 @@
-{{Newspaper2
-|issue=486
-|date=February 12, 2015
-}}

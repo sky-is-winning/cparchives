@@ -1,2 +1,0 @@
-<table class="shortcutbox noprint" style="float: right; border: 1px solid #aaa; background: #fff; margin: .3em .3em .3em 1em; padding: 3px; text-align: center;"><tr><th style="border: none; background: transparent;">[[File:Archive.png|48px]]<br/>Archives:<br/>
-*None</table>

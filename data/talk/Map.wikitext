@@ -1,4 +1,0 @@
-==Regarding page layout==
-After adding all the missing files to this page, I realise the layout isn't very intuitive. I was wondering if it would be possible to rearrange the layout into something like years at top with parties going down, similar to the [[Parties & Events]] page. I'd like opinions, please, regarding this. - Kikiik
-
-That's most of Archives unfortunately. I believe it could work, I'm just not sure it would be as "fluent" as Parties & Events since decorated maps aren't as frequent as monthly parties. You could try it, if it's unsatisfactory then we can always play with other designs. --[[User:Mario Rk|'''<span class="Xc6" style="color:#FF0000;">Mario Rk</span>''']] <sup>[[User talk:Mario Rk|<span class="Xc6" style="color:#FF0000;">(T)</span>]] [[Special:Contributions/Mario Rk|<span class="Xc6" style="color:#FF0000;">(C)</span>]]</sup> 18:18, 5 August 2018 (UTC)

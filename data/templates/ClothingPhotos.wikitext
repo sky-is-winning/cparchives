@@ -1,7 +1,0 @@
-<center>
-{| width="50%" align="center" style="background: #0099cc; border: #006699 3px solid; {{roundy|20px}}"
-|- align="center"
-| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:LinedPaperBackgroundCatalog.png|60px|link=]]
-|<big><big>This file is a player card background.</big></big><br><small>This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</small>
-|}</center><includeonly>[[Category:Backgrounds|{{PAGENAME}}]]</includeonly>
-<noinclude>[[Category:Templates]]</noinclude>
