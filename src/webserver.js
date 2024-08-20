@@ -45,7 +45,7 @@ export default class WebServer {
 
                 let contentType = mime.lookup(request.url) || "text/html";
 
-                if (request.url.startsWith("/static") || (request.url.startsWith("/images") && !request.url.includes("thumb")) || request.includes(".php")) {
+                if (request.url.startsWith("/static") || (request.url.startsWith("/images") && !request.url.includes("thumb")) || request.url.includes(".php")) {
                     response.writeHead(302, {
                         "Content-Type": contentType,
                         Location: "https://archives-mw.skyiswinni.ng" + request.url.replaceAll("/static", "").replaceAll("/archives", ""),
