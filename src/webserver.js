@@ -2,6 +2,7 @@ import http from "http";
 import https from "https"; // To make HTTPS requests
 import fs from "fs"; // To write to disk
 import { EventEmitter } from "events";
+import mime from "mime-types";
 
 const PORT = process.argv[2] || 80;
 const ARCHIVES_WIKI_URL = "https://archives-mw.skyiswinni.ng/";
@@ -42,45 +43,56 @@ export default class WebServer {
                     request.url = request.url.replace("wiki/", "");
                 }
 
-                let url = request.url.startsWith("/archives") ? request.url.substring(1) : "archives"  + request.url
-                SPECIAL_CHAR_REPLACERS.forEach(([char, replacer]) => {
-                    url = url.replaceAll(char, replacer);
-                });
+                let contentType = mime.lookup(request.url) || "text/html";
 
-                if (!url.split("/").pop().includes(".")) {
-                    url += ".html";
-                }
+                if (request.url.startsWith("/static") || (request.url.startsWith("/images") && !request.url.includes("thumb"))) {
+                    response.writeHead(302, {
+                        "Content-Type": contentType,
+                        Location: "https://archives-mw.skyiswinni.ng" + request.url.replaceAll("/static", "").replaceAll("/archives", ""),
+                    });
+                    response.end();
+                } else {
 
-                console.info(`Request for ${request.url} (file: ${url})`);
-
-                if (this.cache[request.url]) {
-                    response.writeHead(200, { "Content-Type": "text/html" });
-                    response.end(this.cache[request.url]);
-
-                    this.checkForStalePage(request.url);
-                } else if (fs.existsSync(url)) {
-                    fs.readFile(url, (err, data) => {
-                        if (err) {
-                            response.writeHead(500);
-                            response.end("Sorry, check with the site admin for error: " + err.code + " ..\n");
-                        } else {
-                            response.writeHead(200, { "Content-Type": "text/html" });
-                            response.end(data);
-                        }
+                    let url = request.url.startsWith("/archives") ? request.url.substring(1) : "archives" + request.url
+                    SPECIAL_CHAR_REPLACERS.forEach(([char, replacer]) => {
+                        url = url.replaceAll(char, replacer);
                     });
 
-                    this.checkForStalePage(request.url);
-                } else {
-                    // Try to fetch the page from the wiki
-                    let title = url.split("/").pop().replace(".html", "");
-                    await this.savePageToDisk(title);
+                    if (!url.split("/").pop().includes(".")) {
+                        url += ".html";
+                    }
 
-                    if (this.cache[title]) {
+                    console.info(`Request for ${request.url} (file: ${url})`);
+
+                    if (this.cache[request.url]) {
                         response.writeHead(200, { "Content-Type": "text/html" });
-                        response.end(this.cache[title]);
+                        response.end(this.cache[request.url]);
+
+                        this.checkForStalePage(request.url);
+                    } else if (fs.existsSync(url)) {
+                        fs.readFile(url, (err, data) => {
+                            if (err) {
+                                response.writeHead(500);
+                                response.end("Sorry, check with the site admin for error: " + err.code + " ..\n");
+                            } else {
+                                response.writeHead(200, { "Content-Type": "text/html" });
+                                response.end(data);
+                            }
+                        });
+
+                        this.checkForStalePage(request.url);
                     } else {
-                        response.writeHead(404);
-                        response.end("404 Not Found");
+                        // Try to fetch the page from the wiki
+                        let title = url.split("/").pop().replace(".html", "");
+                        await this.savePageToDisk(title);
+
+                        if (this.cache[title]) {
+                            response.writeHead(200, { "Content-Type": "text/html" });
+                            response.end(this.cache[title]);
+                        } else {
+                            response.writeHead(404);
+                            response.end("404 Not Found");
+                        }
                     }
                 }
 
