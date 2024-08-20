@@ -1,4 +1,0 @@
-{{Newspaper2
-|issue=495
-|date=April 15, 2015
-}}

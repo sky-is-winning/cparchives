@@ -1,5 +1,0 @@
-<div style="background:red;border:5px solid blue;border-radius:20px;font-size:200%;text-align:Center;text-shadow:#ffbf00 0.2em 0.2em 0.2em">
-<u>'''Hello.'''
-
-'''If you want to find me, I'm on the [[fanon:|Fanon]] and the [[oldwiki:|old Club Penguin wiki]].'''</u>
-</div>

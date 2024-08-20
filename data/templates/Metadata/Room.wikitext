@@ -1,1 +1,0 @@
-<includeonly>[[Category:RoomContent/{{{1}}}/{{{2}}}]]</includeonly><noinclude>To be used on all files that were loaded in a room. {{<nowiki />Metadata/Room|party|room}} See [[User:Lisured/Metadata]]</noinclude>

@@ -1,4 +1,0 @@
-{{ambox
-|type=notice
-|text='''{{PAGENAME}} needs a rework!'''<br/>This page does not meet up to our desired standards and is set to be revamped. You can help out by editing the page to improve its presentation or by providing suggestions [[{{TALKPAGENAME}}|on its talk page]].
-}}{{#ifeq:{{NAMESPACE}}| |[[Category:Pages to be reworked]]}}

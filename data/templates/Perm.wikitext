@@ -1,2 +1,0 @@
-----
-[[User:{{{1}}}|{{{1}}}]] ([[Special:Contributions/{{{1}}}|edits]] - [[Special:Log/{{{1}}}|logs]]) (Permission: {{{2}}}) (Reason: {{{3}}})

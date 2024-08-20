@@ -1,9 +1,0 @@
-==Delete File==
-Hi Hat Pop,<br/>
-Can you please delete [http://archives.clubpenguinwiki.info/w/index.php?title=File:22.swf&redirect=no This redirect]? I forgot to rename the target file when uploading, and it isn't used anyway.<br/>
-[[user:Penguin-Pal|<font color="0e92cf">Penguin-Pal</font>]] [[user talk:Penguin-Pal|<font color="2e47aa">(talk)</font>]] 12:10, 10 October 2012 (UTC)
-
-==Bot==
-Hi, I've tried to contact [[clubpenguinwiki:user_talk:Seahorseruler|Seahorseruler]] about this, but he doesn't seem to answer... I've made a new account here to use for massive uploads (I'd like to finish the postcards section, that means upload 2000 files at once) and since there is an option to hide bot contributions at [[Special:RecentChanges]] I'd like it to have the Bot status (and uploader too please)... I've already requested at the perms request page, but [[user:Juca|Juca]] told me, that only Staff can give the Bot status and that Admins can't...  {{user:Misabr/sig2}} 19:58, 2 April 2015 (UTC)
-Sorry, I was stupid again, I did the same mistake when I wrote the request to Seahorseruler... I wanted [[user:MisabrBot]] to have the group changed to bot, not this account, could you please change me back to regular uploader and make [[user:MisabrBot]] a bot instead? Sorry for the inconvenience, I didn't sleep that much in the last days {{user:Misabr/sig2}} 23:17, 2 April 2015 (UTC)
-:Thank you for the bot permission, already did some postcards job with the bot  {{user:Misabr/sig2}} 11:14, 3 April 2015 (UTC)

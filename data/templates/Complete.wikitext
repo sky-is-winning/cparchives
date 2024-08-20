@@ -1,5 +1,0 @@
-<font color=blue>Complete</font><noinclude>
-
-Template for the [[Project:To-do List|To-do list]].
-
-[[Category:Templates|{{PAGENAME}}]]</noinclude>

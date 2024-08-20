@@ -1,5 +1,0 @@
-<font color=red>Stopped</font><noinclude>
-
-Template for the [[Project:To-do List|To-do list]].
-
-[[Category:Templates|{{PAGENAME}}]]</noinclude>

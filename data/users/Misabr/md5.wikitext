@@ -1,9 +1,0 @@
-{|class="wikitable" border="1"
-!File #1!!MD5 of File #1!!File #2!!MD5 of File #2!!Note
-|-
-|[[File:Newspaper107.swf]]||05bd960ce1639fbc815a258fa339ca8a||[[File:News107.swf]]||615c9e9c92a814663c8463613205b9c6||
-|-
-|[[File:RoomsPlaza-Play10.swf]]||ea41472cbb09677ae4c9a3a252631ebc||[[File:PlazaWithFairyFables.swf]]||f0eac0c8e726e1cc1b2b3498248eb557||
-|-
-|[[Media:Blog_110630_en.swf]]||8a4f725cb6ef44fe893ddaa3f2751be3||[[Media:PenguinStyleJul2011.swf]]||81e19fbc2f823eaff65db9f9ae7a9fb8||Note the word JULY on that two catalogs...
-|}

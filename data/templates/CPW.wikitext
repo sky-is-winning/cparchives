@@ -1,1 +1,0 @@
-''Club Penguin Wiki articles: [[clubpenguinwiki:{{{1}}}|English]] {{#if: {{{2|}}} | {{·}} [[ptwiki:{{{2}}}|Português]] | }}''

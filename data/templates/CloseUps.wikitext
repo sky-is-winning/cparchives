@@ -1,8 +1,0 @@
-<center>
-{| width="50%" align="center" style="background: #2E9AFE; border: #0040FF 3px solid; {{roundy|20px}}"
-|- align="center"
-| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | <!-- PLACE IMAGE HERE -->
-|<big><big>This file is a Close Up. </big></big><br><small>This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</small>
-|}</center>
-<includeonly>[[Category:Close Ups|{{PAGENAME}}]]</includeonly>
-<noinclude>[[Category:Templates]]</noinclude>

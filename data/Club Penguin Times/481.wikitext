@@ -1,4 +1,0 @@
-{{Newspaper2
-|issue=481
-|date=January 8, 2015
-}}

@@ -1,1 +1,0 @@
-This category lists all [[Game Configs]]. Those are mostly JSONs and JSONPs.

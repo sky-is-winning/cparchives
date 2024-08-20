@@ -1,5 +1,0 @@
-<center>
-{|class="wikitable"
-!style="background: #ececec;"|''If you want some work to be done from ||[[user:MisabrBot|MisabrBot]], !!style="background: #ececec;"|''then please contact Misabr''||[[user_talk:misabr|here]].''
-|}
-</center>

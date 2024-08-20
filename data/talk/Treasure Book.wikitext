@@ -1,7 +1,0 @@
-==October 2011 and after==
-Please note that the catalogs since October 2011 are based on a container file, that uses other files under one directory (on this casle, ''/play/v2/client/merch/''). It might be possible to make them visible for the readers by creating a new folder in the CPN archive server, and add those files to it. Those are the files:
-*http://media1.clubpenguin.com/play/v2/client/merch/treasurebook.swf
-*http://media1.clubpenguin.com/play/v2/client/merch/views.swf
-*http://media1.clubpenguin.com/play/v2/client/merch/inGameTreasurebookViewer.swf
-I am not sure if they are based on domain detector as well, but i think it worth a try.<br />
-[[user:Penguin-Pal|<font color="0e92cf">Penguin-Pal</font>]] [[user talk:Penguin-Pal|<font color="2e47aa">(talk)</font>]] 13:08, 26 December 2012 (UTC)

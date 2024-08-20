@@ -1,8 +1,0 @@
-* DE = Deutsch (German)
-* EN = English
-* ES = Español (Spanish)
-* FR = Français (French)
-* PT = Português (Portuguese)
-* RU = ру́сский язы́к (Russian)
-
-Also, files without code representing language are probably English.

@@ -1,4 +1,0 @@
-{{Newspaper
-|issue=372
-|date=December 6, 2012
-}}

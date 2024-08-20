@@ -1,5 +1,0 @@
-== Uploader permissions ==
-
-You never lost your uploader permissions to begin with, just to let you know. The server might've just been acting a little off when you tried to upload.
-
---[[User:Mario Rk|'''<span class="Xc6" style="color:#FF0000;">Mario Rk</span>''']] <sup>[[User talk:Mario Rk|<span class="Xc6" style="color:#FF0000;">(T)</span>]] [[Special:Contributions/Mario Rk|<span class="Xc6" style="color:#FF0000;">(C)</span>]]</sup> 04:19, 30 July 2017 (UTC)

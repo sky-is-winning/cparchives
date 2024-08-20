@@ -1,8 +1,0 @@
-<center>
-{| width="50%" align="center" style="background: #D8D8D8; border: #585858 3px solid; {{roundy|20px}}"
-|- align="center"
-| width="40px" height="20px" align="center" style="background: clear; border: clear 3px solid; {{roundy|150px}}" | [[File:Sitenotice.png|60px|link=]]
-|<big><big>This file is from the [[Club Penguin Times]]. </big></big><br><small>This file was from ''Club Penguin''. Our usage of this file is believed to be fair use.</small>
-|}</center>
-<includeonly>[[Category:Club Penguin Times|{{PAGENAME}}]]</includeonly>
-<noinclude>[[Category:Templates]]</noinclude>

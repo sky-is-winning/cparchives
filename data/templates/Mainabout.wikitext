@@ -1,5 +1,0 @@
-'''[[Project:About|Club Penguin Archives]]''' is a site dedicated to preserving ''Club Penguin''<nowiki>'</nowiki>s history by archiving the files that made up the game prior to its closing. {{#ifeq:{{PAGENAME}}|Main Page|This site is a part of the ''[[clubpenguinwiki:|Club Penguin Wiki Network]]''. If you would like to help out by uploading Club Penguin SWF files to our database, you must first create an account, then request uploader rights [[Project:Request permissions|here]]. 
-
-If you use files stored here for your Club Penguin cutouts, private servers, fan sites/blogs, or anything else, we'd really appreciate it if you could put a link to this page on your site or post.
-
-{{Mainnav}}|}}

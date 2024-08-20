@@ -1,1 +1,0 @@
-border-bottom-right-radius: {{{1|10px}}}; -moz-border-radius-bottomright: {{{1|10px}}}; -webkit-border-bottom-right-radius: {{{1|10px}}}; -khtml-border-bottom-right-radius: {{{1|10px}}}; -icab-border-bottom-right-radius: {{{1|10px}}}; -o-border-bottom-right-radius: {{{1|10px}}};<noinclude>[[Category:Templates]]</noinclude>
