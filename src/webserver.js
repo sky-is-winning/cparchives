@@ -17,6 +17,7 @@ const SPECIAL_CHAR_REPLACERS = [
     ["?", "%3F"],
     ["*", "%2A"],
     ["_", " "],
+    ["%20", " "],
 ];
 
 export default class WebServer {
