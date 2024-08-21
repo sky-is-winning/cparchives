@@ -289,6 +289,7 @@ export default class WebServer {
                 res.on('end', () => {
                     try {
                         data = JSON.parse(data)
+                        resolve(data);
                     } catch (error) {
                         console.error("Error parsing JSON:", error);
                         reject(error);
