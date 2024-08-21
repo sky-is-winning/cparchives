@@ -19,6 +19,17 @@ const SPECIAL_CHAR_REPLACERS = [
     ["_", " "],
     ["%20", " "],
 ];
+const redirectCases = {
+    "startsWith": [
+        "/static",
+        "/images",
+    ],
+    "includes": [
+        "thumb",
+        ".php",
+        "Special:"
+    ],
+};
 
 export default class WebServer {
     constructor() {
@@ -45,8 +56,8 @@ export default class WebServer {
                 }
 
                 let contentType = mime.lookup(request.url) || "text/html";
-
-                if (request.url.startsWith("/static") || (request.url.startsWith("/images") && !request.url.includes("thumb")) || request.url.includes(".php")) {
+                
+                if (redirectCases.startsWith.some((str) => request.url.startsWith(str)) || redirectCases.includes.some((str) => request.url.includes(str))) {
                     response.writeHead(302, {
                         "Content-Type": contentType,
                         Location: "https://archives-mw.skyiswinni.ng" + request.url.replaceAll("/static", "").replaceAll("/archives", ""),
