@@ -286,7 +286,12 @@ export default class WebServer {
 
                 // The whole response has been received. Print out the result.
                 res.on('end', () => {
-                    resolve(JSON.parse(data));
+                    try {
+                        data = JSON.parse(data)
+                    } catch (error) {
+                        console.error("Error parsing JSON:", error);
+                        reject(error);
+                    }
                 });
 
             }).on("error", (err) => {
